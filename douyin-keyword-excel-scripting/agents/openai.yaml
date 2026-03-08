@@ -1,0 +1,4 @@
+interface:
+  display_name: "Douyin Keyword Excel"
+  short_description: "Run logged-in Douyin keyword workbook crawl"
+  default_prompt: "Use $douyin-keyword-excel-scripting to crawl Douyin for a keyword and fill a workbook at this Excel path."
