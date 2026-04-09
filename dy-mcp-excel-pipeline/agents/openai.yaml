@@ -1,0 +1,3 @@
+interface:
+  display_name: "Douyin MCP Excel Pipeline"
+  short_description: "Process Excel rows into Douyin or TikTok MCP folders"
