@@ -5,6 +5,7 @@ This repository stores reusable Codex/OpenAI skills.
 ## Included Skills
 
 - `douyin-keyword-excel-scripting`: runs a Douyin keyword search through a logged-in Chrome debug session, captures aweme detail and comments, and writes a filled Excel workbook.
+- `tiktok-mcp-excel-pipeline`: runs a TikTok MCP extraction pipeline for TikTok or Douyin video URLs and writes MCP output folders plus a filled Climate SVP workbook.
 
 ## Notes
 

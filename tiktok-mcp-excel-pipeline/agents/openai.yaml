@@ -1,0 +1,4 @@
+interface:
+  display_name: "TikTok MCP Excel Pipeline"
+  short_description: "TikTok MCP folders and Climate SVP workbook fill"
+  default_prompt: "Use $tiktok-mcp-excel-pipeline to process these TikTok URLs into MCP folders with HD storyboards and filled workbook outputs."
