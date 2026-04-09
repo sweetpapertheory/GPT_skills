@@ -8,13 +8,23 @@ description: Run the TikTok MCP extraction and Excel-filling workflow for one or
 Use the bundled script:
 - `scripts/tiktok_mcp_pipeline.py`
 
+Recommended setup:
+
+```bash
+SKILL_DIR="${SKILL_DIR:-$HOME/.config/opencode/skills/tiktok-mcp-excel-pipeline}"
+TEMPLATE_PATH="/absolute/path/to/Climate_SVP_MCP_Template_transcript_v3.xlsx"
+OUTPUT_ROOT="/absolute/path/to/output-root"
+```
+
+If you installed the skill somewhere else, set `SKILL_DIR` to that location before running the commands below.
+
 ## Run One URL
 
 ```bash
-python /Users/XM/.codex/skills/tiktok-mcp-excel-pipeline/scripts/tiktok_mcp_pipeline.py \
+python "$SKILL_DIR/scripts/tiktok_mcp_pipeline.py" \
   --url "<TIKTOK_URL>" \
-  --template-path "/Users/XM/Desktop/Climate_SVP_MCP_Template_transcript_v3.xlsx" \
-  --output-root "/Users/XM/Desktop/Data/TT data/Data analysis"
+  --template-path "$TEMPLATE_PATH" \
+  --output-root "$OUTPUT_ROOT"
 ```
 
 Default ASR behavior:
@@ -30,20 +40,20 @@ Create a text file with one URL per line, then run:
 ```bash
 while IFS= read -r url; do
   [ -z "$url" ] && continue
-  python /Users/XM/.codex/skills/tiktok-mcp-excel-pipeline/scripts/tiktok_mcp_pipeline.py \
+  python "$SKILL_DIR/scripts/tiktok_mcp_pipeline.py" \
     --url "$url" \
-    --template-path "/Users/XM/Desktop/Climate_SVP_MCP_Template_transcript_v3.xlsx" \
-    --output-root "/Users/XM/Desktop/Data/TT data/Data analysis"
+    --template-path "$TEMPLATE_PATH" \
+    --output-root "$OUTPUT_ROOT"
 done < urls.txt
 ```
 
 Optional ASR override:
 
 ```bash
-python /Users/XM/.codex/skills/tiktok-mcp-excel-pipeline/scripts/tiktok_mcp_pipeline.py \
+python "$SKILL_DIR/scripts/tiktok_mcp_pipeline.py" \
   --url "<TIKTOK_URL>" \
-  --template-path "/Users/XM/Desktop/Climate_SVP_MCP_Template_transcript_v3.xlsx" \
-  --output-root "/Users/XM/Desktop/Data/TT data/Data analysis" \
+  --template-path "$TEMPLATE_PATH" \
+  --output-root "$OUTPUT_ROOT" \
   --asr-backend whisper-cli \
   --whisper-cli-model turbo
 ```
@@ -53,10 +63,10 @@ Long-audio speed override:
 Use this when the source audio is long and faster turnaround matters more than maximum transcript quality.
 
 ```bash
-python /Users/XM/.codex/skills/tiktok-mcp-excel-pipeline/scripts/tiktok_mcp_pipeline.py \
+python "$SKILL_DIR/scripts/tiktok_mcp_pipeline.py" \
   --url "<TIKTOK_URL>" \
-  --template-path "/Users/XM/Desktop/Climate_SVP_MCP_Template_transcript_v3.xlsx" \
-  --output-root "/Users/XM/Desktop/Data/TT data/Data analysis" \
+  --template-path "$TEMPLATE_PATH" \
+  --output-root "$OUTPUT_ROOT" \
   --asr-backend whisper-cli \
   --whisper-cli-model tiny
 ```
@@ -93,7 +103,11 @@ Default behavior:
 If JPG storyboards are needed:
 
 ```bash
-python /Users/XM/.codex/skills/tiktok-mcp-excel-pipeline/scripts/tiktok_mcp_pipeline.py ... --keep-jpg-storyboards
+python "$SKILL_DIR/scripts/tiktok_mcp_pipeline.py" \
+  --url "<TIKTOK_URL>" \
+  --template-path "$TEMPLATE_PATH" \
+  --output-root "$OUTPUT_ROOT" \
+  --keep-jpg-storyboards
 ```
 
 ## Temporary File Policy
@@ -109,19 +123,24 @@ If the URL cannot be accessed/downloaded, the run fails without writing a partia
 List generated files for one video ID:
 
 ```bash
-ls -1 "/Users/XM/Desktop/Data/TT data/Data analysis/tiktok_<videoid>_mcp"
+ls -1 "$OUTPUT_ROOT/tiktok_<videoid>_mcp"
 ```
 
 Check `Summary_Card!B3`:
 
 ```bash
-python - <<'PY'
+python - "$OUTPUT_ROOT" <<'PY'
 from openpyxl import load_workbook
 from pathlib import Path
+import sys
+
 video_id = "<videoid>"
-base = Path('/Users/XM/Desktop/Data/TT data/Data analysis') / f'tiktok_{video_id}_mcp'
-wb = load_workbook(base / f'Climate_SVP_MCP_{video_id}_transcript_v3_filled.xlsx', data_only=True)
-print(wb['Summary_Card']['B3'].value)
+output_root = Path(sys.argv[1])
+wb = load_workbook(
+    output_root / f"tiktok_{video_id}_mcp" / f"Climate_SVP_MCP_{video_id}_transcript_v3_filled.xlsx",
+    data_only=True,
+)
+print(wb["Summary_Card"]["B3"].value)
 PY
 ```
 
