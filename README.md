@@ -7,6 +7,7 @@ This repository stores reusable Codex/OpenAI skills.
 - `douyin-keyword-excel-scripting`: runs a Douyin keyword search through a logged-in Chrome debug session, captures aweme detail and comments, and writes a filled Excel workbook.
 - `dy-mcp-excel-pipeline`: processes Douyin or TikTok URLs from Excel rows into MCP output folders and filled Climate SVP workbooks.
 - `tiktok-mcp-excel-pipeline`: runs a TikTok MCP extraction pipeline for TikTok or Douyin video URLs and writes MCP output folders plus a filled Climate SVP workbook.
+- `plain-publication-writing`: rewrites English academic publication text into plain, simple prose with basic transition words, no dashes or italics, and clear logical connections.
 
 ## Notes
 

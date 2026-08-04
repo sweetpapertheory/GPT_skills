@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plain Publication Writing"
+  short_description: "Plain, simple English for academic publication writing"
+  default_prompt: "Use $plain-publication-writing to rewrite my manuscript section into plain, simple English with basic transition words."
