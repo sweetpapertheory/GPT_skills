@@ -1,0 +1,92 @@
+{
+  "language": "en",
+  "language_probability": 0.9973496198654175,
+  "duration": 36.803,
+  "duration_after_vad": 36.7,
+  "segment_count": 10,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.4,
+      "text": "So we're here quite literally at the center of the universe, at least as JPL describes it.",
+      "avg_logprob": -0.17144049344850437,
+      "no_speech_prob": 0.03644881024956703
+    },
+    {
+      "id": 2,
+      "start": 5.4,
+      "end": 8.9,
+      "text": "And we're here learning more about the research and work that's being done",
+      "avg_logprob": -0.17144049344850437,
+      "no_speech_prob": 0.03644881024956703
+    },
+    {
+      "id": 3,
+      "start": 8.9,
+      "end": 13.4,
+      "text": "with the resources that the state has provided to create a constellation of satellites",
+      "avg_logprob": -0.17144049344850437,
+      "no_speech_prob": 0.03644881024956703
+    },
+    {
+      "id": 4,
+      "start": 13.4,
+      "end": 16.9,
+      "text": "particularly focused on planet Earth as it relates to climate change.",
+      "avg_logprob": -0.17144049344850437,
+      "no_speech_prob": 0.03644881024956703
+    },
+    {
+      "id": 5,
+      "start": 16.9,
+      "end": 21.3,
+      "text": "And we'll be able to map globally the invisible methane emissions, dairy emissions,",
+      "avg_logprob": -0.17144049344850437,
+      "no_speech_prob": 0.03644881024956703
+    },
+    {
+      "id": 6,
+      "start": 21.3,
+      "end": 23.8,
+      "text": "oil and gas emissions, landfill emissions.",
+      "avg_logprob": -0.17144049344850437,
+      "no_speech_prob": 0.03644881024956703
+    },
+    {
+      "id": 7,
+      "start": 23.8,
+      "end": 26.9,
+      "text": "These are the emissions that are 84 times more potent",
+      "avg_logprob": -0.17144049344850437,
+      "no_speech_prob": 0.03644881024956703
+    },
+    {
+      "id": 8,
+      "start": 26.9,
+      "end": 29.8,
+      "text": "than the emissions that we tend to disproportionately focus on.",
+      "avg_logprob": -0.16265678583156495,
+      "no_speech_prob": 0.005534404888749123
+    },
+    {
+      "id": 9,
+      "start": 29.8,
+      "end": 32.7,
+      "text": "This is a game changer and of course not surprisingly,",
+      "avg_logprob": -0.16265678583156495,
+      "no_speech_prob": 0.005534404888749123
+    },
+    {
+      "id": 10,
+      "start": 32.7,
+      "end": 36.7,
+      "text": "the game is being changed every single day here at JPL.",
+      "avg_logprob": -0.16265678583156495,
+      "no_speech_prob": 0.005534404888749123
+    }
+  ],
+  "transcript_full": "So we're here quite literally at the center of the universe, at least as JPL describes it. And we're here learning more about the research and work that's being done with the resources that the state has provided to create a constellation of satellites particularly focused on planet Earth as it relates to climate change. And we'll be able to map globally the invisible methane emissions, dairy emissions, oil and gas emissions, landfill emissions. These are the emissions that are 84 times more potent than the emissions that we tend to disproportionately focus on. This is a game changer and of course not surprisingly, the game is being changed every single day here at JPL.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
