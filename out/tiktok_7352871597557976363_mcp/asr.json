@@ -1,0 +1,116 @@
+{
+  "language": "en",
+  "language_probability": 0.9713340401649475,
+  "duration": 73.067,
+  "duration_after_vad": 73.16,
+  "segment_count": 13,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 17.62,
+      "text": "We had an eruption, but this is an emergency.",
+      "avg_logprob": -0.2394532080067963,
+      "no_speech_prob": 0.2693447768688202
+    },
+    {
+      "id": 2,
+      "start": 17.62,
+      "end": 18.62,
+      "text": "It's killing us.",
+      "avg_logprob": -0.2394532080067963,
+      "no_speech_prob": 0.2693447768688202
+    },
+    {
+      "id": 3,
+      "start": 18.62,
+      "end": 19.62,
+      "text": "It's killing the earth.",
+      "avg_logprob": -0.2394532080067963,
+      "no_speech_prob": 0.2693447768688202
+    },
+    {
+      "id": 4,
+      "start": 19.62,
+      "end": 25.91,
+      "text": "We need to change.",
+      "avg_logprob": -0.2394532080067963,
+      "no_speech_prob": 0.2693447768688202
+    },
+    {
+      "id": 5,
+      "start": 25.91,
+      "end": 28.91,
+      "text": "There's another way.",
+      "avg_logprob": -0.2394532080067963,
+      "no_speech_prob": 0.2693447768688202
+    },
+    {
+      "id": 6,
+      "start": 28.91,
+      "end": 30.91,
+      "text": "No cars on a death planet.",
+      "avg_logprob": -0.2394532080067963,
+      "no_speech_prob": 0.2693447768688202
+    },
+    {
+      "id": 7,
+      "start": 30.91,
+      "end": 59.16,
+      "text": "No cars on a death planet.",
+      "avg_logprob": -0.2394532080067963,
+      "no_speech_prob": 0.2693447768688202
+    },
+    {
+      "id": 8,
+      "start": 59.16,
+      "end": 60.16,
+      "text": "It's against humanity.",
+      "avg_logprob": -0.2394532080067963,
+      "no_speech_prob": 0.2693447768688202
+    },
+    {
+      "id": 9,
+      "start": 60.16,
+      "end": 62.16,
+      "text": "You want to cover up your crimes?",
+      "avg_logprob": -0.2394532080067963,
+      "no_speech_prob": 0.2693447768688202
+    },
+    {
+      "id": 10,
+      "start": 62.16,
+      "end": 65.16,
+      "text": "We're not going to let you cover up your crimes.",
+      "avg_logprob": -0.2394532080067963,
+      "no_speech_prob": 0.2693447768688202
+    },
+    {
+      "id": 11,
+      "start": 65.16,
+      "end": 67.16,
+      "text": "What about the crime you just committed?",
+      "avg_logprob": -0.2394532080067963,
+      "no_speech_prob": 0.2693447768688202
+    },
+    {
+      "id": 12,
+      "start": 67.16,
+      "end": 70.16,
+      "text": "The crime of telling the truth?",
+      "avg_logprob": -0.2394532080067963,
+      "no_speech_prob": 0.2693447768688202
+    },
+    {
+      "id": 13,
+      "start": 70.16,
+      "end": 73.16,
+      "text": "What is the truth of the crime?",
+      "avg_logprob": -0.2394532080067963,
+      "no_speech_prob": 0.2693447768688202
+    }
+  ],
+  "transcript_full": "We had an eruption, but this is an emergency. It's killing us. It's killing the earth. We need to change. There's another way. No cars on a death planet. No cars on a death planet. It's against humanity. You want to cover up your crimes? We're not going to let you cover up your crimes. What about the crime you just committed? The crime of telling the truth? What is the truth of the crime?",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
