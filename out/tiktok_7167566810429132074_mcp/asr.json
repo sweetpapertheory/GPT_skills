@@ -1,0 +1,36 @@
+{
+  "language": "en",
+  "language_probability": 0.9382619857788086,
+  "duration": 50.246,
+  "duration_after_vad": 24.04,
+  "segment_count": 3,
+  "segments": [
+    {
+      "id": 1,
+      "start": 12.85,
+      "end": 16.85,
+      "text": "Never been safe, wouldn't ever come closer",
+      "avg_logprob": -0.3614337516553474,
+      "no_speech_prob": 0.17784422636032104
+    },
+    {
+      "id": 2,
+      "start": 16.85,
+      "end": 22.9,
+      "text": "Another year down and another year older",
+      "avg_logprob": -0.3614337516553474,
+      "no_speech_prob": 0.17784422636032104
+    },
+    {
+      "id": 3,
+      "start": 22.9,
+      "end": 36.89,
+      "text": "A million fresh starts, what I needed was closure",
+      "avg_logprob": -0.3614337516553474,
+      "no_speech_prob": 0.17784422636032104
+    }
+  ],
+  "transcript_full": "Never been safe, wouldn't ever come closer Another year down and another year older A million fresh starts, what I needed was closure",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

@@ -1,0 +1,116 @@
+{
+  "language": "en",
+  "language_probability": 0.9500473141670227,
+  "duration": 73.5,
+  "duration_after_vad": 71.0,
+  "segment_count": 13,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.0,
+      "text": "You're at a time when Europe is on fire. Here is a little glimmer of hope.",
+      "avg_logprob": -0.12240946036246088,
+      "no_speech_prob": 0.49422386288642883
+    },
+    {
+      "id": 2,
+      "start": 6.0,
+      "end": 12.0,
+      "text": "This is the first time in 2,000 years that bison have freely roamed in the UK.",
+      "avg_logprob": -0.12240946036246088,
+      "no_speech_prob": 0.49422386288642883
+    },
+    {
+      "id": 3,
+      "start": 12.0,
+      "end": 20.0,
+      "text": "These three female bison have been released into the wild in Canterbury in the hopes of tackling climate change.",
+      "avg_logprob": -0.12240946036246088,
+      "no_speech_prob": 0.49422386288642883
+    },
+    {
+      "id": 4,
+      "start": 20.0,
+      "end": 25.0,
+      "text": "The bison will begin their journey in one carefully managed area of the forest.",
+      "avg_logprob": -0.12240946036246088,
+      "no_speech_prob": 0.49422386288642883
+    },
+    {
+      "id": 5,
+      "start": 25.0,
+      "end": 31.0,
+      "text": "In just a few months the three bison that we've seen will be right here in this ancient woodland.",
+      "avg_logprob": -0.12647168308496476,
+      "no_speech_prob": 0.02920650877058506
+    },
+    {
+      "id": 6,
+      "start": 31.0,
+      "end": 36.0,
+      "text": "It's part of 200 hectares of the West Blean and Thornden woods that they'll be calling their home.",
+      "avg_logprob": -0.12647168308496476,
+      "no_speech_prob": 0.02920650877058506
+    },
+    {
+      "id": 7,
+      "start": 36.0,
+      "end": 40.0,
+      "text": "The woodland provides them with vegetation for food, shade and shelter",
+      "avg_logprob": -0.12647168308496476,
+      "no_speech_prob": 0.02920650877058506
+    },
+    {
+      "id": 8,
+      "start": 40.0,
+      "end": 47.0,
+      "text": "and the bison intern will work as natural environmental engineers sustaining the biodiversity of the forest.",
+      "avg_logprob": -0.12647168308496476,
+      "no_speech_prob": 0.02920650877058506
+    },
+    {
+      "id": 9,
+      "start": 47.0,
+      "end": 50.0,
+      "text": "Their job is really to restore the environment.",
+      "avg_logprob": -0.12647168308496476,
+      "no_speech_prob": 0.02920650877058506
+    },
+    {
+      "id": 10,
+      "start": 50.0,
+      "end": 56.0,
+      "text": "It's really important that we can look at how to reverse biodiversity loss across the UK.",
+      "avg_logprob": -0.1540688934264245,
+      "no_speech_prob": 0.29862529039382935
+    },
+    {
+      "id": 11,
+      "start": 56.0,
+      "end": 61.0,
+      "text": "Bison being an eco-engineer and ecosystem engineer is an animal that can adapt the landscape.",
+      "avg_logprob": -0.1540688934264245,
+      "no_speech_prob": 0.29862529039382935
+    },
+    {
+      "id": 12,
+      "start": 61.0,
+      "end": 69.0,
+      "text": "They dust bathe, they disperse seeds and they shed their fur creating an amazing biodiversity ecosystem.",
+      "avg_logprob": -0.1540688934264245,
+      "no_speech_prob": 0.29862529039382935
+    },
+    {
+      "id": 13,
+      "start": 69.0,
+      "end": 71.0,
+      "text": "So a really important species for this habitat.",
+      "avg_logprob": -0.1540688934264245,
+      "no_speech_prob": 0.29862529039382935
+    }
+  ],
+  "transcript_full": "You're at a time when Europe is on fire. Here is a little glimmer of hope. This is the first time in 2,000 years that bison have freely roamed in the UK. These three female bison have been released into the wild in Canterbury in the hopes of tackling climate change. The bison will begin their journey in one carefully managed area of the forest. In just a few months the three bison that we've seen will be right here in this ancient woodland. It's part of 200 hectares of the West Blean and Thornden woods that they'll be calling their home. The woodland provides them with vegetation for food, shade and shelter and the bison intern will work as natural environmental engineers sustaining the biodiversity of the forest. Their job is really to restore the environment. It's really important that we can look at how to reverse biodiversity loss across the UK. Bison being an eco-engineer and ecosystem engineer is an animal that can adapt the landscape. They dust bathe, they disperse seeds and they shed their fur creating an amazing biodiversity ecosystem. So a really important species for this habitat.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
