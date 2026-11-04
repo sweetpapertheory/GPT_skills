@@ -1,0 +1,36 @@
+{
+  "language": "en",
+  "language_probability": 0.9933288097381592,
+  "duration": 8.467,
+  "duration_after_vad": 8.32,
+  "segment_count": 3,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.72,
+      "text": "Today was the hottest day ever recorded in the UK.",
+      "avg_logprob": -0.21880606325661264,
+      "no_speech_prob": 0.0254929568618536
+    },
+    {
+      "id": 2,
+      "start": 2.72,
+      "end": 6.16,
+      "text": "It was 104.3 degrees Fahrenheit at Heathrow Airport,",
+      "avg_logprob": -0.21880606325661264,
+      "no_speech_prob": 0.0254929568618536
+    },
+    {
+      "id": 3,
+      "start": 6.16,
+      "end": 8.32,
+      "text": "and much of the UK doesn't have air conditioning.",
+      "avg_logprob": -0.21880606325661264,
+      "no_speech_prob": 0.0254929568618536
+    }
+  ],
+  "transcript_full": "Today was the hottest day ever recorded in the UK. It was 104.3 degrees Fahrenheit at Heathrow Airport, and much of the UK doesn't have air conditioning.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
