@@ -1,0 +1,60 @@
+frame:0    pts:512     pts_time:0.0333333
+lavfi.scene_score=0.257512
+frame:1    pts:41472   pts_time:2.7
+lavfi.scene_score=0.439244
+frame:2    pts:41984   pts_time:2.73333
+lavfi.scene_score=0.116018
+frame:3    pts:70144   pts_time:4.56667
+lavfi.scene_score=0.469714
+frame:4    pts:113664  pts_time:7.4
+lavfi.scene_score=0.845052
+frame:5    pts:114176  pts_time:7.43333
+lavfi.scene_score=0.149380
+frame:6    pts:157184  pts_time:10.2333
+lavfi.scene_score=0.487164
+frame:7    pts:207360  pts_time:13.5
+lavfi.scene_score=0.672447
+frame:8    pts:207872  pts_time:13.5333
+lavfi.scene_score=0.209249
+frame:9    pts:248832  pts_time:16.2
+lavfi.scene_score=0.326059
+frame:10   pts:249344  pts_time:16.2333
+lavfi.scene_score=0.138263
+frame:11   pts:294912  pts_time:19.2
+lavfi.scene_score=0.480929
+frame:12   pts:326144  pts_time:21.2333
+lavfi.scene_score=0.345182
+frame:13   pts:326656  pts_time:21.2667
+lavfi.scene_score=0.167220
+frame:14   pts:364544  pts_time:23.7333
+lavfi.scene_score=0.288143
+frame:15   pts:365056  pts_time:23.7667
+lavfi.scene_score=0.196150
+frame:16   pts:400384  pts_time:26.0667
+lavfi.scene_score=0.176171
+frame:17   pts:430080  pts_time:28
+lavfi.scene_score=0.153280
+frame:18   pts:455168  pts_time:29.6333
+lavfi.scene_score=0.409260
+frame:19   pts:518656  pts_time:33.7667
+lavfi.scene_score=0.312989
+frame:20   pts:573952  pts_time:37.3667
+lavfi.scene_score=0.694736
+frame:21   pts:574464  pts_time:37.4
+lavfi.scene_score=0.234577
+frame:22   pts:642048  pts_time:41.8
+lavfi.scene_score=0.464188
+frame:23   pts:642560  pts_time:41.8333
+lavfi.scene_score=0.236068
+frame:24   pts:694784  pts_time:45.2333
+lavfi.scene_score=0.347982
+frame:25   pts:754176  pts_time:49.1
+lavfi.scene_score=0.814547
+frame:26   pts:776192  pts_time:50.5333
+lavfi.scene_score=0.629361
+frame:27   pts:798720  pts_time:52
+lavfi.scene_score=0.481995
+frame:28   pts:850944  pts_time:55.4
+lavfi.scene_score=0.311608
+frame:29   pts:905728  pts_time:58.9667
+lavfi.scene_score=0.617394
