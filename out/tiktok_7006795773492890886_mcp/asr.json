@@ -1,0 +1,100 @@
+{
+  "language": "en",
+  "language_probability": 0.9944705963134766,
+  "duration": 57.1,
+  "duration_after_vad": 53.6,
+  "segment_count": 11,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.12,
+      "text": "In terms of climate change, that earthquake that just happened in Mexico, the 7.0 earthquake,",
+      "avg_logprob": -0.08893309443913124,
+      "no_speech_prob": 0.077521912753582
+    },
+    {
+      "id": 2,
+      "start": 7.12,
+      "end": 11.84,
+      "text": "just marked it permanently. We're going to see bigger earthquakes from now on. We're going to see",
+      "avg_logprob": -0.08893309443913124,
+      "no_speech_prob": 0.077521912753582
+    },
+    {
+      "id": 3,
+      "start": 11.84,
+      "end": 16.32,
+      "text": "bigger hurricanes from now on. We're going to see bigger storms from now on, bigger floods,",
+      "avg_logprob": -0.08893309443913124,
+      "no_speech_prob": 0.077521912753582
+    },
+    {
+      "id": 4,
+      "start": 16.32,
+      "end": 21.92,
+      "text": "bigger tsunamis, bigger everything. If you don't believe in climate change,",
+      "avg_logprob": -0.08893309443913124,
+      "no_speech_prob": 0.077521912753582
+    },
+    {
+      "id": 5,
+      "start": 21.92,
+      "end": 26.64,
+      "text": "I promise you you will start believing it very soon. And one of the things that I'm",
+      "avg_logprob": -0.08893309443913124,
+      "no_speech_prob": 0.077521912753582
+    },
+    {
+      "id": 6,
+      "start": 26.64,
+      "end": 33.28,
+      "text": "seeing is a historical earthquake, 10 points something to close to an 11 point something.",
+      "avg_logprob": -0.09129189241916762,
+      "no_speech_prob": 0.10705254226922989
+    },
+    {
+      "id": 7,
+      "start": 33.28,
+      "end": 37.36,
+      "text": "That's how strong this is looking. And it's somewhere around the world. I don't know exactly",
+      "avg_logprob": -0.09129189241916762,
+      "no_speech_prob": 0.10705254226922989
+    },
+    {
+      "id": 8,
+      "start": 37.36,
+      "end": 41.92,
+      "text": "where it's at. I just know I see it. I see tsunamis almost like if they're heading towards",
+      "avg_logprob": -0.09129189241916762,
+      "no_speech_prob": 0.10705254226922989
+    },
+    {
+      "id": 9,
+      "start": 41.92,
+      "end": 46.24,
+      "text": "everywhere at the same time because of this earthquake. So if you don't believe in climate change,",
+      "avg_logprob": -0.09129189241916762,
+      "no_speech_prob": 0.10705254226922989
+    },
+    {
+      "id": 10,
+      "start": 49.6,
+      "end": 54.4,
+      "text": "climate is going to continue to humble us and remind us that we are only human",
+      "avg_logprob": -0.09129189241916762,
+      "no_speech_prob": 0.10705254226922989
+    },
+    {
+      "id": 11,
+      "start": 54.4,
+      "end": 56.96,
+      "text": "and that we should be humble.",
+      "avg_logprob": -0.4285782426595688,
+      "no_speech_prob": 0.030974820256233215
+    }
+  ],
+  "transcript_full": "In terms of climate change, that earthquake that just happened in Mexico, the 7.0 earthquake, just marked it permanently. We're going to see bigger earthquakes from now on. We're going to see bigger hurricanes from now on. We're going to see bigger storms from now on, bigger floods, bigger tsunamis, bigger everything. If you don't believe in climate change, I promise you you will start believing it very soon. And one of the things that I'm seeing is a historical earthquake, 10 points something to close to an 11 point something. That's how strong this is looking. And it's somewhere around the world. I don't know exactly where it's at. I just know I see it. I see tsunamis almost like if they're heading towards everywhere at the same time because of this earthquake. So if you don't believe in climate change, climate is going to continue to humble us and remind us that we are only human and that we should be humble.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
