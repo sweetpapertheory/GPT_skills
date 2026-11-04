@@ -1,0 +1,228 @@
+{
+  "language": "en",
+  "language_probability": 0.9998836517333984,
+  "duration": 53.2,
+  "duration_after_vad": 53.12,
+  "segment_count": 27,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.24,
+      "text": "Did you know the Rio Grande River ran dry this week?",
+      "avg_logprob": -0.10178180769750267,
+      "no_speech_prob": 0.0020263518672436476
+    },
+    {
+      "id": 2,
+      "start": 2.24,
+      "end": 3.7,
+      "text": "For the first time in 40 years,",
+      "avg_logprob": -0.10178180769750267,
+      "no_speech_prob": 0.0020263518672436476
+    },
+    {
+      "id": 3,
+      "start": 3.7,
+      "end": 6.68,
+      "text": "you could literally walk across the riverbed in Albuquerque.",
+      "avg_logprob": -0.10178180769750267,
+      "no_speech_prob": 0.0020263518672436476
+    },
+    {
+      "id": 4,
+      "start": 6.68,
+      "end": 8.86,
+      "text": "This is happening because of a combination of drought",
+      "avg_logprob": -0.10178180769750267,
+      "no_speech_prob": 0.0020263518672436476
+    },
+    {
+      "id": 5,
+      "start": 8.86,
+      "end": 11.0,
+      "text": "and overuse for irrigated agriculture.",
+      "avg_logprob": -0.10178180769750267,
+      "no_speech_prob": 0.0020263518672436476
+    },
+    {
+      "id": 6,
+      "start": 11.0,
+      "end": 13.96,
+      "text": "The Rio Grande frequently dries up downstream in Texas",
+      "avg_logprob": -0.10178180769750267,
+      "no_speech_prob": 0.0020263518672436476
+    },
+    {
+      "id": 7,
+      "start": 13.96,
+      "end": 15.2,
+      "text": "like it did back in April,",
+      "avg_logprob": -0.10178180769750267,
+      "no_speech_prob": 0.0020263518672436476
+    },
+    {
+      "id": 8,
+      "start": 15.2,
+      "end": 17.36,
+      "text": "but it doesn't normally happen that far upstream.",
+      "avg_logprob": -0.10178180769750267,
+      "no_speech_prob": 0.0020263518672436476
+    },
+    {
+      "id": 9,
+      "start": 17.36,
+      "end": 18.96,
+      "text": "Recently, people have been acknowledging",
+      "avg_logprob": -0.10178180769750267,
+      "no_speech_prob": 0.0020263518672436476
+    },
+    {
+      "id": 10,
+      "start": 18.96,
+      "end": 20.24,
+      "text": "that centuries-old water rights",
+      "avg_logprob": -0.10178180769750267,
+      "no_speech_prob": 0.0020263518672436476
+    },
+    {
+      "id": 11,
+      "start": 20.24,
+      "end": 22.16,
+      "text": "and increasing eridification in the area",
+      "avg_logprob": -0.10178180769750267,
+      "no_speech_prob": 0.0020263518672436476
+    },
+    {
+      "id": 12,
+      "start": 22.16,
+      "end": 24.16,
+      "text": "means that the river may not consistently flow",
+      "avg_logprob": -0.10178180769750267,
+      "no_speech_prob": 0.0020263518672436476
+    },
+    {
+      "id": 13,
+      "start": 24.16,
+      "end": 26.48,
+      "text": "through certain communities ever again.",
+      "avg_logprob": -0.10178180769750267,
+      "no_speech_prob": 0.0020263518672436476
+    },
+    {
+      "id": 14,
+      "start": 26.48,
+      "end": 27.96,
+      "text": "This report released in early June",
+      "avg_logprob": -0.10178180769750267,
+      "no_speech_prob": 0.0020263518672436476
+    },
+    {
+      "id": 15,
+      "start": 27.96,
+      "end": 29.96,
+      "text": "calls it the vanishing Rio Grande.",
+      "avg_logprob": -0.10178180769750267,
+      "no_speech_prob": 0.0020263518672436476
+    },
+    {
+      "id": 16,
+      "start": 29.96,
+      "end": 31.92,
+      "text": "It explains how the river's been long-impacted",
+      "avg_logprob": -0.14945145586474998,
+      "no_speech_prob": 0.00033337666536681354
+    },
+    {
+      "id": 17,
+      "start": 31.92,
+      "end": 33.68,
+      "text": "by increasing irrigation demands,",
+      "avg_logprob": -0.14945145586474998,
+      "no_speech_prob": 0.00033337666536681354
+    },
+    {
+      "id": 18,
+      "start": 33.68,
+      "end": 36.64,
+      "text": "but increasing temperatures and decreasing precipitation",
+      "avg_logprob": -0.14945145586474998,
+      "no_speech_prob": 0.00033337666536681354
+    },
+    {
+      "id": 19,
+      "start": 36.64,
+      "end": 38.68,
+      "text": "only exacerbate those concerns,",
+      "avg_logprob": -0.14945145586474998,
+      "no_speech_prob": 0.00033337666536681354
+    },
+    {
+      "id": 20,
+      "start": 38.68,
+      "end": 40.86,
+      "text": "which is really scary because according to NASA,",
+      "avg_logprob": -0.14945145586474998,
+      "no_speech_prob": 0.00033337666536681354
+    },
+    {
+      "id": 21,
+      "start": 40.86,
+      "end": 43.48,
+      "text": "the area could warm by nine and a half degrees Fahrenheit",
+      "avg_logprob": -0.14945145586474998,
+      "no_speech_prob": 0.00033337666536681354
+    },
+    {
+      "id": 22,
+      "start": 43.48,
+      "end": 44.68,
+      "text": "by the end of the century.",
+      "avg_logprob": -0.14945145586474998,
+      "no_speech_prob": 0.00033337666536681354
+    },
+    {
+      "id": 23,
+      "start": 44.68,
+      "end": 47.04,
+      "text": "In Colorado, it's predicted to lose half its snowpack",
+      "avg_logprob": -0.14945145586474998,
+      "no_speech_prob": 0.00033337666536681354
+    },
+    {
+      "id": 24,
+      "start": 47.04,
+      "end": 47.88,
+      "text": "by 2080.",
+      "avg_logprob": -0.14945145586474998,
+      "no_speech_prob": 0.00033337666536681354
+    },
+    {
+      "id": 25,
+      "start": 47.88,
+      "end": 50.04,
+      "text": "The San Juan Mountains, where the Rio Grande originates,",
+      "avg_logprob": -0.14945145586474998,
+      "no_speech_prob": 0.00033337666536681354
+    },
+    {
+      "id": 26,
+      "start": 50.04,
+      "end": 51.72,
+      "text": "are supposed to be impacted the worst",
+      "avg_logprob": -0.14945145586474998,
+      "no_speech_prob": 0.00033337666536681354
+    },
+    {
+      "id": 27,
+      "start": 51.72,
+      "end": 53.12,
+      "text": "out of all of Colorado.",
+      "avg_logprob": -0.14945145586474998,
+      "no_speech_prob": 0.00033337666536681354
+    }
+  ],
+  "transcript_full": "Did you know the Rio Grande River ran dry this week? For the first time in 40 years, you could literally walk across the riverbed in Albuquerque. This is happening because of a combination of drought and overuse for irrigated agriculture. The Rio Grande frequently dries up downstream in Texas like it did back in April, but it doesn't normally happen that far upstream. Recently, people have been acknowledging that centuries-old water rights and increasing eridification in the area means that the river may not consistently flow through certain communities ever again. This report released in early June calls it the vanishing Rio Grande. It explains how the river's been long-impacted by increasing irrigation demands, but increasing temperatures and decreasing precipitation only exacerbate those concerns, which is really scary because according to NASA, the area could warm by nine and a half degrees Fahrenheit by the end of the century. In Colorado, it's predicted to lose half its snowpack by 2080. The San Juan Mountains, where the Rio Grande originates, are supposed to be impacted the worst out of all of Colorado.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
