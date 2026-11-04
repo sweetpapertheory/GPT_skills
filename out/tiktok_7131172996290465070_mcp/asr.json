@@ -1,0 +1,52 @@
+{
+  "language": "en",
+  "language_probability": 0.9988312125205994,
+  "duration": 25.1,
+  "duration_after_vad": 25.0,
+  "segment_count": 5,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.0,
+      "text": "And finally, on the climate, I wrote the state's strongest climate ordinance, and I got it passed to the city of Miami.",
+      "avg_logprob": -0.1753367434413928,
+      "no_speech_prob": 0.0015876357210800052
+    },
+    {
+      "id": 2,
+      "start": 7.0,
+      "end": 11.0,
+      "text": "One, we declared a climate emergency in the city, very few cities have done that.",
+      "avg_logprob": -0.1753367434413928,
+      "no_speech_prob": 0.0015876357210800052
+    },
+    {
+      "id": 3,
+      "start": 11.0,
+      "end": 14.0,
+      "text": "Two, we set a goal of climate neutral by 2050.",
+      "avg_logprob": -0.1753367434413928,
+      "no_speech_prob": 0.0015876357210800052
+    },
+    {
+      "id": 4,
+      "start": 14.0,
+      "end": 19.0,
+      "text": "And three, I passed an ordinance that would force a thousand towers in the city of Miami to comply",
+      "avg_logprob": -0.1753367434413928,
+      "no_speech_prob": 0.0015876357210800052
+    },
+    {
+      "id": 5,
+      "start": 19.0,
+      "end": 25.0,
+      "text": "by measuring their efficiencies for water electricity every year and investing in improvements every five years.",
+      "avg_logprob": -0.1753367434413928,
+      "no_speech_prob": 0.0015876357210800052
+    }
+  ],
+  "transcript_full": "And finally, on the climate, I wrote the state's strongest climate ordinance, and I got it passed to the city of Miami. One, we declared a climate emergency in the city, very few cities have done that. Two, we set a goal of climate neutral by 2050. And three, I passed an ordinance that would force a thousand towers in the city of Miami to comply by measuring their efficiencies for water electricity every year and investing in improvements every five years.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
