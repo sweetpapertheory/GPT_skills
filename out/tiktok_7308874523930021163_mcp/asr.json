@@ -1,0 +1,28 @@
+{
+  "language": "en",
+  "language_probability": 0.6881558895111084,
+  "duration": 7.867,
+  "duration_after_vad": 6.0,
+  "segment_count": 2,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Find your dreams, I'm true",
+      "avg_logprob": -0.5626640684074826,
+      "no_speech_prob": 0.3026902675628662
+    },
+    {
+      "id": 2,
+      "start": 4.0,
+      "end": 7.0,
+      "text": "And I wonder if you know",
+      "avg_logprob": -0.5626640684074826,
+      "no_speech_prob": 0.3026902675628662
+    }
+  ],
+  "transcript_full": "Find your dreams, I'm true And I wonder if you know",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
