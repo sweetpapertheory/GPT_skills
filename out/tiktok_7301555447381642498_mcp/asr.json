@@ -1,0 +1,100 @@
+{
+  "language": "en",
+  "language_probability": 0.9944847226142883,
+  "duration": 77.418,
+  "duration_after_vad": 76.48,
+  "segment_count": 11,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.6,
+      "text": "Since the 1st of November I haven't had anything to eat and I haven't put anything in my mouth",
+      "avg_logprob": -0.12335093912421441,
+      "no_speech_prob": 0.0016317166155204177
+    },
+    {
+      "id": 2,
+      "start": 7.6,
+      "end": 14.32,
+      "text": "except water or a few teaspoons of salt. I've lost eight and a half kilos already. I'm losing",
+      "avg_logprob": -0.12335093912421441,
+      "no_speech_prob": 0.0016317166155204177
+    },
+    {
+      "id": 3,
+      "start": 14.32,
+      "end": 20.08,
+      "text": "about half a kilo or a bit more a day but I'm willing to do this for as long as I can. I won't",
+      "avg_logprob": -0.12335093912421441,
+      "no_speech_prob": 0.0016317166155204177
+    },
+    {
+      "id": 4,
+      "start": 20.08,
+      "end": 27.68,
+      "text": "give up unless my body does or unless the Australian government make a commitment to real hard",
+      "avg_logprob": -0.12335093912421441,
+      "no_speech_prob": 0.0016317166155204177
+    },
+    {
+      "id": 5,
+      "start": 27.76,
+      "end": 33.2,
+      "text": "climate action. I quit working for the Australian government when I was Australia's ambassador",
+      "avg_logprob": -0.07103469329220909,
+      "no_speech_prob": 0.008215803653001785
+    },
+    {
+      "id": 6,
+      "start": 33.2,
+      "end": 40.96,
+      "text": "to nine countries in West Africa including Senegal where I was expected to promote a massive",
+      "avg_logprob": -0.07103469329220909,
+      "no_speech_prob": 0.008215803653001785
+    },
+    {
+      "id": 7,
+      "start": 40.96,
+      "end": 50.08,
+      "text": "oil and gas project owned by Woodside Energy and I realised that I couldn't live with myself.",
+      "avg_logprob": -0.07103469329220909,
+      "no_speech_prob": 0.008215803653001785
+    },
+    {
+      "id": 8,
+      "start": 50.72,
+      "end": 56.64,
+      "text": "I couldn't do that and look my daughter and my son in the eye and that's why I quit",
+      "avg_logprob": -0.07103469329220909,
+      "no_speech_prob": 0.008215803653001785
+    },
+    {
+      "id": 9,
+      "start": 56.64,
+      "end": 63.52,
+      "text": "and came back to Australia and that's another reason why I'm here on the lawns of Parliament House",
+      "avg_logprob": -0.13034664658886014,
+      "no_speech_prob": 0.010574154555797577
+    },
+    {
+      "id": 10,
+      "start": 63.52,
+      "end": 69.6,
+      "text": "protesting for a safe future for Australia and our children. This is like COVID was it's an",
+      "avg_logprob": -0.13034664658886014,
+      "no_speech_prob": 0.010574154555797577
+    },
+    {
+      "id": 11,
+      "start": 69.6,
+      "end": 77.2,
+      "text": "emergency it's a climate emergency and we need our leaders to act like it's an emergency.",
+      "avg_logprob": -0.13034664658886014,
+      "no_speech_prob": 0.010574154555797577
+    }
+  ],
+  "transcript_full": "Since the 1st of November I haven't had anything to eat and I haven't put anything in my mouth except water or a few teaspoons of salt. I've lost eight and a half kilos already. I'm losing about half a kilo or a bit more a day but I'm willing to do this for as long as I can. I won't give up unless my body does or unless the Australian government make a commitment to real hard climate action. I quit working for the Australian government when I was Australia's ambassador to nine countries in West Africa including Senegal where I was expected to promote a massive oil and gas project owned by Woodside Energy and I realised that I couldn't live with myself. I couldn't do that and look my daughter and my son in the eye and that's why I quit and came back to Australia and that's another reason why I'm here on the lawns of Parliament House protesting for a safe future for Australia and our children. This is like COVID was it's an emergency it's a climate emergency and we need our leaders to act like it's an emergency.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
