@@ -1,0 +1,62 @@
+frame:0    pts:22528   pts_time:1.76
+lavfi.scene_score=0.599085
+frame:1    pts:55296   pts_time:4.32
+lavfi.scene_score=0.454515
+frame:2    pts:119808  pts_time:9.36
+lavfi.scene_score=0.521433
+frame:3    pts:120320  pts_time:9.4
+lavfi.scene_score=0.132919
+frame:4    pts:135680  pts_time:10.6
+lavfi.scene_score=0.437954
+frame:5    pts:144896  pts_time:11.32
+lavfi.scene_score=0.373024
+frame:6    pts:154112  pts_time:12.04
+lavfi.scene_score=0.496160
+frame:7    pts:162816  pts_time:12.72
+lavfi.scene_score=0.452257
+frame:8    pts:174080  pts_time:13.6
+lavfi.scene_score=0.504629
+frame:9    pts:248320  pts_time:19.4
+lavfi.scene_score=0.355367
+frame:10   pts:257024  pts_time:20.08
+lavfi.scene_score=0.358103
+frame:11   pts:289280  pts_time:22.6
+lavfi.scene_score=0.454718
+frame:12   pts:311808  pts_time:24.36
+lavfi.scene_score=0.384486
+frame:13   pts:341504  pts_time:26.68
+lavfi.scene_score=0.394976
+frame:14   pts:356864  pts_time:27.88
+lavfi.scene_score=0.552983
+frame:15   pts:378880  pts_time:29.6
+lavfi.scene_score=0.949337
+frame:16   pts:396800  pts_time:31
+lavfi.scene_score=0.417801
+frame:17   pts:417792  pts_time:32.64
+lavfi.scene_score=0.464324
+frame:18   pts:439296  pts_time:34.32
+lavfi.scene_score=0.722173
+frame:19   pts:439808  pts_time:34.36
+lavfi.scene_score=0.196140
+frame:20   pts:441856  pts_time:34.52
+lavfi.scene_score=0.106128
+frame:21   pts:444416  pts_time:34.72
+lavfi.scene_score=0.114425
+frame:22   pts:444928  pts_time:34.76
+lavfi.scene_score=0.304188
+frame:23   pts:455168  pts_time:35.56
+lavfi.scene_score=0.291768
+frame:24   pts:464896  pts_time:36.32
+lavfi.scene_score=0.741585
+frame:25   pts:488448  pts_time:38.16
+lavfi.scene_score=0.494029
+frame:26   pts:513024  pts_time:40.08
+lavfi.scene_score=0.623846
+frame:27   pts:544768  pts_time:42.56
+lavfi.scene_score=0.821156
+frame:28   pts:617984  pts_time:48.28
+lavfi.scene_score=0.118016
+frame:29   pts:618496  pts_time:48.32
+lavfi.scene_score=0.198543
+frame:30   pts:619520  pts_time:48.4
+lavfi.scene_score=0.132315
