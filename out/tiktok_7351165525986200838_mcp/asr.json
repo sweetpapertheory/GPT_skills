@@ -1,0 +1,244 @@
+{
+  "language": "en",
+  "language_probability": 0.9771814346313477,
+  "duration": 144.288,
+  "duration_after_vad": 144.04,
+  "segment_count": 29,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.05,
+      "end": 9.93,
+      "text": "Over the next decade, two decades, it is expected that there will be $150 billion worth of oil",
+      "avg_logprob": -0.1704909404118856,
+      "no_speech_prob": 0.060839101672172546
+    },
+    {
+      "id": 2,
+      "start": 9.93,
+      "end": 14.05,
+      "text": "and gas extracted off your coast.",
+      "avg_logprob": -0.1704909404118856,
+      "no_speech_prob": 0.060839101672172546
+    },
+    {
+      "id": 3,
+      "start": 14.05,
+      "end": 20.03,
+      "text": "It's an extraordinary figure, but think of it in practical terms.",
+      "avg_logprob": -0.1704909404118856,
+      "no_speech_prob": 0.060839101672172546
+    },
+    {
+      "id": 4,
+      "start": 20.03,
+      "end": 26.09,
+      "text": "That means, according to many experts, more than 2 billion tons of carbon emissions will",
+      "avg_logprob": -0.1704909404118856,
+      "no_speech_prob": 0.060839101672172546
+    },
+    {
+      "id": 5,
+      "start": 26.09,
+      "end": 32.09,
+      "text": "come from your seabed from those reserves and be released into the atmosphere.",
+      "avg_logprob": -0.1411835647498568,
+      "no_speech_prob": 0.24112451076507568
+    },
+    {
+      "id": 6,
+      "start": 32.09,
+      "end": 36.09,
+      "text": "I don't know if you as a head of state went to the COP in Dubai.",
+      "avg_logprob": -0.1411835647498568,
+      "no_speech_prob": 0.24112451076507568
+    },
+    {
+      "id": 7,
+      "start": 36.09,
+      "end": 39.09,
+      "text": "Let me stop you right there.",
+      "avg_logprob": -0.1411835647498568,
+      "no_speech_prob": 0.24112451076507568
+    },
+    {
+      "id": 8,
+      "start": 39.09,
+      "end": 47.09,
+      "text": "Do you know that Guyana has a forest forever that is the size of England and Scotland combined?",
+      "avg_logprob": -0.1411835647498568,
+      "no_speech_prob": 0.24112451076507568
+    },
+    {
+      "id": 9,
+      "start": 47.09,
+      "end": 51.09,
+      "text": "A forest that stores 19.5 gigatons of carbon?",
+      "avg_logprob": -0.1411835647498568,
+      "no_speech_prob": 0.24112451076507568
+    },
+    {
+      "id": 10,
+      "start": 51.09,
+      "end": 55.09,
+      "text": "A forest that we have kept alive?",
+      "avg_logprob": -0.1411835647498568,
+      "no_speech_prob": 0.24112451076507568
+    },
+    {
+      "id": 11,
+      "start": 55.09,
+      "end": 59.09,
+      "text": "Does that give you the right to release all of this carbon?",
+      "avg_logprob": -0.09632225868836888,
+      "no_speech_prob": 0.04391663521528244
+    },
+    {
+      "id": 12,
+      "start": 59.09,
+      "end": 63.09,
+      "text": "Does that give you the right to lecture us on climate change?",
+      "avg_logprob": -0.09632225868836888,
+      "no_speech_prob": 0.04391663521528244
+    },
+    {
+      "id": 13,
+      "start": 63.09,
+      "end": 70.09,
+      "text": "I am going to lecture you on climate change because we have kept this forest alive that stores 19.5 gigatons of carbon",
+      "avg_logprob": -0.09632225868836888,
+      "no_speech_prob": 0.04391663521528244
+    },
+    {
+      "id": 14,
+      "start": 70.09,
+      "end": 75.09,
+      "text": "that you enjoy, that the world enjoys, that you don't pay us for, that you don't value,",
+      "avg_logprob": -0.09632225868836888,
+      "no_speech_prob": 0.04391663521528244
+    },
+    {
+      "id": 15,
+      "start": 75.09,
+      "end": 79.09,
+      "text": "that you don't see a value in, that the people of Guyana has kept alive.",
+      "avg_logprob": -0.09632225868836888,
+      "no_speech_prob": 0.04391663521528244
+    },
+    {
+      "id": 16,
+      "start": 79.09,
+      "end": 83.09,
+      "text": "Guess what? We have the lowest deforestation rate in the world.",
+      "avg_logprob": -0.07963908397193466,
+      "no_speech_prob": 0.25134778022766113
+    },
+    {
+      "id": 17,
+      "start": 83.09,
+      "end": 88.09,
+      "text": "And guess what? Even with our greatest exploration of the oil and gas resource we have now,",
+      "avg_logprob": -0.07963908397193466,
+      "no_speech_prob": 0.25134778022766113
+    },
+    {
+      "id": 18,
+      "start": 88.09,
+      "end": 92.09,
+      "text": "we will still be net zero. Guyana will still be net zero.",
+      "avg_logprob": -0.07963908397193466,
+      "no_speech_prob": 0.25134778022766113
+    },
+    {
+      "id": 19,
+      "start": 92.09,
+      "end": 98.09,
+      "text": "Isn't there a cynicism here in Georgetown best expressed by your vice president who said recently,",
+      "avg_logprob": -0.07963908397193466,
+      "no_speech_prob": 0.25134778022766113
+    },
+    {
+      "id": 20,
+      "start": 98.09,
+      "end": 102.09,
+      "text": "because there is this climate change imperative to decarbonize,",
+      "avg_logprob": -0.07963908397193466,
+      "no_speech_prob": 0.25134778022766113
+    },
+    {
+      "id": 21,
+      "start": 102.09,
+      "end": 108.09,
+      "text": "our policy is to get as much oil out of the ground as quickly as possible.",
+      "avg_logprob": -0.07963908397193466,
+      "no_speech_prob": 0.25134778022766113
+    },
+    {
+      "id": 22,
+      "start": 108.09,
+      "end": 113.09,
+      "text": "Now he said that's harsh for those who think that you should be environmentally sound,",
+      "avg_logprob": -0.10147992296722429,
+      "no_speech_prob": 0.010882223956286907
+    },
+    {
+      "id": 23,
+      "start": 113.09,
+      "end": 118.09,
+      "text": "but that is the reality of it. Those were very honest words from your vice president.",
+      "avg_logprob": -0.10147992296722429,
+      "no_speech_prob": 0.010882223956286907
+    },
+    {
+      "id": 24,
+      "start": 118.09,
+      "end": 120.09,
+      "text": "And that is what we are, honest. We are practical.",
+      "avg_logprob": -0.10147992296722429,
+      "no_speech_prob": 0.010882223956286907
+    },
+    {
+      "id": 25,
+      "start": 120.09,
+      "end": 128.09,
+      "text": "So you are rushing to get this oil out before any deal is done to quote Dubai cop to transition away from oil and gas.",
+      "avg_logprob": -0.10147992296722429,
+      "no_speech_prob": 0.010882223956286907
+    },
+    {
+      "id": 26,
+      "start": 128.09,
+      "end": 131.09,
+      "text": "You can say we are rushing, but we are very practical.",
+      "avg_logprob": -0.10147992296722429,
+      "no_speech_prob": 0.010882223956286907
+    },
+    {
+      "id": 27,
+      "start": 131.09,
+      "end": 136.09,
+      "text": "We have this natural resource and we are going to aggressively pursue this natural resource",
+      "avg_logprob": -0.10147992296722429,
+      "no_speech_prob": 0.010882223956286907
+    },
+    {
+      "id": 28,
+      "start": 136.09,
+      "end": 140.09,
+      "text": "because we have to develop our country. We are committed to development of this region.",
+      "avg_logprob": -0.08495433354064037,
+      "no_speech_prob": 0.2891533076763153
+    },
+    {
+      "id": 29,
+      "start": 140.09,
+      "end": 144.09,
+      "text": "We have to create the opportunity for our people because no one is bringing that.",
+      "avg_logprob": -0.08495433354064037,
+      "no_speech_prob": 0.2891533076763153
+    }
+  ],
+  "transcript_full": "Over the next decade, two decades, it is expected that there will be $150 billion worth of oil and gas extracted off your coast. It's an extraordinary figure, but think of it in practical terms. That means, according to many experts, more than 2 billion tons of carbon emissions will come from your seabed from those reserves and be released into the atmosphere. I don't know if you as a head of state went to the COP in Dubai. Let me stop you right there. Do you know that Guyana has a forest forever that is the size of England and Scotland combined? A forest that stores 19.5 gigatons of carbon? A forest that we have kept alive? Does that give you the right to release all of this carbon? Does that give you the right to lecture us on climate change? I am going to lecture you on climate change because we have kept this forest alive that stores 19.5 gigatons of carbon that you enjoy, that the world enjoys, that you don't pay us for, that you don't value, that you don't see a value in, that the people of Guyana has kept alive. Guess what? We have the lowest deforestation rate in the world. And guess what? Even with our greatest exploration of the oil and gas resource we have now, we will still be net zero. Guyana will still be net zero. Isn't there a cynicism here in Georgetown best expressed by your vice president who said recently, because there is this climate change imperative to decarbonize, our policy is to get as much oil out of the ground as quickly as possible. Now he said that's harsh for those who think that you should be environmentally sound, but that is the reality of it. Those were very honest words from your vice president. And that is what we are, honest. We are practical. So you are rushing to get this oil out before any deal is done to quote Dubai cop to transition away from oil and gas. You can say we are rushing, but we are very practical. We have this natural resource and we are going to aggressively pursue this natural resource because we have to develop our country. We are committed to development of this region. We have to create the opportunity for our people because no one is bringing that.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
