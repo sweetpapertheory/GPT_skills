@@ -1,0 +1,28 @@
+{
+  "language": "en",
+  "language_probability": 0.7626134753227234,
+  "duration": 16.508,
+  "duration_after_vad": 6.14,
+  "segment_count": 2,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.0,
+      "text": "I guess you look happier",
+      "avg_logprob": -0.47921450648988995,
+      "no_speech_prob": 0.6147758364677429
+    },
+    {
+      "id": 2,
+      "start": 2.0,
+      "end": 6.14,
+      "text": "Friends told me one",
+      "avg_logprob": -0.47921450648988995,
+      "no_speech_prob": 0.6147758364677429
+    }
+  ],
+  "transcript_full": "I guess you look happier Friends told me one",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
