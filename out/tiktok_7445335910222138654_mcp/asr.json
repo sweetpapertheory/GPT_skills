@@ -1,0 +1,68 @@
+{
+  "language": "en",
+  "language_probability": 0.9885413646697998,
+  "duration": 28.867,
+  "duration_after_vad": 29.34,
+  "segment_count": 7,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 5.58,
+      "text": "Guys, I think I would just quote it at the United Nations like I mean like the UN like where the nations unite",
+      "avg_logprob": -0.1975348860629507,
+      "no_speech_prob": 0.10850536078214645
+    },
+    {
+      "id": 2,
+      "start": 5.58,
+      "end": 7.74,
+      "text": "I can't play the clip. This is this is crazy",
+      "avg_logprob": -0.1975348860629507,
+      "no_speech_prob": 0.10850536078214645
+    },
+    {
+      "id": 3,
+      "start": 8.08,
+      "end": 14.38,
+      "text": "What is the true cost of a society that tells us that our bodies are political playgrounds and that our real priorities lie with the interests of",
+      "avg_logprob": -0.1975348860629507,
+      "no_speech_prob": 0.10850536078214645
+    },
+    {
+      "id": 4,
+      "start": 14.38,
+      "end": 18.78,
+      "text": "Capital gain and never ending expansion. This might not mean nothing to y'all, but honey",
+      "avg_logprob": -0.1975348860629507,
+      "no_speech_prob": 0.10850536078214645
+    },
+    {
+      "id": 5,
+      "start": 18.78,
+      "end": 22.38,
+      "text": "I am a Sagittarius from South Central. This means everything to me",
+      "avg_logprob": -0.1975348860629507,
+      "no_speech_prob": 0.10850536078214645
+    },
+    {
+      "id": 6,
+      "start": 22.38,
+      "end": 27.7,
+      "text": "I'm just so grateful that my words are you know continuing to inspire people and I'll put the link if y'all want to watch the",
+      "avg_logprob": -0.1975348860629507,
+      "no_speech_prob": 0.10850536078214645
+    },
+    {
+      "id": 7,
+      "start": 27.7,
+      "end": 29.7,
+      "text": "whole conference. I'm sure",
+      "avg_logprob": -0.1975348860629507,
+      "no_speech_prob": 0.10850536078214645
+    }
+  ],
+  "transcript_full": "Guys, I think I would just quote it at the United Nations like I mean like the UN like where the nations unite I can't play the clip. This is this is crazy What is the true cost of a society that tells us that our bodies are political playgrounds and that our real priorities lie with the interests of Capital gain and never ending expansion. This might not mean nothing to y'all, but honey I am a Sagittarius from South Central. This means everything to me I'm just so grateful that my words are you know continuing to inspire people and I'll put the link if y'all want to watch the whole conference. I'm sure",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
