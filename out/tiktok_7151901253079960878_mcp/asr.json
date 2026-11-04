@@ -1,0 +1,28 @@
+{
+  "language": "en",
+  "language_probability": 0.4576779901981354,
+  "duration": 12.421,
+  "duration_after_vad": 4.04,
+  "segment_count": 2,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.39,
+      "end": 3.07,
+      "text": "Proud of song, speak up",
+      "avg_logprob": -0.7470555253650831,
+      "no_speech_prob": 0.4281971752643585
+    },
+    {
+      "id": 2,
+      "start": 3.07,
+      "end": 5.43,
+      "text": "But I'm about to call out Proud of song",
+      "avg_logprob": -0.7470555253650831,
+      "no_speech_prob": 0.4281971752643585
+    }
+  ],
+  "transcript_full": "Proud of song, speak up But I'm about to call out Proud of song",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
