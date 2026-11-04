@@ -1,0 +1,84 @@
+{
+  "language": "en",
+  "language_probability": 0.9937664270401001,
+  "duration": 49.4,
+  "duration_after_vad": 51.0,
+  "segment_count": 9,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 9.5,
+      "text": "In all seriousness, I just waited for the bus for 40 minutes and it never came out in this 100 degree as weather",
+      "avg_logprob": -0.22092107239555805,
+      "no_speech_prob": 0.06223820894956589
+    },
+    {
+      "id": 2,
+      "start": 9.5,
+      "end": 14.0,
+      "text": "because NATO is also fucking imperializing on my block.",
+      "avg_logprob": -0.22092107239555805,
+      "no_speech_prob": 0.06223820894956589
+    },
+    {
+      "id": 3,
+      "start": 14.0,
+      "end": 21.5,
+      "text": "Finally took an Uber to my coffee shop, only for it to be packed, humid, musty, and crusty.",
+      "avg_logprob": -0.22092107239555805,
+      "no_speech_prob": 0.06223820894956589
+    },
+    {
+      "id": 4,
+      "start": 21.5,
+      "end": 23.5,
+      "text": "We're sweating all on top of each other.",
+      "avg_logprob": -0.22092107239555805,
+      "no_speech_prob": 0.06223820894956589
+    },
+    {
+      "id": 5,
+      "start": 23.5,
+      "end": 26.5,
+      "text": "I just want to cry because climate change is fucking here.",
+      "avg_logprob": -0.22092107239555805,
+      "no_speech_prob": 0.06223820894956589
+    },
+    {
+      "id": 6,
+      "start": 26.5,
+      "end": 32.0,
+      "text": "It's never been this hot out in my lifetime and I've had enough.",
+      "avg_logprob": -0.11777839925087674,
+      "no_speech_prob": 0.22621619701385498
+    },
+    {
+      "id": 7,
+      "start": 32.0,
+      "end": 42.0,
+      "text": "Now, instead, I'm walking home for another 10, 15, 20 minutes outside this heat to start cooling the planet.",
+      "avg_logprob": -0.11777839925087674,
+      "no_speech_prob": 0.22621619701385498
+    },
+    {
+      "id": 8,
+      "start": 42.0,
+      "end": 49.0,
+      "text": "We need to start finding and enacting on these mitigating impacts to solve climate change, y'all.",
+      "avg_logprob": -0.11777839925087674,
+      "no_speech_prob": 0.22621619701385498
+    },
+    {
+      "id": 9,
+      "start": 49.0,
+      "end": 51.0,
+      "text": "Thank you for watching.",
+      "avg_logprob": -0.8390518203377724,
+      "no_speech_prob": 0.9737067222595215
+    }
+  ],
+  "transcript_full": "In all seriousness, I just waited for the bus for 40 minutes and it never came out in this 100 degree as weather because NATO is also fucking imperializing on my block. Finally took an Uber to my coffee shop, only for it to be packed, humid, musty, and crusty. We're sweating all on top of each other. I just want to cry because climate change is fucking here. It's never been this hot out in my lifetime and I've had enough. Now, instead, I'm walking home for another 10, 15, 20 minutes outside this heat to start cooling the planet. We need to start finding and enacting on these mitigating impacts to solve climate change, y'all. Thank you for watching.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
