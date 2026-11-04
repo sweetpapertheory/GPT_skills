@@ -1,0 +1,196 @@
+{
+  "language": "en",
+  "language_probability": 0.9831936359405518,
+  "duration": 120.372,
+  "duration_after_vad": 108.48,
+  "segment_count": 23,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.56,
+      "end": 6.68,
+      "text": "This is the town of Swannanoa, North Carolina, one of the towns that was recently inundated by Hurricane Helene.",
+      "avg_logprob": -0.1913702141493559,
+      "no_speech_prob": 0.20401814579963684
+    },
+    {
+      "id": 2,
+      "start": 6.68,
+      "end": 11.86,
+      "text": "I actually used to live in this town, and I have to say this was kind of a hard map to make",
+      "avg_logprob": -0.1913702141493559,
+      "no_speech_prob": 0.20401814579963684
+    },
+    {
+      "id": 3,
+      "start": 12.92,
+      "end": 16.56,
+      "text": "because it's really sad. This is the Harley-Davidson",
+      "avg_logprob": -0.1913702141493559,
+      "no_speech_prob": 0.20401814579963684
+    },
+    {
+      "id": 4,
+      "start": 17.64,
+      "end": 21.72,
+      "text": "building here, and we can see that the water heads all the way behind that building.",
+      "avg_logprob": -0.1913702141493559,
+      "no_speech_prob": 0.20401814579963684
+    },
+    {
+      "id": 5,
+      "start": 22.22,
+      "end": 27.88,
+      "text": "So I've gone through and tried to create an inundation map of what I think was inundated here, and again",
+      "avg_logprob": -0.1913702141493559,
+      "no_speech_prob": 0.20401814579963684
+    },
+    {
+      "id": 6,
+      "start": 27.88,
+      "end": 31.84,
+      "text": "my results are going to be very localized. This is that same building we were just looking at.",
+      "avg_logprob": -0.18579098350200496,
+      "no_speech_prob": 0.012599707581102848
+    },
+    {
+      "id": 7,
+      "start": 32.64,
+      "end": 40.24,
+      "text": "So this is the FEMA flood zone that is the 100-year floodplain, and this is the 500-year floodplain.",
+      "avg_logprob": -0.18579098350200496,
+      "no_speech_prob": 0.012599707581102848
+    },
+    {
+      "id": 8,
+      "start": 41.0,
+      "end": 43.0,
+      "text": "Now I want you to keep in mind that",
+      "avg_logprob": -0.18579098350200496,
+      "no_speech_prob": 0.012599707581102848
+    },
+    {
+      "id": 9,
+      "start": 43.24,
+      "end": 50.68,
+      "text": "the extent of the 500-year floodplain in this particular locale is 2,181 feet, so this first zone that I'm going to add,",
+      "avg_logprob": -0.18579098350200496,
+      "no_speech_prob": 0.012599707581102848
+    },
+    {
+      "id": 10,
+      "start": 51.28,
+      "end": 56.7,
+      "text": "that's 2,183 feet, that's two feet higher, and we know there was water back here,",
+      "avg_logprob": -0.18579098350200496,
+      "no_speech_prob": 0.012599707581102848
+    },
+    {
+      "id": 11,
+      "start": 56.7,
+      "end": 61.6,
+      "text": "and I believe it went even further, and I even saw some imagery that showed water up here.",
+      "avg_logprob": -0.19351546055688632,
+      "no_speech_prob": 0.0010723621817305684
+    },
+    {
+      "id": 12,
+      "start": 61.74,
+      "end": 69.66,
+      "text": "So I added another few feet. This is five feet higher in elevation, and now I'm going to turn on the eight-foot higher layer.",
+      "avg_logprob": -0.19351546055688632,
+      "no_speech_prob": 0.0010723621817305684
+    },
+    {
+      "id": 13,
+      "start": 70.22,
+      "end": 76.22,
+      "text": "Now I'm not saying there was eight feet of water here. It's that this is eight feet higher than the FEMA flood zone, and",
+      "avg_logprob": -0.19351546055688632,
+      "no_speech_prob": 0.0010723621817305684
+    },
+    {
+      "id": 14,
+      "start": 77.46,
+      "end": 80.82,
+      "text": "you know, my results are going to show, they're very localized,",
+      "avg_logprob": -0.19351546055688632,
+      "no_speech_prob": 0.0010723621817305684
+    },
+    {
+      "id": 15,
+      "start": 80.82,
+      "end": 84.78,
+      "text": "so I'm sure there was flooding up here that my map doesn't show because of how the data works.",
+      "avg_logprob": -0.19351546055688632,
+      "no_speech_prob": 0.0010723621817305684
+    },
+    {
+      "id": 16,
+      "start": 84.78,
+      "end": 87.06,
+      "text": "I'm sure there was flooding over here as well.",
+      "avg_logprob": -0.22101005621715986,
+      "no_speech_prob": 0.0035225762985646725
+    },
+    {
+      "id": 17,
+      "start": 87.74,
+      "end": 89.9,
+      "text": "If anyone on the ground can confirm",
+      "avg_logprob": -0.22101005621715986,
+      "no_speech_prob": 0.0035225762985646725
+    },
+    {
+      "id": 18,
+      "start": 91.3,
+      "end": 94.62,
+      "text": "the results that I'm showing here, that would be really helpful.",
+      "avg_logprob": -0.22101005621715986,
+      "no_speech_prob": 0.0035225762985646725
+    },
+    {
+      "id": 19,
+      "start": 95.62,
+      "end": 101.3,
+      "text": "I feel absolutely terrible about what has happened here. Like I said, I used to live in this town.",
+      "avg_logprob": -0.22101005621715986,
+      "no_speech_prob": 0.0035225762985646725
+    },
+    {
+      "id": 20,
+      "start": 101.3,
+      "end": 104.7,
+      "text": "All of this stuff was flooded. All of this was flooded.",
+      "avg_logprob": -0.22101005621715986,
+      "no_speech_prob": 0.0035225762985646725
+    },
+    {
+      "id": 21,
+      "start": 105.3,
+      "end": 107.1,
+      "text": "So much loss.",
+      "avg_logprob": -0.22101005621715986,
+      "no_speech_prob": 0.0035225762985646725
+    },
+    {
+      "id": 22,
+      "start": 107.1,
+      "end": 112.18,
+      "text": "I'm going to keep making these maps because you guys keep asking me to, and I don't know what else to do.",
+      "avg_logprob": -0.22101005621715986,
+      "no_speech_prob": 0.0035225762985646725
+    },
+    {
+      "id": 23,
+      "start": 112.18,
+      "end": 119.7,
+      "text": "But I'm really sorry for everything that everyone's going through. Hearts out to you all.",
+      "avg_logprob": -0.18178327991203827,
+      "no_speech_prob": 0.00389875378459692
+    }
+  ],
+  "transcript_full": "This is the town of Swannanoa, North Carolina, one of the towns that was recently inundated by Hurricane Helene. I actually used to live in this town, and I have to say this was kind of a hard map to make because it's really sad. This is the Harley-Davidson building here, and we can see that the water heads all the way behind that building. So I've gone through and tried to create an inundation map of what I think was inundated here, and again my results are going to be very localized. This is that same building we were just looking at. So this is the FEMA flood zone that is the 100-year floodplain, and this is the 500-year floodplain. Now I want you to keep in mind that the extent of the 500-year floodplain in this particular locale is 2,181 feet, so this first zone that I'm going to add, that's 2,183 feet, that's two feet higher, and we know there was water back here, and I believe it went even further, and I even saw some imagery that showed water up here. So I added another few feet. This is five feet higher in elevation, and now I'm going to turn on the eight-foot higher layer. Now I'm not saying there was eight feet of water here. It's that this is eight feet higher than the FEMA flood zone, and you know, my results are going to show, they're very localized, so I'm sure there was flooding up here that my map doesn't show because of how the data works. I'm sure there was flooding over here as well. If anyone on the ground can confirm the results that I'm showing here, that would be really helpful. I feel absolutely terrible about what has happened here. Like I said, I used to live in this town. All of this stuff was flooded. All of this was flooded. So much loss. I'm going to keep making these maps because you guys keep asking me to, and I don't know what else to do. But I'm really sorry for everything that everyone's going through. Hearts out to you all.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
