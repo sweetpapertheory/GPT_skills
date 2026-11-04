@@ -1,0 +1,52 @@
+{
+  "language": "en",
+  "language_probability": 0.8007690906524658,
+  "duration": 20.567,
+  "duration_after_vad": 13.05,
+  "segment_count": 5,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.7,
+      "end": 6.75,
+      "text": "Oh dear.",
+      "avg_logprob": -0.22065569429981466,
+      "no_speech_prob": 0.07942505180835724
+    },
+    {
+      "id": 2,
+      "start": 8.75,
+      "end": 11.75,
+      "text": "Such erratic weather is a sign of climate change.",
+      "avg_logprob": -0.22065569429981466,
+      "no_speech_prob": 0.07942505180835724
+    },
+    {
+      "id": 3,
+      "start": 11.75,
+      "end": 13.75,
+      "text": "Don't let the weather ruin your outfit.",
+      "avg_logprob": -0.22065569429981466,
+      "no_speech_prob": 0.07942505180835724
+    },
+    {
+      "id": 4,
+      "start": 13.75,
+      "end": 16.75,
+      "text": "Find out how you can help fight climate change.",
+      "avg_logprob": -0.22065569429981466,
+      "no_speech_prob": 0.07942505180835724
+    },
+    {
+      "id": 5,
+      "start": 18.75,
+      "end": 19.75,
+      "text": "It's so hot.",
+      "avg_logprob": -0.22065569429981466,
+      "no_speech_prob": 0.07942505180835724
+    }
+  ],
+  "transcript_full": "Oh dear. Such erratic weather is a sign of climate change. Don't let the weather ruin your outfit. Find out how you can help fight climate change. It's so hot.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
