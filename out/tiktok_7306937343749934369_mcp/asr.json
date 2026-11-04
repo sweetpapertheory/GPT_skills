@@ -1,0 +1,332 @@
+{
+  "language": "en",
+  "language_probability": 0.9001011848449707,
+  "duration": 198.72,
+  "duration_after_vad": 187.2,
+  "segment_count": 40,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.76,
+      "text": "So over the next few weeks, a lot of young people are going to be hearing the words COP28",
+      "avg_logprob": -0.1286803331825283,
+      "no_speech_prob": 0.058930303901433945
+    },
+    {
+      "id": 2,
+      "start": 3.76,
+      "end": 7.76,
+      "text": "kind of floating around without any idea of what maybe it actually means. So could you just tell",
+      "avg_logprob": -0.1286803331825283,
+      "no_speech_prob": 0.058930303901433945
+    },
+    {
+      "id": 3,
+      "start": 7.76,
+      "end": 12.96,
+      "text": "us a little bit about what the purpose of COP28 is and maybe where it came from? Yeah, sure. So",
+      "avg_logprob": -0.1286803331825283,
+      "no_speech_prob": 0.058930303901433945
+    },
+    {
+      "id": 4,
+      "start": 12.96,
+      "end": 18.96,
+      "text": "COP is basically an acronym, so COP Conference of Parties, and then the number at the end is it",
+      "avg_logprob": -0.1286803331825283,
+      "no_speech_prob": 0.058930303901433945
+    },
+    {
+      "id": 5,
+      "start": 18.96,
+      "end": 23.84,
+      "text": "just tells us how many there's been so far. So this is COP28. So it's the 28th Conference",
+      "avg_logprob": -0.1286803331825283,
+      "no_speech_prob": 0.058930303901433945
+    },
+    {
+      "id": 6,
+      "start": 23.84,
+      "end": 28.96,
+      "text": "of Parties that there's been. It basically is the UN's kind of international climate summit",
+      "avg_logprob": -0.1286803331825283,
+      "no_speech_prob": 0.058930303901433945
+    },
+    {
+      "id": 7,
+      "start": 28.96,
+      "end": 34.0,
+      "text": "where things are negotiated on and countries can come together and civil society groups",
+      "avg_logprob": -0.09636821751376144,
+      "no_speech_prob": 0.0271456278860569
+    },
+    {
+      "id": 8,
+      "start": 34.0,
+      "end": 38.96,
+      "text": "and other actors and everyone talks about where we're headed. But sometimes COP's get really",
+      "avg_logprob": -0.09636821751376144,
+      "no_speech_prob": 0.0271456278860569
+    },
+    {
+      "id": 9,
+      "start": 38.96,
+      "end": 42.88,
+      "text": "bad rep for being talking shops, because like I've just said, it's a place where everyone comes",
+      "avg_logprob": -0.09636821751376144,
+      "no_speech_prob": 0.0271456278860569
+    },
+    {
+      "id": 10,
+      "start": 42.88,
+      "end": 47.44,
+      "text": "together to talk. But there are some things that do come out of COP's that are quite good. So",
+      "avg_logprob": -0.09636821751376144,
+      "no_speech_prob": 0.0271456278860569
+    },
+    {
+      "id": 11,
+      "start": 47.44,
+      "end": 52.08,
+      "text": "I would say the Paris Agreement came from COP21. So that's something that's a good way for us",
+      "avg_logprob": -0.09636821751376144,
+      "no_speech_prob": 0.0271456278860569
+    },
+    {
+      "id": 12,
+      "start": 52.08,
+      "end": 56.56,
+      "text": "to kind of track progress. So this year at COP28, something for everyone to look out for",
+      "avg_logprob": -0.09636821751376144,
+      "no_speech_prob": 0.0271456278860569
+    },
+    {
+      "id": 13,
+      "start": 57.44,
+      "end": 62.48,
+      "text": "is global stocktake. It's a stocktake of where we're at now, what do we need to do,",
+      "avg_logprob": -0.10205891791541698,
+      "no_speech_prob": 0.030313437804579735
+    },
+    {
+      "id": 14,
+      "start": 62.48,
+      "end": 68.0,
+      "text": "and I don't think the results of the stocktake are going to be very positive. So it's not looking",
+      "avg_logprob": -0.10205891791541698,
+      "no_speech_prob": 0.030313437804579735
+    },
+    {
+      "id": 15,
+      "start": 68.0,
+      "end": 73.04,
+      "text": "good, but I do think if everyone kind of has the alarm bells ringing this year after global",
+      "avg_logprob": -0.10205891791541698,
+      "no_speech_prob": 0.030313437804579735
+    },
+    {
+      "id": 16,
+      "start": 73.04,
+      "end": 78.24,
+      "text": "stocktake, maybe some good can come out of it. So sometimes they're talking shops and there's",
+      "avg_logprob": -0.10205891791541698,
+      "no_speech_prob": 0.030313437804579735
+    },
+    {
+      "id": 17,
+      "start": 78.24,
+      "end": 82.24,
+      "text": "definitely bad things about COP's, but it's a really great place for people to all come",
+      "avg_logprob": -0.10205891791541698,
+      "no_speech_prob": 0.030313437804579735
+    },
+    {
+      "id": 18,
+      "start": 82.24,
+      "end": 86.64,
+      "text": "together. So I think it's really important to kind of have these summits where people who are",
+      "avg_logprob": -0.10803455854422295,
+      "no_speech_prob": 0.11027295887470245
+    },
+    {
+      "id": 19,
+      "start": 86.64,
+      "end": 92.48,
+      "text": "being affected get to have their voices amplified. So yeah, that's kind of what they are in a nutshell.",
+      "avg_logprob": -0.10803455854422295,
+      "no_speech_prob": 0.11027295887470245
+    },
+    {
+      "id": 20,
+      "start": 92.48,
+      "end": 94.88,
+      "text": "And I think it's really important to have that youth voice on the stage as well,",
+      "avg_logprob": -0.10803455854422295,
+      "no_speech_prob": 0.11027295887470245
+    },
+    {
+      "id": 21,
+      "start": 94.88,
+      "end": 97.36,
+      "text": "just because so many young people are involved in climate action,",
+      "avg_logprob": -0.10803455854422295,
+      "no_speech_prob": 0.11027295887470245
+    },
+    {
+      "id": 22,
+      "start": 97.36,
+      "end": 100.8,
+      "text": "and they're like really big stakeholders in it. So what will your role be in the next few",
+      "avg_logprob": -0.10803455854422295,
+      "no_speech_prob": 0.11027295887470245
+    },
+    {
+      "id": 23,
+      "start": 100.8,
+      "end": 106.48,
+      "text": "weeks as a youth delegate at COP? Yes, so as the youth delegate, I basically will be there",
+      "avg_logprob": -0.10803455854422295,
+      "no_speech_prob": 0.11027295887470245
+    },
+    {
+      "id": 24,
+      "start": 106.48,
+      "end": 110.72,
+      "text": "as kind of a youth representative. So at the moment kind of observational, but kind of",
+      "avg_logprob": -0.10803455854422295,
+      "no_speech_prob": 0.11027295887470245
+    },
+    {
+      "id": 25,
+      "start": 110.72,
+      "end": 116.16,
+      "text": "making sure that youth are being taken into account and yeah, just kind of tracking things. And the",
+      "avg_logprob": -0.12575634835021837,
+      "no_speech_prob": 0.010095080360770226
+    },
+    {
+      "id": 26,
+      "start": 116.16,
+      "end": 120.88,
+      "text": "kind of particular streams of negotiations that I hope to track are on loss and damage",
+      "avg_logprob": -0.12575634835021837,
+      "no_speech_prob": 0.010095080360770226
+    },
+    {
+      "id": 27,
+      "start": 120.88,
+      "end": 125.04,
+      "text": "and global stocktake as well. So thank you. Tell us about what maybe Ireland's role at COP 28 will",
+      "avg_logprob": -0.12575634835021837,
+      "no_speech_prob": 0.010095080360770226
+    },
+    {
+      "id": 28,
+      "start": 125.04,
+      "end": 130.0,
+      "text": "be this year. Yes, so Ireland's role at COP 28 will be the same as pretty much any other country",
+      "avg_logprob": -0.12575634835021837,
+      "no_speech_prob": 0.010095080360770226
+    },
+    {
+      "id": 29,
+      "start": 130.0,
+      "end": 135.76,
+      "text": "where they're kind of giving their inputs and what Ireland is doing. And because Ireland is",
+      "avg_logprob": -0.12575634835021837,
+      "no_speech_prob": 0.010095080360770226
+    },
+    {
+      "id": 30,
+      "start": 135.76,
+      "end": 141.12,
+      "text": "part of the EU, we kind of would tend to then be part of the EU delegation and kind of speak with EU",
+      "avg_logprob": -0.06737897550743638,
+      "no_speech_prob": 0.045065395534038544
+    },
+    {
+      "id": 31,
+      "start": 141.12,
+      "end": 147.04,
+      "text": "lines. So yeah, we're just, I'd say Ireland's role is its own role, but then also an EU role.",
+      "avg_logprob": -0.06737897550743638,
+      "no_speech_prob": 0.045065395534038544
+    },
+    {
+      "id": 32,
+      "start": 147.04,
+      "end": 150.72,
+      "text": "What can young people do to make sure that their interests are represented at international",
+      "avg_logprob": -0.06737897550743638,
+      "no_speech_prob": 0.045065395534038544
+    },
+    {
+      "id": 33,
+      "start": 150.72,
+      "end": 155.84,
+      "text": "climate conferences like COP? There is a burden on young people to be able to understand all",
+      "avg_logprob": -0.06737897550743638,
+      "no_speech_prob": 0.045065395534038544
+    },
+    {
+      "id": 34,
+      "start": 155.84,
+      "end": 160.32,
+      "text": "of the language surrounding international climate policy. And I think sometimes that can be really",
+      "avg_logprob": -0.06737897550743638,
+      "no_speech_prob": 0.045065395534038544
+    },
+    {
+      "id": 35,
+      "start": 160.32,
+      "end": 164.96,
+      "text": "frustrating and make it really hard to feel really engaged with what's going on at kind of",
+      "avg_logprob": -0.06737897550743638,
+      "no_speech_prob": 0.045065395534038544
+    },
+    {
+      "id": 36,
+      "start": 165.04,
+      "end": 171.12,
+      "text": "COPS and different climate conferences. I think just start small and try and follow",
+      "avg_logprob": -0.1833510693208671,
+      "no_speech_prob": 0.007896773517131805
+    },
+    {
+      "id": 37,
+      "start": 171.12,
+      "end": 176.48,
+      "text": "creators and kind of news platforms that are giving you accessible information.",
+      "avg_logprob": -0.1833510693208671,
+      "no_speech_prob": 0.007896773517131805
+    },
+    {
+      "id": 38,
+      "start": 176.48,
+      "end": 180.72,
+      "text": "And I think stuff like this today is really great. And I think it's really important",
+      "avg_logprob": -0.1833510693208671,
+      "no_speech_prob": 0.007896773517131805
+    },
+    {
+      "id": 39,
+      "start": 180.72,
+      "end": 186.24,
+      "text": "that organisations are all kind of realising that there is a gap in education for young",
+      "avg_logprob": -0.1833510693208671,
+      "no_speech_prob": 0.007896773517131805
+    },
+    {
+      "id": 40,
+      "start": 186.24,
+      "end": 188.16,
+      "text": "people about international climate process.",
+      "avg_logprob": -0.1833510693208671,
+      "no_speech_prob": 0.007896773517131805
+    }
+  ],
+  "transcript_full": "So over the next few weeks, a lot of young people are going to be hearing the words COP28 kind of floating around without any idea of what maybe it actually means. So could you just tell us a little bit about what the purpose of COP28 is and maybe where it came from? Yeah, sure. So COP is basically an acronym, so COP Conference of Parties, and then the number at the end is it just tells us how many there's been so far. So this is COP28. So it's the 28th Conference of Parties that there's been. It basically is the UN's kind of international climate summit where things are negotiated on and countries can come together and civil society groups and other actors and everyone talks about where we're headed. But sometimes COP's get really bad rep for being talking shops, because like I've just said, it's a place where everyone comes together to talk. But there are some things that do come out of COP's that are quite good. So I would say the Paris Agreement came from COP21. So that's something that's a good way for us to kind of track progress. So this year at COP28, something for everyone to look out for is global stocktake. It's a stocktake of where we're at now, what do we need to do, and I don't think the results of the stocktake are going to be very positive. So it's not looking good, but I do think if everyone kind of has the alarm bells ringing this year after global stocktake, maybe some good can come out of it. So sometimes they're talking shops and there's definitely bad things about COP's, but it's a really great place for people to all come together. So I think it's really important to kind of have these summits where people who are being affected get to have their voices amplified. So yeah, that's kind of what they are in a nutshell. And I think it's really important to have that youth voice on the stage as well, just because so many young people are involved in climate action, and they're like really big stakeholders in it. So what will your role be in the next few weeks as a youth delegate at COP? Yes, so as the youth delegate, I basically will be there as kind of a youth representative. So at the moment kind of observational, but kind of making sure that youth are being taken into account and yeah, just kind of tracking things. And the kind of particular streams of negotiations that I hope to track are on loss and damage and global stocktake as well. So thank you. Tell us about what maybe Ireland's role at COP 28 will be this year. Yes, so Ireland's role at COP 28 will be the same as pretty much any other country where they're kind of giving their inputs and what Ireland is doing. And because Ireland is part of the EU, we kind of would tend to then be part of the EU delegation and kind of speak with EU lines. So yeah, we're just, I'd say Ireland's role is its own role, but then also an EU role. What can young people do to make sure that their interests are represented at international climate conferences like COP? There is a burden on young people to be able to understand all of the language surrounding international climate policy. And I think sometimes that can be really frustrating and make it really hard to feel really engaged with what's going on at kind of COPS and different climate conferences. I think just start small and try and follow creators and kind of news platforms that are giving you accessible information. And I think stuff like this today is really great. And I think it's really important that organisations are all kind of realising that there is a gap in education for young people about international climate process.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
