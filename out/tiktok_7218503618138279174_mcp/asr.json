@@ -1,0 +1,100 @@
+{
+  "language": "en",
+  "language_probability": 0.9983159303665161,
+  "duration": 41.053,
+  "duration_after_vad": 40.95,
+  "segment_count": 11,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.83,
+      "text": "7 Things You Didn't Know About African Wild Dogs",
+      "avg_logprob": -0.1521229153185819,
+      "no_speech_prob": 0.02271007001399994
+    },
+    {
+      "id": 2,
+      "start": 5.83,
+      "end": 10.35,
+      "text": "Wild dogs hunt in packs and are among the most effective predators in the world.",
+      "avg_logprob": -0.1521229153185819,
+      "no_speech_prob": 0.02271007001399994
+    },
+    {
+      "id": 3,
+      "start": 10.35,
+      "end": 14.51,
+      "text": "They prefer hunting their prey to exhaustion rather than attacking by surprise.",
+      "avg_logprob": -0.1521229153185819,
+      "no_speech_prob": 0.02271007001399994
+    },
+    {
+      "id": 4,
+      "start": 14.51,
+      "end": 19.55,
+      "text": "They can run up to 70 km per hour, the same as a racing greyhound.",
+      "avg_logprob": -0.1521229153185819,
+      "no_speech_prob": 0.02271007001399994
+    },
+    {
+      "id": 5,
+      "start": 19.55,
+      "end": 21.31,
+      "text": "Studies suggest they vote by sneezing.",
+      "avg_logprob": -0.1521229153185819,
+      "no_speech_prob": 0.02271007001399994
+    },
+    {
+      "id": 6,
+      "start": 21.31,
+      "end": 25.03,
+      "text": "If enough sneezes are heard, the pack moves to hunt.",
+      "avg_logprob": -0.1521229153185819,
+      "no_speech_prob": 0.02271007001399994
+    },
+    {
+      "id": 7,
+      "start": 25.03,
+      "end": 30.03,
+      "text": "These carnivores play a vital role in controlling animal numbers, preventing overgrazing and",
+      "avg_logprob": -0.1521229153185819,
+      "no_speech_prob": 0.02271007001399994
+    },
+    {
+      "id": 8,
+      "start": 30.03,
+      "end": 31.71,
+      "text": "habitat destruction.",
+      "avg_logprob": -0.20032028166147378,
+      "no_speech_prob": 0.11938363313674927
+    },
+    {
+      "id": 9,
+      "start": 31.71,
+      "end": 34.71,
+      "text": "They rarely fight and perhaps more than any other animal.",
+      "avg_logprob": -0.20032028166147378,
+      "no_speech_prob": 0.11938363313674927
+    },
+    {
+      "id": 10,
+      "start": 34.71,
+      "end": 36.79,
+      "text": "They care for the old or injured.",
+      "avg_logprob": -0.20032028166147378,
+      "no_speech_prob": 0.11938363313674927
+    },
+    {
+      "id": 11,
+      "start": 36.79,
+      "end": 40.95,
+      "text": "All dogs care for the newly born pups, as they are key to the survival of the pack.",
+      "avg_logprob": -0.20032028166147378,
+      "no_speech_prob": 0.11938363313674927
+    }
+  ],
+  "transcript_full": "7 Things You Didn't Know About African Wild Dogs Wild dogs hunt in packs and are among the most effective predators in the world. They prefer hunting their prey to exhaustion rather than attacking by surprise. They can run up to 70 km per hour, the same as a racing greyhound. Studies suggest they vote by sneezing. If enough sneezes are heard, the pack moves to hunt. These carnivores play a vital role in controlling animal numbers, preventing overgrazing and habitat destruction. They rarely fight and perhaps more than any other animal. They care for the old or injured. All dogs care for the newly born pups, as they are key to the survival of the pack.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
