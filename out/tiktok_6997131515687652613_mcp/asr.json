@@ -1,0 +1,124 @@
+{
+  "language": "en",
+  "language_probability": 0.9994139671325684,
+  "duration": 40.889,
+  "duration_after_vad": 40.84,
+  "segment_count": 14,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.72,
+      "text": "Did you know that Central Park is one of the coolest areas of New York City?",
+      "avg_logprob": -0.1733457843159757,
+      "no_speech_prob": 0.007687235716730356
+    },
+    {
+      "id": 2,
+      "start": 2.72,
+      "end": 5.6,
+      "text": "The park is awesome, but I also mean in terms of literal temperature.",
+      "avg_logprob": -0.1733457843159757,
+      "no_speech_prob": 0.007687235716730356
+    },
+    {
+      "id": 3,
+      "start": 5.6,
+      "end": 8.48,
+      "text": "In the summer, Manhattan experiences what is called the heat island effect.",
+      "avg_logprob": -0.1733457843159757,
+      "no_speech_prob": 0.007687235716730356
+    },
+    {
+      "id": 4,
+      "start": 8.48,
+      "end": 11.8,
+      "text": "Hot surfaces, high energy consumption, no airflow between buildings, and sparse green",
+      "avg_logprob": -0.1733457843159757,
+      "no_speech_prob": 0.007687235716730356
+    },
+    {
+      "id": 5,
+      "start": 11.8,
+      "end": 13.6,
+      "text": "space raise the temperature of the city.",
+      "avg_logprob": -0.1733457843159757,
+      "no_speech_prob": 0.007687235716730356
+    },
+    {
+      "id": 6,
+      "start": 13.6,
+      "end": 15.92,
+      "text": "Central Park, however, is an oasis from the heat island effect.",
+      "avg_logprob": -0.1733457843159757,
+      "no_speech_prob": 0.007687235716730356
+    },
+    {
+      "id": 7,
+      "start": 15.92,
+      "end": 19.44,
+      "text": "Through a process called transpiration, these trees absorb water, move that water",
+      "avg_logprob": -0.1733457843159757,
+      "no_speech_prob": 0.007687235716730356
+    },
+    {
+      "id": 8,
+      "start": 19.44,
+      "end": 22.56,
+      "text": "to their leaves, and release it as water vapor, which cools down the air.",
+      "avg_logprob": -0.1733457843159757,
+      "no_speech_prob": 0.007687235716730356
+    },
+    {
+      "id": 9,
+      "start": 22.56,
+      "end": 25.84,
+      "text": "Central Park is home to 18,000 trees and over 800 acres of green space.",
+      "avg_logprob": -0.1733457843159757,
+      "no_speech_prob": 0.007687235716730356
+    },
+    {
+      "id": 10,
+      "start": 25.84,
+      "end": 27.84,
+      "text": "That's a lot of transpiration.",
+      "avg_logprob": -0.1733457843159757,
+      "no_speech_prob": 0.007687235716730356
+    },
+    {
+      "id": 11,
+      "start": 27.84,
+      "end": 31.04,
+      "text": "The tree canopy also absorbs heat, which cools down the air and even blocks away.",
+      "avg_logprob": -0.17875344731978007,
+      "no_speech_prob": 0.002127948449924588
+    },
+    {
+      "id": 12,
+      "start": 31.04,
+      "end": 34.44,
+      "text": "Naturally cooling areas like Central Park play an important role as the world experiences",
+      "avg_logprob": -0.17875344731978007,
+      "no_speech_prob": 0.002127948449924588
+    },
+    {
+      "id": 13,
+      "start": 34.44,
+      "end": 38.0,
+      "text": "higher temperatures due to climate change, which will amplify the heat island effect.",
+      "avg_logprob": -0.17875344731978007,
+      "no_speech_prob": 0.002127948449924588
+    },
+    {
+      "id": 14,
+      "start": 38.0,
+      "end": 40.84,
+      "text": "Visit globalcitizen.org and tell world leaders to protect the environment.",
+      "avg_logprob": -0.17875344731978007,
+      "no_speech_prob": 0.002127948449924588
+    }
+  ],
+  "transcript_full": "Did you know that Central Park is one of the coolest areas of New York City? The park is awesome, but I also mean in terms of literal temperature. In the summer, Manhattan experiences what is called the heat island effect. Hot surfaces, high energy consumption, no airflow between buildings, and sparse green space raise the temperature of the city. Central Park, however, is an oasis from the heat island effect. Through a process called transpiration, these trees absorb water, move that water to their leaves, and release it as water vapor, which cools down the air. Central Park is home to 18,000 trees and over 800 acres of green space. That's a lot of transpiration. The tree canopy also absorbs heat, which cools down the air and even blocks away. Naturally cooling areas like Central Park play an important role as the world experiences higher temperatures due to climate change, which will amplify the heat island effect. Visit globalcitizen.org and tell world leaders to protect the environment.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
