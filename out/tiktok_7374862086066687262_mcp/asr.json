@@ -1,0 +1,196 @@
+{
+  "language": "en",
+  "language_probability": 0.9993708729743958,
+  "duration": 120.268,
+  "duration_after_vad": 119.12,
+  "segment_count": 23,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.52,
+      "text": "Imagine if something was right underneath your skin,",
+      "avg_logprob": -0.13812588583124746,
+      "no_speech_prob": 0.005010184831917286
+    },
+    {
+      "id": 2,
+      "start": 3.52,
+      "end": 9.76,
+      "text": "boring through your muscles, leaving tunnels like this through your flesh,",
+      "avg_logprob": -0.13812588583124746,
+      "no_speech_prob": 0.005010184831917286
+    },
+    {
+      "id": 3,
+      "start": 10.64,
+      "end": 17.2,
+      "text": "and it weakened you and weakened you until you finally died. Wouldn't that suck? If you said yes,",
+      "avg_logprob": -0.13812588583124746,
+      "no_speech_prob": 0.005010184831917286
+    },
+    {
+      "id": 4,
+      "start": 17.2,
+      "end": 23.28,
+      "text": "you are correct. And that's what's happening to giant sequoias right now. It's caused by",
+      "avg_logprob": -0.13812588583124746,
+      "no_speech_prob": 0.005010184831917286
+    },
+    {
+      "id": 5,
+      "start": 23.28,
+      "end": 29.36,
+      "text": "bark beetle, a native bark beetle. Bark beetles have been around sequoias since time immemorial,",
+      "avg_logprob": -0.13812588583124746,
+      "no_speech_prob": 0.005010184831917286
+    },
+    {
+      "id": 6,
+      "start": 29.36,
+      "end": 35.6,
+      "text": "but they haven't killed giant sequoias until recently. So of course you're wondering why are they",
+      "avg_logprob": -0.07575457905410626,
+      "no_speech_prob": 0.00048521047574467957
+    },
+    {
+      "id": 7,
+      "start": 35.6,
+      "end": 41.52,
+      "text": "killing the trees now? Because they finally can. For the last decade the trees have been in a weakened",
+      "avg_logprob": -0.07575457905410626,
+      "no_speech_prob": 0.00048521047574467957
+    },
+    {
+      "id": 8,
+      "start": 41.52,
+      "end": 47.36,
+      "text": "state. The drought and hotter weather caused by a changing climate are believed to be the",
+      "avg_logprob": -0.07575457905410626,
+      "no_speech_prob": 0.00048521047574467957
+    },
+    {
+      "id": 9,
+      "start": 47.36,
+      "end": 53.52,
+      "text": "drivers of the weakened sequoia trees. Already the beetles have killed 40 mature trees.",
+      "avg_logprob": -0.07575457905410626,
+      "no_speech_prob": 0.00048521047574467957
+    },
+    {
+      "id": 10,
+      "start": 53.52,
+      "end": 58.56,
+      "text": "And it's the first time we have ever known about giant sequoia trees being killed by",
+      "avg_logprob": -0.07575457905410626,
+      "no_speech_prob": 0.00048521047574467957
+    },
+    {
+      "id": 11,
+      "start": 58.56,
+      "end": 64.32,
+      "text": "beetles. 40 trees may not sound like a lot, but there's not a lot of giant sequoias left.",
+      "avg_logprob": -0.07548914085263791,
+      "no_speech_prob": 0.000711085507646203
+    },
+    {
+      "id": 12,
+      "start": 64.32,
+      "end": 68.96,
+      "text": "And beetles aren't the only thing that's been killing them recently. The biggest threat to",
+      "avg_logprob": -0.07548914085263791,
+      "no_speech_prob": 0.000711085507646203
+    },
+    {
+      "id": 13,
+      "start": 68.96,
+      "end": 74.64,
+      "text": "giant sequoias continues to be high-intensity wildfires driven by over a century of fire",
+      "avg_logprob": -0.07548914085263791,
+      "no_speech_prob": 0.000711085507646203
+    },
+    {
+      "id": 14,
+      "start": 74.64,
+      "end": 79.04,
+      "text": "suppression and climate change. Such fires have killed thousands of giant sequoias over the last",
+      "avg_logprob": -0.07548914085263791,
+      "no_speech_prob": 0.000711085507646203
+    },
+    {
+      "id": 15,
+      "start": 79.04,
+      "end": 83.68,
+      "text": "five years, a loss of possibly up to 20% of mature trees. But it's also important to",
+      "avg_logprob": -0.07548914085263791,
+      "no_speech_prob": 0.000711085507646203
+    },
+    {
+      "id": 16,
+      "start": 83.68,
+      "end": 87.12,
+      "text": "study the impacts of bark beetles on giant sequoias' mortality.",
+      "avg_logprob": -0.08698834397364408,
+      "no_speech_prob": 0.031119786202907562
+    },
+    {
+      "id": 17,
+      "start": 87.12,
+      "end": 91.36,
+      "text": "We don't want to be caught by surprise by a new threat. When native people stewarded these spaces,",
+      "avg_logprob": -0.08698834397364408,
+      "no_speech_prob": 0.031119786202907562
+    },
+    {
+      "id": 18,
+      "start": 91.36,
+      "end": 97.84,
+      "text": "they often did burns in these areas that kept the fuel loads low. Now the fire",
+      "avg_logprob": -0.08698834397364408,
+      "no_speech_prob": 0.031119786202907562
+    },
+    {
+      "id": 19,
+      "start": 97.84,
+      "end": 103.6,
+      "text": "suppression has been underway for over a century. These fuels have built up and so you get really",
+      "avg_logprob": -0.08698834397364408,
+      "no_speech_prob": 0.031119786202907562
+    },
+    {
+      "id": 20,
+      "start": 103.6,
+      "end": 107.28,
+      "text": "big fires. If you want a small campfire you have less sticks. If you want a big campfire",
+      "avg_logprob": -0.08698834397364408,
+      "no_speech_prob": 0.031119786202907562
+    },
+    {
+      "id": 21,
+      "start": 107.28,
+      "end": 111.76,
+      "text": "you have more sticks. Unfortunately in much of California we're having a big campfire.",
+      "avg_logprob": -0.08698834397364408,
+      "no_speech_prob": 0.031119786202907562
+    },
+    {
+      "id": 22,
+      "start": 111.76,
+      "end": 115.76,
+      "text": "For more information on how Save the Redwood League is saving redwoods up and down the state",
+      "avg_logprob": -0.2426088780928881,
+      "no_speech_prob": 0.05024734511971474
+    },
+    {
+      "id": 23,
+      "start": 115.76,
+      "end": 120.0,
+      "text": "and how you can help go to save the redwoods.org",
+      "avg_logprob": -0.2426088780928881,
+      "no_speech_prob": 0.05024734511971474
+    }
+  ],
+  "transcript_full": "Imagine if something was right underneath your skin, boring through your muscles, leaving tunnels like this through your flesh, and it weakened you and weakened you until you finally died. Wouldn't that suck? If you said yes, you are correct. And that's what's happening to giant sequoias right now. It's caused by bark beetle, a native bark beetle. Bark beetles have been around sequoias since time immemorial, but they haven't killed giant sequoias until recently. So of course you're wondering why are they killing the trees now? Because they finally can. For the last decade the trees have been in a weakened state. The drought and hotter weather caused by a changing climate are believed to be the drivers of the weakened sequoia trees. Already the beetles have killed 40 mature trees. And it's the first time we have ever known about giant sequoia trees being killed by beetles. 40 trees may not sound like a lot, but there's not a lot of giant sequoias left. And beetles aren't the only thing that's been killing them recently. The biggest threat to giant sequoias continues to be high-intensity wildfires driven by over a century of fire suppression and climate change. Such fires have killed thousands of giant sequoias over the last five years, a loss of possibly up to 20% of mature trees. But it's also important to study the impacts of bark beetles on giant sequoias' mortality. We don't want to be caught by surprise by a new threat. When native people stewarded these spaces, they often did burns in these areas that kept the fuel loads low. Now the fire suppression has been underway for over a century. These fuels have built up and so you get really big fires. If you want a small campfire you have less sticks. If you want a big campfire you have more sticks. Unfortunately in much of California we're having a big campfire. For more information on how Save the Redwood League is saving redwoods up and down the state and how you can help go to save the redwoods.org",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
