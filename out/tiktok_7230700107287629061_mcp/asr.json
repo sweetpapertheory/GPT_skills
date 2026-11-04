@@ -1,0 +1,540 @@
+{
+  "language": "en",
+  "language_probability": 1,
+  "duration": 201.685,
+  "duration_after_vad": 186.4,
+  "segment_count": 66,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.12,
+      "text": "And we have to accept that unless we do not want to grow as an economy,",
+      "avg_logprob": -0.2035570619948979,
+      "no_speech_prob": 0.07334807515144348
+    },
+    {
+      "id": 2,
+      "start": 5.12,
+      "end": 7.04,
+      "text": "then we can stop all development.",
+      "avg_logprob": -0.2035570619948979,
+      "no_speech_prob": 0.07334807515144348
+    },
+    {
+      "id": 3,
+      "start": 8.24,
+      "end": 10.56,
+      "text": "With me today is Nick Nazmi, Nick Ahmad,",
+      "avg_logprob": -0.2035570619948979,
+      "no_speech_prob": 0.07334807515144348
+    },
+    {
+      "id": 4,
+      "start": 10.56,
+      "end": 14.08,
+      "text": "Minister for Natural Resources, Environment and Climate Change.",
+      "avg_logprob": -0.2035570619948979,
+      "no_speech_prob": 0.07334807515144348
+    },
+    {
+      "id": 5,
+      "start": 14.08,
+      "end": 16.72,
+      "text": "Now Nick, to the Penang South Island's Reclamation Project,",
+      "avg_logprob": -0.2035570619948979,
+      "no_speech_prob": 0.07334807515144348
+    },
+    {
+      "id": 6,
+      "start": 16.72,
+      "end": 21.36,
+      "text": "received approval for its Environmental Impact Assessment Report last month,",
+      "avg_logprob": -0.2035570619948979,
+      "no_speech_prob": 0.07334807515144348
+    },
+    {
+      "id": 7,
+      "start": 21.36,
+      "end": 23.52,
+      "text": "subject to 71 conditions.",
+      "avg_logprob": -0.2035570619948979,
+      "no_speech_prob": 0.07334807515144348
+    },
+    {
+      "id": 8,
+      "start": 23.52,
+      "end": 25.68,
+      "text": "How much say do you have over these EIA decisions as Ministers?",
+      "avg_logprob": -0.2035570619948979,
+      "no_speech_prob": 0.07334807515144348
+    },
+    {
+      "id": 9,
+      "start": 25.68,
+      "end": 26.64,
+      "text": "I had a few meetings.",
+      "avg_logprob": -0.2035570619948979,
+      "no_speech_prob": 0.07334807515144348
+    },
+    {
+      "id": 10,
+      "start": 27.28,
+      "end": 32.0,
+      "text": "I mean, I met, I listened to the case of the state government.",
+      "avg_logprob": -0.11510615161171665,
+      "no_speech_prob": 0.09038112312555313
+    },
+    {
+      "id": 11,
+      "start": 32.96,
+      "end": 38.32,
+      "text": "I also listened to the concerns that were raised against the project.",
+      "avg_logprob": -0.11510615161171665,
+      "no_speech_prob": 0.09038112312555313
+    },
+    {
+      "id": 12,
+      "start": 38.32,
+      "end": 39.84,
+      "text": "But it has its own process.",
+      "avg_logprob": -0.11510615161171665,
+      "no_speech_prob": 0.09038112312555313
+    },
+    {
+      "id": 13,
+      "start": 39.84,
+      "end": 42.96,
+      "text": "It has its own board that actually approves it.",
+      "avg_logprob": -0.11510615161171665,
+      "no_speech_prob": 0.09038112312555313
+    },
+    {
+      "id": 14,
+      "start": 43.68,
+      "end": 45.2,
+      "text": "It's not an arbitrary thing.",
+      "avg_logprob": -0.11510615161171665,
+      "no_speech_prob": 0.09038112312555313
+    },
+    {
+      "id": 15,
+      "start": 45.2,
+      "end": 46.64,
+      "text": "And that's how it should be.",
+      "avg_logprob": -0.11510615161171665,
+      "no_speech_prob": 0.09038112312555313
+    },
+    {
+      "id": 16,
+      "start": 46.64,
+      "end": 49.76,
+      "text": "It shouldn't be on one person to approve or disprove a project.",
+      "avg_logprob": -0.11510615161171665,
+      "no_speech_prob": 0.09038112312555313
+    },
+    {
+      "id": 17,
+      "start": 50.32,
+      "end": 53.84,
+      "text": "And to be fair, it has gone through a long process.",
+      "avg_logprob": -0.11510615161171665,
+      "no_speech_prob": 0.09038112312555313
+    },
+    {
+      "id": 18,
+      "start": 53.84,
+      "end": 58.4,
+      "text": "It was approved, what, 2018 and then 2019.",
+      "avg_logprob": -0.1597285138236152,
+      "no_speech_prob": 0.013388635590672493
+    },
+    {
+      "id": 19,
+      "start": 58.4,
+      "end": 60.08,
+      "text": "And then an appeal came in.",
+      "avg_logprob": -0.1597285138236152,
+      "no_speech_prob": 0.013388635590672493
+    },
+    {
+      "id": 20,
+      "start": 60.88,
+      "end": 65.36,
+      "text": "So the EIA was rejected, I think, in 2020 or 2021.",
+      "avg_logprob": -0.1597285138236152,
+      "no_speech_prob": 0.013388635590672493
+    },
+    {
+      "id": 21,
+      "start": 65.36,
+      "end": 68.08,
+      "text": "Whenever then the state, the Pengerab Project,",
+      "avg_logprob": -0.1597285138236152,
+      "no_speech_prob": 0.013388635590672493
+    },
+    {
+      "id": 22,
+      "start": 68.08,
+      "end": 70.96,
+      "text": "the state authorities came out with the plan,",
+      "avg_logprob": -0.1597285138236152,
+      "no_speech_prob": 0.013388635590672493
+    },
+    {
+      "id": 23,
+      "start": 70.96,
+      "end": 72.72,
+      "text": "related authorities had some concerns.",
+      "avg_logprob": -0.1597285138236152,
+      "no_speech_prob": 0.013388635590672493
+    },
+    {
+      "id": 24,
+      "start": 73.44,
+      "end": 75.76,
+      "text": "It was all addressed one by one, one by one.",
+      "avg_logprob": -0.1597285138236152,
+      "no_speech_prob": 0.013388635590672493
+    },
+    {
+      "id": 25,
+      "start": 75.76,
+      "end": 77.6,
+      "text": "So it was a very comprehensive process.",
+      "avg_logprob": -0.1597285138236152,
+      "no_speech_prob": 0.013388635590672493
+    },
+    {
+      "id": 26,
+      "start": 77.6,
+      "end": 80.08,
+      "text": "And I think that's why it was...",
+      "avg_logprob": -0.1597285138236152,
+      "no_speech_prob": 0.013388635590672493
+    },
+    {
+      "id": 27,
+      "start": 80.08,
+      "end": 82.4,
+      "text": "Has this process been transparent enough?",
+      "avg_logprob": -0.1597285138236152,
+      "no_speech_prob": 0.013388635590672493
+    },
+    {
+      "id": 28,
+      "start": 82.4,
+      "end": 86.4,
+      "text": "Because you yourself talked about how EIA reporting sometimes is a transparent.",
+      "avg_logprob": -0.12743914796639297,
+      "no_speech_prob": 0.00038709002546966076
+    },
+    {
+      "id": 29,
+      "start": 86.4,
+      "end": 88.96,
+      "text": "In the case of the Penang South Islands, it hasn't been transparent.",
+      "avg_logprob": -0.12743914796639297,
+      "no_speech_prob": 0.00038709002546966076
+    },
+    {
+      "id": 30,
+      "start": 88.96,
+      "end": 91.76,
+      "text": "I mean, as I said, it's one of the most transparent",
+      "avg_logprob": -0.12743914796639297,
+      "no_speech_prob": 0.00038709002546966076
+    },
+    {
+      "id": 31,
+      "start": 91.76,
+      "end": 96.64,
+      "text": "and comprehensive processes for EIAs that has happened.",
+      "avg_logprob": -0.12743914796639297,
+      "no_speech_prob": 0.00038709002546966076
+    },
+    {
+      "id": 32,
+      "start": 96.64,
+      "end": 98.48,
+      "text": "The other thing that we have to bear in mind,",
+      "avg_logprob": -0.12743914796639297,
+      "no_speech_prob": 0.00038709002546966076
+    },
+    {
+      "id": 33,
+      "start": 98.48,
+      "end": 102.56,
+      "text": "even the approval was granted with 71 conditions.",
+      "avg_logprob": -0.12743914796639297,
+      "no_speech_prob": 0.00038709002546966076
+    },
+    {
+      "id": 34,
+      "start": 102.56,
+      "end": 104.16,
+      "text": "It's not a blank check.",
+      "avg_logprob": -0.12743914796639297,
+      "no_speech_prob": 0.00038709002546966076
+    },
+    {
+      "id": 35,
+      "start": 104.72,
+      "end": 110.48,
+      "text": "And it's still subject to their environmental management plan,",
+      "avg_logprob": -0.12743914796639297,
+      "no_speech_prob": 0.00038709002546966076
+    },
+    {
+      "id": 36,
+      "start": 110.48,
+      "end": 111.84,
+      "text": "EMP being approved.",
+      "avg_logprob": -0.12743914796639297,
+      "no_speech_prob": 0.00038709002546966076
+    },
+    {
+      "id": 37,
+      "start": 111.92,
+      "end": 113.2,
+      "text": "It has not been approved.",
+      "avg_logprob": -0.10723235988707254,
+      "no_speech_prob": 0.0016312017105519772
+    },
+    {
+      "id": 38,
+      "start": 113.2,
+      "end": 116.4,
+      "text": "Just because the EIA was conditionally approved,",
+      "avg_logprob": -0.10723235988707254,
+      "no_speech_prob": 0.0016312017105519772
+    },
+    {
+      "id": 39,
+      "start": 116.4,
+      "end": 120.88,
+      "text": "doesn't mean that it's all that they can do what they want there.",
+      "avg_logprob": -0.10723235988707254,
+      "no_speech_prob": 0.0016312017105519772
+    },
+    {
+      "id": 40,
+      "start": 120.88,
+      "end": 123.92,
+      "text": "So Nick, here's the conundrum or the dilemma that I see.",
+      "avg_logprob": -0.10723235988707254,
+      "no_speech_prob": 0.0016312017105519772
+    },
+    {
+      "id": 41,
+      "start": 123.92,
+      "end": 127.76,
+      "text": "The Penang South Islands project can be used as an example",
+      "avg_logprob": -0.10723235988707254,
+      "no_speech_prob": 0.0016312017105519772
+    },
+    {
+      "id": 42,
+      "start": 127.76,
+      "end": 130.64,
+      "text": "of the policy incoherence, perhaps,",
+      "avg_logprob": -0.10723235988707254,
+      "no_speech_prob": 0.0016312017105519772
+    },
+    {
+      "id": 43,
+      "start": 130.64,
+      "end": 133.04,
+      "text": "in terms of our climate change action.",
+      "avg_logprob": -0.10723235988707254,
+      "no_speech_prob": 0.0016312017105519772
+    },
+    {
+      "id": 44,
+      "start": 133.04,
+      "end": 136.16,
+      "text": "So on one hand, we have these goals of having adaptation,",
+      "avg_logprob": -0.10723235988707254,
+      "no_speech_prob": 0.0016312017105519772
+    },
+    {
+      "id": 45,
+      "start": 136.16,
+      "end": 137.92,
+      "text": "ensuring climate resilience.",
+      "avg_logprob": -0.10723235988707254,
+      "no_speech_prob": 0.0016312017105519772
+    },
+    {
+      "id": 46,
+      "start": 137.92,
+      "end": 141.36,
+      "text": "At the same time, we are also green-lighting these projects,",
+      "avg_logprob": -0.10723235988707254,
+      "no_speech_prob": 0.0016312017105519772
+    },
+    {
+      "id": 47,
+      "start": 141.36,
+      "end": 143.92,
+      "text": "which will cause massive carbon emissions,",
+      "avg_logprob": -0.13900620458472487,
+      "no_speech_prob": 0.0031945807859301567
+    },
+    {
+      "id": 48,
+      "start": 143.92,
+      "end": 147.44,
+      "text": "which will destroy the marine biodiversity of the area.",
+      "avg_logprob": -0.13900620458472487,
+      "no_speech_prob": 0.0031945807859301567
+    },
+    {
+      "id": 49,
+      "start": 147.44,
+      "end": 152.4,
+      "text": "How do you reconcile these very two disparate, I guess, aims?",
+      "avg_logprob": -0.13900620458472487,
+      "no_speech_prob": 0.0031945807859301567
+    },
+    {
+      "id": 50,
+      "start": 153.28,
+      "end": 154.96,
+      "text": "No, I mean, even if you look at the report,",
+      "avg_logprob": -0.13900620458472487,
+      "no_speech_prob": 0.0031945807859301567
+    },
+    {
+      "id": 51,
+      "start": 154.96,
+      "end": 158.96,
+      "text": "there is an impact ultimately on some shrimp migration element.",
+      "avg_logprob": -0.13900620458472487,
+      "no_speech_prob": 0.0031945807859301567
+    },
+    {
+      "id": 52,
+      "start": 158.96,
+      "end": 160.0,
+      "text": "On fisheries?",
+      "avg_logprob": -0.13900620458472487,
+      "no_speech_prob": 0.0031945807859301567
+    },
+    {
+      "id": 53,
+      "start": 160.0,
+      "end": 160.56,
+      "text": "Fisheries, yeah.",
+      "avg_logprob": -0.13900620458472487,
+      "no_speech_prob": 0.0031945807859301567
+    },
+    {
+      "id": 54,
+      "start": 160.56,
+      "end": 164.16,
+      "text": "But if you look at details, most of it has been mitigated.",
+      "avg_logprob": -0.13900620458472487,
+      "no_speech_prob": 0.0031945807859301567
+    },
+    {
+      "id": 55,
+      "start": 164.72,
+      "end": 169.28,
+      "text": "And we have to accept that unless we do not want to grow as an economy,",
+      "avg_logprob": -0.13900620458472487,
+      "no_speech_prob": 0.0031945807859301567
+    },
+    {
+      "id": 56,
+      "start": 169.92,
+      "end": 171.76,
+      "text": "then we can stop all development.",
+      "avg_logprob": -0.11845224482990871,
+      "no_speech_prob": 0.005420598667114973
+    },
+    {
+      "id": 57,
+      "start": 172.72,
+      "end": 174.48,
+      "text": "But that's always the balancing game,",
+      "avg_logprob": -0.11845224482990871,
+      "no_speech_prob": 0.005420598667114973
+    },
+    {
+      "id": 58,
+      "start": 174.48,
+      "end": 177.12,
+      "text": "that we have to recognise.",
+      "avg_logprob": -0.11845224482990871,
+      "no_speech_prob": 0.005420598667114973
+    },
+    {
+      "id": 59,
+      "start": 177.12,
+      "end": 182.16,
+      "text": "Any development process cannot be given as easily as it was before.",
+      "avg_logprob": -0.11845224482990871,
+      "no_speech_prob": 0.005420598667114973
+    },
+    {
+      "id": 60,
+      "start": 182.16,
+      "end": 183.84,
+      "text": "It has to be looked thoroughly.",
+      "avg_logprob": -0.11845224482990871,
+      "no_speech_prob": 0.005420598667114973
+    },
+    {
+      "id": 61,
+      "start": 184.4,
+      "end": 186.16,
+      "text": "But it's something that we have to recognise",
+      "avg_logprob": -0.11845224482990871,
+      "no_speech_prob": 0.005420598667114973
+    },
+    {
+      "id": 62,
+      "start": 186.16,
+      "end": 188.32,
+      "text": "that there will be things that we have to give and take",
+      "avg_logprob": -0.11845224482990871,
+      "no_speech_prob": 0.005420598667114973
+    },
+    {
+      "id": 63,
+      "start": 188.32,
+      "end": 189.36,
+      "text": "in any decision.",
+      "avg_logprob": -0.11845224482990871,
+      "no_speech_prob": 0.005420598667114973
+    },
+    {
+      "id": 64,
+      "start": 189.36,
+      "end": 189.92,
+      "text": "Okay.",
+      "avg_logprob": -0.11845224482990871,
+      "no_speech_prob": 0.005420598667114973
+    },
+    {
+      "id": 65,
+      "start": 189.92,
+      "end": 191.84,
+      "text": "But as much as possible,",
+      "avg_logprob": -0.11845224482990871,
+      "no_speech_prob": 0.005420598667114973
+    },
+    {
+      "id": 66,
+      "start": 191.84,
+      "end": 196.24,
+      "text": "I would like the development has to be sustainable.",
+      "avg_logprob": -0.11845224482990871,
+      "no_speech_prob": 0.005420598667114973
+    }
+  ],
+  "transcript_full": "And we have to accept that unless we do not want to grow as an economy, then we can stop all development. With me today is Nick Nazmi, Nick Ahmad, Minister for Natural Resources, Environment and Climate Change. Now Nick, to the Penang South Island's Reclamation Project, received approval for its Environmental Impact Assessment Report last month, subject to 71 conditions. How much say do you have over these EIA decisions as Ministers? I had a few meetings. I mean, I met, I listened to the case of the state government. I also listened to the concerns that were raised against the project. But it has its own process. It has its own board that actually approves it. It's not an arbitrary thing. And that's how it should be. It shouldn't be on one person to approve or disprove a project. And to be fair, it has gone through a long process. It was approved, what, 2018 and then 2019. And then an appeal came in. So the EIA was rejected, I think, in 2020 or 2021. Whenever then the state, the Pengerab Project, the state authorities came out with the plan, related authorities had some concerns. It was all addressed one by one, one by one. So it was a very comprehensive process. And I think that's why it was... Has this process been transparent enough? Because you yourself talked about how EIA reporting sometimes is a transparent. In the case of the Penang South Islands, it hasn't been transparent. I mean, as I said, it's one of the most transparent and comprehensive processes for EIAs that has happened. The other thing that we have to bear in mind, even the approval was granted with 71 conditions. It's not a blank check. And it's still subject to their environmental management plan, EMP being approved. It has not been approved. Just because the EIA was conditionally approved, doesn't mean that it's all that they can do what they want there. So Nick, here's the conundrum or the dilemma that I see. The Penang South Islands project can be used as an example of the policy incoherence, perhaps, in terms of our climate change action. So on one hand, we have these goals of having adaptation, ensuring climate resilience. At the same time, we are also green-lighting these projects, which will cause massive carbon emissions, which will destroy the marine biodiversity of the area. How do you reconcile these very two disparate, I guess, aims? No, I mean, even if you look at the report, there is an impact ultimately on some shrimp migration element. On fisheries? Fisheries, yeah. But if you look at details, most of it has been mitigated. And we have to accept that unless we do not want to grow as an economy, then we can stop all development. But that's always the balancing game, that we have to recognise. Any development process cannot be given as easily as it was before. It has to be looked thoroughly. But it's something that we have to recognise that there will be things that we have to give and take in any decision. Okay. But as much as possible, I would like the development has to be sustainable.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
