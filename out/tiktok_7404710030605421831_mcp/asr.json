@@ -1,0 +1,316 @@
+{
+  "language": "en",
+  "language_probability": 0.8988931775093079,
+  "duration": 84.245,
+  "duration_after_vad": 84.16,
+  "segment_count": 38,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.04,
+      "text": "In about 20 years, Malaysia's turtles may disappear.",
+      "avg_logprob": -0.10348770898931167,
+      "no_speech_prob": 0.012760225683450699
+    },
+    {
+      "id": 2,
+      "start": 3.04,
+      "end": 4.56,
+      "text": "And the reason for this?",
+      "avg_logprob": -0.10348770898931167,
+      "no_speech_prob": 0.012760225683450699
+    },
+    {
+      "id": 3,
+      "start": 4.56,
+      "end": 5.76,
+      "text": "Climate change.",
+      "avg_logprob": -0.10348770898931167,
+      "no_speech_prob": 0.012760225683450699
+    },
+    {
+      "id": 4,
+      "start": 5.76,
+      "end": 8.0,
+      "text": "Every day we hear about the world getting hotter.",
+      "avg_logprob": -0.10348770898931167,
+      "no_speech_prob": 0.012760225683450699
+    },
+    {
+      "id": 5,
+      "start": 8.0,
+      "end": 9.72,
+      "text": "But do you know what else gets hot?",
+      "avg_logprob": -0.10348770898931167,
+      "no_speech_prob": 0.012760225683450699
+    },
+    {
+      "id": 6,
+      "start": 9.72,
+      "end": 10.48,
+      "text": "The sand.",
+      "avg_logprob": -0.10348770898931167,
+      "no_speech_prob": 0.012760225683450699
+    },
+    {
+      "id": 7,
+      "start": 10.48,
+      "end": 13.4,
+      "text": "When the sand temperature is about 29.2 Celsius,",
+      "avg_logprob": -0.10348770898931167,
+      "no_speech_prob": 0.012760225683450699
+    },
+    {
+      "id": 8,
+      "start": 13.4,
+      "end": 15.28,
+      "text": "the number of male and female turtles",
+      "avg_logprob": -0.10348770898931167,
+      "no_speech_prob": 0.012760225683450699
+    },
+    {
+      "id": 9,
+      "start": 15.28,
+      "end": 18.84,
+      "text": "coming out of a green turtle nest will be balanced 50-50.",
+      "avg_logprob": -0.10348770898931167,
+      "no_speech_prob": 0.012760225683450699
+    },
+    {
+      "id": 10,
+      "start": 18.84,
+      "end": 20.92,
+      "text": "If the sand temperature goes up by one degree,",
+      "avg_logprob": -0.10348770898931167,
+      "no_speech_prob": 0.012760225683450699
+    },
+    {
+      "id": 11,
+      "start": 20.92,
+      "end": 23.24,
+      "text": "all the baby turtles that come out will be female.",
+      "avg_logprob": -0.10348770898931167,
+      "no_speech_prob": 0.012760225683450699
+    },
+    {
+      "id": 12,
+      "start": 23.24,
+      "end": 24.8,
+      "text": "If it goes down one degree colder,",
+      "avg_logprob": -0.10348770898931167,
+      "no_speech_prob": 0.012760225683450699
+    },
+    {
+      "id": 13,
+      "start": 24.8,
+      "end": 26.72,
+      "text": "then all the turtles that come out will be male.",
+      "avg_logprob": -0.10348770898931167,
+      "no_speech_prob": 0.012760225683450699
+    },
+    {
+      "id": 14,
+      "start": 26.72,
+      "end": 28.8,
+      "text": "How hot do you think this sand is?",
+      "avg_logprob": -0.10348770898931167,
+      "no_speech_prob": 0.012760225683450699
+    },
+    {
+      "id": 15,
+      "start": 28.84,
+      "end": 30.76,
+      "text": "But from what we're seeing and feeling,",
+      "avg_logprob": -0.1116939367322655,
+      "no_speech_prob": 0.0045834374614059925
+    },
+    {
+      "id": 16,
+      "start": 30.76,
+      "end": 32.6,
+      "text": "the world is not getting cooler.",
+      "avg_logprob": -0.1116939367322655,
+      "no_speech_prob": 0.0045834374614059925
+    },
+    {
+      "id": 17,
+      "start": 32.6,
+      "end": 35.32,
+      "text": "And scientists are finding out that in places like Malaysia,",
+      "avg_logprob": -0.1116939367322655,
+      "no_speech_prob": 0.0045834374614059925
+    },
+    {
+      "id": 18,
+      "start": 35.32,
+      "end": 37.96,
+      "text": "there are almost no males hatching these days.",
+      "avg_logprob": -0.1116939367322655,
+      "no_speech_prob": 0.0045834374614059925
+    },
+    {
+      "id": 19,
+      "start": 37.96,
+      "end": 40.88,
+      "text": "So when the female turtles get big enough in a couple of decades,",
+      "avg_logprob": -0.1116939367322655,
+      "no_speech_prob": 0.0045834374614059925
+    },
+    {
+      "id": 20,
+      "start": 40.88,
+      "end": 43.08,
+      "text": "they may not find any males to mate with.",
+      "avg_logprob": -0.1116939367322655,
+      "no_speech_prob": 0.0045834374614059925
+    },
+    {
+      "id": 21,
+      "start": 43.08,
+      "end": 45.84,
+      "text": "The loss of turtles anywhere would be devastating.",
+      "avg_logprob": -0.1116939367322655,
+      "no_speech_prob": 0.0045834374614059925
+    },
+    {
+      "id": 22,
+      "start": 45.84,
+      "end": 49.36,
+      "text": "Coastal erosion, explosion of jellyfish populations,",
+      "avg_logprob": -0.1116939367322655,
+      "no_speech_prob": 0.0045834374614059925
+    },
+    {
+      "id": 23,
+      "start": 49.36,
+      "end": 51.08,
+      "text": "porous seagrass beds.",
+      "avg_logprob": -0.1116939367322655,
+      "no_speech_prob": 0.0045834374614059925
+    },
+    {
+      "id": 24,
+      "start": 51.08,
+      "end": 52.92,
+      "text": "Check out the text below if you want to know more",
+      "avg_logprob": -0.1116939367322655,
+      "no_speech_prob": 0.0045834374614059925
+    },
+    {
+      "id": 25,
+      "start": 52.92,
+      "end": 54.88,
+      "text": "about what will happen if turtles disappear.",
+      "avg_logprob": -0.1116939367322655,
+      "no_speech_prob": 0.0045834374614059925
+    },
+    {
+      "id": 26,
+      "start": 54.88,
+      "end": 57.56,
+      "text": "And Malaysia used to have thousands upon thousands of turtles",
+      "avg_logprob": -0.1116939367322655,
+      "no_speech_prob": 0.0045834374614059925
+    },
+    {
+      "id": 27,
+      "start": 57.56,
+      "end": 59.76,
+      "text": "coming up on our beaches to lay their eggs.",
+      "avg_logprob": -0.10068513428816547,
+      "no_speech_prob": 0.013321267440915108
+    },
+    {
+      "id": 28,
+      "start": 59.76,
+      "end": 61.64,
+      "text": "In certain Malaysian states like Triangano,",
+      "avg_logprob": -0.10068513428816547,
+      "no_speech_prob": 0.013321267440915108
+    },
+    {
+      "id": 29,
+      "start": 61.64,
+      "end": 64.72,
+      "text": "beaches here used to see four species of turtles come ashore.",
+      "avg_logprob": -0.10068513428816547,
+      "no_speech_prob": 0.013321267440915108
+    },
+    {
+      "id": 30,
+      "start": 64.72,
+      "end": 68.12,
+      "text": "Now, only the green turtle is seen here in large numbers,",
+      "avg_logprob": -0.10068513428816547,
+      "no_speech_prob": 0.013321267440915108
+    },
+    {
+      "id": 31,
+      "start": 68.12,
+      "end": 70.28,
+      "text": "but way less than 50 years ago.",
+      "avg_logprob": -0.10068513428816547,
+      "no_speech_prob": 0.013321267440915108
+    },
+    {
+      "id": 32,
+      "start": 70.28,
+      "end": 73.2,
+      "text": "When was the last time you saw a turtle on a beach like this?",
+      "avg_logprob": -0.10068513428816547,
+      "no_speech_prob": 0.013321267440915108
+    },
+    {
+      "id": 33,
+      "start": 73.2,
+      "end": 75.12,
+      "text": "We can either do something about it now,",
+      "avg_logprob": -0.10068513428816547,
+      "no_speech_prob": 0.013321267440915108
+    },
+    {
+      "id": 34,
+      "start": 75.12,
+      "end": 77.76,
+      "text": "or do it in about 20 years when it's too hot and too late",
+      "avg_logprob": -0.10068513428816547,
+      "no_speech_prob": 0.013321267440915108
+    },
+    {
+      "id": 35,
+      "start": 77.76,
+      "end": 78.96,
+      "text": "to do anything about it,",
+      "avg_logprob": -0.10068513428816547,
+      "no_speech_prob": 0.013321267440915108
+    },
+    {
+      "id": 36,
+      "start": 78.96,
+      "end": 80.84,
+      "text": "because I think it's going to be a real shame",
+      "avg_logprob": -0.10068513428816547,
+      "no_speech_prob": 0.013321267440915108
+    },
+    {
+      "id": 37,
+      "start": 80.84,
+      "end": 83.0,
+      "text": "if the only way I'm ever going to see a turtle",
+      "avg_logprob": -0.10068513428816547,
+      "no_speech_prob": 0.013321267440915108
+    },
+    {
+      "id": 38,
+      "start": 83.0,
+      "end": 84.2,
+      "text": "is in a video like this.",
+      "avg_logprob": -0.10068513428816547,
+      "no_speech_prob": 0.013321267440915108
+    }
+  ],
+  "transcript_full": "In about 20 years, Malaysia's turtles may disappear. And the reason for this? Climate change. Every day we hear about the world getting hotter. But do you know what else gets hot? The sand. When the sand temperature is about 29.2 Celsius, the number of male and female turtles coming out of a green turtle nest will be balanced 50-50. If the sand temperature goes up by one degree, all the baby turtles that come out will be female. If it goes down one degree colder, then all the turtles that come out will be male. How hot do you think this sand is? But from what we're seeing and feeling, the world is not getting cooler. And scientists are finding out that in places like Malaysia, there are almost no males hatching these days. So when the female turtles get big enough in a couple of decades, they may not find any males to mate with. The loss of turtles anywhere would be devastating. Coastal erosion, explosion of jellyfish populations, porous seagrass beds. Check out the text below if you want to know more about what will happen if turtles disappear. And Malaysia used to have thousands upon thousands of turtles coming up on our beaches to lay their eggs. In certain Malaysian states like Triangano, beaches here used to see four species of turtles come ashore. Now, only the green turtle is seen here in large numbers, but way less than 50 years ago. When was the last time you saw a turtle on a beach like this? We can either do something about it now, or do it in about 20 years when it's too hot and too late to do anything about it, because I think it's going to be a real shame if the only way I'm ever going to see a turtle is in a video like this.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
