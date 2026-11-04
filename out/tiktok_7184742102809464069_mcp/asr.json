@@ -1,0 +1,52 @@
+{
+  "language": "en",
+  "language_probability": 0.9976988434791565,
+  "duration": 23.45,
+  "duration_after_vad": 23.4,
+  "segment_count": 5,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Here is an easy way to explain climate change to people.",
+      "avg_logprob": -0.1307869490621419,
+      "no_speech_prob": 0.011133145540952682
+    },
+    {
+      "id": 2,
+      "start": 3.0,
+      "end": 9.2,
+      "text": "Get them in a room at 22 degrees, they'll feel comfortable, but then you turn up the AC by 2 degrees and they'll feel hot.",
+      "avg_logprob": -0.1307869490621419,
+      "no_speech_prob": 0.011133145540952682
+    },
+    {
+      "id": 3,
+      "start": 9.2,
+      "end": 13.6,
+      "text": "Then you do the opposite, you turn the AC down by 2 degrees and they'll feel pretty cold.",
+      "avg_logprob": -0.1307869490621419,
+      "no_speech_prob": 0.011133145540952682
+    },
+    {
+      "id": 4,
+      "start": 13.6,
+      "end": 18.2,
+      "text": "You will have made them feel how much they can perceive in only 2 degree change in temperature.",
+      "avg_logprob": -0.1307869490621419,
+      "no_speech_prob": 0.011133145540952682
+    },
+    {
+      "id": 5,
+      "start": 18.2,
+      "end": 23.4,
+      "text": "But in tomorrow's video, I will help you remind them that climate change is about so much more than temperature.",
+      "avg_logprob": -0.1307869490621419,
+      "no_speech_prob": 0.011133145540952682
+    }
+  ],
+  "transcript_full": "Here is an easy way to explain climate change to people. Get them in a room at 22 degrees, they'll feel comfortable, but then you turn up the AC by 2 degrees and they'll feel hot. Then you do the opposite, you turn the AC down by 2 degrees and they'll feel pretty cold. You will have made them feel how much they can perceive in only 2 degree change in temperature. But in tomorrow's video, I will help you remind them that climate change is about so much more than temperature.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
