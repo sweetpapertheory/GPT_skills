@@ -1,0 +1,28 @@
+{
+  "language": "en",
+  "language_probability": 0.965481698513031,
+  "duration": 16.6,
+  "duration_after_vad": 14.0,
+  "segment_count": 2,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.96,
+      "end": 11.96,
+      "text": "American President Joe Biden has made the Willow project, meaning he will release up to 287 metric tons of carbon dioxide over 30 years.",
+      "avg_logprob": -0.17558229032983172,
+      "no_speech_prob": 0.2709193825721741
+    },
+    {
+      "id": 2,
+      "start": 11.96,
+      "end": 16.96,
+      "text": "After this happens, climate change will be impossible. Please boost this.",
+      "avg_logprob": -0.17558229032983172,
+      "no_speech_prob": 0.2709193825721741
+    }
+  ],
+  "transcript_full": "American President Joe Biden has made the Willow project, meaning he will release up to 287 metric tons of carbon dioxide over 30 years. After this happens, climate change will be impossible. Please boost this.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
