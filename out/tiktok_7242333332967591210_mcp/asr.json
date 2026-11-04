@@ -1,0 +1,132 @@
+{
+  "language": "en",
+  "language_probability": 0.9975947737693787,
+  "duration": 80.314,
+  "duration_after_vad": 77.68,
+  "segment_count": 15,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.12,
+      "text": "We are dealing with this existential crisis of climate change, this haze here in New York and",
+      "avg_logprob": -0.12757049120134778,
+      "no_speech_prob": 0.011805412359535694
+    },
+    {
+      "id": 2,
+      "start": 7.12,
+      "end": 14.08,
+      "text": "across the north of America. We know it. We see evidence of it every single year. The question",
+      "avg_logprob": -0.12757049120134778,
+      "no_speech_prob": 0.011805412359535694
+    },
+    {
+      "id": 3,
+      "start": 14.08,
+      "end": 18.24,
+      "text": "is, is what are we doing? I was with a high-level US official yesterday who was telling me about",
+      "avg_logprob": -0.12757049120134778,
+      "no_speech_prob": 0.011805412359535694
+    },
+    {
+      "id": 4,
+      "start": 18.24,
+      "end": 24.24,
+      "text": "how we are sending firefighters from America up into Canada to help with this incredible fire.",
+      "avg_logprob": -0.12757049120134778,
+      "no_speech_prob": 0.011805412359535694
+    },
+    {
+      "id": 5,
+      "start": 24.88,
+      "end": 28.8,
+      "text": "And it is a great mark of our country, whether it's flooding in Pakistan",
+      "avg_logprob": -0.10106214542907697,
+      "no_speech_prob": 0.19653886556625366
+    },
+    {
+      "id": 6,
+      "start": 29.44,
+      "end": 34.96,
+      "text": "to fires in Canada. We are helping a lot with this global crisis due to climate change.",
+      "avg_logprob": -0.10106214542907697,
+      "no_speech_prob": 0.19653886556625366
+    },
+    {
+      "id": 7,
+      "start": 35.84,
+      "end": 40.88,
+      "text": "But they look at me with a sobered face when they said we usually move people around. Depending",
+      "avg_logprob": -0.10106214542907697,
+      "no_speech_prob": 0.19653886556625366
+    },
+    {
+      "id": 8,
+      "start": 40.88,
+      "end": 44.72,
+      "text": "on where there's an off season, we have extra firefighters to a place where there is the",
+      "avg_logprob": -0.10106214542907697,
+      "no_speech_prob": 0.19653886556625366
+    },
+    {
+      "id": 9,
+      "start": 44.72,
+      "end": 51.04,
+      "text": "fire season. And then they looked at me and simply said, but now, Senator, there is no off",
+      "avg_logprob": -0.10106214542907697,
+      "no_speech_prob": 0.19653886556625366
+    },
+    {
+      "id": 10,
+      "start": 51.04,
+      "end": 56.08,
+      "text": "season. Are we allowing our inability to do everything to undermine our determination",
+      "avg_logprob": -0.07177802300689244,
+      "no_speech_prob": 0.02340926229953766
+    },
+    {
+      "id": 11,
+      "start": 56.64,
+      "end": 61.84,
+      "text": "to do something, even if it's just pushing and advocating for policies or leaders,",
+      "avg_logprob": -0.07177802300689244,
+      "no_speech_prob": 0.02340926229953766
+    },
+    {
+      "id": 12,
+      "start": 61.84,
+      "end": 68.08,
+      "text": "elected leaders who will take this crisis seriously? I love what Martin Luther King said.",
+      "avg_logprob": -0.07177802300689244,
+      "no_speech_prob": 0.02340926229953766
+    },
+    {
+      "id": 13,
+      "start": 68.96,
+      "end": 73.52,
+      "text": "He said, what we have to repent for in this day and age is not just the vitriolic words",
+      "avg_logprob": -0.07177802300689244,
+      "no_speech_prob": 0.02340926229953766
+    },
+    {
+      "id": 14,
+      "start": 73.52,
+      "end": 79.28,
+      "text": "and violent actions of the bad people, but the appalling silence and inaction of the good",
+      "avg_logprob": -0.07177802300689244,
+      "no_speech_prob": 0.02340926229953766
+    },
+    {
+      "id": 15,
+      "start": 79.28,
+      "end": 81.28,
+      "text": "people.",
+      "avg_logprob": -0.9370035171508789,
+      "no_speech_prob": 0.5108535885810852
+    }
+  ],
+  "transcript_full": "We are dealing with this existential crisis of climate change, this haze here in New York and across the north of America. We know it. We see evidence of it every single year. The question is, is what are we doing? I was with a high-level US official yesterday who was telling me about how we are sending firefighters from America up into Canada to help with this incredible fire. And it is a great mark of our country, whether it's flooding in Pakistan to fires in Canada. We are helping a lot with this global crisis due to climate change. But they look at me with a sobered face when they said we usually move people around. Depending on where there's an off season, we have extra firefighters to a place where there is the fire season. And then they looked at me and simply said, but now, Senator, there is no off season. Are we allowing our inability to do everything to undermine our determination to do something, even if it's just pushing and advocating for policies or leaders, elected leaders who will take this crisis seriously? I love what Martin Luther King said. He said, what we have to repent for in this day and age is not just the vitriolic words and violent actions of the bad people, but the appalling silence and inaction of the good people.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
