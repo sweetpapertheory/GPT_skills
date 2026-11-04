@@ -1,0 +1,76 @@
+{
+  "language": "en",
+  "language_probability": 0.9904639720916748,
+  "duration": 34.387,
+  "duration_after_vad": 33.4,
+  "segment_count": 8,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.05,
+      "end": 3.09,
+      "text": "So in the name of climate change, somebody took the Mona Lisa",
+      "avg_logprob": -0.27403425476322435,
+      "no_speech_prob": 0.4679839611053467
+    },
+    {
+      "id": 2,
+      "start": 3.89,
+      "end": 8.85,
+      "text": "and smeared cake on it, which makes no sense at all because Mona probably had no cake.",
+      "avg_logprob": -0.27403425476322435,
+      "no_speech_prob": 0.4679839611053467
+    },
+    {
+      "id": 3,
+      "start": 8.85,
+      "end": 12.33,
+      "text": "She looked basic as hell to begin with. I don't even know why she is popular.",
+      "avg_logprob": -0.27403425476322435,
+      "no_speech_prob": 0.4679839611053467
+    },
+    {
+      "id": 4,
+      "start": 12.33,
+      "end": 17.53,
+      "text": "She is like, I know homeless people on the side of a freeway that can make better paintings than this,",
+      "avg_logprob": -0.27403425476322435,
+      "no_speech_prob": 0.4679839611053467
+    },
+    {
+      "id": 5,
+      "start": 17.53,
+      "end": 20.65,
+      "text": "but that's besides the point. My thing is Mona ain't had nothing to do.",
+      "avg_logprob": -0.27403425476322435,
+      "no_speech_prob": 0.4679839611053467
+    },
+    {
+      "id": 6,
+      "start": 20.65,
+      "end": 24.61,
+      "text": "She just sit there smiling at your ass instead. What's she got to do with climate change?",
+      "avg_logprob": -0.27403425476322435,
+      "no_speech_prob": 0.4679839611053467
+    },
+    {
+      "id": 7,
+      "start": 24.65,
+      "end": 29.29,
+      "text": "She not changing nothing. You made a cake. You doing more damage to the damn",
+      "avg_logprob": -0.27403425476322435,
+      "no_speech_prob": 0.4679839611053467
+    },
+    {
+      "id": 8,
+      "start": 29.29,
+      "end": 34.29,
+      "text": "environment than Mona is. You should have took the cake and threw it in your damn face if you being honest.",
+      "avg_logprob": -0.27265362441539764,
+      "no_speech_prob": 0.12210434675216675
+    }
+  ],
+  "transcript_full": "So in the name of climate change, somebody took the Mona Lisa and smeared cake on it, which makes no sense at all because Mona probably had no cake. She looked basic as hell to begin with. I don't even know why she is popular. She is like, I know homeless people on the side of a freeway that can make better paintings than this, but that's besides the point. My thing is Mona ain't had nothing to do. She just sit there smiling at your ass instead. What's she got to do with climate change? She not changing nothing. You made a cake. You doing more damage to the damn environment than Mona is. You should have took the cake and threw it in your damn face if you being honest.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
