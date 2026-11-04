@@ -1,148 +1,108 @@
 {
-  "language": "cy",
-  "language_probability": 0.9181765913963318,
+  "language": "en",
+  "language_probability": 1,
   "duration": 68.452,
-  "duration_after_vad": 68.22,
-  "segment_count": 17,
+  "duration_after_vad": 68.16,
+  "segment_count": 12,
   "segments": [
     {
       "id": 1,
       "start": 0.0,
-      "end": 7.2,
-      "text": "Mae'r rhaglau yn hawdd gennymau, ac mae'n dwylo'r cyffredinol, ac mae'n gweld yn ffacolol yn gweithio.",
-      "avg_logprob": -1.4743971214202292,
+      "end": 5.84,
+      "text": "What happened in Pakistan is devastation beyond belief and it is no question but that it is",
+      "avg_logprob": -0.1655734513293613,
       "no_speech_prob": 0.4251725971698761
     },
     {
       "id": 2,
-      "start": 7.2,
-      "end": 12.5,
-      "text": "53 rydyn ni'n gweithio, yn ysgolio, yn ysgolio, yn ateb, yn ymlaen, yn ymlaen i oktober.",
-      "avg_logprob": -1.4743971214202292,
+      "start": 5.84,
+      "end": 13.36,
+      "text": "climate-induced. Fifty-three degrees, glacial melts, monsoon going into October. One-third of the",
+      "avg_logprob": -0.1655734513293613,
       "no_speech_prob": 0.4251725971698761
     },
     {
       "id": 3,
-      "start": 12.5,
-      "end": 16.5,
-      "text": "Mae'r mwylo yn ysgolio yn ymweld yn ysgolio, yn amlwyd y 33 miliwn.",
-      "avg_logprob": -1.4743971214202292,
+      "start": 13.36,
+      "end": 19.04,
+      "text": "country underwater, 33 million affected. We've even heard about schools being shut down because",
+      "avg_logprob": -0.1655734513293613,
       "no_speech_prob": 0.4251725971698761
     },
     {
       "id": 4,
-      "start": 16.5,
-      "end": 20.6,
-      "text": "Mae'n gweithio o'r gweithio ar gyfer y gweithio, ac mae'n gofio ar gyfer yng ngyfru,",
-      "avg_logprob": -1.4743971214202292,
+      "start": 19.04,
+      "end": 24.48,
+      "text": "they're needed for shelter so all of the young people are being denied an education.",
+      "avg_logprob": -0.1655734513293613,
       "no_speech_prob": 0.4251725971698761
     },
     {
       "id": 5,
-      "start": 20.6,
-      "end": 24.5,
-      "text": "ar gyfer y cyfnodau, ac mae'n gweithio ar gyfer yr gufnodau.",
-      "avg_logprob": -1.4743971214202292,
-      "no_speech_prob": 0.4251725971698761
+      "start": 24.56,
+      "end": 30.48,
+      "text": "Pakistan's climate change minister Sherry Rehman blames the inefficiency of the North-South climate",
+      "avg_logprob": -0.13293916430501712,
+      "no_speech_prob": 0.3327847719192505
     },
     {
       "id": 6,
-      "start": 24.5,
-      "end": 27.62,
-      "text": "a Llew Gwlaffau Cymru, Ryrtydd Sherry Remann,",
-      "avg_logprob": -2.1645405281722816,
-      "no_speech_prob": 0.3777511417865753
+      "start": 30.48,
+      "end": 38.0,
+      "text": "deal. She says there's so much loss and damage with so little reparations to countries that",
+      "avg_logprob": -0.13293916430501712,
+      "no_speech_prob": 0.3327847719192505
     },
     {
       "id": 7,
-      "start": 27.62,
-      "end": 30.98,
-      "text": "ond elinodd yn ymlaen ei sydd i gyflaenau eich Llew Gwlaffau North,",
-      "avg_logprob": -2.1645405281722816,
-      "no_speech_prob": 0.3777511417865753
+      "start": 38.0,
+      "end": 43.2,
+      "text": "contributed so little in the world's carbon footprint that obviously the bargain made between",
+      "avg_logprob": -0.13293916430501712,
+      "no_speech_prob": 0.3327847719192505
     },
     {
       "id": 8,
-      "start": 30.98,
-      "end": 33.54,
-      "text": "yn oes gyrin nhw,",
-      "avg_logprob": -2.1645405281722816,
-      "no_speech_prob": 0.3777511417865753
+      "start": 43.2,
+      "end": 49.44,
+      "text": "the global north and the global south is not working and she is totally right. Pakistan has",
+      "avg_logprob": -0.13293916430501712,
+      "no_speech_prob": 0.3327847719192505
     },
     {
       "id": 9,
-      "start": 33.62,
-      "end": 37.06,
-      "text": "aryf yn byw gweld arnau gwybod hefyd yn cyflaen adrodd rhan yma",
-      "avg_logprob": -2.1645405281722816,
-      "no_speech_prob": 0.3777511417865753
+      "start": 49.44,
+      "end": 54.8,
+      "text": "contributed so little and is paying the most. It's the world's most fiftieth populous country.",
+      "avg_logprob": -0.1675707271322608,
+      "no_speech_prob": 0.3018069267272949
     },
     {
       "id": 10,
-      "start": 37.06,
-      "end": 40.02,
-      "text": "i wneud hynny, ac ei chyfnod wedi'n gyfflaenau",
-      "avg_logprob": -2.1645405281722816,
-      "no_speech_prob": 0.3777511417865753
+      "start": 54.8,
+      "end": 61.28,
+      "text": "It's host to so many Afghan refugees to whom we shut up our borders. The international community",
+      "avg_logprob": -0.1675707271322608,
+      "no_speech_prob": 0.3018069267272949
     },
     {
       "id": 11,
-      "start": 40.02,
-      "end": 42.66,
-      "text": "i'w cael gyfrifyr этотag ac yn ddwylo,",
-      "avg_logprob": -2.1645405281722816,
-      "no_speech_prob": 0.3777511417865753
+      "start": 61.28,
+      "end": 66.72,
+      "text": "has an obligation to assist and yet we condition our relief or give them a pit. It's just not",
+      "avg_logprob": -0.1675707271322608,
+      "no_speech_prob": 0.3018069267272949
     },
     {
       "id": 12,
-      "start": 42.66,
-      "end": 46.9,
-      "text": "neu'n gyflaenu rhan a'r gyflaenau i Llew Gwlaff Nidol",
-      "avg_logprob": -2.1645405281722816,
-      "no_speech_prob": 0.3777511417865753
-    },
-    {
-      "id": 13,
-      "start": 46.9,
-      "end": 49.82,
-      "text": "ac ei wedi'n cyflaenau i'w cael gyfrifyr hwn,",
-      "avg_logprob": -2.1645405281722816,
-      "no_speech_prob": 0.3777511417865753
-    },
-    {
-      "id": 14,
-      "start": 49.82,
-      "end": 52.22,
-      "text": "a'i gyrin nhw i gyrin nhw,",
-      "avg_logprob": -2.1645405281722816,
-      "no_speech_prob": 0.3777511417865753
-    },
-    {
-      "id": 15,
-      "start": 52.22,
-      "end": 59.74,
-      "text": "world's 50th populist country. It's toast to so many Afghan refugees, to whom we shut up, our borders.",
-      "avg_logprob": -0.5849200127755895,
-      "no_speech_prob": 0.19558875262737274
-    },
-    {
-      "id": 16,
-      "start": 59.74,
-      "end": 64.86,
-      "text": "The international community has an obligation to assist, and yet we condition our relief",
-      "avg_logprob": -0.5849200127755895,
-      "no_speech_prob": 0.19558875262737274
-    },
-    {
-      "id": 17,
-      "start": 64.86,
-      "end": 68.3,
-      "text": "or give them a pickence. It's just not good enough, it's time to act.",
-      "avg_logprob": -0.5849200127755895,
-      "no_speech_prob": 0.19558875262737274
+      "start": 66.72,
+      "end": 68.24,
+      "text": "good enough. It's time to act.",
+      "avg_logprob": -0.1675707271322608,
+      "no_speech_prob": 0.3018069267272949
     }
   ],
-  "transcript_full": "Mae'r rhaglau yn hawdd gennymau, ac mae'n dwylo'r cyffredinol, ac mae'n gweld yn ffacolol yn gweithio. 53 rydyn ni'n gweithio, yn ysgolio, yn ysgolio, yn ateb, yn ymlaen, yn ymlaen i oktober. Mae'r mwylo yn ysgolio yn ymweld yn ysgolio, yn amlwyd y 33 miliwn. Mae'n gweithio o'r gweithio ar gyfer y gweithio, ac mae'n gofio ar gyfer yng ngyfru, ar gyfer y cyfnodau, ac mae'n gweithio ar gyfer yr gufnodau. a Llew Gwlaffau Cymru, Ryrtydd Sherry Remann, ond elinodd yn ymlaen ei sydd i gyflaenau eich Llew Gwlaffau North, yn oes gyrin nhw, aryf yn byw gweld arnau gwybod hefyd yn cyflaen adrodd rhan yma i wneud hynny, ac ei chyfnod wedi'n gyfflaenau i'w cael gyfrifyr этотag ac yn ddwylo, neu'n gyflaenu rhan a'r gyflaenau i Llew Gwlaff Nidol ac ei wedi'n cyflaenau i'w cael gyfrifyr hwn, a'i gyrin nhw i gyrin nhw, world's 50th populist country. It's toast to so many Afghan refugees, to whom we shut up, our borders. The international community has an obligation to assist, and yet we condition our relief or give them a pickence. It's just not good enough, it's time to act.",
+  "transcript_full": "What happened in Pakistan is devastation beyond belief and it is no question but that it is climate-induced. Fifty-three degrees, glacial melts, monsoon going into October. One-third of the country underwater, 33 million affected. We've even heard about schools being shut down because they're needed for shelter so all of the young people are being denied an education. Pakistan's climate change minister Sherry Rehman blames the inefficiency of the North-South climate deal. She says there's so much loss and damage with so little reparations to countries that contributed so little in the world's carbon footprint that obviously the bargain made between the global north and the global south is not working and she is totally right. Pakistan has contributed so little and is paying the most. It's the world's most fiftieth populous country. It's host to so many Afghan refugees to whom we shut up our borders. The international community has an obligation to assist and yet we condition our relief or give them a pit. It's just not good enough. It's time to act.",
   "model": "faster-whisper-small-int8",
   "asr_backend": "faster-whisper"
 }
