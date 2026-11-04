@@ -1,0 +1,116 @@
+{
+  "language": "en",
+  "language_probability": 0.9989835619926453,
+  "duration": 49.96,
+  "duration_after_vad": 49.8,
+  "segment_count": 13,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.6,
+      "text": "Our planet is spinning slower and our days are getting longer all because of climate change.",
+      "avg_logprob": -0.18031423586228537,
+      "no_speech_prob": 0.002762161660939455
+    },
+    {
+      "id": 2,
+      "start": 5.6,
+      "end": 7.3,
+      "text": "That's what a new study has found.",
+      "avg_logprob": -0.18031423586228537,
+      "no_speech_prob": 0.002762161660939455
+    },
+    {
+      "id": 3,
+      "start": 7.3,
+      "end": 12.08,
+      "text": "Melting polar ice caps are causing this change, as humans warm the world, glaciers and ice",
+      "avg_logprob": -0.18031423586228537,
+      "no_speech_prob": 0.002762161660939455
+    },
+    {
+      "id": 4,
+      "start": 12.08,
+      "end": 16.2,
+      "text": "sheets melt and the water flows down from the poles towards the equator.",
+      "avg_logprob": -0.18031423586228537,
+      "no_speech_prob": 0.002762161660939455
+    },
+    {
+      "id": 5,
+      "start": 16.2,
+      "end": 20.76,
+      "text": "This changes the Earth's shape, flattening it at the poles and making it bulge more",
+      "avg_logprob": -0.18031423586228537,
+      "no_speech_prob": 0.002762161660939455
+    },
+    {
+      "id": 6,
+      "start": 20.76,
+      "end": 21.76,
+      "text": "in the middle.",
+      "avg_logprob": -0.18031423586228537,
+      "no_speech_prob": 0.002762161660939455
+    },
+    {
+      "id": 7,
+      "start": 21.76,
+      "end": 23.6,
+      "text": "And that makes it spin more slowly.",
+      "avg_logprob": -0.18031423586228537,
+      "no_speech_prob": 0.002762161660939455
+    },
+    {
+      "id": 8,
+      "start": 23.6,
+      "end": 29.4,
+      "text": "The study lays the blame firmly on what it calls human-caused climate change.",
+      "avg_logprob": -0.18031423586228537,
+      "no_speech_prob": 0.002762161660939455
+    },
+    {
+      "id": 9,
+      "start": 29.4,
+      "end": 34.6,
+      "text": "Although incredibly slight, just a few milliseconds a day, it's likely to have an impact on technology",
+      "avg_logprob": -0.1718282327055931,
+      "no_speech_prob": 0.02411692775785923
+    },
+    {
+      "id": 10,
+      "start": 34.6,
+      "end": 38.48,
+      "text": "that we all rely on, like GPS, which is in everybody's phone.",
+      "avg_logprob": -0.1718282327055931,
+      "no_speech_prob": 0.02411692775785923
+    },
+    {
+      "id": 11,
+      "start": 38.48,
+      "end": 42.0,
+      "text": "One of the study's authors called the conclusions sobering.",
+      "avg_logprob": -0.1718282327055931,
+      "no_speech_prob": 0.02411692775785923
+    },
+    {
+      "id": 12,
+      "start": 42.0,
+      "end": 45.88,
+      "text": "Humankind is now influencing the Earth's orientation in space, they said.",
+      "avg_logprob": -0.1718282327055931,
+      "no_speech_prob": 0.02411692775785923
+    },
+    {
+      "id": 13,
+      "start": 45.88,
+      "end": 49.8,
+      "text": "We now dominate effects that have been in action for billions of years.",
+      "avg_logprob": -0.1718282327055931,
+      "no_speech_prob": 0.02411692775785923
+    }
+  ],
+  "transcript_full": "Our planet is spinning slower and our days are getting longer all because of climate change. That's what a new study has found. Melting polar ice caps are causing this change, as humans warm the world, glaciers and ice sheets melt and the water flows down from the poles towards the equator. This changes the Earth's shape, flattening it at the poles and making it bulge more in the middle. And that makes it spin more slowly. The study lays the blame firmly on what it calls human-caused climate change. Although incredibly slight, just a few milliseconds a day, it's likely to have an impact on technology that we all rely on, like GPS, which is in everybody's phone. One of the study's authors called the conclusions sobering. Humankind is now influencing the Earth's orientation in space, they said. We now dominate effects that have been in action for billions of years.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
