@@ -1,0 +1,108 @@
+{
+  "language": "en",
+  "language_probability": 0.9960162043571472,
+  "duration": 58.9,
+  "duration_after_vad": 58.72,
+  "segment_count": 12,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.12,
+      "text": "I'm getting really tired of people saying climate change isn't real.",
+      "avg_logprob": -0.10490659386163852,
+      "no_speech_prob": 0.07423106580972672
+    },
+    {
+      "id": 2,
+      "start": 3.12,
+      "end": 9.2,
+      "text": "A small town in Canada, Lytton, had the highest recorded temperatures of over a 50 degrees Celsius,",
+      "avg_logprob": -0.10490659386163852,
+      "no_speech_prob": 0.07423106580972672
+    },
+    {
+      "id": 3,
+      "start": 9.2,
+      "end": 15.92,
+      "text": "that's 122 Fahrenheit. To give you an idea, that is three days of a hotter temperature than Nevada",
+      "avg_logprob": -0.10490659386163852,
+      "no_speech_prob": 0.07423106580972672
+    },
+    {
+      "id": 4,
+      "start": 15.92,
+      "end": 20.8,
+      "text": "has ever experienced. A town in Canada has had higher recorded temperatures than Nevada.",
+      "avg_logprob": -0.10490659386163852,
+      "no_speech_prob": 0.07423106580972672
+    },
+    {
+      "id": 5,
+      "start": 20.8,
+      "end": 25.2,
+      "text": "After three days of this scorching heat, basically a CN freight train going through",
+      "avg_logprob": -0.10490659386163852,
+      "no_speech_prob": 0.07423106580972672
+    },
+    {
+      "id": 6,
+      "start": 25.2,
+      "end": 28.64,
+      "text": "town started a fire that burnt the entire town down within an hour and a half, two",
+      "avg_logprob": -0.10490659386163852,
+      "no_speech_prob": 0.07423106580972672
+    },
+    {
+      "id": 7,
+      "start": 28.64,
+      "end": 32.64,
+      "text": "hours. Ninety percent of buildings gone. And after this disaster, what I'm tired of",
+      "avg_logprob": -0.1578617137191551,
+      "no_speech_prob": 0.07073406875133514
+    },
+    {
+      "id": 8,
+      "start": 32.64,
+      "end": 39.12,
+      "text": "seeing is GoFundMe's. Like, that's what they're left to. After a billion dollar corporation burns",
+      "avg_logprob": -0.1578617137191551,
+      "no_speech_prob": 0.07073406875133514
+    },
+    {
+      "id": 9,
+      "start": 39.12,
+      "end": 43.28,
+      "text": "the town down, it's left to the people of that town to start GoFundMe and hopefully somebody",
+      "avg_logprob": -0.1578617137191551,
+      "no_speech_prob": 0.07073406875133514
+    },
+    {
+      "id": 10,
+      "start": 43.28,
+      "end": 50.0,
+      "text": "gives them enough money that they can get by. Bullshit. 100 companies contribute to 70% of",
+      "avg_logprob": -0.1578617137191551,
+      "no_speech_prob": 0.07073406875133514
+    },
+    {
+      "id": 11,
+      "start": 50.0,
+      "end": 55.2,
+      "text": "global greenhouse gas emissions and then when the damage happens like this, the companies",
+      "avg_logprob": -0.1578617137191551,
+      "no_speech_prob": 0.07073406875133514
+    },
+    {
+      "id": 12,
+      "start": 55.2,
+      "end": 58.72,
+      "text": "don't do shit. It's left to source people donating money. Bullshit.",
+      "avg_logprob": -0.19568960964679719,
+      "no_speech_prob": 0.4016883671283722
+    }
+  ],
+  "transcript_full": "I'm getting really tired of people saying climate change isn't real. A small town in Canada, Lytton, had the highest recorded temperatures of over a 50 degrees Celsius, that's 122 Fahrenheit. To give you an idea, that is three days of a hotter temperature than Nevada has ever experienced. A town in Canada has had higher recorded temperatures than Nevada. After three days of this scorching heat, basically a CN freight train going through town started a fire that burnt the entire town down within an hour and a half, two hours. Ninety percent of buildings gone. And after this disaster, what I'm tired of seeing is GoFundMe's. Like, that's what they're left to. After a billion dollar corporation burns the town down, it's left to the people of that town to start GoFundMe and hopefully somebody gives them enough money that they can get by. Bullshit. 100 companies contribute to 70% of global greenhouse gas emissions and then when the damage happens like this, the companies don't do shit. It's left to source people donating money. Bullshit.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
