@@ -1,0 +1,132 @@
+{
+  "language": "en",
+  "language_probability": 0.9932469129562378,
+  "duration": 40.933,
+  "duration_after_vad": 40.8,
+  "segment_count": 15,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.08,
+      "text": "Hey, are you okay?",
+      "avg_logprob": -0.17210532701932468,
+      "no_speech_prob": 0.34647345542907715
+    },
+    {
+      "id": 2,
+      "start": 1.08,
+      "end": 5.5,
+      "text": "Oh yeah, I'm fine. I'm just a little stressed about the climate crisis and the environment and I don't really know what to do.",
+      "avg_logprob": -0.17210532701932468,
+      "no_speech_prob": 0.34647345542907715
+    },
+    {
+      "id": 3,
+      "start": 5.5,
+      "end": 6.4,
+      "text": "Oh man, me too.",
+      "avg_logprob": -0.17210532701932468,
+      "no_speech_prob": 0.34647345542907715
+    },
+    {
+      "id": 4,
+      "start": 6.4,
+      "end": 9.4,
+      "text": "Have you heard about the new upcoming TED event on October 10th?",
+      "avg_logprob": -0.17210532701932468,
+      "no_speech_prob": 0.34647345542907715
+    },
+    {
+      "id": 5,
+      "start": 9.4,
+      "end": 11.6,
+      "text": "TED like that movie about a stuffed animal bear?",
+      "avg_logprob": -0.17210532701932468,
+      "no_speech_prob": 0.34647345542907715
+    },
+    {
+      "id": 6,
+      "start": 11.6,
+      "end": 13.8,
+      "text": "No, like TED, the company, like TED Talks.",
+      "avg_logprob": -0.17210532701932468,
+      "no_speech_prob": 0.34647345542907715
+    },
+    {
+      "id": 7,
+      "start": 13.8,
+      "end": 19.0,
+      "text": "They're having a huge live stream where they're going in depth about climate change, renewable energy and other awesome topics like that.",
+      "avg_logprob": -0.17210532701932468,
+      "no_speech_prob": 0.34647345542907715
+    },
+    {
+      "id": 8,
+      "start": 19.0,
+      "end": 20.6,
+      "text": "What? No way, that sounds so cool.",
+      "avg_logprob": -0.17210532701932468,
+      "no_speech_prob": 0.34647345542907715
+    },
+    {
+      "id": 9,
+      "start": 20.6,
+      "end": 24.3,
+      "text": "Yes, it's gonna be so cool and they have a bunch of awesome guest speakers and it's gonna be really fun.",
+      "avg_logprob": -0.17210532701932468,
+      "no_speech_prob": 0.34647345542907715
+    },
+    {
+      "id": 10,
+      "start": 24.3,
+      "end": 26.8,
+      "text": "That sounds amazing. When is it again? Also is it free?",
+      "avg_logprob": -0.17210532701932468,
+      "no_speech_prob": 0.34647345542907715
+    },
+    {
+      "id": 11,
+      "start": 26.8,
+      "end": 29.5,
+      "text": "Yes, it is completely free. It's on October 10th, 1010.",
+      "avg_logprob": -0.17210532701932468,
+      "no_speech_prob": 0.34647345542907715
+    },
+    {
+      "id": 12,
+      "start": 29.5,
+      "end": 34.1,
+      "text": "And if you want more information, go to countdown.ted.com or just click the link in my bio.",
+      "avg_logprob": -0.14509873241186141,
+      "no_speech_prob": 0.15643222630023956
+    },
+    {
+      "id": 13,
+      "start": 34.1,
+      "end": 35.0,
+      "text": "Join the countdown.",
+      "avg_logprob": -0.14509873241186141,
+      "no_speech_prob": 0.15643222630023956
+    },
+    {
+      "id": 14,
+      "start": 35.0,
+      "end": 39.2,
+      "text": "That is so awesome. Thank you so much for telling me that. I'm gonna join the countdown. Are you?",
+      "avg_logprob": -0.14509873241186141,
+      "no_speech_prob": 0.15643222630023956
+    },
+    {
+      "id": 15,
+      "start": 39.2,
+      "end": 40.8,
+      "text": "Let's learn how to save the Earth.",
+      "avg_logprob": -0.14509873241186141,
+      "no_speech_prob": 0.15643222630023956
+    }
+  ],
+  "transcript_full": "Hey, are you okay? Oh yeah, I'm fine. I'm just a little stressed about the climate crisis and the environment and I don't really know what to do. Oh man, me too. Have you heard about the new upcoming TED event on October 10th? TED like that movie about a stuffed animal bear? No, like TED, the company, like TED Talks. They're having a huge live stream where they're going in depth about climate change, renewable energy and other awesome topics like that. What? No way, that sounds so cool. Yes, it's gonna be so cool and they have a bunch of awesome guest speakers and it's gonna be really fun. That sounds amazing. When is it again? Also is it free? Yes, it is completely free. It's on October 10th, 1010. And if you want more information, go to countdown.ted.com or just click the link in my bio. Join the countdown. That is so awesome. Thank you so much for telling me that. I'm gonna join the countdown. Are you? Let's learn how to save the Earth.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
