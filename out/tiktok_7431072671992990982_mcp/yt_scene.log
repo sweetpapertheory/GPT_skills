@@ -1,0 +1,62 @@
+frame:0    pts:39936   pts_time:3.12
+lavfi.scene_score=0.384810
+frame:1    pts:52736   pts_time:4.12
+lavfi.scene_score=0.854697
+frame:2    pts:76800   pts_time:6
+lavfi.scene_score=0.132930
+frame:3    pts:84480   pts_time:6.6
+lavfi.scene_score=0.590520
+frame:4    pts:107520  pts_time:8.4
+lavfi.scene_score=0.112608
+frame:5    pts:109056  pts_time:8.52
+lavfi.scene_score=0.107456
+frame:6    pts:125952  pts_time:9.84
+lavfi.scene_score=0.702189
+frame:7    pts:134144  pts_time:10.48
+lavfi.scene_score=0.147558
+frame:8    pts:171520  pts_time:13.4
+lavfi.scene_score=0.106910
+frame:9    pts:178688  pts_time:13.96
+lavfi.scene_score=0.317618
+frame:10   pts:239616  pts_time:18.72
+lavfi.scene_score=0.752232
+frame:11   pts:257536  pts_time:20.12
+lavfi.scene_score=0.741003
+frame:12   pts:269312  pts_time:21.04
+lavfi.scene_score=0.156303
+frame:13   pts:289280  pts_time:22.6
+lavfi.scene_score=0.109690
+frame:14   pts:334848  pts_time:26.16
+lavfi.scene_score=0.121790
+frame:15   pts:358400  pts_time:28
+lavfi.scene_score=0.124387
+frame:16   pts:402432  pts_time:31.44
+lavfi.scene_score=0.367665
+frame:17   pts:441344  pts_time:34.48
+lavfi.scene_score=0.137874
+frame:18   pts:474624  pts_time:37.08
+lavfi.scene_score=0.118030
+frame:19   pts:532992  pts_time:41.64
+lavfi.scene_score=0.111789
+frame:20   pts:557568  pts_time:43.56
+lavfi.scene_score=0.119229
+frame:21   pts:558080  pts_time:43.6
+lavfi.scene_score=0.665765
+frame:22   pts:558592  pts_time:43.64
+lavfi.scene_score=0.302119
+frame:23   pts:560128  pts_time:43.76
+lavfi.scene_score=0.127791
+frame:24   pts:567296  pts_time:44.32
+lavfi.scene_score=0.230613
+frame:25   pts:568320  pts_time:44.4
+lavfi.scene_score=0.198438
+frame:26   pts:574976  pts_time:44.92
+lavfi.scene_score=0.194823
+frame:27   pts:575488  pts_time:44.96
+lavfi.scene_score=0.138953
+frame:28   pts:576000  pts_time:45
+lavfi.scene_score=0.143846
+frame:29   pts:584192  pts_time:45.64
+lavfi.scene_score=0.200802
+frame:30   pts:584704  pts_time:45.68
+lavfi.scene_score=0.363474
