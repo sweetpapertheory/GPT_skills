@@ -1,0 +1,92 @@
+{
+  "language": "en",
+  "language_probability": 0.999642014503479,
+  "duration": 30.03,
+  "duration_after_vad": 26.92,
+  "segment_count": 10,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.92,
+      "text": "These flip flops from Gumby's are everything I need.",
+      "avg_logprob": -0.14116392564028502,
+      "no_speech_prob": 0.0006835318054072559
+    },
+    {
+      "id": 2,
+      "start": 2.92,
+      "end": 4.86,
+      "text": "They're super comfortable and supportive,",
+      "avg_logprob": -0.14116392564028502,
+      "no_speech_prob": 0.0006835318054072559
+    },
+    {
+      "id": 3,
+      "start": 4.86,
+      "end": 6.7,
+      "text": "so I wear them all the time.",
+      "avg_logprob": -0.14116392564028502,
+      "no_speech_prob": 0.0006835318054072559
+    },
+    {
+      "id": 4,
+      "start": 6.7,
+      "end": 9.88,
+      "text": "The soles are made from recycled rubber and natural jute,",
+      "avg_logprob": -0.14116392564028502,
+      "no_speech_prob": 0.0006835318054072559
+    },
+    {
+      "id": 5,
+      "start": 9.88,
+      "end": 11.68,
+      "text": "so the grip is amazing.",
+      "avg_logprob": -0.14116392564028502,
+      "no_speech_prob": 0.0006835318054072559
+    },
+    {
+      "id": 6,
+      "start": 11.68,
+      "end": 14.24,
+      "text": "I can wear them all day long no matter where I go.",
+      "avg_logprob": -0.14116392564028502,
+      "no_speech_prob": 0.0006835318054072559
+    },
+    {
+      "id": 7,
+      "start": 14.24,
+      "end": 16.86,
+      "text": "The best part is, for every pair sold,",
+      "avg_logprob": -0.14116392564028502,
+      "no_speech_prob": 0.0006835318054072559
+    },
+    {
+      "id": 8,
+      "start": 16.86,
+      "end": 21.32,
+      "text": "Gumby's plants a tree in Mozambique, Madagascar or Kenya.",
+      "avg_logprob": -0.14116392564028502,
+      "no_speech_prob": 0.0006835318054072559
+    },
+    {
+      "id": 9,
+      "start": 21.32,
+      "end": 22.8,
+      "text": "How cool is that?",
+      "avg_logprob": -0.14116392564028502,
+      "no_speech_prob": 0.0006835318054072559
+    },
+    {
+      "id": 10,
+      "start": 22.8,
+      "end": 26.92,
+      "text": "I highly recommend the Islander flip flops from Gumby's.",
+      "avg_logprob": -0.14116392564028502,
+      "no_speech_prob": 0.0006835318054072559
+    }
+  ],
+  "transcript_full": "These flip flops from Gumby's are everything I need. They're super comfortable and supportive, so I wear them all the time. The soles are made from recycled rubber and natural jute, so the grip is amazing. I can wear them all day long no matter where I go. The best part is, for every pair sold, Gumby's plants a tree in Mozambique, Madagascar or Kenya. How cool is that? I highly recommend the Islander flip flops from Gumby's.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
