@@ -1,0 +1,76 @@
+{
+  "language": "en",
+  "language_probability": 0.996868908405304,
+  "duration": 58.3,
+  "duration_after_vad": 56.9,
+  "segment_count": 8,
+  "segments": [
+    {
+      "id": 1,
+      "start": 3.18,
+      "end": 24.08,
+      "text": "There is an opportunity to put those funds straight into jobs that will",
+      "avg_logprob": -0.15904578218212376,
+      "no_speech_prob": 0.05893854796886444
+    },
+    {
+      "id": 2,
+      "start": 24.08,
+      "end": 29.84,
+      "text": "accelerate the pace of the decarbonization. So we actually just had a",
+      "avg_logprob": -0.15904578218212376,
+      "no_speech_prob": 0.05893854796886444
+    },
+    {
+      "id": 3,
+      "start": 29.84,
+      "end": 35.0,
+      "text": "report from the International Renewable Energy Agency about the trillions",
+      "avg_logprob": -0.15904578218212376,
+      "no_speech_prob": 0.05893854796886444
+    },
+    {
+      "id": 4,
+      "start": 35.0,
+      "end": 39.4,
+      "text": "literally that are there that are possible in investing in renewable",
+      "avg_logprob": -0.15904578218212376,
+      "no_speech_prob": 0.05893854796886444
+    },
+    {
+      "id": 5,
+      "start": 39.4,
+      "end": 44.64,
+      "text": "energy which is cheaper in most places than fossil fuels specifically in",
+      "avg_logprob": -0.15904578218212376,
+      "no_speech_prob": 0.05893854796886444
+    },
+    {
+      "id": 6,
+      "start": 44.64,
+      "end": 49.28,
+      "text": "the electricity sector but also moving into the transportation sector so we have",
+      "avg_logprob": -0.21507230303857638,
+      "no_speech_prob": 0.020886186510324478
+    },
+    {
+      "id": 7,
+      "start": 49.28,
+      "end": 54.64,
+      "text": "a we have a chance to both put people back to work and to chart a different",
+      "avg_logprob": -0.21507230303857638,
+      "no_speech_prob": 0.020886186510324478
+    },
+    {
+      "id": 8,
+      "start": 54.64,
+      "end": 60.08,
+      "text": "future in you know a short time frame.",
+      "avg_logprob": -0.21507230303857638,
+      "no_speech_prob": 0.020886186510324478
+    }
+  ],
+  "transcript_full": "There is an opportunity to put those funds straight into jobs that will accelerate the pace of the decarbonization. So we actually just had a report from the International Renewable Energy Agency about the trillions literally that are there that are possible in investing in renewable energy which is cheaper in most places than fossil fuels specifically in the electricity sector but also moving into the transportation sector so we have a we have a chance to both put people back to work and to chart a different future in you know a short time frame.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
