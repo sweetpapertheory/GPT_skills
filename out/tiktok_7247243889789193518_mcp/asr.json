@@ -1,0 +1,132 @@
+{
+  "language": "en",
+  "language_probability": 0.9991106390953064,
+  "duration": 135.133,
+  "duration_after_vad": 135.3,
+  "segment_count": 15,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.18,
+      "end": 9.18,
+      "text": "In my previous video, I talked about the Youth versus Montana case that is happening right now and is one of the first climate change court cases that's been taken to trial.",
+      "avg_logprob": -0.13911507749243787,
+      "no_speech_prob": 0.022784138098359108
+    },
+    {
+      "id": 2,
+      "start": 9.18,
+      "end": 15.18,
+      "text": "This case concludes Friday the 23rd. As soon as I have more details, I will be giving updates.",
+      "avg_logprob": -0.13911507749243787,
+      "no_speech_prob": 0.022784138098359108
+    },
+    {
+      "id": 3,
+      "start": 15.18,
+      "end": 24.18,
+      "text": "In the meantime, here are the details of three more active climate change cases happening in different states, also led by youth groups under the age of 18.",
+      "avg_logprob": -0.13911507749243787,
+      "no_speech_prob": 0.022784138098359108
+    },
+    {
+      "id": 4,
+      "start": 24.18,
+      "end": 29.18,
+      "text": "Hawaii. The case is Navaheen F versus the Hawaii Department of Transportation.",
+      "avg_logprob": -0.13911507749243787,
+      "no_speech_prob": 0.022784138098359108
+    },
+    {
+      "id": 5,
+      "start": 29.18,
+      "end": 41.18,
+      "text": "The youth group filed a lawsuit against the Department of Transportation, its director, the governor, the state itself, for high levels of greenhouse gas emissions produced by its transportation system.",
+      "avg_logprob": -0.08733110890413325,
+      "no_speech_prob": 0.023833345621824265
+    },
+    {
+      "id": 6,
+      "start": 41.18,
+      "end": 57.18,
+      "text": "Under the same constitutional right of a healthy and clean environment, they are pushing the state to decarbonize their transportation system, and after an attempt of the state to dismiss the case, as of May this year, the plaintiffs are now officially awaiting a trial date.",
+      "avg_logprob": -0.08733110890413325,
+      "no_speech_prob": 0.023833345621824265
+    },
+    {
+      "id": 7,
+      "start": 57.18,
+      "end": 62.18,
+      "text": "That is the happiest of the three statuses. Utah. Natalie R versus the state of Utah.",
+      "avg_logprob": -0.09025941420038906,
+      "no_speech_prob": 0.1292085200548172
+    },
+    {
+      "id": 8,
+      "start": 62.18,
+      "end": 70.18,
+      "text": "The youth filed a lawsuit against the state for the continued use and investment of fossil fuels under that same constitutional right.",
+      "avg_logprob": -0.09025941420038906,
+      "no_speech_prob": 0.1292085200548172
+    },
+    {
+      "id": 9,
+      "start": 70.18,
+      "end": 81.18,
+      "text": "The state attempted to dismiss the case. The judge granted that dismissal, so now the youth has filed an appeal, which the Supreme Court has decided to hear in the next coming months. The date is still tentative.",
+      "avg_logprob": -0.09025941420038906,
+      "no_speech_prob": 0.1292085200548172
+    },
+    {
+      "id": 10,
+      "start": 81.18,
+      "end": 85.18,
+      "text": "Virginia. Leila H versus the Commonwealth of Virginia.",
+      "avg_logprob": -0.09025941420038906,
+      "no_speech_prob": 0.1292085200548172
+    },
+    {
+      "id": 11,
+      "start": 85.18,
+      "end": 105.48,
+      "text": "This is another fossil fuel case and after a rebuttal between the state and the youth group, the state succeeded in dismissing the case when the judge claimed sovereign immunity, which is a ridiculous term for a government cannot be sued without its consent.",
+      "avg_logprob": -0.0604913725455602,
+      "no_speech_prob": 0.043064236640930176
+    },
+    {
+      "id": 12,
+      "start": 105.48,
+      "end": 110.48,
+      "text": "And it did not address the violation of the constitutional rights that the youth group was bringing forth.",
+      "avg_logprob": -0.0604913725455602,
+      "no_speech_prob": 0.043064236640930176
+    },
+    {
+      "id": 13,
+      "start": 110.48,
+      "end": 119.48,
+      "text": "The youth group did file an appeal earlier this year with the legal support of leading constitutional law professors, public trust law professors, and the VCCA.",
+      "avg_logprob": -0.06921960623003542,
+      "no_speech_prob": 0.26745036244392395
+    },
+    {
+      "id": 14,
+      "start": 119.48,
+      "end": 128.48,
+      "text": "Youth are now waiting for the Court of Appeals to notify them of a date for their oral hearings in Richmond, Virginia to move forward with the appeal.",
+      "avg_logprob": -0.06921960623003542,
+      "no_speech_prob": 0.26745036244392395
+    },
+    {
+      "id": 15,
+      "start": 128.48,
+      "end": 135.48,
+      "text": "I'll be keeping a close eye on these active cases and again the youth versus Montana case and we'll be keeping you guys updated.",
+      "avg_logprob": -0.06921960623003542,
+      "no_speech_prob": 0.26745036244392395
+    }
+  ],
+  "transcript_full": "In my previous video, I talked about the Youth versus Montana case that is happening right now and is one of the first climate change court cases that's been taken to trial. This case concludes Friday the 23rd. As soon as I have more details, I will be giving updates. In the meantime, here are the details of three more active climate change cases happening in different states, also led by youth groups under the age of 18. Hawaii. The case is Navaheen F versus the Hawaii Department of Transportation. The youth group filed a lawsuit against the Department of Transportation, its director, the governor, the state itself, for high levels of greenhouse gas emissions produced by its transportation system. Under the same constitutional right of a healthy and clean environment, they are pushing the state to decarbonize their transportation system, and after an attempt of the state to dismiss the case, as of May this year, the plaintiffs are now officially awaiting a trial date. That is the happiest of the three statuses. Utah. Natalie R versus the state of Utah. The youth filed a lawsuit against the state for the continued use and investment of fossil fuels under that same constitutional right. The state attempted to dismiss the case. The judge granted that dismissal, so now the youth has filed an appeal, which the Supreme Court has decided to hear in the next coming months. The date is still tentative. Virginia. Leila H versus the Commonwealth of Virginia. This is another fossil fuel case and after a rebuttal between the state and the youth group, the state succeeded in dismissing the case when the judge claimed sovereign immunity, which is a ridiculous term for a government cannot be sued without its consent. And it did not address the violation of the constitutional rights that the youth group was bringing forth. The youth group did file an appeal earlier this year with the legal support of leading constitutional law professors, public trust law professors, and the VCCA. Youth are now waiting for the Court of Appeals to notify them of a date for their oral hearings in Richmond, Virginia to move forward with the appeal. I'll be keeping a close eye on these active cases and again the youth versus Montana case and we'll be keeping you guys updated.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
