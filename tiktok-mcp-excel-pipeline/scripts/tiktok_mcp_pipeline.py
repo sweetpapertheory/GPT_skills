@@ -497,7 +497,24 @@ def ffprobe_duration(path):
         "ffprobe", "-v", "error", "-show_entries", "format=duration",
         "-of", "default=noprint_wrappers=1:nokey=1", str(path)
     ])
-    return float((proc.stdout or "0").strip() or 0)
+    fmt = float((proc.stdout or "0").strip() or 0)
+    # Some posts (e.g. photo slideshows) have a video track shorter than the
+    # container/audio; seeking past the video end makes frame extraction fail.
+    vproc = subprocess.run(
+        [
+            "ffprobe", "-v", "error", "-select_streams", "v:0",
+            "-show_entries", "stream=duration",
+            "-of", "default=noprint_wrappers=1:nokey=1", str(path),
+        ],
+        capture_output=True, text=True,
+    )
+    try:
+        vdur = float((vproc.stdout or "").strip().splitlines()[0])
+    except (ValueError, IndexError):
+        vdur = 0.0
+    if 0 < vdur < fmt:
+        return vdur
+    return fmt
 
 
 def has_video_stream(path):
