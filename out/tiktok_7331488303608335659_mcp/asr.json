@@ -1,0 +1,172 @@
+{
+  "language": "en",
+  "language_probability": 0.9982348680496216,
+  "duration": 65.8,
+  "duration_after_vad": 65.78,
+  "segment_count": 20,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.76,
+      "text": "This week in f***ing news, a gang of overpaid geriatrics berated social media executives",
+      "avg_logprob": -0.1433712835598709,
+      "no_speech_prob": 0.0533873550593853
+    },
+    {
+      "id": 2,
+      "start": 4.76,
+      "end": 6.76,
+      "text": "under the guise of protecting children.",
+      "avg_logprob": -0.1433712835598709,
+      "no_speech_prob": 0.0533873550593853
+    },
+    {
+      "id": 3,
+      "start": 6.76,
+      "end": 10.46,
+      "text": "Congress' social media hearing was a sh** show at best that included throwing racist",
+      "avg_logprob": -0.1433712835598709,
+      "no_speech_prob": 0.0533873550593853
+    },
+    {
+      "id": 4,
+      "start": 10.46,
+      "end": 14.24,
+      "text": "accusations of being a Chinese operative at the Singaporean CEO of TikTok, forcing",
+      "avg_logprob": -0.1433712835598709,
+      "no_speech_prob": 0.0533873550593853
+    },
+    {
+      "id": 5,
+      "start": 14.24,
+      "end": 18.48,
+      "text": "a bland and robotic apology out of Mark Zuckerberg for his platform's fatally harmful effects",
+      "avg_logprob": -0.1433712835598709,
+      "no_speech_prob": 0.0533873550593853
+    },
+    {
+      "id": 6,
+      "start": 18.48,
+      "end": 22.24,
+      "text": "on teens, and throwing the blame squarely at the feet of social media companies saying",
+      "avg_logprob": -0.1433712835598709,
+      "no_speech_prob": 0.0533873550593853
+    },
+    {
+      "id": 7,
+      "start": 22.24,
+      "end": 26.8,
+      "text": "they had blood on their hands despite no legislative action being taken to address",
+      "avg_logprob": -0.1433712835598709,
+      "no_speech_prob": 0.0533873550593853
+    },
+    {
+      "id": 8,
+      "start": 26.8,
+      "end": 27.8,
+      "text": "any of the problems.",
+      "avg_logprob": -0.1433712835598709,
+      "no_speech_prob": 0.0533873550593853
+    },
+    {
+      "id": 9,
+      "start": 27.8,
+      "end": 31.82,
+      "text": "Instead, the so-called lawmakers were more focused on creating clippable viral moments",
+      "avg_logprob": -0.17651738082921065,
+      "no_speech_prob": 0.016099877655506134
+    },
+    {
+      "id": 10,
+      "start": 31.82,
+      "end": 35.68,
+      "text": "of their hollow grandstandings so that they could trend on the very same platforms they're",
+      "avg_logprob": -0.17651738082921065,
+      "no_speech_prob": 0.016099877655506134
+    },
+    {
+      "id": 11,
+      "start": 35.68,
+      "end": 37.4,
+      "text": "accusing of being harmful to children.",
+      "avg_logprob": -0.17651738082921065,
+      "no_speech_prob": 0.016099877655506134
+    },
+    {
+      "id": 12,
+      "start": 37.4,
+      "end": 40.84,
+      "text": "And look, nobody is doubting those accusations are true, there are amounts of evidence",
+      "avg_logprob": -0.17651738082921065,
+      "no_speech_prob": 0.016099877655506134
+    },
+    {
+      "id": 13,
+      "start": 40.84,
+      "end": 45.2,
+      "text": "to support that, but when your only real proposed answer is trying to resurrect the",
+      "avg_logprob": -0.17651738082921065,
+      "no_speech_prob": 0.016099877655506134
+    },
+    {
+      "id": 14,
+      "start": 45.2,
+      "end": 49.36,
+      "text": "Kids Online Safety Act, a bill that would significantly increase surveillance, restrict",
+      "avg_logprob": -0.17651738082921065,
+      "no_speech_prob": 0.016099877655506134
+    },
+    {
+      "id": 15,
+      "start": 49.36,
+      "end": 53.8,
+      "text": "access to information, and trample on free speech rather than addressing things like",
+      "avg_logprob": -0.17651738082921065,
+      "no_speech_prob": 0.016099877655506134
+    },
+    {
+      "id": 16,
+      "start": 53.8,
+      "end": 56.96,
+      "text": "healthcare, food insecurity, or climate change to name a few.",
+      "avg_logprob": -0.17651738082921065,
+      "no_speech_prob": 0.016099877655506134
+    },
+    {
+      "id": 17,
+      "start": 56.96,
+      "end": 61.6,
+      "text": "It's pretty clear they couldn't give less of a f**k about actually protecting kids online",
+      "avg_logprob": -0.26776414668118514,
+      "no_speech_prob": 0.8159348964691162
+    },
+    {
+      "id": 18,
+      "start": 61.6,
+      "end": 62.6,
+      "text": "or off.",
+      "avg_logprob": -0.26776414668118514,
+      "no_speech_prob": 0.8159348964691162
+    },
+    {
+      "id": 19,
+      "start": 62.6,
+      "end": 65.28,
+      "text": "Let me know your favorite moment of the sh** show down below and follow for more f**k",
+      "avg_logprob": -0.26776414668118514,
+      "no_speech_prob": 0.8159348964691162
+    },
+    {
+      "id": 20,
+      "start": 65.28,
+      "end": 65.78,
+      "text": "you news.",
+      "avg_logprob": -0.26776414668118514,
+      "no_speech_prob": 0.8159348964691162
+    }
+  ],
+  "transcript_full": "This week in f***ing news, a gang of overpaid geriatrics berated social media executives under the guise of protecting children. Congress' social media hearing was a sh** show at best that included throwing racist accusations of being a Chinese operative at the Singaporean CEO of TikTok, forcing a bland and robotic apology out of Mark Zuckerberg for his platform's fatally harmful effects on teens, and throwing the blame squarely at the feet of social media companies saying they had blood on their hands despite no legislative action being taken to address any of the problems. Instead, the so-called lawmakers were more focused on creating clippable viral moments of their hollow grandstandings so that they could trend on the very same platforms they're accusing of being harmful to children. And look, nobody is doubting those accusations are true, there are amounts of evidence to support that, but when your only real proposed answer is trying to resurrect the Kids Online Safety Act, a bill that would significantly increase surveillance, restrict access to information, and trample on free speech rather than addressing things like healthcare, food insecurity, or climate change to name a few. It's pretty clear they couldn't give less of a f**k about actually protecting kids online or off. Let me know your favorite moment of the sh** show down below and follow for more f**k you news.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
