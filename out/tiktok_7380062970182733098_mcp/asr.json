@@ -1,0 +1,564 @@
+{
+  "language": "en",
+  "language_probability": 0.9985458850860596,
+  "duration": 335.256,
+  "duration_after_vad": 334.76,
+  "segment_count": 69,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.84,
+      "text": "A recent survey of 10,000 young people on climate change found that most young people",
+      "avg_logprob": -0.16968051615883323,
+      "no_speech_prob": 0.017494777217507362
+    },
+    {
+      "id": 2,
+      "start": 6.84,
+      "end": 14.6,
+      "text": "were very or extremely worried about climate change, and more than half reported feeling",
+      "avg_logprob": -0.16968051615883323,
+      "no_speech_prob": 0.017494777217507362
+    },
+    {
+      "id": 3,
+      "start": 14.6,
+      "end": 19.82,
+      "text": "sad, anxious, angry, powerless, helpless, and guilty.",
+      "avg_logprob": -0.16968051615883323,
+      "no_speech_prob": 0.017494777217507362
+    },
+    {
+      "id": 4,
+      "start": 19.82,
+      "end": 24.64,
+      "text": "Zoomers, I'm here to tell you that your feelings are wrong.",
+      "avg_logprob": -0.16968051615883323,
+      "no_speech_prob": 0.017494777217507362
+    },
+    {
+      "id": 5,
+      "start": 24.64,
+      "end": 29.0,
+      "text": "It's not rational to feel powerless or helpless against climate change.",
+      "avg_logprob": -0.16968051615883323,
+      "no_speech_prob": 0.017494777217507362
+    },
+    {
+      "id": 6,
+      "start": 29.0,
+      "end": 33.86,
+      "text": "We aren't. In fact, humanity's making good progress against climate change and I'll share",
+      "avg_logprob": -0.1412866384548656,
+      "no_speech_prob": 0.02415737509727478
+    },
+    {
+      "id": 7,
+      "start": 33.86,
+      "end": 38.76,
+      "text": "some evidence for that later in the video. It's also not rational to feel guilty.",
+      "avg_logprob": -0.1412866384548656,
+      "no_speech_prob": 0.02415737509727478
+    },
+    {
+      "id": 8,
+      "start": 38.76,
+      "end": 43.88,
+      "text": "Of course, humanity did cause climate change, but we did so for good reason, to enhance",
+      "avg_logprob": -0.1412866384548656,
+      "no_speech_prob": 0.02415737509727478
+    },
+    {
+      "id": 9,
+      "start": 43.88,
+      "end": 48.52,
+      "text": "our material well-being. It's like if we ran the heater all winter because it was",
+      "avg_logprob": -0.1412866384548656,
+      "no_speech_prob": 0.02415737509727478
+    },
+    {
+      "id": 10,
+      "start": 48.52,
+      "end": 53.52,
+      "text": "unusually cold, we wouldn't feel guilty about having to pay our heating bill. That's",
+      "avg_logprob": -0.1412866384548656,
+      "no_speech_prob": 0.02415737509727478
+    },
+    {
+      "id": 11,
+      "start": 53.52,
+      "end": 56.52,
+      "text": "just something we did to make us more comfortable.",
+      "avg_logprob": -0.1412866384548656,
+      "no_speech_prob": 0.02415737509727478
+    },
+    {
+      "id": 12,
+      "start": 56.52,
+      "end": 61.56,
+      "text": "So if it's not rational to feel powerless, helpless, or guilty, it also doesn't make sense",
+      "avg_logprob": -0.09751121312672016,
+      "no_speech_prob": 0.0007158724474720657
+    },
+    {
+      "id": 13,
+      "start": 61.56,
+      "end": 66.56,
+      "text": "to feel sad, anxious, or angry. Climate change is a problem, but we will solve it.",
+      "avg_logprob": -0.09751121312672016,
+      "no_speech_prob": 0.0007158724474720657
+    },
+    {
+      "id": 14,
+      "start": 66.56,
+      "end": 68.64,
+      "text": "Now let me try to convince you of that.",
+      "avg_logprob": -0.09751121312672016,
+      "no_speech_prob": 0.0007158724474720657
+    },
+    {
+      "id": 15,
+      "start": 68.64,
+      "end": 76.24,
+      "text": "On the y-axis, this figure is showing projected warming in degrees Celsius in the year 2100.",
+      "avg_logprob": -0.09751121312672016,
+      "no_speech_prob": 0.0007158724474720657
+    },
+    {
+      "id": 16,
+      "start": 76.24,
+      "end": 81.2,
+      "text": "And on the x-axis, we see the year that these predictions were made.",
+      "avg_logprob": -0.09751121312672016,
+      "no_speech_prob": 0.0007158724474720657
+    },
+    {
+      "id": 17,
+      "start": 81.2,
+      "end": 90.04,
+      "text": "So in 2013, scientists were predicting 3.7 degrees Celsius of warming by 2100, whereas more recently",
+      "avg_logprob": -0.12365271519589167,
+      "no_speech_prob": 0.031896114349365234
+    },
+    {
+      "id": 18,
+      "start": 90.04,
+      "end": 97.72,
+      "text": "in 2023, scientists were predicting only 2.7 degrees of warming by 2100.",
+      "avg_logprob": -0.12365271519589167,
+      "no_speech_prob": 0.031896114349365234
+    },
+    {
+      "id": 19,
+      "start": 97.72,
+      "end": 103.2,
+      "text": "In other words, the predicted future temperature is going down. The amount of warming we're",
+      "avg_logprob": -0.12365271519589167,
+      "no_speech_prob": 0.031896114349365234
+    },
+    {
+      "id": 20,
+      "start": 103.2,
+      "end": 106.36,
+      "text": "expecting is decreasing over time.",
+      "avg_logprob": -0.12365271519589167,
+      "no_speech_prob": 0.031896114349365234
+    },
+    {
+      "id": 21,
+      "start": 106.36,
+      "end": 110.48,
+      "text": "To corroborate that graph, I looked at the Intergovernmental Panel on Climate Change,",
+      "avg_logprob": -0.12365271519589167,
+      "no_speech_prob": 0.031896114349365234
+    },
+    {
+      "id": 22,
+      "start": 110.48,
+      "end": 119.08,
+      "text": "the IPCC, their 2014 report, and found they were expecting 3.7 to 4.8 degrees Celsius of warming",
+      "avg_logprob": -0.15015561480161754,
+      "no_speech_prob": 0.016577433794736862
+    },
+    {
+      "id": 23,
+      "start": 119.08,
+      "end": 127.68,
+      "text": "by 2100 in 2014, compared to their 2023 report, where they're expecting 2.2 to 3.5 degrees",
+      "avg_logprob": -0.15015561480161754,
+      "no_speech_prob": 0.016577433794736862
+    },
+    {
+      "id": 24,
+      "start": 127.68,
+      "end": 130.84,
+      "text": "Celsius, warming by 2100.",
+      "avg_logprob": -0.15015561480161754,
+      "no_speech_prob": 0.016577433794736862
+    },
+    {
+      "id": 25,
+      "start": 130.84,
+      "end": 136.04,
+      "text": "In other words, the IPCC numbers aren't exactly the same as this plot, but the trend is",
+      "avg_logprob": -0.15015561480161754,
+      "no_speech_prob": 0.016577433794736862
+    },
+    {
+      "id": 26,
+      "start": 136.04,
+      "end": 137.04,
+      "text": "similar.",
+      "avg_logprob": -0.13634216931203139,
+      "no_speech_prob": 0.6398943662643433
+    },
+    {
+      "id": 27,
+      "start": 137.04,
+      "end": 140.4,
+      "text": "I think this represents real progress against global warming.",
+      "avg_logprob": -0.13634216931203139,
+      "no_speech_prob": 0.6398943662643433
+    },
+    {
+      "id": 28,
+      "start": 140.4,
+      "end": 146.76,
+      "text": "A crude way to think about it is that over the last decade, we've reduced the expected temperature",
+      "avg_logprob": -0.13634216931203139,
+      "no_speech_prob": 0.6398943662643433
+    },
+    {
+      "id": 29,
+      "start": 146.76,
+      "end": 150.48,
+      "text": "in 2100 by about one degree.",
+      "avg_logprob": -0.13634216931203139,
+      "no_speech_prob": 0.6398943662643433
+    },
+    {
+      "id": 30,
+      "start": 150.48,
+      "end": 155.44,
+      "text": "If we could repeat that over the next couple decades, then we'll be in great shape.",
+      "avg_logprob": -0.13634216931203139,
+      "no_speech_prob": 0.6398943662643433
+    },
+    {
+      "id": 31,
+      "start": 155.44,
+      "end": 160.56,
+      "text": "I'm not saying that global warming is solved, but I am saying that we are apparently making",
+      "avg_logprob": -0.13634216931203139,
+      "no_speech_prob": 0.6398943662643433
+    },
+    {
+      "id": 32,
+      "start": 160.56,
+      "end": 166.72,
+      "text": "good progress against it, and if we continue to do so, then we will solve global warming.",
+      "avg_logprob": -0.10080676459603839,
+      "no_speech_prob": 0.3687765896320343
+    },
+    {
+      "id": 33,
+      "start": 166.72,
+      "end": 174.44,
+      "text": "These plots show GDP, a measure of a nation's economic output, over time relative to 1990",
+      "avg_logprob": -0.10080676459603839,
+      "no_speech_prob": 0.3687765896320343
+    },
+    {
+      "id": 34,
+      "start": 174.44,
+      "end": 181.6,
+      "text": "in the blue line, and in the yellow line they're showing CO2 emissions again relative to 1990.",
+      "avg_logprob": -0.10080676459603839,
+      "no_speech_prob": 0.3687765896320343
+    },
+    {
+      "id": 35,
+      "start": 181.6,
+      "end": 188.24,
+      "text": "In the United States, GDP has about doubled since 1990, while at the same time CO2 emissions",
+      "avg_logprob": -0.10080676459603839,
+      "no_speech_prob": 0.3687765896320343
+    },
+    {
+      "id": 36,
+      "start": 188.24,
+      "end": 190.72,
+      "text": "have actually slightly decreased.",
+      "avg_logprob": -0.1390728812025051,
+      "no_speech_prob": 0.30439677834510803
+    },
+    {
+      "id": 37,
+      "start": 190.72,
+      "end": 197.52,
+      "text": "So GDP up and emissions down, that's also true in the European Union, in Japan and Korea,",
+      "avg_logprob": -0.1390728812025051,
+      "no_speech_prob": 0.30439677834510803
+    },
+    {
+      "id": 38,
+      "start": 197.52,
+      "end": 199.6,
+      "text": "and in the Antipodes.",
+      "avg_logprob": -0.1390728812025051,
+      "no_speech_prob": 0.30439677834510803
+    },
+    {
+      "id": 39,
+      "start": 199.6,
+      "end": 205.08,
+      "text": "And in the developing regions of the world, China, India, Africa, Latin America, it's",
+      "avg_logprob": -0.1390728812025051,
+      "no_speech_prob": 0.30439677834510803
+    },
+    {
+      "id": 40,
+      "start": 205.08,
+      "end": 211.92,
+      "text": "not quite true that emissions are decreasing, but they are diverging from economic growth.",
+      "avg_logprob": -0.1390728812025051,
+      "no_speech_prob": 0.30439677834510803
+    },
+    {
+      "id": 41,
+      "start": 211.92,
+      "end": 216.88,
+      "text": "And here's a figure from the US Environmental Protection Agency just confirming for us",
+      "avg_logprob": -0.1390728812025051,
+      "no_speech_prob": 0.30439677834510803
+    },
+    {
+      "id": 42,
+      "start": 216.88,
+      "end": 224.88,
+      "text": "that our emissions have actually declined slightly since 1990, despite our economic and population",
+      "avg_logprob": -0.12064702153860868,
+      "no_speech_prob": 0.003647762117907405
+    },
+    {
+      "id": 43,
+      "start": 224.88,
+      "end": 225.88,
+      "text": "growth.",
+      "avg_logprob": -0.12064702153860868,
+      "no_speech_prob": 0.003647762117907405
+    },
+    {
+      "id": 44,
+      "start": 225.88,
+      "end": 230.36,
+      "text": "You might think that the US and the developed economies of the world are only improving in",
+      "avg_logprob": -0.12064702153860868,
+      "no_speech_prob": 0.003647762117907405
+    },
+    {
+      "id": 45,
+      "start": 230.36,
+      "end": 235.64,
+      "text": "emissions growth because we've shipped all of our manufacturing and industrial production",
+      "avg_logprob": -0.12064702153860868,
+      "no_speech_prob": 0.003647762117907405
+    },
+    {
+      "id": 46,
+      "start": 235.64,
+      "end": 240.06,
+      "text": "to China or developing regions of the world, but that's not even true.",
+      "avg_logprob": -0.12064702153860868,
+      "no_speech_prob": 0.003647762117907405
+    },
+    {
+      "id": 47,
+      "start": 240.06,
+      "end": 245.24,
+      "text": "This figure is showing us industrial production in the United States, domestic industrial",
+      "avg_logprob": -0.12064702153860868,
+      "no_speech_prob": 0.003647762117907405
+    },
+    {
+      "id": 48,
+      "start": 245.24,
+      "end": 251.96,
+      "text": "production, and it's increased by about 66-70% since 1990.",
+      "avg_logprob": -0.15279613211750984,
+      "no_speech_prob": 0.01076345145702362
+    },
+    {
+      "id": 49,
+      "start": 251.96,
+      "end": 256.92,
+      "text": "Our industry is producing a lot more, and we have less emissions.",
+      "avg_logprob": -0.15279613211750984,
+      "no_speech_prob": 0.01076345145702362
+    },
+    {
+      "id": 50,
+      "start": 256.92,
+      "end": 261.56,
+      "text": "We can and will continue to grow the economy, and at the same time we're going to reduce",
+      "avg_logprob": -0.15279613211750984,
+      "no_speech_prob": 0.01076345145702362
+    },
+    {
+      "id": 51,
+      "start": 261.56,
+      "end": 262.56,
+      "text": "emissions.",
+      "avg_logprob": -0.15279613211750984,
+      "no_speech_prob": 0.01076345145702362
+    },
+    {
+      "id": 52,
+      "start": 262.56,
+      "end": 268.56,
+      "text": "Finally, this is a screenshot I just took of California's electric grid live monitor.",
+      "avg_logprob": -0.15279613211750984,
+      "no_speech_prob": 0.01076345145702362
+    },
+    {
+      "id": 53,
+      "start": 268.56,
+      "end": 275.16,
+      "text": "It's showing that most of the power, about 68% in California's electrical grid, comes",
+      "avg_logprob": -0.12919130086898803,
+      "no_speech_prob": 0.22739137709140778
+    },
+    {
+      "id": 54,
+      "start": 275.16,
+      "end": 277.92,
+      "text": "from solar energy as of right now.",
+      "avg_logprob": -0.12919130086898803,
+      "no_speech_prob": 0.22739137709140778
+    },
+    {
+      "id": 55,
+      "start": 277.92,
+      "end": 282.64,
+      "text": "Obviously, that changes throughout the day when the sun is less productive.",
+      "avg_logprob": -0.12919130086898803,
+      "no_speech_prob": 0.22739137709140778
+    },
+    {
+      "id": 56,
+      "start": 282.64,
+      "end": 288.24,
+      "text": "But solar power is going to get cheaper, and batteries to let us store and use solar",
+      "avg_logprob": -0.12919130086898803,
+      "no_speech_prob": 0.22739137709140778
+    },
+    {
+      "id": 57,
+      "start": 288.24,
+      "end": 291.84,
+      "text": "power at night are getting a lot cheaper too.",
+      "avg_logprob": -0.12919130086898803,
+      "no_speech_prob": 0.22739137709140778
+    },
+    {
+      "id": 58,
+      "start": 291.84,
+      "end": 297.24,
+      "text": "And as that happens, then this trend where solar is providing most of the energy is",
+      "avg_logprob": -0.12919130086898803,
+      "no_speech_prob": 0.22739137709140778
+    },
+    {
+      "id": 59,
+      "start": 297.24,
+      "end": 300.32,
+      "text": "going to become more and more true.",
+      "avg_logprob": -0.10334092385645183,
+      "no_speech_prob": 0.00921887531876564
+    },
+    {
+      "id": 60,
+      "start": 300.32,
+      "end": 303.96,
+      "text": "Solar power is cheap and getting cheaper, and it's clean.",
+      "avg_logprob": -0.10334092385645183,
+      "no_speech_prob": 0.00921887531876564
+    },
+    {
+      "id": 61,
+      "start": 303.96,
+      "end": 310.0,
+      "text": "So over time, solar power will supplant the dirtier sources of power that humanity is",
+      "avg_logprob": -0.10334092385645183,
+      "no_speech_prob": 0.00921887531876564
+    },
+    {
+      "id": 62,
+      "start": 310.0,
+      "end": 316.84,
+      "text": "now relying on, especially we can hope in the developing world so that economic growth",
+      "avg_logprob": -0.10334092385645183,
+      "no_speech_prob": 0.00921887531876564
+    },
+    {
+      "id": 63,
+      "start": 316.84,
+      "end": 320.36,
+      "text": "and emissions can continue to diverge.",
+      "avg_logprob": -0.10334092385645183,
+      "no_speech_prob": 0.00921887531876564
+    },
+    {
+      "id": 64,
+      "start": 320.36,
+      "end": 323.68,
+      "text": "Global warming is a problem, but it's not an insurmountable problem.",
+      "avg_logprob": -0.10334092385645183,
+      "no_speech_prob": 0.00921887531876564
+    },
+    {
+      "id": 65,
+      "start": 323.68,
+      "end": 326.64,
+      "text": "There's no need to feel powerless or helpless.",
+      "avg_logprob": -0.10334092385645183,
+      "no_speech_prob": 0.00921887531876564
+    },
+    {
+      "id": 66,
+      "start": 326.64,
+      "end": 328.28,
+      "text": "We will solve this problem.",
+      "avg_logprob": -0.19095517798911693,
+      "no_speech_prob": 0.29794466495513916
+    },
+    {
+      "id": 67,
+      "start": 328.28,
+      "end": 333.6,
+      "text": "We're already making good progress against it, so don't feel bad, Zoomers.",
+      "avg_logprob": -0.19095517798911693,
+      "no_speech_prob": 0.29794466495513916
+    },
+    {
+      "id": 68,
+      "start": 333.6,
+      "end": 334.6,
+      "text": "We've got it.",
+      "avg_logprob": -0.19095517798911693,
+      "no_speech_prob": 0.29794466495513916
+    },
+    {
+      "id": 69,
+      "start": 334.6,
+      "end": 334.76,
+      "text": "Thanks for your time.",
+      "avg_logprob": -0.19095517798911693,
+      "no_speech_prob": 0.29794466495513916
+    }
+  ],
+  "transcript_full": "A recent survey of 10,000 young people on climate change found that most young people were very or extremely worried about climate change, and more than half reported feeling sad, anxious, angry, powerless, helpless, and guilty. Zoomers, I'm here to tell you that your feelings are wrong. It's not rational to feel powerless or helpless against climate change. We aren't. In fact, humanity's making good progress against climate change and I'll share some evidence for that later in the video. It's also not rational to feel guilty. Of course, humanity did cause climate change, but we did so for good reason, to enhance our material well-being. It's like if we ran the heater all winter because it was unusually cold, we wouldn't feel guilty about having to pay our heating bill. That's just something we did to make us more comfortable. So if it's not rational to feel powerless, helpless, or guilty, it also doesn't make sense to feel sad, anxious, or angry. Climate change is a problem, but we will solve it. Now let me try to convince you of that. On the y-axis, this figure is showing projected warming in degrees Celsius in the year 2100. And on the x-axis, we see the year that these predictions were made. So in 2013, scientists were predicting 3.7 degrees Celsius of warming by 2100, whereas more recently in 2023, scientists were predicting only 2.7 degrees of warming by 2100. In other words, the predicted future temperature is going down. The amount of warming we're expecting is decreasing over time. To corroborate that graph, I looked at the Intergovernmental Panel on Climate Change, the IPCC, their 2014 report, and found they were expecting 3.7 to 4.8 degrees Celsius of warming by 2100 in 2014, compared to their 2023 report, where they're expecting 2.2 to 3.5 degrees Celsius, warming by 2100. In other words, the IPCC numbers aren't exactly the same as this plot, but the trend is similar. I think this represents real progress against global warming. A crude way to think about it is that over the last decade, we've reduced the expected temperature in 2100 by about one degree. If we could repeat that over the next couple decades, then we'll be in great shape. I'm not saying that global warming is solved, but I am saying that we are apparently making good progress against it, and if we continue to do so, then we will solve global warming. These plots show GDP, a measure of a nation's economic output, over time relative to 1990 in the blue line, and in the yellow line they're showing CO2 emissions again relative to 1990. In the United States, GDP has about doubled since 1990, while at the same time CO2 emissions have actually slightly decreased. So GDP up and emissions down, that's also true in the European Union, in Japan and Korea, and in the Antipodes. And in the developing regions of the world, China, India, Africa, Latin America, it's not quite true that emissions are decreasing, but they are diverging from economic growth. And here's a figure from the US Environmental Protection Agency just confirming for us that our emissions have actually declined slightly since 1990, despite our economic and population growth. You might think that the US and the developed economies of the world are only improving in emissions growth because we've shipped all of our manufacturing and industrial production to China or developing regions of the world, but that's not even true. This figure is showing us industrial production in the United States, domestic industrial production, and it's increased by about 66-70% since 1990. Our industry is producing a lot more, and we have less emissions. We can and will continue to grow the economy, and at the same time we're going to reduce emissions. Finally, this is a screenshot I just took of California's electric grid live monitor. It's showing that most of the power, about 68% in California's electrical grid, comes from solar energy as of right now. Obviously, that changes throughout the day when the sun is less productive. But solar power is going to get cheaper, and batteries to let us store and use solar power at night are getting a lot cheaper too. And as that happens, then this trend where solar is providing most of the energy is going to become more and more true. Solar power is cheap and getting cheaper, and it's clean. So over time, solar power will supplant the dirtier sources of power that humanity is now relying on, especially we can hope in the developing world so that economic growth and emissions can continue to diverge. Global warming is a problem, but it's not an insurmountable problem. There's no need to feel powerless or helpless. We will solve this problem. We're already making good progress against it, so don't feel bad, Zoomers. We've got it. Thanks for your time.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
