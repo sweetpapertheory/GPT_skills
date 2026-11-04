@@ -1,0 +1,92 @@
+{
+  "language": "en",
+  "language_probability": 0.9988284707069397,
+  "duration": 23.659,
+  "duration_after_vad": 23.72,
+  "segment_count": 10,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.58,
+      "text": "Would you like a tree for free?",
+      "avg_logprob": -0.18091614437954767,
+      "no_speech_prob": 0.004355538636445999
+    },
+    {
+      "id": 2,
+      "start": 2.58,
+      "end": 6.04,
+      "text": "Every household in Wales is being offered a free tree.",
+      "avg_logprob": -0.18091614437954767,
+      "no_speech_prob": 0.004355538636445999
+    },
+    {
+      "id": 3,
+      "start": 6.04,
+      "end": 8.88,
+      "text": "And you can have it planted in your garden,",
+      "avg_logprob": -0.18091614437954767,
+      "no_speech_prob": 0.004355538636445999
+    },
+    {
+      "id": 4,
+      "start": 8.88,
+      "end": 10.6,
+      "text": "or you can put it in woodland.",
+      "avg_logprob": -0.18091614437954767,
+      "no_speech_prob": 0.004355538636445999
+    },
+    {
+      "id": 5,
+      "start": 10.6,
+      "end": 13.28,
+      "text": "It'll cost the Welsh government two million pounds.",
+      "avg_logprob": -0.18091614437954767,
+      "no_speech_prob": 0.004355538636445999
+    },
+    {
+      "id": 6,
+      "start": 13.28,
+      "end": 16.16,
+      "text": "That's roughly 65p per tree.",
+      "avg_logprob": -0.18091614437954767,
+      "no_speech_prob": 0.004355538636445999
+    },
+    {
+      "id": 7,
+      "start": 16.16,
+      "end": 18.14,
+      "text": "The tree you get will not be as big as this,",
+      "avg_logprob": -0.18091614437954767,
+      "no_speech_prob": 0.004355538636445999
+    },
+    {
+      "id": 8,
+      "start": 18.14,
+      "end": 19.48,
+      "text": "but it could grow bigger.",
+      "avg_logprob": -0.18091614437954767,
+      "no_speech_prob": 0.004355538636445999
+    },
+    {
+      "id": 9,
+      "start": 19.48,
+      "end": 22.88,
+      "text": "It's not a Christmas tree, but it is a kind of present,",
+      "avg_logprob": -0.18091614437954767,
+      "no_speech_prob": 0.004355538636445999
+    },
+    {
+      "id": 10,
+      "start": 22.88,
+      "end": 23.72,
+      "text": "really.",
+      "avg_logprob": -0.18091614437954767,
+      "no_speech_prob": 0.004355538636445999
+    }
+  ],
+  "transcript_full": "Would you like a tree for free? Every household in Wales is being offered a free tree. And you can have it planted in your garden, or you can put it in woodland. It'll cost the Welsh government two million pounds. That's roughly 65p per tree. The tree you get will not be as big as this, but it could grow bigger. It's not a Christmas tree, but it is a kind of present, really.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
