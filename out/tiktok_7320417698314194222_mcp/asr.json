@@ -1,0 +1,180 @@
+{
+  "language": "en",
+  "language_probability": 0.9984038472175598,
+  "duration": 112.88,
+  "duration_after_vad": 112.0,
+  "segment_count": 21,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.62,
+      "end": 5.62,
+      "text": "Alaska's Kodiak archipelago is known for its catch of the day.",
+      "avg_logprob": -0.1295839205826863,
+      "no_speech_prob": 0.04852283000946045
+    },
+    {
+      "id": 2,
+      "start": 5.62,
+      "end": 9.62,
+      "text": "While Gabriel Prout is grateful for his modest haul of king crab,",
+      "avg_logprob": -0.1295839205826863,
+      "no_speech_prob": 0.04852283000946045
+    },
+    {
+      "id": 3,
+      "start": 9.62,
+      "end": 15.62,
+      "text": "it's the vanishing of another variety that has this fishing port bracing for financial fallout.",
+      "avg_logprob": -0.1295839205826863,
+      "no_speech_prob": 0.04852283000946045
+    },
+    {
+      "id": 4,
+      "start": 15.62,
+      "end": 20.62,
+      "text": "We're still definitely in survival mode trying to find a way to stay in business.",
+      "avg_logprob": -0.1295839205826863,
+      "no_speech_prob": 0.04852283000946045
+    },
+    {
+      "id": 5,
+      "start": 20.62,
+      "end": 24.62,
+      "text": "Last season when we first met Prout, confusion.",
+      "avg_logprob": -0.1295839205826863,
+      "no_speech_prob": 0.04852283000946045
+    },
+    {
+      "id": 6,
+      "start": 24.62,
+      "end": 25.62,
+      "text": "Where have the snow crab gone?",
+      "avg_logprob": -0.1295839205826863,
+      "no_speech_prob": 0.04852283000946045
+    },
+    {
+      "id": 7,
+      "start": 25.62,
+      "end": 31.62,
+      "text": "Now a sense of panic in the state's fisheries which produce 60% of the nation's seafood.",
+      "avg_logprob": -0.10915923747234046,
+      "no_speech_prob": 0.022368665784597397
+    },
+    {
+      "id": 8,
+      "start": 31.62,
+      "end": 39.62,
+      "text": "It's just still extremely difficult to fathom how we go from a healthy population in the Bering Sea to two closures in a row.",
+      "avg_logprob": -0.10915923747234046,
+      "no_speech_prob": 0.022368665784597397
+    },
+    {
+      "id": 9,
+      "start": 39.62,
+      "end": 44.62,
+      "text": "While Prout is barely holding on, others, like Joshua Songstad, have lost everything.",
+      "avg_logprob": -0.10915923747234046,
+      "no_speech_prob": 0.022368665784597397
+    },
+    {
+      "id": 10,
+      "start": 44.62,
+      "end": 50.62,
+      "text": "I'm also now at home with no income and really not much to do.",
+      "avg_logprob": -0.10915923747234046,
+      "no_speech_prob": 0.022368665784597397
+    },
+    {
+      "id": 11,
+      "start": 50.62,
+      "end": 61.62,
+      "text": "The crisis first began in early 2022 after biologists discovered an estimated 10 billion crabs disappeared, a 90% plunge in the population.",
+      "avg_logprob": -0.09386420641282592,
+      "no_speech_prob": 0.03325202316045761
+    },
+    {
+      "id": 12,
+      "start": 61.62,
+      "end": 65.62,
+      "text": "When you first saw the results in 2021, what went on in your mind?",
+      "avg_logprob": -0.09386420641282592,
+      "no_speech_prob": 0.03325202316045761
+    },
+    {
+      "id": 13,
+      "start": 65.62,
+      "end": 70.62,
+      "text": "The first reaction was, is this real? You know, we looked at, it was almost a flat line.",
+      "avg_logprob": -0.09386420641282592,
+      "no_speech_prob": 0.03325202316045761
+    },
+    {
+      "id": 14,
+      "start": 70.62,
+      "end": 74.62,
+      "text": "Ben Daly with Alaska Department of Fish and Game assisted in the search.",
+      "avg_logprob": -0.09386420641282592,
+      "no_speech_prob": 0.03325202316045761
+    },
+    {
+      "id": 15,
+      "start": 74.62,
+      "end": 77.62,
+      "text": "Environmental conditions are changing rapidly.",
+      "avg_logprob": -0.09386420641282592,
+      "no_speech_prob": 0.03325202316045761
+    },
+    {
+      "id": 16,
+      "start": 77.62,
+      "end": 86.62,
+      "text": "According to new research from NOAA, a marine heatwave linked to climate change likely impacted their food supply and drove them to starvation.",
+      "avg_logprob": -0.058475721161812544,
+      "no_speech_prob": 0.008012928068637848
+    },
+    {
+      "id": 17,
+      "start": 86.62,
+      "end": 94.62,
+      "text": "Biologists hope this second round of suspensions will give the remaining snow crab population time to bulk back up.",
+      "avg_logprob": -0.058475721161812544,
+      "no_speech_prob": 0.008012928068637848
+    },
+    {
+      "id": 18,
+      "start": 94.62,
+      "end": 102.62,
+      "text": "But with the climate threat only growing, there's concern the snow crabs, along with the industry that depends on them, will continue to shrink.",
+      "avg_logprob": -0.058475721161812544,
+      "no_speech_prob": 0.008012928068637848
+    },
+    {
+      "id": 19,
+      "start": 102.62,
+      "end": 104.62,
+      "text": "I'm a fourth generation fisherman.",
+      "avg_logprob": -0.058475721161812544,
+      "no_speech_prob": 0.008012928068637848
+    },
+    {
+      "id": 20,
+      "start": 104.62,
+      "end": 108.62,
+      "text": "If we keep going the way we're going, there's not going to be any of us left.",
+      "avg_logprob": -0.10687786035917023,
+      "no_speech_prob": 0.6809725165367126
+    },
+    {
+      "id": 21,
+      "start": 108.62,
+      "end": 112.62,
+      "text": "For Ion America, Jonathan Vigliotti, Kodiak Island, Alaska.",
+      "avg_logprob": -0.10687786035917023,
+      "no_speech_prob": 0.6809725165367126
+    }
+  ],
+  "transcript_full": "Alaska's Kodiak archipelago is known for its catch of the day. While Gabriel Prout is grateful for his modest haul of king crab, it's the vanishing of another variety that has this fishing port bracing for financial fallout. We're still definitely in survival mode trying to find a way to stay in business. Last season when we first met Prout, confusion. Where have the snow crab gone? Now a sense of panic in the state's fisheries which produce 60% of the nation's seafood. It's just still extremely difficult to fathom how we go from a healthy population in the Bering Sea to two closures in a row. While Prout is barely holding on, others, like Joshua Songstad, have lost everything. I'm also now at home with no income and really not much to do. The crisis first began in early 2022 after biologists discovered an estimated 10 billion crabs disappeared, a 90% plunge in the population. When you first saw the results in 2021, what went on in your mind? The first reaction was, is this real? You know, we looked at, it was almost a flat line. Ben Daly with Alaska Department of Fish and Game assisted in the search. Environmental conditions are changing rapidly. According to new research from NOAA, a marine heatwave linked to climate change likely impacted their food supply and drove them to starvation. Biologists hope this second round of suspensions will give the remaining snow crab population time to bulk back up. But with the climate threat only growing, there's concern the snow crabs, along with the industry that depends on them, will continue to shrink. I'm a fourth generation fisherman. If we keep going the way we're going, there's not going to be any of us left. For Ion America, Jonathan Vigliotti, Kodiak Island, Alaska.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
