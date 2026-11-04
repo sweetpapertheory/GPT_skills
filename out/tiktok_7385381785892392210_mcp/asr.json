@@ -1,0 +1,36 @@
+{
+  "language": "en",
+  "language_probability": 0.9794309735298157,
+  "duration": 14.813,
+  "duration_after_vad": 13.18,
+  "segment_count": 3,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.76,
+      "text": "Actually Israel is the one and you should let him go and let him finish a job. He doesn't want to do it",
+      "avg_logprob": -0.24513770680169802,
+      "no_speech_prob": 0.03317294269800186
+    },
+    {
+      "id": 2,
+      "start": 4.76,
+      "end": 10.08,
+      "text": "He's become like a Palestinian, but they don't like him because he's a very bad Palestinian. He's a weak one",
+      "avg_logprob": -0.24513770680169802,
+      "no_speech_prob": 0.03317294269800186
+    },
+    {
+      "id": 3,
+      "start": 11.32,
+      "end": 14.42,
+      "text": "President Biden you have a minute. I've never heard so much funerals",
+      "avg_logprob": -0.24513770680169802,
+      "no_speech_prob": 0.03317294269800186
+    }
+  ],
+  "transcript_full": "Actually Israel is the one and you should let him go and let him finish a job. He doesn't want to do it He's become like a Palestinian, but they don't like him because he's a very bad Palestinian. He's a weak one President Biden you have a minute. I've never heard so much funerals",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
