@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "language_probability": 0.32749688625335693,
+  "duration": 34.364,
+  "duration_after_vad": 1.0,
+  "segment_count": 1,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.0,
+      "text": "I'll be there.",
+      "avg_logprob": -0.8881309330463409,
+      "no_speech_prob": 0.547734797000885
+    }
+  ],
+  "transcript_full": "I'll be there.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
