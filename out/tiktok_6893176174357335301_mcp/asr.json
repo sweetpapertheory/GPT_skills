@@ -1,0 +1,28 @@
+{
+  "language": "en",
+  "language_probability": 0.9971439242362976,
+  "duration": 15.048,
+  "duration_after_vad": 14.88,
+  "segment_count": 2,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 8.08,
+      "text": "It is November 9th. I live in Ohio. Why is it 73 degrees? Why am I wearing short sleeves?",
+      "avg_logprob": -0.13137596983600547,
+      "no_speech_prob": 0.008158296346664429
+    },
+    {
+      "id": 2,
+      "start": 8.08,
+      "end": 14.88,
+      "text": "Why is my car warm? Why do I have the AC on? I thought it was sweater weather! What the heck?",
+      "avg_logprob": -0.13137596983600547,
+      "no_speech_prob": 0.008158296346664429
+    }
+  ],
+  "transcript_full": "It is November 9th. I live in Ohio. Why is it 73 degrees? Why am I wearing short sleeves? Why is my car warm? Why do I have the AC on? I thought it was sweater weather! What the heck?",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
