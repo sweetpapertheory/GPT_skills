@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "language_probability": 0.611611008644104,
+  "duration": 24.5,
+  "duration_after_vad": 1.0,
+  "segment_count": 1,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.18,
+      "end": 1.18,
+      "text": "Thank you.",
+      "avg_logprob": -0.7908329367637634,
+      "no_speech_prob": 0.7485042810440063
+    }
+  ],
+  "transcript_full": "Thank you.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
