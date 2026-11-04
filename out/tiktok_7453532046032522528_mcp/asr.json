@@ -1,0 +1,396 @@
+{
+  "language": "en",
+  "language_probability": 0.9785085320472717,
+  "duration": 200.176,
+  "duration_after_vad": 199.76,
+  "segment_count": 48,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.18,
+      "end": 5.94,
+      "text": "It's almost certain that 2024 will be the hottest year on record and exceed, for the",
+      "avg_logprob": -0.163898004591465,
+      "no_speech_prob": 0.014880216680467129
+    },
+    {
+      "id": 2,
+      "start": 5.94,
+      "end": 11.94,
+      "text": "first time, the 1.5 degree increase in temperatures that the world has been battling to avoid.",
+      "avg_logprob": -0.163898004591465,
+      "no_speech_prob": 0.014880216680467129
+    },
+    {
+      "id": 3,
+      "start": 11.94,
+      "end": 16.86,
+      "text": "Beyond that threshold, the effects of climate change are predicted to be catastrophic.",
+      "avg_logprob": -0.163898004591465,
+      "no_speech_prob": 0.014880216680467129
+    },
+    {
+      "id": 4,
+      "start": 16.86,
+      "end": 21.54,
+      "text": "And already, in the past year, weather linked to climate change has killed thousands around",
+      "avg_logprob": -0.163898004591465,
+      "no_speech_prob": 0.014880216680467129
+    },
+    {
+      "id": 5,
+      "start": 21.54,
+      "end": 22.54,
+      "text": "the world.",
+      "avg_logprob": -0.163898004591465,
+      "no_speech_prob": 0.014880216680467129
+    },
+    {
+      "id": 6,
+      "start": 22.54,
+      "end": 27.38,
+      "text": "Alex Peresford looks back at a warm and worrying year.",
+      "avg_logprob": -0.163898004591465,
+      "no_speech_prob": 0.014880216680467129
+    },
+    {
+      "id": 7,
+      "start": 27.38,
+      "end": 31.7,
+      "text": "A picture is worth a thousand words.",
+      "avg_logprob": -0.13976391019492312,
+      "no_speech_prob": 0.009605467319488525
+    },
+    {
+      "id": 8,
+      "start": 31.7,
+      "end": 37.62,
+      "text": "Climate change is undoubtedly leading to more frequent and intense rainfall here in the UK.",
+      "avg_logprob": -0.13976391019492312,
+      "no_speech_prob": 0.009605467319488525
+    },
+    {
+      "id": 9,
+      "start": 37.62,
+      "end": 44.06,
+      "text": "And across the globe, weather events of the last year show the impacts of a change in climate.",
+      "avg_logprob": -0.13976391019492312,
+      "no_speech_prob": 0.009605467319488525
+    },
+    {
+      "id": 10,
+      "start": 44.06,
+      "end": 50.02,
+      "text": "The top deadliest weather event of 2024 has killed thousands of people.",
+      "avg_logprob": -0.13976391019492312,
+      "no_speech_prob": 0.009605467319488525
+    },
+    {
+      "id": 11,
+      "start": 50.02,
+      "end": 56.18,
+      "text": "We continue to see the impact of intense tropical cyclone Cheeto across Southeast Africa,",
+      "avg_logprob": -0.13976391019492312,
+      "no_speech_prob": 0.009605467319488525
+    },
+    {
+      "id": 12,
+      "start": 56.18,
+      "end": 58.02,
+      "text": "which has killed hundreds.",
+      "avg_logprob": -0.18487976919306387,
+      "no_speech_prob": 0.01696666143834591
+    },
+    {
+      "id": 13,
+      "start": 58.02,
+      "end": 63.66,
+      "text": "It was the worst storm to hit the French island of Mayot in 90 years and has affected 70 percent",
+      "avg_logprob": -0.18487976919306387,
+      "no_speech_prob": 0.01696666143834591
+    },
+    {
+      "id": 14,
+      "start": 63.66,
+      "end": 66.26,
+      "text": "of the population.",
+      "avg_logprob": -0.18487976919306387,
+      "no_speech_prob": 0.01696666143834591
+    },
+    {
+      "id": 15,
+      "start": 66.26,
+      "end": 70.9,
+      "text": "The first half of this year engulfed Afghanistan and Pakistan with floods that killed over",
+      "avg_logprob": -0.18487976919306387,
+      "no_speech_prob": 0.01696666143834591
+    },
+    {
+      "id": 16,
+      "start": 70.9,
+      "end": 72.7,
+      "text": "a thousand people.",
+      "avg_logprob": -0.18487976919306387,
+      "no_speech_prob": 0.01696666143834591
+    },
+    {
+      "id": 17,
+      "start": 72.7,
+      "end": 75.86,
+      "text": "Monsign season brought double the amount of rain.",
+      "avg_logprob": -0.18487976919306387,
+      "no_speech_prob": 0.01696666143834591
+    },
+    {
+      "id": 18,
+      "start": 75.86,
+      "end": 81.02,
+      "text": "The UN described Pakistan's floods as an unprecedented climate catastrophe, leaving",
+      "avg_logprob": -0.18487976919306387,
+      "no_speech_prob": 0.01696666143834591
+    },
+    {
+      "id": 19,
+      "start": 81.02,
+      "end": 84.62,
+      "text": "a third of the country under water.",
+      "avg_logprob": -0.18487976919306387,
+      "no_speech_prob": 0.01696666143834591
+    },
+    {
+      "id": 20,
+      "start": 84.62,
+      "end": 89.22,
+      "text": "In August, storm entangue was the strongest storm to hit Asia.",
+      "avg_logprob": -0.20012851896740141,
+      "no_speech_prob": 0.062307391315698624
+    },
+    {
+      "id": 21,
+      "start": 89.22,
+      "end": 95.78,
+      "text": "The super typhoon Raviz Myanmar, Vietnam, Laos and Thailand, killing over 800 people",
+      "avg_logprob": -0.20012851896740141,
+      "no_speech_prob": 0.062307391315698624
+    },
+    {
+      "id": 22,
+      "start": 95.78,
+      "end": 98.54,
+      "text": "and displacing millions.",
+      "avg_logprob": -0.20012851896740141,
+      "no_speech_prob": 0.062307391315698624
+    },
+    {
+      "id": 23,
+      "start": 98.54,
+      "end": 102.58,
+      "text": "Human induced climate change is pushing up average global temperatures, which creates",
+      "avg_logprob": -0.20012851896740141,
+      "no_speech_prob": 0.062307391315698624
+    },
+    {
+      "id": 24,
+      "start": 102.58,
+      "end": 107.42,
+      "text": "the perfect breeding ground for these super typhoons to become more dangerous than ever",
+      "avg_logprob": -0.20012851896740141,
+      "no_speech_prob": 0.062307391315698624
+    },
+    {
+      "id": 25,
+      "start": 107.42,
+      "end": 108.42,
+      "text": "before.",
+      "avg_logprob": -0.20012851896740141,
+      "no_speech_prob": 0.062307391315698624
+    },
+    {
+      "id": 26,
+      "start": 108.42,
+      "end": 109.42,
+      "text": "Why?",
+      "avg_logprob": -0.20012851896740141,
+      "no_speech_prob": 0.062307391315698624
+    },
+    {
+      "id": 27,
+      "start": 109.42,
+      "end": 113.5,
+      "text": "Well, our atmosphere is now holding more water than ever before.",
+      "avg_logprob": -0.20012851896740141,
+      "no_speech_prob": 0.062307391315698624
+    },
+    {
+      "id": 28,
+      "start": 113.5,
+      "end": 116.94,
+      "text": "Buried on by warmer sea surface temperatures.",
+      "avg_logprob": -0.20794602903989282,
+      "no_speech_prob": 0.3017062544822693
+    },
+    {
+      "id": 29,
+      "start": 116.94,
+      "end": 122.26,
+      "text": "In July, the YNN landslides hit the southern Indian state of Kerala, killing in excess",
+      "avg_logprob": -0.20794602903989282,
+      "no_speech_prob": 0.3017062544822693
+    },
+    {
+      "id": 30,
+      "start": 122.26,
+      "end": 125.78,
+      "text": "of 300 and leaving hundreds more missing.",
+      "avg_logprob": -0.20794602903989282,
+      "no_speech_prob": 0.3017062544822693
+    },
+    {
+      "id": 31,
+      "start": 125.78,
+      "end": 130.46,
+      "text": "The thick torrents of mud and water swept through the region, flattening homes and",
+      "avg_logprob": -0.20794602903989282,
+      "no_speech_prob": 0.3017062544822693
+    },
+    {
+      "id": 32,
+      "start": 130.46,
+      "end": 132.38,
+      "text": "uprooting trees.",
+      "avg_logprob": -0.20794602903989282,
+      "no_speech_prob": 0.3017062544822693
+    },
+    {
+      "id": 33,
+      "start": 132.38,
+      "end": 137.78,
+      "text": "Hurricane Helene was the fourth deadliest meteorological event of 2024, taking the",
+      "avg_logprob": -0.20794602903989282,
+      "no_speech_prob": 0.3017062544822693
+    },
+    {
+      "id": 34,
+      "start": 137.78,
+      "end": 140.66,
+      "text": "lies of 230 in Florida.",
+      "avg_logprob": -0.20794602903989282,
+      "no_speech_prob": 0.3017062544822693
+    },
+    {
+      "id": 35,
+      "start": 140.66,
+      "end": 146.02,
+      "text": "The tragedy only continued as Storm Milton hit the already vulnerable state, causing",
+      "avg_logprob": -0.23993558953790103,
+      "no_speech_prob": 0.015668224543333054
+    },
+    {
+      "id": 36,
+      "start": 146.02,
+      "end": 148.42,
+      "text": "meteorologists to be visibly distressed.",
+      "avg_logprob": -0.23993558953790103,
+      "no_speech_prob": 0.015668224543333054
+    },
+    {
+      "id": 37,
+      "start": 148.42,
+      "end": 155.5,
+      "text": "It has dropped 50 millibars in 10 hours.",
+      "avg_logprob": -0.23993558953790103,
+      "no_speech_prob": 0.015668224543333054
+    },
+    {
+      "id": 38,
+      "start": 155.5,
+      "end": 156.58,
+      "text": "I apologize.",
+      "avg_logprob": -0.23993558953790103,
+      "no_speech_prob": 0.015668224543333054
+    },
+    {
+      "id": 39,
+      "start": 156.58,
+      "end": 159.66,
+      "text": "This is just horrific.",
+      "avg_logprob": -0.23993558953790103,
+      "no_speech_prob": 0.015668224543333054
+    },
+    {
+      "id": 40,
+      "start": 159.66,
+      "end": 165.94,
+      "text": "In Europe, Spanish floods in 2024 have killed over 200 people, including two elderly",
+      "avg_logprob": -0.23993558953790103,
+      "no_speech_prob": 0.015668224543333054
+    },
+    {
+      "id": 41,
+      "start": 165.94,
+      "end": 170.18,
+      "text": "British expats Don Turner and his wife, Terry.",
+      "avg_logprob": -0.23993558953790103,
+      "no_speech_prob": 0.015668224543333054
+    },
+    {
+      "id": 42,
+      "start": 170.18,
+      "end": 175.66,
+      "text": "In the last 20 years, killer storms, heat waves and floods have affected Europe, Africa",
+      "avg_logprob": -0.19289195625221028,
+      "no_speech_prob": 0.03462577611207962
+    },
+    {
+      "id": 43,
+      "start": 175.66,
+      "end": 180.1,
+      "text": "and Asia, killing more than 570,000 people.",
+      "avg_logprob": -0.19289195625221028,
+      "no_speech_prob": 0.03462577611207962
+    },
+    {
+      "id": 44,
+      "start": 180.1,
+      "end": 187.78,
+      "text": "2024 is certain to be the hottest year globally on record, exceeding 1.5 Celsius above pre-industrial",
+      "avg_logprob": -0.19289195625221028,
+      "no_speech_prob": 0.03462577611207962
+    },
+    {
+      "id": 45,
+      "start": 187.78,
+      "end": 188.86,
+      "text": "times.",
+      "avg_logprob": -0.19289195625221028,
+      "no_speech_prob": 0.03462577611207962
+    },
+    {
+      "id": 46,
+      "start": 188.86,
+      "end": 192.98,
+      "text": "The repercussions of a warmer climate on weather systems quite literally creates the",
+      "avg_logprob": -0.19289195625221028,
+      "no_speech_prob": 0.03462577611207962
+    },
+    {
+      "id": 47,
+      "start": 192.98,
+      "end": 197.46,
+      "text": "perfect storm for more deadly weather in 2025.",
+      "avg_logprob": -0.19289195625221028,
+      "no_speech_prob": 0.03462577611207962
+    },
+    {
+      "id": 48,
+      "start": 197.46,
+      "end": 199.94,
+      "text": "Alex Beresford, ITV News.",
+      "avg_logprob": -0.19289195625221028,
+      "no_speech_prob": 0.03462577611207962
+    }
+  ],
+  "transcript_full": "It's almost certain that 2024 will be the hottest year on record and exceed, for the first time, the 1.5 degree increase in temperatures that the world has been battling to avoid. Beyond that threshold, the effects of climate change are predicted to be catastrophic. And already, in the past year, weather linked to climate change has killed thousands around the world. Alex Peresford looks back at a warm and worrying year. A picture is worth a thousand words. Climate change is undoubtedly leading to more frequent and intense rainfall here in the UK. And across the globe, weather events of the last year show the impacts of a change in climate. The top deadliest weather event of 2024 has killed thousands of people. We continue to see the impact of intense tropical cyclone Cheeto across Southeast Africa, which has killed hundreds. It was the worst storm to hit the French island of Mayot in 90 years and has affected 70 percent of the population. The first half of this year engulfed Afghanistan and Pakistan with floods that killed over a thousand people. Monsign season brought double the amount of rain. The UN described Pakistan's floods as an unprecedented climate catastrophe, leaving a third of the country under water. In August, storm entangue was the strongest storm to hit Asia. The super typhoon Raviz Myanmar, Vietnam, Laos and Thailand, killing over 800 people and displacing millions. Human induced climate change is pushing up average global temperatures, which creates the perfect breeding ground for these super typhoons to become more dangerous than ever before. Why? Well, our atmosphere is now holding more water than ever before. Buried on by warmer sea surface temperatures. In July, the YNN landslides hit the southern Indian state of Kerala, killing in excess of 300 and leaving hundreds more missing. The thick torrents of mud and water swept through the region, flattening homes and uprooting trees. Hurricane Helene was the fourth deadliest meteorological event of 2024, taking the lies of 230 in Florida. The tragedy only continued as Storm Milton hit the already vulnerable state, causing meteorologists to be visibly distressed. It has dropped 50 millibars in 10 hours. I apologize. This is just horrific. In Europe, Spanish floods in 2024 have killed over 200 people, including two elderly British expats Don Turner and his wife, Terry. In the last 20 years, killer storms, heat waves and floods have affected Europe, Africa and Asia, killing more than 570,000 people. 2024 is certain to be the hottest year globally on record, exceeding 1.5 Celsius above pre-industrial times. The repercussions of a warmer climate on weather systems quite literally creates the perfect storm for more deadly weather in 2025. Alex Beresford, ITV News.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
