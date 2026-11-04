@@ -1,0 +1,52 @@
+{
+  "language": "en",
+  "language_probability": 0.9153510928153992,
+  "duration": 60.04,
+  "duration_after_vad": 57.82,
+  "segment_count": 5,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.42,
+      "text": "Waking up, it's a dangerous world",
+      "avg_logprob": -0.5705952147642771,
+      "no_speech_prob": 0.4120081663131714
+    },
+    {
+      "id": 2,
+      "start": 4.42,
+      "end": 12.24,
+      "text": "I'm running out for planet Earth",
+      "avg_logprob": -0.5705952147642771,
+      "no_speech_prob": 0.4120081663131714
+    },
+    {
+      "id": 3,
+      "start": 12.24,
+      "end": 24.86,
+      "text": "Pick up your sticks and beat your drums",
+      "avg_logprob": -0.5705952147642771,
+      "no_speech_prob": 0.4120081663131714
+    },
+    {
+      "id": 4,
+      "start": 24.86,
+      "end": 56.52,
+      "text": "Be close and be, let me see you",
+      "avg_logprob": -0.5705952147642771,
+      "no_speech_prob": 0.4120081663131714
+    },
+    {
+      "id": 5,
+      "start": 56.52,
+      "end": 57.82,
+      "text": "These are the roses",
+      "avg_logprob": -0.5705952147642771,
+      "no_speech_prob": 0.4120081663131714
+    }
+  ],
+  "transcript_full": "Waking up, it's a dangerous world I'm running out for planet Earth Pick up your sticks and beat your drums Be close and be, let me see you These are the roses",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
