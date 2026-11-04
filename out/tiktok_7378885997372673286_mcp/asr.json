@@ -1,0 +1,84 @@
+{
+  "language": "id",
+  "language_probability": 0.9183301329612732,
+  "duration": 26.84,
+  "duration_after_vad": 12.0,
+  "segment_count": 9,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.78,
+      "end": 1.78,
+      "text": "Eh, ga kena!",
+      "avg_logprob": -0.5356869648412331,
+      "no_speech_prob": 0.22097782790660858
+    },
+    {
+      "id": 2,
+      "start": 1.78,
+      "end": 2.78,
+      "text": "Woi!",
+      "avg_logprob": -0.5356869648412331,
+      "no_speech_prob": 0.22097782790660858
+    },
+    {
+      "id": 3,
+      "start": 3.78,
+      "end": 5.78,
+      "text": "Woi, katanya ga disini beneran!",
+      "avg_logprob": -0.5356869648412331,
+      "no_speech_prob": 0.22097782790660858
+    },
+    {
+      "id": 4,
+      "start": 6.78,
+      "end": 7.78,
+      "text": "Jangan lupa ikuti!",
+      "avg_logprob": -0.5356869648412331,
+      "no_speech_prob": 0.22097782790660858
+    },
+    {
+      "id": 5,
+      "start": 9.78,
+      "end": 12.78,
+      "text": "Jangan lupa ikuti, lo mau memasak untuk ibu-ibu pekata.",
+      "avg_logprob": -0.5356869648412331,
+      "no_speech_prob": 0.22097782790660858
+    },
+    {
+      "id": 6,
+      "start": 12.78,
+      "end": 13.78,
+      "text": "Sejabudah abek.",
+      "avg_logprob": -0.5356869648412331,
+      "no_speech_prob": 0.22097782790660858
+    },
+    {
+      "id": 7,
+      "start": 13.78,
+      "end": 14.78,
+      "text": "Untuk pendaptaran.",
+      "avg_logprob": -0.5356869648412331,
+      "no_speech_prob": 0.22097782790660858
+    },
+    {
+      "id": 8,
+      "start": 15.78,
+      "end": 16.78,
+      "text": "Sekarang kian di bawah ya.",
+      "avg_logprob": -0.5356869648412331,
+      "no_speech_prob": 0.22097782790660858
+    },
+    {
+      "id": 9,
+      "start": 17.78,
+      "end": 18.78,
+      "text": "Daaah.",
+      "avg_logprob": -0.5356869648412331,
+      "no_speech_prob": 0.22097782790660858
+    }
+  ],
+  "transcript_full": "Eh, ga kena! Woi! Woi, katanya ga disini beneran! Jangan lupa ikuti! Jangan lupa ikuti, lo mau memasak untuk ibu-ibu pekata. Sejabudah abek. Untuk pendaptaran. Sekarang kian di bawah ya. Daaah.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
