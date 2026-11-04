@@ -1,0 +1,156 @@
+{
+  "language": "en",
+  "language_probability": 0.9976108074188232,
+  "duration": 70.437,
+  "duration_after_vad": 68.24,
+  "segment_count": 18,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.84,
+      "text": "Would you eat this oyster raw for one million dollars?",
+      "avg_logprob": -0.29181798262016795,
+      "no_speech_prob": 0.03851456567645073
+    },
+    {
+      "id": 2,
+      "start": 3.84,
+      "end": 5.04,
+      "text": "Oh, oh, oh!",
+      "avg_logprob": -0.29181798262016795,
+      "no_speech_prob": 0.03851456567645073
+    },
+    {
+      "id": 3,
+      "start": 5.04,
+      "end": 7.2,
+      "text": "Oh, hell no!",
+      "avg_logprob": -0.29181798262016795,
+      "no_speech_prob": 0.03851456567645073
+    },
+    {
+      "id": 4,
+      "start": 7.2,
+      "end": 8.4,
+      "text": "Oh, fuck no!",
+      "avg_logprob": -0.29181798262016795,
+      "no_speech_prob": 0.03851456567645073
+    },
+    {
+      "id": 5,
+      "start": 8.4,
+      "end": 11.36,
+      "text": "I would not eat this for one million dollars.",
+      "avg_logprob": -0.29181798262016795,
+      "no_speech_prob": 0.03851456567645073
+    },
+    {
+      "id": 6,
+      "start": 11.36,
+      "end": 15.12,
+      "text": "No amount of money could convince me to eat raw oysters.",
+      "avg_logprob": -0.29181798262016795,
+      "no_speech_prob": 0.03851456567645073
+    },
+    {
+      "id": 7,
+      "start": 15.12,
+      "end": 21.36,
+      "text": "As a matter of fact, a man died today after eating raw oysters following the lethal bacteria",
+      "avg_logprob": -0.29181798262016795,
+      "no_speech_prob": 0.03851456567645073
+    },
+    {
+      "id": 8,
+      "start": 21.36,
+      "end": 23.84,
+      "text": "spread by the recent hurricanes.",
+      "avg_logprob": -0.29181798262016795,
+      "no_speech_prob": 0.03851456567645073
+    },
+    {
+      "id": 9,
+      "start": 23.84,
+      "end": 28.24,
+      "text": "The bacteria that killed the man is Virio volnificis.",
+      "avg_logprob": -0.29181798262016795,
+      "no_speech_prob": 0.03851456567645073
+    },
+    {
+      "id": 10,
+      "start": 28.24,
+      "end": 34.8,
+      "text": "And it enters your body by the consumption of raw seafood like this oyster here, or open wounds.",
+      "avg_logprob": -0.0950545307483759,
+      "no_speech_prob": 0.0007860761252231896
+    },
+    {
+      "id": 11,
+      "start": 34.8,
+      "end": 39.04,
+      "text": "And on top of the flesh-eating bacteria that these oysters contain,",
+      "avg_logprob": -0.0950545307483759,
+      "no_speech_prob": 0.0007860761252231896
+    },
+    {
+      "id": 12,
+      "start": 39.04,
+      "end": 43.76,
+      "text": "there's also parasitic worms squirming around at them, so yeah, I'm not gonna eat them.",
+      "avg_logprob": -0.0950545307483759,
+      "no_speech_prob": 0.0007860761252231896
+    },
+    {
+      "id": 13,
+      "start": 43.76,
+      "end": 48.48,
+      "text": "And once this bacteria gets into your system, it spreads like fucking wildfire.",
+      "avg_logprob": -0.0950545307483759,
+      "no_speech_prob": 0.0007860761252231896
+    },
+    {
+      "id": 14,
+      "start": 49.12,
+      "end": 57.28,
+      "text": "Symptoms include diarrhea, stomach, cramping, nausea, vomiting, fever, chills, cellulitis,",
+      "avg_logprob": -0.0950545307483759,
+      "no_speech_prob": 0.0007860761252231896
+    },
+    {
+      "id": 15,
+      "start": 57.28,
+      "end": 59.2,
+      "text": "and blistering lesions.",
+      "avg_logprob": -0.09566780410963914,
+      "no_speech_prob": 0.004888209048658609
+    },
+    {
+      "id": 16,
+      "start": 59.2,
+      "end": 63.12,
+      "text": "And if you still want to eat oysters after all the bullshit I just showed you,",
+      "avg_logprob": -0.09566780410963914,
+      "no_speech_prob": 0.004888209048658609
+    },
+    {
+      "id": 17,
+      "start": 63.76,
+      "end": 65.36,
+      "text": "make sure you fucking cook it.",
+      "avg_logprob": -0.09566780410963914,
+      "no_speech_prob": 0.004888209048658609
+    },
+    {
+      "id": 18,
+      "start": 66.0,
+      "end": 70.16,
+      "text": "Or you can just keep eating them raw and enjoy the worms wriggling throughout your body.",
+      "avg_logprob": -0.09566780410963914,
+      "no_speech_prob": 0.004888209048658609
+    }
+  ],
+  "transcript_full": "Would you eat this oyster raw for one million dollars? Oh, oh, oh! Oh, hell no! Oh, fuck no! I would not eat this for one million dollars. No amount of money could convince me to eat raw oysters. As a matter of fact, a man died today after eating raw oysters following the lethal bacteria spread by the recent hurricanes. The bacteria that killed the man is Virio volnificis. And it enters your body by the consumption of raw seafood like this oyster here, or open wounds. And on top of the flesh-eating bacteria that these oysters contain, there's also parasitic worms squirming around at them, so yeah, I'm not gonna eat them. And once this bacteria gets into your system, it spreads like fucking wildfire. Symptoms include diarrhea, stomach, cramping, nausea, vomiting, fever, chills, cellulitis, and blistering lesions. And if you still want to eat oysters after all the bullshit I just showed you, make sure you fucking cook it. Or you can just keep eating them raw and enjoy the worms wriggling throughout your body.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
