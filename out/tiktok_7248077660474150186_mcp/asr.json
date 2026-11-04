@@ -1,0 +1,36 @@
+{
+  "language": "en",
+  "language_probability": 0.8909007906913757,
+  "duration": 7.034,
+  "duration_after_vad": 7.0,
+  "segment_count": 3,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Here comes the money!",
+      "avg_logprob": -0.3575603747740388,
+      "no_speech_prob": 0.22358882427215576
+    },
+    {
+      "id": 2,
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Here we go! Money talk!",
+      "avg_logprob": -0.3575603747740388,
+      "no_speech_prob": 0.22358882427215576
+    },
+    {
+      "id": 3,
+      "start": 4.0,
+      "end": 7.0,
+      "text": "Here comes the money! Money, money, money, money!",
+      "avg_logprob": -0.3575603747740388,
+      "no_speech_prob": 0.22358882427215576
+    }
+  ],
+  "transcript_full": "Here comes the money! Here we go! Money talk! Here comes the money! Money, money, money, money!",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
