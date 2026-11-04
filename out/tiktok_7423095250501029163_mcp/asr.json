@@ -1,0 +1,116 @@
+{
+  "language": "en",
+  "language_probability": 0.9974182844161987,
+  "duration": 50.933,
+  "duration_after_vad": 50.52,
+  "segment_count": 13,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.36,
+      "text": "I think what people don't get about Mother Earth is that all of this extreme weather that",
+      "avg_logprob": -0.14234367150951316,
+      "no_speech_prob": 0.0222950279712677
+    },
+    {
+      "id": 2,
+      "start": 4.36,
+      "end": 10.64,
+      "text": "we are facing is Earth's defense system against us and what we're doing to her.",
+      "avg_logprob": -0.14234367150951316,
+      "no_speech_prob": 0.0222950279712677
+    },
+    {
+      "id": 3,
+      "start": 10.64,
+      "end": 11.76,
+      "text": "Human gets sick.",
+      "avg_logprob": -0.14234367150951316,
+      "no_speech_prob": 0.0222950279712677
+    },
+    {
+      "id": 4,
+      "start": 11.76,
+      "end": 16.12,
+      "text": "Our body responds by giving us a fever, okay?",
+      "avg_logprob": -0.14234367150951316,
+      "no_speech_prob": 0.0222950279712677
+    },
+    {
+      "id": 5,
+      "start": 16.12,
+      "end": 21.76,
+      "text": "But it's not a symptom of the sickness, it's our body fighting the sickness.",
+      "avg_logprob": -0.14234367150951316,
+      "no_speech_prob": 0.0222950279712677
+    },
+    {
+      "id": 6,
+      "start": 21.76,
+      "end": 23.8,
+      "text": "Global warming was caused by humans.",
+      "avg_logprob": -0.14234367150951316,
+      "no_speech_prob": 0.0222950279712677
+    },
+    {
+      "id": 7,
+      "start": 23.8,
+      "end": 26.92,
+      "text": "We have been chipping holes in our ozone layer since the Industrial Revolution, which",
+      "avg_logprob": -0.14234367150951316,
+      "no_speech_prob": 0.0222950279712677
+    },
+    {
+      "id": 8,
+      "start": 26.92,
+      "end": 32.4,
+      "text": "is causing more sunlight to get in and the earth to heat rapidly, which is causing the",
+      "avg_logprob": -0.1548254404489587,
+      "no_speech_prob": 0.08674102276563644
+    },
+    {
+      "id": 9,
+      "start": 32.4,
+      "end": 34.84,
+      "text": "extreme weather that we are facing.",
+      "avg_logprob": -0.1548254404489587,
+      "no_speech_prob": 0.08674102276563644
+    },
+    {
+      "id": 10,
+      "start": 34.84,
+      "end": 37.16,
+      "text": "Climate change is observable.",
+      "avg_logprob": -0.1548254404489587,
+      "no_speech_prob": 0.08674102276563644
+    },
+    {
+      "id": 11,
+      "start": 37.16,
+      "end": 39.72,
+      "text": "You can see it with thine own eyes.",
+      "avg_logprob": -0.1548254404489587,
+      "no_speech_prob": 0.08674102276563644
+    },
+    {
+      "id": 12,
+      "start": 39.72,
+      "end": 46.64,
+      "text": "And until we, humanity, stop prioritizing capitalism and corporate greed over the",
+      "avg_logprob": -0.1548254404489587,
+      "no_speech_prob": 0.08674102276563644
+    },
+    {
+      "id": 13,
+      "start": 46.64,
+      "end": 50.52,
+      "text": "health of our people and our planet, this will not stop.",
+      "avg_logprob": -0.1548254404489587,
+      "no_speech_prob": 0.08674102276563644
+    }
+  ],
+  "transcript_full": "I think what people don't get about Mother Earth is that all of this extreme weather that we are facing is Earth's defense system against us and what we're doing to her. Human gets sick. Our body responds by giving us a fever, okay? But it's not a symptom of the sickness, it's our body fighting the sickness. Global warming was caused by humans. We have been chipping holes in our ozone layer since the Industrial Revolution, which is causing more sunlight to get in and the earth to heat rapidly, which is causing the extreme weather that we are facing. Climate change is observable. You can see it with thine own eyes. And until we, humanity, stop prioritizing capitalism and corporate greed over the health of our people and our planet, this will not stop.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
