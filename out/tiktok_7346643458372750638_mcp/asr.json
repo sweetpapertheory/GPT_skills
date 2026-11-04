@@ -1,0 +1,124 @@
+{
+  "language": "en",
+  "language_probability": 0.9998350143432617,
+  "duration": 37.243,
+  "duration_after_vad": 34.76,
+  "segment_count": 14,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.4,
+      "text": "In smart people news, researchers just made",
+      "avg_logprob": -0.3419257261391197,
+      "no_speech_prob": 0.0010060605127364397
+    },
+    {
+      "id": 2,
+      "start": 2.4,
+      "end": 4.84,
+      "text": "a groundbreaking scientific discovery",
+      "avg_logprob": -0.3419257261391197,
+      "no_speech_prob": 0.0010060605127364397
+    },
+    {
+      "id": 3,
+      "start": 4.84,
+      "end": 7.28,
+      "text": "about the best and worst times of day.",
+      "avg_logprob": -0.3419257261391197,
+      "no_speech_prob": 0.0010060605127364397
+    },
+    {
+      "id": 4,
+      "start": 7.28,
+      "end": 11.84,
+      "text": "In summary, 5 a.m. sucks and 5 p.m. rocks.",
+      "avg_logprob": -0.3419257261391197,
+      "no_speech_prob": 0.0010060605127364397
+    },
+    {
+      "id": 5,
+      "start": 11.84,
+      "end": 15.52,
+      "text": "Wow, was the study called obvious sh** everyone knows?",
+      "avg_logprob": -0.3419257261391197,
+      "no_speech_prob": 0.0010060605127364397
+    },
+    {
+      "id": 6,
+      "start": 15.52,
+      "end": 16.98,
+      "text": "Yes.",
+      "avg_logprob": -0.3419257261391197,
+      "no_speech_prob": 0.0010060605127364397
+    },
+    {
+      "id": 7,
+      "start": 16.98,
+      "end": 18.36,
+      "text": "Comedians, what are some other",
+      "avg_logprob": -0.3419257261391197,
+      "no_speech_prob": 0.0010060605127364397
+    },
+    {
+      "id": 8,
+      "start": 18.36,
+      "end": 20.72,
+      "text": "obvious scientific discoveries?",
+      "avg_logprob": -0.3419257261391197,
+      "no_speech_prob": 0.0010060605127364397
+    },
+    {
+      "id": 9,
+      "start": 20.72,
+      "end": 21.92,
+      "text": "Yes. Reggie.",
+      "avg_logprob": -0.3419257261391197,
+      "no_speech_prob": 0.0010060605127364397
+    },
+    {
+      "id": 10,
+      "start": 21.92,
+      "end": 24.56,
+      "text": "Doctors finally confirm you go to college",
+      "avg_logprob": -0.3419257261391197,
+      "no_speech_prob": 0.0010060605127364397
+    },
+    {
+      "id": 11,
+      "start": 24.56,
+      "end": 27.36,
+      "text": "to pay for college.",
+      "avg_logprob": -0.3419257261391197,
+      "no_speech_prob": 0.0010060605127364397
+    },
+    {
+      "id": 12,
+      "start": 27.36,
+      "end": 29.76,
+      "text": "All right. Yeah.",
+      "avg_logprob": -0.3419257261391197,
+      "no_speech_prob": 0.0010060605127364397
+    },
+    {
+      "id": 13,
+      "start": 30.72,
+      "end": 31.72,
+      "text": "Jordan.",
+      "avg_logprob": -0.42195416539907454,
+      "no_speech_prob": 0.0005961631541140378
+    },
+    {
+      "id": 14,
+      "start": 31.72,
+      "end": 35.72,
+      "text": "One out of every five children is a child of Nick Cannon.",
+      "avg_logprob": -0.42195416539907454,
+      "no_speech_prob": 0.0005961631541140378
+    }
+  ],
+  "transcript_full": "In smart people news, researchers just made a groundbreaking scientific discovery about the best and worst times of day. In summary, 5 a.m. sucks and 5 p.m. rocks. Wow, was the study called obvious sh** everyone knows? Yes. Comedians, what are some other obvious scientific discoveries? Yes. Reggie. Doctors finally confirm you go to college to pay for college. All right. Yeah. Jordan. One out of every five children is a child of Nick Cannon.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
