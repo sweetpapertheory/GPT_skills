@@ -1,0 +1,260 @@
+{
+  "language": "en",
+  "language_probability": 0.9997633099555969,
+  "duration": 142.233,
+  "duration_after_vad": 141.94,
+  "segment_count": 31,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.72,
+      "text": "The IPCC just released its latest report on the current state of climate change, so",
+      "avg_logprob": -0.12565127957580435,
+      "no_speech_prob": 0.0014419242506846786
+    },
+    {
+      "id": 2,
+      "start": 4.72,
+      "end": 8.56,
+      "text": "what better time than Earth month to talk about these latest discoveries that have been",
+      "avg_logprob": -0.12565127957580435,
+      "no_speech_prob": 0.0014419242506846786
+    },
+    {
+      "id": 3,
+      "start": 8.56,
+      "end": 12.4,
+      "text": "raising a lot of questions about the future of our home planet.",
+      "avg_logprob": -0.12565127957580435,
+      "no_speech_prob": 0.0014419242506846786
+    },
+    {
+      "id": 4,
+      "start": 12.4,
+      "end": 17.44,
+      "text": "That is why SOA has compiled the top 10 takeaways that you should know from this report in",
+      "avg_logprob": -0.12565127957580435,
+      "no_speech_prob": 0.0014419242506846786
+    },
+    {
+      "id": 5,
+      "start": 17.44,
+      "end": 20.32,
+      "text": "regard to our changing planet and ocean.",
+      "avg_logprob": -0.12565127957580435,
+      "no_speech_prob": 0.0014419242506846786
+    },
+    {
+      "id": 6,
+      "start": 20.32,
+      "end": 24.6,
+      "text": "Climate change is a threat to human livelihood and planetary health.",
+      "avg_logprob": -0.12565127957580435,
+      "no_speech_prob": 0.0014419242506846786
+    },
+    {
+      "id": 7,
+      "start": 24.6,
+      "end": 29.4,
+      "text": "Our planet has already warmed 1.2 degrees Celsius above pre-industrial levels.",
+      "avg_logprob": -0.12565127957580435,
+      "no_speech_prob": 0.0014419242506846786
+    },
+    {
+      "id": 8,
+      "start": 29.4,
+      "end": 34.76,
+      "text": "Global goals have set 1.5 degrees Celsius as the upper limit before we risk putting all",
+      "avg_logprob": -0.1625636874139309,
+      "no_speech_prob": 0.003383929142728448
+    },
+    {
+      "id": 9,
+      "start": 34.76,
+      "end": 37.62,
+      "text": "species including humans in jeopardy.",
+      "avg_logprob": -0.1625636874139309,
+      "no_speech_prob": 0.003383929142728448
+    },
+    {
+      "id": 10,
+      "start": 37.62,
+      "end": 43.96,
+      "text": "We have already spent 80% of the total carbon budget in order to limit warming to 1.5 degrees",
+      "avg_logprob": -0.1625636874139309,
+      "no_speech_prob": 0.003383929142728448
+    },
+    {
+      "id": 11,
+      "start": 43.96,
+      "end": 50.76,
+      "text": "Celsius, meaning that we're most likely going to reach 1.5 degrees C in the next 10 years,",
+      "avg_logprob": -0.1625636874139309,
+      "no_speech_prob": 0.003383929142728448
+    },
+    {
+      "id": 12,
+      "start": 50.76,
+      "end": 55.92,
+      "text": "and it's very likely that we'll reach 5 degrees of warming by the end of this century.",
+      "avg_logprob": -0.1625636874139309,
+      "no_speech_prob": 0.003383929142728448
+    },
+    {
+      "id": 13,
+      "start": 55.92,
+      "end": 62.68,
+      "text": "We have to conserve 30 to 50% of our planet's land and sea in order to avoid global biodiversity",
+      "avg_logprob": -0.1316865642419022,
+      "no_speech_prob": 0.0029384952504187822
+    },
+    {
+      "id": 14,
+      "start": 62.68,
+      "end": 64.56,
+      "text": "and ecosystem collapse.",
+      "avg_logprob": -0.1316865642419022,
+      "no_speech_prob": 0.0029384952504187822
+    },
+    {
+      "id": 15,
+      "start": 64.56,
+      "end": 70.88,
+      "text": "Vulnerable communities are 15 times more at risk than low vulnerability communities even",
+      "avg_logprob": -0.1316865642419022,
+      "no_speech_prob": 0.0029384952504187822
+    },
+    {
+      "id": 16,
+      "start": 70.88,
+      "end": 74.16,
+      "text": "though they have contributed the least amount to climate change.",
+      "avg_logprob": -0.1316865642419022,
+      "no_speech_prob": 0.0029384952504187822
+    },
+    {
+      "id": 17,
+      "start": 74.16,
+      "end": 78.28,
+      "text": "Sea levels have risen 8 inches since pre-industrial times, and sea levels will",
+      "avg_logprob": -0.1316865642419022,
+      "no_speech_prob": 0.0029384952504187822
+    },
+    {
+      "id": 18,
+      "start": 78.28,
+      "end": 82.26,
+      "text": "remain elevated for thousands of years.",
+      "avg_logprob": -0.1316865642419022,
+      "no_speech_prob": 0.0029384952504187822
+    },
+    {
+      "id": 19,
+      "start": 82.26,
+      "end": 88.62,
+      "text": "Ocean warming and acidification has negatively impacted food security for fisheries and aquaculture,",
+      "avg_logprob": -0.19070178723218395,
+      "no_speech_prob": 0.19682621955871582
+    },
+    {
+      "id": 20,
+      "start": 88.62,
+      "end": 95.74,
+      "text": "whereas 90% of all fisheries are either over-exploited or already at a state of collapse.",
+      "avg_logprob": -0.19070178723218395,
+      "no_speech_prob": 0.19682621955871582
+    },
+    {
+      "id": 21,
+      "start": 95.74,
+      "end": 100.02,
+      "text": "Nature-based solutions are becoming increasingly more cost-effective and accessible to the",
+      "avg_logprob": -0.19070178723218395,
+      "no_speech_prob": 0.19682621955871582
+    },
+    {
+      "id": 22,
+      "start": 100.02,
+      "end": 101.02,
+      "text": "public.",
+      "avg_logprob": -0.19070178723218395,
+      "no_speech_prob": 0.19682621955871582
+    },
+    {
+      "id": 23,
+      "start": 101.02,
+      "end": 105.46,
+      "text": "However, there still is an accessibility gap for low income and vulnerable communities.",
+      "avg_logprob": -0.19070178723218395,
+      "no_speech_prob": 0.19682621955871582
+    },
+    {
+      "id": 24,
+      "start": 105.46,
+      "end": 109.94,
+      "text": "The good news is there is sufficient capital in order to close this investment gap,",
+      "avg_logprob": -0.19070178723218395,
+      "no_speech_prob": 0.19682621955871582
+    },
+    {
+      "id": 25,
+      "start": 109.94,
+      "end": 114.74,
+      "text": "but it's all up to investors if they're willing to redirect funding to climate action.",
+      "avg_logprob": -0.125641121994704,
+      "no_speech_prob": 0.0230551827698946
+    },
+    {
+      "id": 26,
+      "start": 114.74,
+      "end": 120.26,
+      "text": "While this report has undoubtedly produced a lot of climate anxiety in many of us, it's",
+      "avg_logprob": -0.125641121994704,
+      "no_speech_prob": 0.0230551827698946
+    },
+    {
+      "id": 27,
+      "start": 120.26,
+      "end": 123.38,
+      "text": "important that we recognize the greatest takeaway of all.",
+      "avg_logprob": -0.125641121994704,
+      "no_speech_prob": 0.0230551827698946
+    },
+    {
+      "id": 28,
+      "start": 123.38,
+      "end": 128.78,
+      "text": "We have everything we need on this planet to reduce climate change.",
+      "avg_logprob": -0.125641121994704,
+      "no_speech_prob": 0.0230551827698946
+    },
+    {
+      "id": 29,
+      "start": 128.78,
+      "end": 134.14,
+      "text": "The choices and actions implemented in this decade by humanity will have lasting",
+      "avg_logprob": -0.125641121994704,
+      "no_speech_prob": 0.0230551827698946
+    },
+    {
+      "id": 30,
+      "start": 134.14,
+      "end": 137.7,
+      "text": "impact now and for thousands of years to come.",
+      "avg_logprob": -0.125641121994704,
+      "no_speech_prob": 0.0230551827698946
+    },
+    {
+      "id": 31,
+      "start": 137.7,
+      "end": 141.94,
+      "text": "Now it is up to us to turn from talking to action and solutions.",
+      "avg_logprob": -0.24860382742351955,
+      "no_speech_prob": 0.8516674041748047
+    }
+  ],
+  "transcript_full": "The IPCC just released its latest report on the current state of climate change, so what better time than Earth month to talk about these latest discoveries that have been raising a lot of questions about the future of our home planet. That is why SOA has compiled the top 10 takeaways that you should know from this report in regard to our changing planet and ocean. Climate change is a threat to human livelihood and planetary health. Our planet has already warmed 1.2 degrees Celsius above pre-industrial levels. Global goals have set 1.5 degrees Celsius as the upper limit before we risk putting all species including humans in jeopardy. We have already spent 80% of the total carbon budget in order to limit warming to 1.5 degrees Celsius, meaning that we're most likely going to reach 1.5 degrees C in the next 10 years, and it's very likely that we'll reach 5 degrees of warming by the end of this century. We have to conserve 30 to 50% of our planet's land and sea in order to avoid global biodiversity and ecosystem collapse. Vulnerable communities are 15 times more at risk than low vulnerability communities even though they have contributed the least amount to climate change. Sea levels have risen 8 inches since pre-industrial times, and sea levels will remain elevated for thousands of years. Ocean warming and acidification has negatively impacted food security for fisheries and aquaculture, whereas 90% of all fisheries are either over-exploited or already at a state of collapse. Nature-based solutions are becoming increasingly more cost-effective and accessible to the public. However, there still is an accessibility gap for low income and vulnerable communities. The good news is there is sufficient capital in order to close this investment gap, but it's all up to investors if they're willing to redirect funding to climate action. While this report has undoubtedly produced a lot of climate anxiety in many of us, it's important that we recognize the greatest takeaway of all. We have everything we need on this planet to reduce climate change. The choices and actions implemented in this decade by humanity will have lasting impact now and for thousands of years to come. Now it is up to us to turn from talking to action and solutions.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
