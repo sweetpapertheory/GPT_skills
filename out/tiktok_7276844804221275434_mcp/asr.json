@@ -1,0 +1,124 @@
+{
+  "language": "en",
+  "language_probability": 0.9995579123497009,
+  "duration": 59.433,
+  "duration_after_vad": 59.28,
+  "segment_count": 14,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.32,
+      "text": "I think that Cleanestrata Spring 2024 runway was the most forward-thinking collection of New York",
+      "avg_logprob": -0.117756920571653,
+      "no_speech_prob": 0.019378507509827614
+    },
+    {
+      "id": 2,
+      "start": 4.32,
+      "end": 8.64,
+      "text": "Fashion Week so far. And I say that for two reasons. One, because they used AI to actually help them",
+      "avg_logprob": -0.117756920571653,
+      "no_speech_prob": 0.019378507509827614
+    },
+    {
+      "id": 3,
+      "start": 8.64,
+      "end": 13.2,
+      "text": "design this collection, but also because Cleanestrata is always saying, listen the planet is burning",
+      "avg_logprob": -0.117756920571653,
+      "no_speech_prob": 0.019378507509827614
+    },
+    {
+      "id": 4,
+      "start": 13.2,
+      "end": 16.88,
+      "text": "and we're all just making fashion. Now I know you're gonna say, listen I've seen this Cleanestrata",
+      "avg_logprob": -0.117756920571653,
+      "no_speech_prob": 0.019378507509827614
+    },
+    {
+      "id": 5,
+      "start": 16.88,
+      "end": 20.24,
+      "text": "collection a couple of times, but you really haven't. But you kind of have because in reality",
+      "avg_logprob": -0.117756920571653,
+      "no_speech_prob": 0.019378507509827614
+    },
+    {
+      "id": 6,
+      "start": 20.24,
+      "end": 24.64,
+      "text": "the Cleanestrata team took AI and input all of their past collections and had the AI spit",
+      "avg_logprob": -0.117756920571653,
+      "no_speech_prob": 0.019378507509827614
+    },
+    {
+      "id": 7,
+      "start": 24.64,
+      "end": 29.12,
+      "text": "out design, which actually resulted in these really beautiful drape styles that came in an",
+      "avg_logprob": -0.117756920571653,
+      "no_speech_prob": 0.019378507509827614
+    },
+    {
+      "id": 8,
+      "start": 29.12,
+      "end": 34.8,
+      "text": "array of colors and slowly the Cleanestrata team edited down the AI suggestions into their own idea.",
+      "avg_logprob": -0.09352607709647966,
+      "no_speech_prob": 0.007154112681746483
+    },
+    {
+      "id": 9,
+      "start": 34.8,
+      "end": 38.72,
+      "text": "But as per normal with AI, it was kind of their idea already. The collection also saw some pretty",
+      "avg_logprob": -0.09352607709647966,
+      "no_speech_prob": 0.007154112681746483
+    },
+    {
+      "id": 10,
+      "start": 38.72,
+      "end": 43.84,
+      "text": "normal stables for the brand like ripped denim with lace applique and lots of silky plaids.",
+      "avg_logprob": -0.09352607709647966,
+      "no_speech_prob": 0.007154112681746483
+    },
+    {
+      "id": 11,
+      "start": 43.84,
+      "end": 47.84,
+      "text": "But I love this drop waist effect that's going on here as well. And something about this black",
+      "avg_logprob": -0.09352607709647966,
+      "no_speech_prob": 0.007154112681746483
+    },
+    {
+      "id": 12,
+      "start": 47.84,
+      "end": 51.2,
+      "text": "velvet bodice with the white gathered skirt does remind me of the fact that Cleanestrata",
+      "avg_logprob": -0.09352607709647966,
+      "no_speech_prob": 0.007154112681746483
+    },
+    {
+      "id": 13,
+      "start": 51.2,
+      "end": 55.52,
+      "text": "likes to reference period costume, but it's fun to see her modernize it in her own way.",
+      "avg_logprob": -0.09352607709647966,
+      "no_speech_prob": 0.007154112681746483
+    },
+    {
+      "id": 14,
+      "start": 55.52,
+      "end": 59.28,
+      "text": "So what do you all think? Should AI be designing our clothes? Should we be just going full eco-",
+      "avg_logprob": -0.20204006195068358,
+      "no_speech_prob": 0.6077370643615723
+    }
+  ],
+  "transcript_full": "I think that Cleanestrata Spring 2024 runway was the most forward-thinking collection of New York Fashion Week so far. And I say that for two reasons. One, because they used AI to actually help them design this collection, but also because Cleanestrata is always saying, listen the planet is burning and we're all just making fashion. Now I know you're gonna say, listen I've seen this Cleanestrata collection a couple of times, but you really haven't. But you kind of have because in reality the Cleanestrata team took AI and input all of their past collections and had the AI spit out design, which actually resulted in these really beautiful drape styles that came in an array of colors and slowly the Cleanestrata team edited down the AI suggestions into their own idea. But as per normal with AI, it was kind of their idea already. The collection also saw some pretty normal stables for the brand like ripped denim with lace applique and lots of silky plaids. But I love this drop waist effect that's going on here as well. And something about this black velvet bodice with the white gathered skirt does remind me of the fact that Cleanestrata likes to reference period costume, but it's fun to see her modernize it in her own way. So what do you all think? Should AI be designing our clothes? Should we be just going full eco-",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
