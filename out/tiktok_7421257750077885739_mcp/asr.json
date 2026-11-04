@@ -1,0 +1,276 @@
+{
+  "language": "en",
+  "language_probability": 0.9997408986091614,
+  "duration": 186.096,
+  "duration_after_vad": 171.04,
+  "segment_count": 33,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.27,
+      "end": 3.87,
+      "text": "Name one thing Trump did that wasn't in the best interests of Americans",
+      "avg_logprob": -0.2931006291792506,
+      "no_speech_prob": 0.011371880769729614
+    },
+    {
+      "id": 2,
+      "start": 4.35,
+      "end": 9.79,
+      "text": "How about we do 10 top 10 things that Trump did that were against",
+      "avg_logprob": -0.2931006291792506,
+      "no_speech_prob": 0.011371880769729614
+    },
+    {
+      "id": 3,
+      "start": 10.35,
+      "end": 14.59,
+      "text": "The American way of life. Number one the Muslim travel ban, which he did in",
+      "avg_logprob": -0.2931006291792506,
+      "no_speech_prob": 0.011371880769729614
+    },
+    {
+      "id": 4,
+      "start": 15.11,
+      "end": 20.15,
+      "text": "2017 remember when he banned travelers from several Muslim majority countries. Oh",
+      "avg_logprob": -0.2931006291792506,
+      "no_speech_prob": 0.011371880769729614
+    },
+    {
+      "id": 5,
+      "start": 20.95,
+      "end": 26.15,
+      "text": "That's called discrimination where I come from number two his family separation policy",
+      "avg_logprob": -0.2931006291792506,
+      "no_speech_prob": 0.011371880769729614
+    },
+    {
+      "id": 6,
+      "start": 26.71,
+      "end": 34.03,
+      "text": "Under Trump's zero tolerance immigration policy children were separated from their parents at the u.s. Mexico border",
+      "avg_logprob": -0.35631928077110875,
+      "no_speech_prob": 0.011711125262081623
+    },
+    {
+      "id": 7,
+      "start": 34.39,
+      "end": 40.51,
+      "text": "Let's go to number three rollback of LGBTQ plus protections",
+      "avg_logprob": -0.35631928077110875,
+      "no_speech_prob": 0.011711125262081623
+    },
+    {
+      "id": 8,
+      "start": 41.03,
+      "end": 43.51,
+      "text": "Trump administration rolled back several",
+      "avg_logprob": -0.35631928077110875,
+      "no_speech_prob": 0.011711125262081623
+    },
+    {
+      "id": 9,
+      "start": 44.19,
+      "end": 50.95,
+      "text": "protections for the LGBTQ plus community including banning transgender people from serving in the military and",
+      "avg_logprob": -0.35631928077110875,
+      "no_speech_prob": 0.011711125262081623
+    },
+    {
+      "id": 10,
+      "start": 51.39,
+      "end": 56.79,
+      "text": "Reversing anti-discrimination protections in health care and education number four",
+      "avg_logprob": -0.23724727216694091,
+      "no_speech_prob": 0.005575572140514851
+    },
+    {
+      "id": 11,
+      "start": 56.99,
+      "end": 61.11,
+      "text": "How about the time he withdrew from the Paris climate agreement? That's right",
+      "avg_logprob": -0.23724727216694091,
+      "no_speech_prob": 0.005575572140514851
+    },
+    {
+      "id": 12,
+      "start": 61.83,
+      "end": 68.51,
+      "text": "2017 another great year for Trump. He withdrew the u.s. from the Paris climate agreement a global effort to combat",
+      "avg_logprob": -0.23724727216694091,
+      "no_speech_prob": 0.005575572140514851
+    },
+    {
+      "id": 13,
+      "start": 68.99,
+      "end": 70.79,
+      "text": "Climate change",
+      "avg_logprob": -0.23724727216694091,
+      "no_speech_prob": 0.005575572140514851
+    },
+    {
+      "id": 14,
+      "start": 70.79,
+      "end": 75.55,
+      "text": "Stay on it number five environmental rollbacks the Trump administration weakened over",
+      "avg_logprob": -0.23724727216694091,
+      "no_speech_prob": 0.005575572140514851
+    },
+    {
+      "id": 15,
+      "start": 76.55,
+      "end": 79.63,
+      "text": "100 environmental regulations including",
+      "avg_logprob": -0.23724727216694091,
+      "no_speech_prob": 0.005575572140514851
+    },
+    {
+      "id": 16,
+      "start": 80.35,
+      "end": 86.51,
+      "text": "Protecting clean air water and endangered species number six support for fossil fuels",
+      "avg_logprob": -0.2566973588296345,
+      "no_speech_prob": 0.0010581312235444784
+    },
+    {
+      "id": 17,
+      "start": 86.87,
+      "end": 91.07,
+      "text": "Trump promoted fossil fuels including coal and oil while downplaying",
+      "avg_logprob": -0.2566973588296345,
+      "no_speech_prob": 0.0010581312235444784
+    },
+    {
+      "id": 18,
+      "start": 91.55,
+      "end": 97.71,
+      "text": "Renewable energy his administration opened up more federal lands for oil and gas drilling",
+      "avg_logprob": -0.2566973588296345,
+      "no_speech_prob": 0.0010581312235444784
+    },
+    {
+      "id": 19,
+      "start": 97.71,
+      "end": 105.27,
+      "text": "Which had long-term consequences for climate change environmental sustainability number seven refusing to denounce white supremacy",
+      "avg_logprob": -0.2566973588296345,
+      "no_speech_prob": 0.0010581312235444784
+    },
+    {
+      "id": 20,
+      "start": 105.71,
+      "end": 107.39,
+      "text": "Remember Charlottesville",
+      "avg_logprob": -0.24252462976922592,
+      "no_speech_prob": 0.00917088519781828
+    },
+    {
+      "id": 21,
+      "start": 107.39,
+      "end": 112.95,
+      "text": "Throughout his presidency Trump was criticized for failing to unequivocally denounce white supremacy",
+      "avg_logprob": -0.24252462976922592,
+      "no_speech_prob": 0.00917088519781828
+    },
+    {
+      "id": 22,
+      "start": 113.23,
+      "end": 120.35,
+      "text": "We remember Charlottesville. We remember the proud boys stand back and stand by we all remember that that happened number eight",
+      "avg_logprob": -0.24252462976922592,
+      "no_speech_prob": 0.00917088519781828
+    },
+    {
+      "id": 23,
+      "start": 121.15,
+      "end": 124.47,
+      "text": "Dismantling of DACA the deferred action for childhood arrivals",
+      "avg_logprob": -0.24252462976922592,
+      "no_speech_prob": 0.00917088519781828
+    },
+    {
+      "id": 24,
+      "start": 124.87,
+      "end": 131.15,
+      "text": "Trump attempted to end DACA a program that protected undocumented immigrants who came to the u.s. Children",
+      "avg_logprob": -0.24252462976922592,
+      "no_speech_prob": 0.00917088519781828
+    },
+    {
+      "id": 25,
+      "start": 131.19,
+      "end": 138.19,
+      "text": "This put hundreds of thousands of young people at risk of deportation number nine misinformation handling of COVID-19",
+      "avg_logprob": -0.2064220943989662,
+      "no_speech_prob": 0.013388687744736671
+    },
+    {
+      "id": 26,
+      "start": 138.67,
+      "end": 145.43,
+      "text": "Do we even need to go over that? Can we just not inject the bleach into our body? He calls people a lot of lives and",
+      "avg_logprob": -0.2064220943989662,
+      "no_speech_prob": 0.013388687744736671
+    },
+    {
+      "id": 27,
+      "start": 146.23,
+      "end": 148.35,
+      "text": "While we can look back at laugh how silly he was",
+      "avg_logprob": -0.2064220943989662,
+      "no_speech_prob": 0.013388687744736671
+    },
+    {
+      "id": 28,
+      "start": 148.63,
+      "end": 152.59,
+      "text": "It's almost criminal what he did and in number 10 the census",
+      "avg_logprob": -0.2064220943989662,
+      "no_speech_prob": 0.013388687744736671
+    },
+    {
+      "id": 29,
+      "start": 153.07,
+      "end": 159.39,
+      "text": "Citizenship question say that three times fast Trump attempted to add a citizenship question to the 2020 census",
+      "avg_logprob": -0.2064220943989662,
+      "no_speech_prob": 0.013388687744736671
+    },
+    {
+      "id": 30,
+      "start": 159.51,
+      "end": 164.95,
+      "text": "Which many argued would discourage immigrant participation and lead to an inaccurate population count",
+      "avg_logprob": -0.21614455724064308,
+      "no_speech_prob": 0.00470556877553463
+    },
+    {
+      "id": 31,
+      "start": 165.39,
+      "end": 169.23,
+      "text": "affecting federal funding and political representation, so Trump is",
+      "avg_logprob": -0.21614455724064308,
+      "no_speech_prob": 0.00470556877553463
+    },
+    {
+      "id": 32,
+      "start": 169.83,
+      "end": 177.03,
+      "text": "Against the American way of life which includes inclusivity which includes taking care of federal lands which includes denouncing hate",
+      "avg_logprob": -0.21614455724064308,
+      "no_speech_prob": 0.00470556877553463
+    },
+    {
+      "id": 33,
+      "start": 177.31,
+      "end": 185.63,
+      "text": "Which includes everything he stood against. He's a terrible person with terrible ideas and should never be president ever again",
+      "avg_logprob": -0.21614455724064308,
+      "no_speech_prob": 0.00470556877553463
+    }
+  ],
+  "transcript_full": "Name one thing Trump did that wasn't in the best interests of Americans How about we do 10 top 10 things that Trump did that were against The American way of life. Number one the Muslim travel ban, which he did in 2017 remember when he banned travelers from several Muslim majority countries. Oh That's called discrimination where I come from number two his family separation policy Under Trump's zero tolerance immigration policy children were separated from their parents at the u.s. Mexico border Let's go to number three rollback of LGBTQ plus protections Trump administration rolled back several protections for the LGBTQ plus community including banning transgender people from serving in the military and Reversing anti-discrimination protections in health care and education number four How about the time he withdrew from the Paris climate agreement? That's right 2017 another great year for Trump. He withdrew the u.s. from the Paris climate agreement a global effort to combat Climate change Stay on it number five environmental rollbacks the Trump administration weakened over 100 environmental regulations including Protecting clean air water and endangered species number six support for fossil fuels Trump promoted fossil fuels including coal and oil while downplaying Renewable energy his administration opened up more federal lands for oil and gas drilling Which had long-term consequences for climate change environmental sustainability number seven refusing to denounce white supremacy Remember Charlottesville Throughout his presidency Trump was criticized for failing to unequivocally denounce white supremacy We remember Charlottesville. We remember the proud boys stand back and stand by we all remember that that happened number eight Dismantling of DACA the deferred action for childhood arrivals Trump attempted to end DACA a program that protected undocumented immigrants who came to the u.s. Children This put hundreds of thousands of young people at risk of deportation number nine misinformation handling of COVID-19 Do we even need to go over that? Can we just not inject the bleach into our body? He calls people a lot of lives and While we can look back at laugh how silly he was It's almost criminal what he did and in number 10 the census Citizenship question say that three times fast Trump attempted to add a citizenship question to the 2020 census Which many argued would discourage immigrant participation and lead to an inaccurate population count affecting federal funding and political representation, so Trump is Against the American way of life which includes inclusivity which includes taking care of federal lands which includes denouncing hate Which includes everything he stood against. He's a terrible person with terrible ideas and should never be president ever again",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
