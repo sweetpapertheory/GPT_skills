@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "language_probability": 0.934698224067688,
+  "duration": 29.433,
+  "duration_after_vad": 4.64,
+  "segment_count": 1,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.64,
+      "text": "Global Climate Change Awareness Candle Infographic Template",
+      "avg_logprob": -0.52179297379085,
+      "no_speech_prob": 0.0674409344792366
+    }
+  ],
+  "transcript_full": "Global Climate Change Awareness Candle Infographic Template",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
