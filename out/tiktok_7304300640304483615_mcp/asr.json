@@ -1,0 +1,108 @@
+{
+  "language": "en",
+  "language_probability": 0.9994984865188599,
+  "duration": 46.38,
+  "duration_after_vad": 46.08,
+  "segment_count": 12,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.08,
+      "text": "Are you ready for some good climate news?",
+      "avg_logprob": -0.09675138810838478,
+      "no_speech_prob": 0.01134876161813736
+    },
+    {
+      "id": 2,
+      "start": 2.08,
+      "end": 6.24,
+      "text": "Australia has reached a landmark agreement with the Pacific Island nation of Tuvalu to allow",
+      "avg_logprob": -0.09675138810838478,
+      "no_speech_prob": 0.01134876161813736
+    },
+    {
+      "id": 3,
+      "start": 6.24,
+      "end": 10.08,
+      "text": "the residents to resettle in Australia. That may not sound like good news, but considering",
+      "avg_logprob": -0.09675138810838478,
+      "no_speech_prob": 0.01134876161813736
+    },
+    {
+      "id": 4,
+      "start": 10.08,
+      "end": 13.68,
+      "text": "Tuvalu was quite literally sinking into the sea because of climate change, it is.",
+      "avg_logprob": -0.09675138810838478,
+      "no_speech_prob": 0.01134876161813736
+    },
+    {
+      "id": 5,
+      "start": 13.68,
+      "end": 18.0,
+      "text": "The world's two biggest emitters, China and the United States, have agreed to work together",
+      "avg_logprob": -0.09675138810838478,
+      "no_speech_prob": 0.01134876161813736
+    },
+    {
+      "id": 6,
+      "start": 18.0,
+      "end": 21.76,
+      "text": "to triple the amount of renewable energy capacity they have by 2030.",
+      "avg_logprob": -0.09675138810838478,
+      "no_speech_prob": 0.01134876161813736
+    },
+    {
+      "id": 7,
+      "start": 21.76,
+      "end": 26.24,
+      "text": "Canada has committed $1 billion to protect 30% of British Columbia's lands and",
+      "avg_logprob": -0.09675138810838478,
+      "no_speech_prob": 0.01134876161813736
+    },
+    {
+      "id": 8,
+      "start": 26.24,
+      "end": 29.6,
+      "text": "waters by 2030 through working directly with First Nations.",
+      "avg_logprob": -0.09675138810838478,
+      "no_speech_prob": 0.01134876161813736
+    },
+    {
+      "id": 9,
+      "start": 29.6,
+      "end": 33.52,
+      "text": "The European Union has reached a deal to reduce methane emissions as part of their support for",
+      "avg_logprob": -0.09795982440312703,
+      "no_speech_prob": 0.002903510583564639
+    },
+    {
+      "id": 10,
+      "start": 33.52,
+      "end": 38.08,
+      "text": "the global methane pledge, which aims to cut methane emissions 30% by 2030.",
+      "avg_logprob": -0.09795982440312703,
+      "no_speech_prob": 0.002903510583564639
+    },
+    {
+      "id": 11,
+      "start": 38.08,
+      "end": 42.0,
+      "text": "And Spain has joined France in proposing a ban on domestic flights under two and a half",
+      "avg_logprob": -0.09795982440312703,
+      "no_speech_prob": 0.002903510583564639
+    },
+    {
+      "id": 12,
+      "start": 42.0,
+      "end": 46.08,
+      "text": "hours long between cities that are connected with public transit in order to reduce emissions.",
+      "avg_logprob": -0.09795982440312703,
+      "no_speech_prob": 0.002903510583564639
+    }
+  ],
+  "transcript_full": "Are you ready for some good climate news? Australia has reached a landmark agreement with the Pacific Island nation of Tuvalu to allow the residents to resettle in Australia. That may not sound like good news, but considering Tuvalu was quite literally sinking into the sea because of climate change, it is. The world's two biggest emitters, China and the United States, have agreed to work together to triple the amount of renewable energy capacity they have by 2030. Canada has committed $1 billion to protect 30% of British Columbia's lands and waters by 2030 through working directly with First Nations. The European Union has reached a deal to reduce methane emissions as part of their support for the global methane pledge, which aims to cut methane emissions 30% by 2030. And Spain has joined France in proposing a ban on domestic flights under two and a half hours long between cities that are connected with public transit in order to reduce emissions.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
