@@ -1,0 +1,100 @@
+{
+  "language": "en",
+  "language_probability": 0.9995182752609253,
+  "duration": 54.3,
+  "duration_after_vad": 57.68,
+  "segment_count": 11,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.32,
+      "text": "Number one, the federal government wants to pay more farmers not to farm. The Conservation",
+      "avg_logprob": -0.09740129662187476,
+      "no_speech_prob": 0.012335177510976791
+    },
+    {
+      "id": 2,
+      "start": 6.32,
+      "end": 10.88,
+      "text": "Reserve program has existed for more than 35 years and essentially acts as a way to combat",
+      "avg_logprob": -0.09740129662187476,
+      "no_speech_prob": 0.012335177510976791
+    },
+    {
+      "id": 3,
+      "start": 10.88,
+      "end": 16.24,
+      "text": "climate change. Now President Biden's administration wants to expand that program so that 25 million",
+      "avg_logprob": -0.09740129662187476,
+      "no_speech_prob": 0.012335177510976791
+    },
+    {
+      "id": 4,
+      "start": 16.24,
+      "end": 21.92,
+      "text": "American acres are participating and receive taxpayer-funded rent payments to not do anything",
+      "avg_logprob": -0.09740129662187476,
+      "no_speech_prob": 0.012335177510976791
+    },
+    {
+      "id": 5,
+      "start": 21.92,
+      "end": 27.2,
+      "text": "on environmentally sensitive farmlands. Number two, there will be no more fines for people",
+      "avg_logprob": -0.09740129662187476,
+      "no_speech_prob": 0.012335177510976791
+    },
+    {
+      "id": 6,
+      "start": 27.2,
+      "end": 32.72,
+      "text": "caught staying in America illegally. President Joe Biden on Friday announced that his administration",
+      "avg_logprob": -0.07139700112572636,
+      "no_speech_prob": 0.024017339572310448
+    },
+    {
+      "id": 7,
+      "start": 32.72,
+      "end": 37.92,
+      "text": "will stop collecting fines and cancel all existing debts issued by President Donald",
+      "avg_logprob": -0.07139700112572636,
+      "no_speech_prob": 0.024017339572310448
+    },
+    {
+      "id": 8,
+      "start": 37.92,
+      "end": 42.4,
+      "text": "Trump's administration to people staying here without legal permission and failing to fulfill",
+      "avg_logprob": -0.07139700112572636,
+      "no_speech_prob": 0.024017339572310448
+    },
+    {
+      "id": 9,
+      "start": 42.4,
+      "end": 46.8,
+      "text": "deportation orders. Finally, number three, the pharmaceutical industry has put together",
+      "avg_logprob": -0.07139700112572636,
+      "no_speech_prob": 0.024017339572310448
+    },
+    {
+      "id": 10,
+      "start": 46.8,
+      "end": 50.56,
+      "text": "an army of lobbyists to contact lawmakers and people inside the Biden administration",
+      "avg_logprob": -0.07139700112572636,
+      "no_speech_prob": 0.024017339572310448
+    },
+    {
+      "id": 11,
+      "start": 50.56,
+      "end": 57.68,
+      "text": "to block a waiver granting generic coronavirus vaccines.",
+      "avg_logprob": -0.4064745008945465,
+      "no_speech_prob": 0.8777472972869873
+    }
+  ],
+  "transcript_full": "Number one, the federal government wants to pay more farmers not to farm. The Conservation Reserve program has existed for more than 35 years and essentially acts as a way to combat climate change. Now President Biden's administration wants to expand that program so that 25 million American acres are participating and receive taxpayer-funded rent payments to not do anything on environmentally sensitive farmlands. Number two, there will be no more fines for people caught staying in America illegally. President Joe Biden on Friday announced that his administration will stop collecting fines and cancel all existing debts issued by President Donald Trump's administration to people staying here without legal permission and failing to fulfill deportation orders. Finally, number three, the pharmaceutical industry has put together an army of lobbyists to contact lawmakers and people inside the Biden administration to block a waiver granting generic coronavirus vaccines.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
