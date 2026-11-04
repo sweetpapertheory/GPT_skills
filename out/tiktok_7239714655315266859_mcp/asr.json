@@ -1,0 +1,1180 @@
+{
+  "language": "en",
+  "language_probability": 0.9974780678749084,
+  "duration": 392.283,
+  "duration_after_vad": 392.3,
+  "segment_count": 146,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.8,
+      "text": "Alright buddy, calm down. You don't need to lie.",
+      "avg_logprob": -0.151916125168403,
+      "no_speech_prob": 0.20513546466827393
+    },
+    {
+      "id": 2,
+      "start": 1.8,
+      "end": 4.6,
+      "text": "We all already know you don't have the proper equipment to be mind boggling.",
+      "avg_logprob": -0.151916125168403,
+      "no_speech_prob": 0.20513546466827393
+    },
+    {
+      "id": 3,
+      "start": 4.6,
+      "end": 9.2,
+      "text": "Climate change deniers, could you really like do us all a favor and start keeping your dumb to yourself?",
+      "avg_logprob": -0.151916125168403,
+      "no_speech_prob": 0.20513546466827393
+    },
+    {
+      "id": 4,
+      "start": 9.2,
+      "end": 13.1,
+      "text": "See, like smoking, first-hand stupidity is a really unhealthy lifestyle.",
+      "avg_logprob": -0.151916125168403,
+      "no_speech_prob": 0.20513546466827393
+    },
+    {
+      "id": 5,
+      "start": 13.1,
+      "end": 15.9,
+      "text": "But your intense willful ignorance is your choice, and I support that.",
+      "avg_logprob": -0.151916125168403,
+      "no_speech_prob": 0.20513546466827393
+    },
+    {
+      "id": 6,
+      "start": 15.9,
+      "end": 18.6,
+      "text": "However, I don't support you huffing and puffing your bullshit in public.",
+      "avg_logprob": -0.151916125168403,
+      "no_speech_prob": 0.20513546466827393
+    },
+    {
+      "id": 7,
+      "start": 18.6,
+      "end": 22.2,
+      "text": "Because then you subject us all to second-hand stupidity, and that's unhealthy for everyone.",
+      "avg_logprob": -0.151916125168403,
+      "no_speech_prob": 0.20513546466827393
+    },
+    {
+      "id": 8,
+      "start": 22.2,
+      "end": 29.1,
+      "text": "And children who are subjected to this kind of second-hand stupidity from an early age can suffer permanent, life-long negative effects.",
+      "avg_logprob": -0.151916125168403,
+      "no_speech_prob": 0.20513546466827393
+    },
+    {
+      "id": 9,
+      "start": 29.1,
+      "end": 36.0,
+      "text": "I think we've all gotten numb and would no longer appreciate the monumental level of stupid that goes into climate change denial.",
+      "avg_logprob": -0.10150114733439225,
+      "no_speech_prob": 0.0029063380789011717
+    },
+    {
+      "id": 10,
+      "start": 36.0,
+      "end": 37.5,
+      "text": "I'm gonna try to put it in a perspective.",
+      "avg_logprob": -0.10150114733439225,
+      "no_speech_prob": 0.0029063380789011717
+    },
+    {
+      "id": 11,
+      "start": 37.5,
+      "end": 42.0,
+      "text": "And to really grasp the epic level of dumb, we need to go back to the basics.",
+      "avg_logprob": -0.10150114733439225,
+      "no_speech_prob": 0.0029063380789011717
+    },
+    {
+      "id": 12,
+      "start": 42.0,
+      "end": 43.0,
+      "text": "So let's break that down.",
+      "avg_logprob": -0.10150114733439225,
+      "no_speech_prob": 0.0029063380789011717
+    },
+    {
+      "id": 13,
+      "start": 43.0,
+      "end": 47.5,
+      "text": "For a conspiracy theory to be even remotely plausible, it has to fit some pretty specific parameters.",
+      "avg_logprob": -0.10150114733439225,
+      "no_speech_prob": 0.0029063380789011717
+    },
+    {
+      "id": 14,
+      "start": 47.5,
+      "end": 49.3,
+      "text": "First and foremost parameter is motive.",
+      "avg_logprob": -0.10150114733439225,
+      "no_speech_prob": 0.0029063380789011717
+    },
+    {
+      "id": 15,
+      "start": 49.3,
+      "end": 52.2,
+      "text": "There has to be a realistic, logical motive.",
+      "avg_logprob": -0.10150114733439225,
+      "no_speech_prob": 0.0029063380789011717
+    },
+    {
+      "id": 16,
+      "start": 52.2,
+      "end": 54.2,
+      "text": "What is the motive here?",
+      "avg_logprob": -0.10150114733439225,
+      "no_speech_prob": 0.0029063380789011717
+    },
+    {
+      "id": 17,
+      "start": 54.2,
+      "end": 56.5,
+      "text": "Taking over the world, apparently.",
+      "avg_logprob": -0.10150114733439225,
+      "no_speech_prob": 0.0029063380789011717
+    },
+    {
+      "id": 18,
+      "start": 56.6,
+      "end": 57.7,
+      "text": "First of all, who?",
+      "avg_logprob": -0.10452020630355953,
+      "no_speech_prob": 0.01761377416551113
+    },
+    {
+      "id": 19,
+      "start": 57.7,
+      "end": 62.2,
+      "text": "Who is trying to take over the world by pushing a false climate change narrative?",
+      "avg_logprob": -0.10452020630355953,
+      "no_speech_prob": 0.01761377416551113
+    },
+    {
+      "id": 20,
+      "start": 62.2,
+      "end": 67.2,
+      "text": "Like, you know, the United States and North Korea and Russia and China and France and",
+      "avg_logprob": -0.10452020630355953,
+      "no_speech_prob": 0.01761377416551113
+    },
+    {
+      "id": 21,
+      "start": 67.2,
+      "end": 72.3,
+      "text": "198 countries around the world all agree that climate change is a problem.",
+      "avg_logprob": -0.10452020630355953,
+      "no_speech_prob": 0.01761377416551113
+    },
+    {
+      "id": 22,
+      "start": 72.3,
+      "end": 76.3,
+      "text": "Which one of them is the they that is trying to take over the world from the rest of them",
+      "avg_logprob": -0.10452020630355953,
+      "no_speech_prob": 0.01761377416551113
+    },
+    {
+      "id": 23,
+      "start": 76.3,
+      "end": 80.0,
+      "text": "who all agree with the one who is trying to take their power away from them?",
+      "avg_logprob": -0.10452020630355953,
+      "no_speech_prob": 0.01761377416551113
+    },
+    {
+      "id": 24,
+      "start": 80.0,
+      "end": 82.0,
+      "text": "Even if you could identify one of those entities.",
+      "avg_logprob": -0.10452020630355953,
+      "no_speech_prob": 0.01761377416551113
+    },
+    {
+      "id": 25,
+      "start": 82.0,
+      "end": 83.8,
+      "text": "What the fuck's the next step, dude?",
+      "avg_logprob": -0.10452020630355953,
+      "no_speech_prob": 0.01761377416551113
+    },
+    {
+      "id": 26,
+      "start": 83.8,
+      "end": 85.2,
+      "text": "Like, yeah, we've succeeded.",
+      "avg_logprob": -0.13687556536178888,
+      "no_speech_prob": 0.009423493407666683
+    },
+    {
+      "id": 27,
+      "start": 85.2,
+      "end": 87.8,
+      "text": "Everybody believes in global warming now.",
+      "avg_logprob": -0.13687556536178888,
+      "no_speech_prob": 0.009423493407666683
+    },
+    {
+      "id": 28,
+      "start": 87.8,
+      "end": 91.1,
+      "text": "My evil plot for more public transportation is almost realized.",
+      "avg_logprob": -0.13687556536178888,
+      "no_speech_prob": 0.009423493407666683
+    },
+    {
+      "id": 29,
+      "start": 91.1,
+      "end": 92.0,
+      "text": "Mwahahaha.",
+      "avg_logprob": -0.13687556536178888,
+      "no_speech_prob": 0.009423493407666683
+    },
+    {
+      "id": 30,
+      "start": 92.0,
+      "end": 97.3,
+      "text": "Absolutely no practical, logical motive you can put behind this ridiculous conspiracy theory.",
+      "avg_logprob": -0.13687556536178888,
+      "no_speech_prob": 0.009423493407666683
+    },
+    {
+      "id": 31,
+      "start": 97.3,
+      "end": 99.1,
+      "text": "So it's dead in the water right out of the gate.",
+      "avg_logprob": -0.13687556536178888,
+      "no_speech_prob": 0.009423493407666683
+    },
+    {
+      "id": 32,
+      "start": 99.1,
+      "end": 102.6,
+      "text": "The next parameter is that the people involved have to be as limited as possible",
+      "avg_logprob": -0.13687556536178888,
+      "no_speech_prob": 0.009423493407666683
+    },
+    {
+      "id": 33,
+      "start": 102.6,
+      "end": 105.6,
+      "text": "and all share exactly the same or very similar motivation.",
+      "avg_logprob": -0.13687556536178888,
+      "no_speech_prob": 0.009423493407666683
+    },
+    {
+      "id": 34,
+      "start": 105.6,
+      "end": 109.0,
+      "text": "More people required to be in a conspiracy to make it make sense,",
+      "avg_logprob": -0.13687556536178888,
+      "no_speech_prob": 0.009423493407666683
+    },
+    {
+      "id": 35,
+      "start": 109.0,
+      "end": 110.6,
+      "text": "the less reasonable that conspiracy is.",
+      "avg_logprob": -0.13687556536178888,
+      "no_speech_prob": 0.009423493407666683
+    },
+    {
+      "id": 36,
+      "start": 110.6,
+      "end": 113.6,
+      "text": "But when every scientific community and academic community",
+      "avg_logprob": -0.10561665383159605,
+      "no_speech_prob": 0.04628622531890869
+    },
+    {
+      "id": 37,
+      "start": 113.6,
+      "end": 118.1,
+      "text": "and scientific publication and study and all the countries around the world,",
+      "avg_logprob": -0.10561665383159605,
+      "no_speech_prob": 0.04628622531890869
+    },
+    {
+      "id": 38,
+      "start": 118.1,
+      "end": 122.4,
+      "text": "everybody agrees that anthropological climate change is a real thing and a real problem.",
+      "avg_logprob": -0.10561665383159605,
+      "no_speech_prob": 0.04628622531890869
+    },
+    {
+      "id": 39,
+      "start": 122.4,
+      "end": 124.2,
+      "text": "Including the American Geological Society,",
+      "avg_logprob": -0.10561665383159605,
+      "no_speech_prob": 0.04628622531890869
+    },
+    {
+      "id": 40,
+      "start": 124.2,
+      "end": 128.2,
+      "text": "which is full of geologists who oil companies pay to help them find oil.",
+      "avg_logprob": -0.10561665383159605,
+      "no_speech_prob": 0.04628622531890869
+    },
+    {
+      "id": 41,
+      "start": 128.2,
+      "end": 131.1,
+      "text": "Like, their whole livelihood depends on that.",
+      "avg_logprob": -0.10561665383159605,
+      "no_speech_prob": 0.04628622531890869
+    },
+    {
+      "id": 42,
+      "start": 131.1,
+      "end": 133.5,
+      "text": "Or Saudi Arabia, the leader of fucking OPEC.",
+      "avg_logprob": -0.10561665383159605,
+      "no_speech_prob": 0.04628622531890869
+    },
+    {
+      "id": 43,
+      "start": 133.5,
+      "end": 135.1,
+      "text": "They signed the Paris Accord.",
+      "avg_logprob": -0.10561665383159605,
+      "no_speech_prob": 0.04628622531890869
+    },
+    {
+      "id": 44,
+      "start": 135.1,
+      "end": 137.5,
+      "text": "All the studies that gave us all the information",
+      "avg_logprob": -0.10561665383159605,
+      "no_speech_prob": 0.04628622531890869
+    },
+    {
+      "id": 45,
+      "start": 137.5,
+      "end": 139.6,
+      "text": "that led all these people to the same conclusion",
+      "avg_logprob": -0.10292283878769985,
+      "no_speech_prob": 0.0577382855117321
+    },
+    {
+      "id": 46,
+      "start": 139.6,
+      "end": 142.5,
+      "text": "are publicly available and published and peer reviewed.",
+      "avg_logprob": -0.10292283878769985,
+      "no_speech_prob": 0.0577382855117321
+    },
+    {
+      "id": 47,
+      "start": 142.5,
+      "end": 145.5,
+      "text": "This means that anybody who can get more than drool on an IQ test",
+      "avg_logprob": -0.10292283878769985,
+      "no_speech_prob": 0.0577382855117321
+    },
+    {
+      "id": 48,
+      "start": 145.5,
+      "end": 148.0,
+      "text": "and has no affiliation with any of these organizations",
+      "avg_logprob": -0.10292283878769985,
+      "no_speech_prob": 0.0577382855117321
+    },
+    {
+      "id": 49,
+      "start": 148.0,
+      "end": 151.7,
+      "text": "can review them and bring any credible evidence forward where they find its flawed.",
+      "avg_logprob": -0.10292283878769985,
+      "no_speech_prob": 0.0577382855117321
+    },
+    {
+      "id": 50,
+      "start": 151.7,
+      "end": 154.7,
+      "text": "And for this ludicrous conspiracy to be even remotely possible.",
+      "avg_logprob": -0.10292283878769985,
+      "no_speech_prob": 0.0577382855117321
+    },
+    {
+      "id": 51,
+      "start": 154.7,
+      "end": 158.1,
+      "text": "Millions of people from nearly every country on earth",
+      "avg_logprob": -0.10292283878769985,
+      "no_speech_prob": 0.0577382855117321
+    },
+    {
+      "id": 52,
+      "start": 158.1,
+      "end": 160.6,
+      "text": "who speak thousands of different languages",
+      "avg_logprob": -0.10292283878769985,
+      "no_speech_prob": 0.0577382855117321
+    },
+    {
+      "id": 53,
+      "start": 160.6,
+      "end": 163.1,
+      "text": "and represent hundreds of fields of study",
+      "avg_logprob": -0.10292283878769985,
+      "no_speech_prob": 0.0577382855117321
+    },
+    {
+      "id": 54,
+      "start": 163.1,
+      "end": 167.3,
+      "text": "who have different business motives and political beliefs and economic ideologies.",
+      "avg_logprob": -0.10292283878769985,
+      "no_speech_prob": 0.0577382855117321
+    },
+    {
+      "id": 55,
+      "start": 167.3,
+      "end": 170.3,
+      "text": "All of them not only have to coordinate enough to agree,",
+      "avg_logprob": -0.089177373520754,
+      "no_speech_prob": 0.0013585081323981285
+    },
+    {
+      "id": 56,
+      "start": 170.3,
+      "end": 175.6,
+      "text": "they have to coordinate enough to fake millions of scientific studies",
+      "avg_logprob": -0.089177373520754,
+      "no_speech_prob": 0.0013585081323981285
+    },
+    {
+      "id": 57,
+      "start": 175.6,
+      "end": 178.4,
+      "text": "yet are all somehow still valid to pass peer review.",
+      "avg_logprob": -0.089177373520754,
+      "no_speech_prob": 0.0013585081323981285
+    },
+    {
+      "id": 58,
+      "start": 178.4,
+      "end": 182.1,
+      "text": "And then hundreds of thousands of government officials all around the world",
+      "avg_logprob": -0.089177373520754,
+      "no_speech_prob": 0.0013585081323981285
+    },
+    {
+      "id": 59,
+      "start": 182.1,
+      "end": 185.5,
+      "text": "all have to agree on similar policy to address it.",
+      "avg_logprob": -0.089177373520754,
+      "no_speech_prob": 0.0013585081323981285
+    },
+    {
+      "id": 60,
+      "start": 185.5,
+      "end": 188.7,
+      "text": "And with these quite literally billions of people involved,",
+      "avg_logprob": -0.089177373520754,
+      "no_speech_prob": 0.0013585081323981285
+    },
+    {
+      "id": 61,
+      "start": 188.7,
+      "end": 190.3,
+      "text": "no one could let it slip.",
+      "avg_logprob": -0.089177373520754,
+      "no_speech_prob": 0.0013585081323981285
+    },
+    {
+      "id": 62,
+      "start": 190.3,
+      "end": 194.5,
+      "text": "They would have to continue this obscenely ludicrous scheme for decades.",
+      "avg_logprob": -0.089177373520754,
+      "no_speech_prob": 0.0013585081323981285
+    },
+    {
+      "id": 63,
+      "start": 194.5,
+      "end": 197.0,
+      "text": "Seaters of a Cub Scout pack can barely get enough cohesion,",
+      "avg_logprob": -0.09343205140782641,
+      "no_speech_prob": 0.393257200717926
+    },
+    {
+      "id": 64,
+      "start": 197.0,
+      "end": 201.1,
+      "text": "organization and agreement to figure out a date for a fucking Weblo's camping trip.",
+      "avg_logprob": -0.09343205140782641,
+      "no_speech_prob": 0.393257200717926
+    },
+    {
+      "id": 65,
+      "start": 201.1,
+      "end": 204.2,
+      "text": "But somehow the entire planet can be a part of the most complicated",
+      "avg_logprob": -0.09343205140782641,
+      "no_speech_prob": 0.393257200717926
+    },
+    {
+      "id": 66,
+      "start": 204.2,
+      "end": 207.0,
+      "text": "and complex conspiracy in the history of the fucking universe.",
+      "avg_logprob": -0.09343205140782641,
+      "no_speech_prob": 0.393257200717926
+    },
+    {
+      "id": 67,
+      "start": 207.0,
+      "end": 208.8,
+      "text": "And after they've accomplished all of that,",
+      "avg_logprob": -0.09343205140782641,
+      "no_speech_prob": 0.393257200717926
+    },
+    {
+      "id": 68,
+      "start": 208.8,
+      "end": 211.0,
+      "text": "the guy who's gonna blow it wide open is what?",
+      "avg_logprob": -0.09343205140782641,
+      "no_speech_prob": 0.393257200717926
+    },
+    {
+      "id": 69,
+      "start": 211.0,
+      "end": 213.6,
+      "text": "Some dude on YouTube from his basement named Jethro",
+      "avg_logprob": -0.09343205140782641,
+      "no_speech_prob": 0.393257200717926
+    },
+    {
+      "id": 70,
+      "start": 213.6,
+      "end": 215.1,
+      "text": "who almost passed the 10th grade.",
+      "avg_logprob": -0.09343205140782641,
+      "no_speech_prob": 0.393257200717926
+    },
+    {
+      "id": 71,
+      "start": 215.1,
+      "end": 217.3,
+      "text": "For fuck's sake, the suspense of belief in reality",
+      "avg_logprob": -0.09343205140782641,
+      "no_speech_prob": 0.393257200717926
+    },
+    {
+      "id": 72,
+      "start": 217.3,
+      "end": 219.5,
+      "text": "that you would have to have to honestly believe",
+      "avg_logprob": -0.09343205140782641,
+      "no_speech_prob": 0.393257200717926
+    },
+    {
+      "id": 73,
+      "start": 219.5,
+      "end": 222.5,
+      "text": "that would make the Fast and Furious franchise look like a fucking documentary.",
+      "avg_logprob": -0.09343205140782641,
+      "no_speech_prob": 0.393257200717926
+    },
+    {
+      "id": 74,
+      "start": 222.5,
+      "end": 225.5,
+      "text": "There's still another parameter the conspiracy needs to meet to be plausible.",
+      "avg_logprob": -0.09248939006485873,
+      "no_speech_prob": 0.018211808055639267
+    },
+    {
+      "id": 75,
+      "start": 225.5,
+      "end": 226.9,
+      "text": "It's resources and practicality.",
+      "avg_logprob": -0.09248939006485873,
+      "no_speech_prob": 0.018211808055639267
+    },
+    {
+      "id": 76,
+      "start": 226.9,
+      "end": 230.9,
+      "text": "The entity with the motive not only has to have enough resources to actually pull it off,",
+      "avg_logprob": -0.09248939006485873,
+      "no_speech_prob": 0.018211808055639267
+    },
+    {
+      "id": 77,
+      "start": 230.9,
+      "end": 233.3,
+      "text": "using their resources for a conspiracy",
+      "avg_logprob": -0.09248939006485873,
+      "no_speech_prob": 0.018211808055639267
+    },
+    {
+      "id": 78,
+      "start": 233.3,
+      "end": 237.2,
+      "text": "has to mean that that conspiracy is the most practical way to accomplish their goal.",
+      "avg_logprob": -0.09248939006485873,
+      "no_speech_prob": 0.018211808055639267
+    },
+    {
+      "id": 79,
+      "start": 237.2,
+      "end": 240.9,
+      "text": "This would be the most asinine, inefficient, ridiculous way",
+      "avg_logprob": -0.09248939006485873,
+      "no_speech_prob": 0.018211808055639267
+    },
+    {
+      "id": 80,
+      "start": 240.9,
+      "end": 242.6,
+      "text": "to try to accomplish taking over the world.",
+      "avg_logprob": -0.09248939006485873,
+      "no_speech_prob": 0.018211808055639267
+    },
+    {
+      "id": 81,
+      "start": 242.6,
+      "end": 244.0,
+      "text": "You had those kinds of resources.",
+      "avg_logprob": -0.09248939006485873,
+      "no_speech_prob": 0.018211808055639267
+    },
+    {
+      "id": 82,
+      "start": 244.0,
+      "end": 248.0,
+      "text": "There's a million different better ways to accomplish anything.",
+      "avg_logprob": -0.09248939006485873,
+      "no_speech_prob": 0.018211808055639267
+    },
+    {
+      "id": 83,
+      "start": 248.0,
+      "end": 249.4,
+      "text": "Although we've laid out all this idiocy,",
+      "avg_logprob": -0.09248939006485873,
+      "no_speech_prob": 0.018211808055639267
+    },
+    {
+      "id": 84,
+      "start": 249.4,
+      "end": 251.4,
+      "text": "let's compare it to a real conspiracy.",
+      "avg_logprob": -0.09248939006485873,
+      "no_speech_prob": 0.018211808055639267
+    },
+    {
+      "id": 85,
+      "start": 251.4,
+      "end": 251.9,
+      "text": "Watergate.",
+      "avg_logprob": -0.12211195907638042,
+      "no_speech_prob": 0.4428555369377136
+    },
+    {
+      "id": 86,
+      "start": 251.9,
+      "end": 253.5,
+      "text": "Richard Nixon, with a very clear motive,",
+      "avg_logprob": -0.12211195907638042,
+      "no_speech_prob": 0.4428555369377136
+    },
+    {
+      "id": 87,
+      "start": 253.5,
+      "end": 255.3,
+      "text": "he wanted to make sure that he won the presidency.",
+      "avg_logprob": -0.12211195907638042,
+      "no_speech_prob": 0.4428555369377136
+    },
+    {
+      "id": 88,
+      "start": 255.3,
+      "end": 258.6,
+      "text": "He had a very small group of people involved with the same motivations.",
+      "avg_logprob": -0.12211195907638042,
+      "no_speech_prob": 0.4428555369377136
+    },
+    {
+      "id": 89,
+      "start": 258.6,
+      "end": 261.9,
+      "text": "The president of the United States with rich and powerful friends,",
+      "avg_logprob": -0.12211195907638042,
+      "no_speech_prob": 0.4428555369377136
+    },
+    {
+      "id": 90,
+      "start": 261.9,
+      "end": 263.7,
+      "text": "the resources he had were immense.",
+      "avg_logprob": -0.12211195907638042,
+      "no_speech_prob": 0.4428555369377136
+    },
+    {
+      "id": 91,
+      "start": 263.7,
+      "end": 265.6,
+      "text": "Practicality was just breaking an intro.",
+      "avg_logprob": -0.12211195907638042,
+      "no_speech_prob": 0.4428555369377136
+    },
+    {
+      "id": 92,
+      "start": 265.6,
+      "end": 267.5,
+      "text": "Simple, straightforward, and time-tested.",
+      "avg_logprob": -0.12211195907638042,
+      "no_speech_prob": 0.4428555369377136
+    },
+    {
+      "id": 93,
+      "start": 267.5,
+      "end": 268.8,
+      "text": "You don't get more practical.",
+      "avg_logprob": -0.12211195907638042,
+      "no_speech_prob": 0.4428555369377136
+    },
+    {
+      "id": 94,
+      "start": 268.8,
+      "end": 271.3,
+      "text": "It checked every box for a successful conspiracy",
+      "avg_logprob": -0.12211195907638042,
+      "no_speech_prob": 0.4428555369377136
+    },
+    {
+      "id": 95,
+      "start": 271.3,
+      "end": 272.6,
+      "text": "and they still fucked it up.",
+      "avg_logprob": -0.12211195907638042,
+      "no_speech_prob": 0.4428555369377136
+    },
+    {
+      "id": 96,
+      "start": 272.6,
+      "end": 275.8,
+      "text": "That is how incredibly stupid the climate hoax conspiracy is",
+      "avg_logprob": -0.12211195907638042,
+      "no_speech_prob": 0.4428555369377136
+    },
+    {
+      "id": 97,
+      "start": 275.8,
+      "end": 278.1,
+      "text": "that it makes Watergate look like Ocean's Eleven.",
+      "avg_logprob": -0.12211195907638042,
+      "no_speech_prob": 0.4428555369377136
+    },
+    {
+      "id": 98,
+      "start": 278.1,
+      "end": 280.2,
+      "text": "You know when you listen to flat earthers",
+      "avg_logprob": -0.12211195907638042,
+      "no_speech_prob": 0.4428555369377136
+    },
+    {
+      "id": 99,
+      "start": 280.2,
+      "end": 283.6,
+      "text": "and your brain starts fogging over like you just took a fistful of Ambien,",
+      "avg_logprob": -0.09676113366507567,
+      "no_speech_prob": 0.0011326972162351012
+    },
+    {
+      "id": 100,
+      "start": 283.6,
+      "end": 287.4,
+      "text": "you start thinking, you know, this is the dumbest thing I think I've ever heard.",
+      "avg_logprob": -0.09676113366507567,
+      "no_speech_prob": 0.0011326972162351012
+    },
+    {
+      "id": 101,
+      "start": 287.4,
+      "end": 290.5,
+      "text": "We can all collectively agree that we've had that experience.",
+      "avg_logprob": -0.09676113366507567,
+      "no_speech_prob": 0.0011326972162351012
+    },
+    {
+      "id": 102,
+      "start": 290.5,
+      "end": 294.8,
+      "text": "So with that in mind, the climate hoax conspiracy is objectively dumber.",
+      "avg_logprob": -0.09676113366507567,
+      "no_speech_prob": 0.0011326972162351012
+    },
+    {
+      "id": 103,
+      "start": 294.8,
+      "end": 296.1,
+      "text": "Think about everything we just talked about.",
+      "avg_logprob": -0.09676113366507567,
+      "no_speech_prob": 0.0011326972162351012
+    },
+    {
+      "id": 104,
+      "start": 296.1,
+      "end": 298.1,
+      "text": "Both conspiracy theories are wrecked right out of the gate",
+      "avg_logprob": -0.09676113366507567,
+      "no_speech_prob": 0.0011326972162351012
+    },
+    {
+      "id": 105,
+      "start": 298.1,
+      "end": 299.6,
+      "text": "because there's no plausible motivation.",
+      "avg_logprob": -0.09676113366507567,
+      "no_speech_prob": 0.0011326972162351012
+    },
+    {
+      "id": 106,
+      "start": 299.6,
+      "end": 301.1,
+      "text": "When it comes to the number of people involved,",
+      "avg_logprob": -0.09676113366507567,
+      "no_speech_prob": 0.0011326972162351012
+    },
+    {
+      "id": 107,
+      "start": 301.1,
+      "end": 303.3,
+      "text": "both are still absolutely implausible.",
+      "avg_logprob": -0.09676113366507567,
+      "no_speech_prob": 0.0011326972162351012
+    },
+    {
+      "id": 108,
+      "start": 303.3,
+      "end": 305.8,
+      "text": "Flat Earth conspiracy would be like hundreds of thousands,",
+      "avg_logprob": -0.09676113366507567,
+      "no_speech_prob": 0.0011326972162351012
+    },
+    {
+      "id": 109,
+      "start": 305.8,
+      "end": 307.8,
+      "text": "maybe millions of people you'd need to pull it off.",
+      "avg_logprob": -0.09676113366507567,
+      "no_speech_prob": 0.0011326972162351012
+    },
+    {
+      "id": 110,
+      "start": 307.8,
+      "end": 310.4,
+      "text": "It's still a fraction of the billions of people",
+      "avg_logprob": -0.10254446225350394,
+      "no_speech_prob": 0.0012056699488312006
+    },
+    {
+      "id": 111,
+      "start": 310.4,
+      "end": 312.8,
+      "text": "you would need to successfully pull off a climate change hoax.",
+      "avg_logprob": -0.10254446225350394,
+      "no_speech_prob": 0.0012056699488312006
+    },
+    {
+      "id": 112,
+      "start": 312.8,
+      "end": 314.4,
+      "text": "And then resources and practicality.",
+      "avg_logprob": -0.10254446225350394,
+      "no_speech_prob": 0.0012056699488312006
+    },
+    {
+      "id": 113,
+      "start": 314.4,
+      "end": 315.7,
+      "text": "Both still utterly ridiculous,",
+      "avg_logprob": -0.10254446225350394,
+      "no_speech_prob": 0.0012056699488312006
+    },
+    {
+      "id": 114,
+      "start": 315.7,
+      "end": 318.1,
+      "text": "but it would take exponentially fewer resources",
+      "avg_logprob": -0.10254446225350394,
+      "no_speech_prob": 0.0012056699488312006
+    },
+    {
+      "id": 115,
+      "start": 318.1,
+      "end": 321.8,
+      "text": "and be way more practical to make the flat earth conspiracy happen",
+      "avg_logprob": -0.10254446225350394,
+      "no_speech_prob": 0.0012056699488312006
+    },
+    {
+      "id": 116,
+      "start": 321.8,
+      "end": 323.2,
+      "text": "than the climate hoax conspiracy.",
+      "avg_logprob": -0.10254446225350394,
+      "no_speech_prob": 0.0012056699488312006
+    },
+    {
+      "id": 117,
+      "start": 323.2,
+      "end": 326.2,
+      "text": "Here's the final blow on why climate hoaxers",
+      "avg_logprob": -0.10254446225350394,
+      "no_speech_prob": 0.0012056699488312006
+    },
+    {
+      "id": 118,
+      "start": 326.2,
+      "end": 328.8,
+      "text": "are exponentially dumber than flat earthers.",
+      "avg_logprob": -0.10254446225350394,
+      "no_speech_prob": 0.0012056699488312006
+    },
+    {
+      "id": 119,
+      "start": 328.8,
+      "end": 332.7,
+      "text": "Standing here, from my perspective, the earth looks pretty flat.",
+      "avg_logprob": -0.10254446225350394,
+      "no_speech_prob": 0.0012056699488312006
+    },
+    {
+      "id": 120,
+      "start": 332.7,
+      "end": 335.1,
+      "text": "Only a handful of people have been to space",
+      "avg_logprob": -0.10254446225350394,
+      "no_speech_prob": 0.0012056699488312006
+    },
+    {
+      "id": 121,
+      "start": 335.1,
+      "end": 336.4,
+      "text": "or been to a high enough altitude",
+      "avg_logprob": -0.10254446225350394,
+      "no_speech_prob": 0.0012056699488312006
+    },
+    {
+      "id": 122,
+      "start": 336.4,
+      "end": 338.5,
+      "text": "where the curvature of the earth is really pronounced.",
+      "avg_logprob": -0.0897378744688672,
+      "no_speech_prob": 0.0064942194148898125
+    },
+    {
+      "id": 123,
+      "start": 338.5,
+      "end": 341.2,
+      "text": "So if a person were to ignore science and logic enough",
+      "avg_logprob": -0.0897378744688672,
+      "no_speech_prob": 0.0064942194148898125
+    },
+    {
+      "id": 124,
+      "start": 341.2,
+      "end": 344.5,
+      "text": "and just went off of a lived experience anecdotal standpoint,",
+      "avg_logprob": -0.0897378744688672,
+      "no_speech_prob": 0.0064942194148898125
+    },
+    {
+      "id": 125,
+      "start": 344.5,
+      "end": 347.2,
+      "text": "you can at least see how they might think the world is flat.",
+      "avg_logprob": -0.0897378744688672,
+      "no_speech_prob": 0.0064942194148898125
+    },
+    {
+      "id": 126,
+      "start": 347.2,
+      "end": 349.8,
+      "text": "But all of us have experienced record-breaking heat,",
+      "avg_logprob": -0.0897378744688672,
+      "no_speech_prob": 0.0064942194148898125
+    },
+    {
+      "id": 127,
+      "start": 349.8,
+      "end": 351.2,
+      "text": "summer after summer.",
+      "avg_logprob": -0.0897378744688672,
+      "no_speech_prob": 0.0064942194148898125
+    },
+    {
+      "id": 128,
+      "start": 351.2,
+      "end": 353.2,
+      "text": "We have collectively witnessed record settings",
+      "avg_logprob": -0.0897378744688672,
+      "no_speech_prob": 0.0064942194148898125
+    },
+    {
+      "id": 129,
+      "start": 353.2,
+      "end": 355.5,
+      "text": "sustained droughts that have lasted decades.",
+      "avg_logprob": -0.0897378744688672,
+      "no_speech_prob": 0.0064942194148898125
+    },
+    {
+      "id": 130,
+      "start": 355.5,
+      "end": 357.9,
+      "text": "We all see record-setting extreme weather",
+      "avg_logprob": -0.0897378744688672,
+      "no_speech_prob": 0.0064942194148898125
+    },
+    {
+      "id": 131,
+      "start": 357.9,
+      "end": 360.2,
+      "text": "in record numbers every year.",
+      "avg_logprob": -0.0897378744688672,
+      "no_speech_prob": 0.0064942194148898125
+    },
+    {
+      "id": 132,
+      "start": 360.2,
+      "end": 362.4,
+      "text": "In our lifetime, we can all personally see",
+      "avg_logprob": -0.0897378744688672,
+      "no_speech_prob": 0.0064942194148898125
+    },
+    {
+      "id": 133,
+      "start": 362.4,
+      "end": 364.2,
+      "text": "how much glaciers have shrank.",
+      "avg_logprob": -0.0897378744688672,
+      "no_speech_prob": 0.0064942194148898125
+    },
+    {
+      "id": 134,
+      "start": 364.2,
+      "end": 366.3,
+      "text": "Even when you abandon all science",
+      "avg_logprob": -0.0897378744688672,
+      "no_speech_prob": 0.0064942194148898125
+    },
+    {
+      "id": 135,
+      "start": 366.3,
+      "end": 368.1,
+      "text": "and logic and common sense,",
+      "avg_logprob": -0.08926153960719443,
+      "no_speech_prob": 0.0009002419537864625
+    },
+    {
+      "id": 136,
+      "start": 368.1,
+      "end": 371.4,
+      "text": "all of our lived experiences would tell us",
+      "avg_logprob": -0.08926153960719443,
+      "no_speech_prob": 0.0009002419537864625
+    },
+    {
+      "id": 137,
+      "start": 371.4,
+      "end": 373.9,
+      "text": "that something's fucky about the climate.",
+      "avg_logprob": -0.08926153960719443,
+      "no_speech_prob": 0.0009002419537864625
+    },
+    {
+      "id": 138,
+      "start": 373.9,
+      "end": 375.3,
+      "text": "Remember that next time you're chuckling",
+      "avg_logprob": -0.08926153960719443,
+      "no_speech_prob": 0.0009002419537864625
+    },
+    {
+      "id": 139,
+      "start": 375.3,
+      "end": 378.4,
+      "text": "about how ridiculously stupid the flat earth conspiracy is,",
+      "avg_logprob": -0.08926153960719443,
+      "no_speech_prob": 0.0009002419537864625
+    },
+    {
+      "id": 140,
+      "start": 378.4,
+      "end": 380.3,
+      "text": "the only reason that the climate change conspiracy",
+      "avg_logprob": -0.08926153960719443,
+      "no_speech_prob": 0.0009002419537864625
+    },
+    {
+      "id": 141,
+      "start": 380.3,
+      "end": 382.0,
+      "text": "doesn't seem exponentially dumber",
+      "avg_logprob": -0.08926153960719443,
+      "no_speech_prob": 0.0009002419537864625
+    },
+    {
+      "id": 142,
+      "start": 382.0,
+      "end": 383.5,
+      "text": "is because a bunch of troglodytes",
+      "avg_logprob": -0.08926153960719443,
+      "no_speech_prob": 0.0009002419537864625
+    },
+    {
+      "id": 143,
+      "start": 383.5,
+      "end": 386.1,
+      "text": "have so consistently beat us to death",
+      "avg_logprob": -0.08926153960719443,
+      "no_speech_prob": 0.0009002419537864625
+    },
+    {
+      "id": 144,
+      "start": 386.1,
+      "end": 388.0,
+      "text": "with their club of stupidity",
+      "avg_logprob": -0.08926153960719443,
+      "no_speech_prob": 0.0009002419537864625
+    },
+    {
+      "id": 145,
+      "start": 388.0,
+      "end": 391.3,
+      "text": "that we've just gotten numb to how ridiculous",
+      "avg_logprob": -0.08926153960719443,
+      "no_speech_prob": 0.0009002419537864625
+    },
+    {
+      "id": 146,
+      "start": 391.3,
+      "end": 392.4,
+      "text": "it actually is.",
+      "avg_logprob": -0.08926153960719443,
+      "no_speech_prob": 0.0009002419537864625
+    }
+  ],
+  "transcript_full": "Alright buddy, calm down. You don't need to lie. We all already know you don't have the proper equipment to be mind boggling. Climate change deniers, could you really like do us all a favor and start keeping your dumb to yourself? See, like smoking, first-hand stupidity is a really unhealthy lifestyle. But your intense willful ignorance is your choice, and I support that. However, I don't support you huffing and puffing your bullshit in public. Because then you subject us all to second-hand stupidity, and that's unhealthy for everyone. And children who are subjected to this kind of second-hand stupidity from an early age can suffer permanent, life-long negative effects. I think we've all gotten numb and would no longer appreciate the monumental level of stupid that goes into climate change denial. I'm gonna try to put it in a perspective. And to really grasp the epic level of dumb, we need to go back to the basics. So let's break that down. For a conspiracy theory to be even remotely plausible, it has to fit some pretty specific parameters. First and foremost parameter is motive. There has to be a realistic, logical motive. What is the motive here? Taking over the world, apparently. First of all, who? Who is trying to take over the world by pushing a false climate change narrative? Like, you know, the United States and North Korea and Russia and China and France and 198 countries around the world all agree that climate change is a problem. Which one of them is the they that is trying to take over the world from the rest of them who all agree with the one who is trying to take their power away from them? Even if you could identify one of those entities. What the fuck's the next step, dude? Like, yeah, we've succeeded. Everybody believes in global warming now. My evil plot for more public transportation is almost realized. Mwahahaha. Absolutely no practical, logical motive you can put behind this ridiculous conspiracy theory. So it's dead in the water right out of the gate. The next parameter is that the people involved have to be as limited as possible and all share exactly the same or very similar motivation. More people required to be in a conspiracy to make it make sense, the less reasonable that conspiracy is. But when every scientific community and academic community and scientific publication and study and all the countries around the world, everybody agrees that anthropological climate change is a real thing and a real problem. Including the American Geological Society, which is full of geologists who oil companies pay to help them find oil. Like, their whole livelihood depends on that. Or Saudi Arabia, the leader of fucking OPEC. They signed the Paris Accord. All the studies that gave us all the information that led all these people to the same conclusion are publicly available and published and peer reviewed. This means that anybody who can get more than drool on an IQ test and has no affiliation with any of these organizations can review them and bring any credible evidence forward where they find its flawed. And for this ludicrous conspiracy to be even remotely possible. Millions of people from nearly every country on earth who speak thousands of different languages and represent hundreds of fields of study who have different business motives and political beliefs and economic ideologies. All of them not only have to coordinate enough to agree, they have to coordinate enough to fake millions of scientific studies yet are all somehow still valid to pass peer review. And then hundreds of thousands of government officials all around the world all have to agree on similar policy to address it. And with these quite literally billions of people involved, no one could let it slip. They would have to continue this obscenely ludicrous scheme for decades. Seaters of a Cub Scout pack can barely get enough cohesion, organization and agreement to figure out a date for a fucking Weblo's camping trip. But somehow the entire planet can be a part of the most complicated and complex conspiracy in the history of the fucking universe. And after they've accomplished all of that, the guy who's gonna blow it wide open is what? Some dude on YouTube from his basement named Jethro who almost passed the 10th grade. For fuck's sake, the suspense of belief in reality that you would have to have to honestly believe that would make the Fast and Furious franchise look like a fucking documentary. There's still another parameter the conspiracy needs to meet to be plausible. It's resources and practicality. The entity with the motive not only has to have enough resources to actually pull it off, using their resources for a conspiracy has to mean that that conspiracy is the most practical way to accomplish their goal. This would be the most asinine, inefficient, ridiculous way to try to accomplish taking over the world. You had those kinds of resources. There's a million different better ways to accomplish anything. Although we've laid out all this idiocy, let's compare it to a real conspiracy. Watergate. Richard Nixon, with a very clear motive, he wanted to make sure that he won the presidency. He had a very small group of people involved with the same motivations. The president of the United States with rich and powerful friends, the resources he had were immense. Practicality was just breaking an intro. Simple, straightforward, and time-tested. You don't get more practical. It checked every box for a successful conspiracy and they still fucked it up. That is how incredibly stupid the climate hoax conspiracy is that it makes Watergate look like Ocean's Eleven. You know when you listen to flat earthers and your brain starts fogging over like you just took a fistful of Ambien, you start thinking, you know, this is the dumbest thing I think I've ever heard. We can all collectively agree that we've had that experience. So with that in mind, the climate hoax conspiracy is objectively dumber. Think about everything we just talked about. Both conspiracy theories are wrecked right out of the gate because there's no plausible motivation. When it comes to the number of people involved, both are still absolutely implausible. Flat Earth conspiracy would be like hundreds of thousands, maybe millions of people you'd need to pull it off. It's still a fraction of the billions of people you would need to successfully pull off a climate change hoax. And then resources and practicality. Both still utterly ridiculous, but it would take exponentially fewer resources and be way more practical to make the flat earth conspiracy happen than the climate hoax conspiracy. Here's the final blow on why climate hoaxers are exponentially dumber than flat earthers. Standing here, from my perspective, the earth looks pretty flat. Only a handful of people have been to space or been to a high enough altitude where the curvature of the earth is really pronounced. So if a person were to ignore science and logic enough and just went off of a lived experience anecdotal standpoint, you can at least see how they might think the world is flat. But all of us have experienced record-breaking heat, summer after summer. We have collectively witnessed record settings sustained droughts that have lasted decades. We all see record-setting extreme weather in record numbers every year. In our lifetime, we can all personally see how much glaciers have shrank. Even when you abandon all science and logic and common sense, all of our lived experiences would tell us that something's fucky about the climate. Remember that next time you're chuckling about how ridiculously stupid the flat earth conspiracy is, the only reason that the climate change conspiracy doesn't seem exponentially dumber is because a bunch of troglodytes have so consistently beat us to death with their club of stupidity that we've just gotten numb to how ridiculous it actually is.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
