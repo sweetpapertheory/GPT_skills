@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "language_probability": 0.9584697484970093,
+  "duration": 6.5,
+  "duration_after_vad": 3.0,
+  "segment_count": 1,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.07,
+      "end": 4.07,
+      "text": "That's cute. I wish I could get it.",
+      "avg_logprob": -0.5263539680412838,
+      "no_speech_prob": 0.08379172533750534
+    }
+  ],
+  "transcript_full": "That's cute. I wish I could get it.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
