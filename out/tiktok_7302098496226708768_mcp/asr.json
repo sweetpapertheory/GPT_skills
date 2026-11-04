@@ -1,0 +1,60 @@
+{
+  "language": "en",
+  "language_probability": 0.511812686920166,
+  "duration": 112.0,
+  "duration_after_vad": 34.44,
+  "segment_count": 6,
+  "segments": [
+    {
+      "id": 1,
+      "start": 46.96,
+      "end": 53.6,
+      "text": "The reindeer is adapted to the Arctic conditions, the seasons are changing very rapidly.",
+      "avg_logprob": -0.15844452201601972,
+      "no_speech_prob": 0.5017847418785095
+    },
+    {
+      "id": 2,
+      "start": 53.6,
+      "end": 59.88,
+      "text": "There is a lot of melting and freezing, which means that there is a layer of ice created",
+      "avg_logprob": -0.15844452201601972,
+      "no_speech_prob": 0.5017847418785095
+    },
+    {
+      "id": 3,
+      "start": 59.88,
+      "end": 65.8,
+      "text": "on the snow, on top of the snow or on top of the food of the reindeer, so they will",
+      "avg_logprob": -0.15844452201601972,
+      "no_speech_prob": 0.5017847418785095
+    },
+    {
+      "id": 4,
+      "start": 65.8,
+      "end": 72.12,
+      "text": "not be able to access lichen and other sources of food through the ice.",
+      "avg_logprob": -0.15844452201601972,
+      "no_speech_prob": 0.5017847418785095
+    },
+    {
+      "id": 5,
+      "start": 72.12,
+      "end": 79.0,
+      "text": "We experience changes in the summer time, some summers are extremely warm and the reindeer",
+      "avg_logprob": -0.2698145118252984,
+      "no_speech_prob": 0.32538703083992004
+    },
+    {
+      "id": 6,
+      "start": 79.0,
+      "end": 81.4,
+      "text": "is not well adapted to hot weather.",
+      "avg_logprob": -0.2698145118252984,
+      "no_speech_prob": 0.32538703083992004
+    }
+  ],
+  "transcript_full": "The reindeer is adapted to the Arctic conditions, the seasons are changing very rapidly. There is a lot of melting and freezing, which means that there is a layer of ice created on the snow, on top of the snow or on top of the food of the reindeer, so they will not be able to access lichen and other sources of food through the ice. We experience changes in the summer time, some summers are extremely warm and the reindeer is not well adapted to hot weather.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
