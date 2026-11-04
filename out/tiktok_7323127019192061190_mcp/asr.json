@@ -1,0 +1,212 @@
+{
+  "language": "en",
+  "language_probability": 0.9173479676246643,
+  "duration": 179.696,
+  "duration_after_vad": 180.56,
+  "segment_count": 25,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.34,
+      "end": 7.28,
+      "text": "How's it guys? I just wanted to show something with you, something really amazing. I love",
+      "avg_logprob": -0.2053045474347614,
+      "no_speech_prob": 0.3086358308792114
+    },
+    {
+      "id": 2,
+      "start": 7.28,
+      "end": 12.42,
+      "text": "singing and all that and so all my posts are about singing and my different voices and",
+      "avg_logprob": -0.2053045474347614,
+      "no_speech_prob": 0.3086358308792114
+    },
+    {
+      "id": 3,
+      "start": 12.42,
+      "end": 19.38,
+      "text": "my expressions and my different sides of myself but also I have this passion for nature",
+      "avg_logprob": -0.2053045474347614,
+      "no_speech_prob": 0.3086358308792114
+    },
+    {
+      "id": 4,
+      "start": 19.38,
+      "end": 28.06,
+      "text": "and healing and I just want to show you the speck bottom. So this plant, I hope you",
+      "avg_logprob": -0.2053045474347614,
+      "no_speech_prob": 0.3086358308792114
+    },
+    {
+      "id": 5,
+      "start": 28.06,
+      "end": 34.62,
+      "text": "can see it. It's a speck bone. I'm going to show you the leaves. This speck bone is actually",
+      "avg_logprob": -0.24342155574183716,
+      "no_speech_prob": 0.07595851272344589
+    },
+    {
+      "id": 6,
+      "start": 34.62,
+      "end": 45.24,
+      "text": "a little bit sick but you can see the leaves. This is the speck bone. I hope you can see",
+      "avg_logprob": -0.24342155574183716,
+      "no_speech_prob": 0.07595851272344589
+    },
+    {
+      "id": 7,
+      "start": 45.24,
+      "end": 57.14,
+      "text": "it. So basically you can eat the leaves first of all. Secondly they're actually high in",
+      "avg_logprob": -0.24342155574183716,
+      "no_speech_prob": 0.07595851272344589
+    },
+    {
+      "id": 8,
+      "start": 57.14,
+      "end": 65.75,
+      "text": "vitamin C. So that means it's going to help with that flu and cold and things like that",
+      "avg_logprob": -0.18856960066248862,
+      "no_speech_prob": 0.047694794833660126
+    },
+    {
+      "id": 9,
+      "start": 65.75,
+      "end": 75.23,
+      "text": "and it's good for your body. Also it helps with dehydration. So you can literally eat these",
+      "avg_logprob": -0.18856960066248862,
+      "no_speech_prob": 0.047694794833660126
+    },
+    {
+      "id": 10,
+      "start": 75.23,
+      "end": 81.47,
+      "text": "leaves and it will help with dehydration when you can't find water if it's very hot",
+      "avg_logprob": -0.18856960066248862,
+      "no_speech_prob": 0.047694794833660126
+    },
+    {
+      "id": 11,
+      "start": 81.47,
+      "end": 87.67,
+      "text": "and you're working very hard. The nice thing about this is that you can also just take",
+      "avg_logprob": -0.18856960066248862,
+      "no_speech_prob": 0.047694794833660126
+    },
+    {
+      "id": 12,
+      "start": 87.67,
+      "end": 93.47,
+      "text": "the piece like I did. You can stick it in the ground, water it every now and then and it",
+      "avg_logprob": -0.1864932199542442,
+      "no_speech_prob": 0.025914793834090233
+    },
+    {
+      "id": 13,
+      "start": 93.47,
+      "end": 101.19,
+      "text": "will start growing. So you can actually grow this anywhere in your garden. About the leaves",
+      "avg_logprob": -0.1864932199542442,
+      "no_speech_prob": 0.025914793834090233
+    },
+    {
+      "id": 14,
+      "start": 101.19,
+      "end": 107.63,
+      "text": "they're better to eat in the morning or in the evening because they can get quite acidic",
+      "avg_logprob": -0.1864932199542442,
+      "no_speech_prob": 0.025914793834090233
+    },
+    {
+      "id": 15,
+      "start": 107.63,
+      "end": 111.63,
+      "text": "and then you can get maybe a little bit too much in your acid in your body. So it's",
+      "avg_logprob": -0.1864932199542442,
+      "no_speech_prob": 0.025914793834090233
+    },
+    {
+      "id": 16,
+      "start": 111.63,
+      "end": 118.35,
+      "text": "better to take it in the morning when it didn't have sun yet. Also, which I really",
+      "avg_logprob": -0.23048321857596887,
+      "no_speech_prob": 0.062261730432510376
+    },
+    {
+      "id": 17,
+      "start": 118.35,
+      "end": 128.07,
+      "text": "really love is it helps as a fire break. If you plant like a whole bushes of it it",
+      "avg_logprob": -0.23048321857596887,
+      "no_speech_prob": 0.062261730432510376
+    },
+    {
+      "id": 18,
+      "start": 128.07,
+      "end": 135.3,
+      "text": "could help it as a fire break which I think is an amazing thing as well. So",
+      "avg_logprob": -0.23048321857596887,
+      "no_speech_prob": 0.062261730432510376
+    },
+    {
+      "id": 19,
+      "start": 135.3,
+      "end": 144.26,
+      "text": "basically you can't burn it. Also it's good for the earth because these little leaves",
+      "avg_logprob": -0.16070788780848186,
+      "no_speech_prob": 0.16023823618888855
+    },
+    {
+      "id": 20,
+      "start": 144.26,
+      "end": 151.02,
+      "text": "they are very powerful in producing clean air which is amazing. These are",
+      "avg_logprob": -0.16070788780848186,
+      "no_speech_prob": 0.16023823618888855
+    },
+    {
+      "id": 21,
+      "start": 151.02,
+      "end": 155.54,
+      "text": "specifically good. There's some others as well that are even stronger but these",
+      "avg_logprob": -0.16070788780848186,
+      "no_speech_prob": 0.16023823618888855
+    },
+    {
+      "id": 22,
+      "start": 155.54,
+      "end": 160.18,
+      "text": "ones are also good to help freshen the air if you plant quite a few of them",
+      "avg_logprob": -0.16070788780848186,
+      "no_speech_prob": 0.16023823618888855
+    },
+    {
+      "id": 23,
+      "start": 160.18,
+      "end": 166.86,
+      "text": "or if you have a few in your room it could even help there. Then the other thing",
+      "avg_logprob": -0.20236147538064017,
+      "no_speech_prob": 0.024198153987526894
+    },
+    {
+      "id": 24,
+      "start": 166.86,
+      "end": 172.54,
+      "text": "is and I can go on and on about this because I think this is just like speck",
+      "avg_logprob": -0.20236147538064017,
+      "no_speech_prob": 0.024198153987526894
+    },
+    {
+      "id": 25,
+      "start": 172.54,
+      "end": 180.9,
+      "text": "bone is a wonder bone. It's a wonder bush as far as I'm concerned.",
+      "avg_logprob": -0.20236147538064017,
+      "no_speech_prob": 0.024198153987526894
+    }
+  ],
+  "transcript_full": "How's it guys? I just wanted to show something with you, something really amazing. I love singing and all that and so all my posts are about singing and my different voices and my expressions and my different sides of myself but also I have this passion for nature and healing and I just want to show you the speck bottom. So this plant, I hope you can see it. It's a speck bone. I'm going to show you the leaves. This speck bone is actually a little bit sick but you can see the leaves. This is the speck bone. I hope you can see it. So basically you can eat the leaves first of all. Secondly they're actually high in vitamin C. So that means it's going to help with that flu and cold and things like that and it's good for your body. Also it helps with dehydration. So you can literally eat these leaves and it will help with dehydration when you can't find water if it's very hot and you're working very hard. The nice thing about this is that you can also just take the piece like I did. You can stick it in the ground, water it every now and then and it will start growing. So you can actually grow this anywhere in your garden. About the leaves they're better to eat in the morning or in the evening because they can get quite acidic and then you can get maybe a little bit too much in your acid in your body. So it's better to take it in the morning when it didn't have sun yet. Also, which I really really love is it helps as a fire break. If you plant like a whole bushes of it it could help it as a fire break which I think is an amazing thing as well. So basically you can't burn it. Also it's good for the earth because these little leaves they are very powerful in producing clean air which is amazing. These are specifically good. There's some others as well that are even stronger but these ones are also good to help freshen the air if you plant quite a few of them or if you have a few in your room it could even help there. Then the other thing is and I can go on and on about this because I think this is just like speck bone is a wonder bone. It's a wonder bush as far as I'm concerned.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
