@@ -1,0 +1,212 @@
+{
+  "language": "en",
+  "language_probability": 0.9961082339286804,
+  "duration": 63.467,
+  "duration_after_vad": 64.68,
+  "segment_count": 25,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.32,
+      "text": "Boy, what a picture, John.",
+      "avg_logprob": -0.12304385381636859,
+      "no_speech_prob": 0.08779466897249222
+    },
+    {
+      "id": 2,
+      "start": 2.32,
+      "end": 4.48,
+      "text": "It is, David, and what you're looking at here",
+      "avg_logprob": -0.12304385381636859,
+      "no_speech_prob": 0.08779466897249222
+    },
+    {
+      "id": 3,
+      "start": 4.48,
+      "end": 8.32,
+      "text": "is really less than 30% of the entire fire.",
+      "avg_logprob": -0.12304385381636859,
+      "no_speech_prob": 0.08779466897249222
+    },
+    {
+      "id": 4,
+      "start": 8.32,
+      "end": 10.52,
+      "text": "It extends several miles off to the right side.",
+      "avg_logprob": -0.12304385381636859,
+      "no_speech_prob": 0.08779466897249222
+    },
+    {
+      "id": 5,
+      "start": 10.52,
+      "end": 12.16,
+      "text": "You're looking at Greenwood Lake itself.",
+      "avg_logprob": -0.12304385381636859,
+      "no_speech_prob": 0.08779466897249222
+    },
+    {
+      "id": 6,
+      "start": 12.16,
+      "end": 14.6,
+      "text": "That's the body of water that you see.",
+      "avg_logprob": -0.12304385381636859,
+      "no_speech_prob": 0.08779466897249222
+    },
+    {
+      "id": 7,
+      "start": 14.6,
+      "end": 17.16,
+      "text": "But the area of fire that we've got our eye on",
+      "avg_logprob": -0.12304385381636859,
+      "no_speech_prob": 0.08779466897249222
+    },
+    {
+      "id": 8,
+      "start": 17.16,
+      "end": 19.44,
+      "text": "is between Greenwood Lake itself",
+      "avg_logprob": -0.12304385381636859,
+      "no_speech_prob": 0.08779466897249222
+    },
+    {
+      "id": 9,
+      "start": 19.44,
+      "end": 21.28,
+      "text": "and Sterling Forest State Park.",
+      "avg_logprob": -0.12304385381636859,
+      "no_speech_prob": 0.08779466897249222
+    },
+    {
+      "id": 10,
+      "start": 21.28,
+      "end": 23.48,
+      "text": "You can see the thick smoke and the fire",
+      "avg_logprob": -0.12304385381636859,
+      "no_speech_prob": 0.08779466897249222
+    },
+    {
+      "id": 11,
+      "start": 23.48,
+      "end": 25.16,
+      "text": "down in the leaves right now.",
+      "avg_logprob": -0.12304385381636859,
+      "no_speech_prob": 0.08779466897249222
+    },
+    {
+      "id": 12,
+      "start": 25.16,
+      "end": 28.72,
+      "text": "Officials still tell us that more than 5,000 acres",
+      "avg_logprob": -0.12304385381636859,
+      "no_speech_prob": 0.08779466897249222
+    },
+    {
+      "id": 13,
+      "start": 28.72,
+      "end": 32.4,
+      "text": "have been burned since this fire began on Saturday.",
+      "avg_logprob": -0.09775251150131226,
+      "no_speech_prob": 0.0022128052078187466
+    },
+    {
+      "id": 14,
+      "start": 32.4,
+      "end": 35.68,
+      "text": "Today, we've been watching fire crews here in the town",
+      "avg_logprob": -0.09775251150131226,
+      "no_speech_prob": 0.0022128052078187466
+    },
+    {
+      "id": 15,
+      "start": 35.68,
+      "end": 38.48,
+      "text": "of Greenwood Lake along East Shore Road.",
+      "avg_logprob": -0.09775251150131226,
+      "no_speech_prob": 0.0022128052078187466
+    },
+    {
+      "id": 16,
+      "start": 38.48,
+      "end": 41.56,
+      "text": "They are stationed here, keeping an eye on this neighborhood.",
+      "avg_logprob": -0.09775251150131226,
+      "no_speech_prob": 0.0022128052078187466
+    },
+    {
+      "id": 17,
+      "start": 41.56,
+      "end": 43.56,
+      "text": "The neighborhood is between the lake",
+      "avg_logprob": -0.09775251150131226,
+      "no_speech_prob": 0.0022128052078187466
+    },
+    {
+      "id": 18,
+      "start": 43.56,
+      "end": 45.08,
+      "text": "and the area of fire itself.",
+      "avg_logprob": -0.09775251150131226,
+      "no_speech_prob": 0.0022128052078187466
+    },
+    {
+      "id": 19,
+      "start": 45.08,
+      "end": 49.0,
+      "text": "Right now, there are no mandatory evacuations in place,",
+      "avg_logprob": -0.09775251150131226,
+      "no_speech_prob": 0.0022128052078187466
+    },
+    {
+      "id": 20,
+      "start": 49.0,
+      "end": 52.76,
+      "text": "but the authorities have told residents here, be ready.",
+      "avg_logprob": -0.09775251150131226,
+      "no_speech_prob": 0.0022128052078187466
+    },
+    {
+      "id": 21,
+      "start": 52.76,
+      "end": 54.24,
+      "text": "There might come a point where",
+      "avg_logprob": -0.09775251150131226,
+      "no_speech_prob": 0.0022128052078187466
+    },
+    {
+      "id": 22,
+      "start": 54.24,
+      "end": 55.88,
+      "text": "you have to get out of your homes.",
+      "avg_logprob": -0.09775251150131226,
+      "no_speech_prob": 0.0022128052078187466
+    },
+    {
+      "id": 23,
+      "start": 55.88,
+      "end": 59.36,
+      "text": "The fire, as you said, right now, 30% contained.",
+      "avg_logprob": -0.23466438332269357,
+      "no_speech_prob": 0.3682291805744171
+    },
+    {
+      "id": 24,
+      "start": 59.36,
+      "end": 61.08,
+      "text": "We're live over Greenwood Lake.",
+      "avg_logprob": -0.23466438332269357,
+      "no_speech_prob": 0.3682291805744171
+    },
+    {
+      "id": 25,
+      "start": 61.08,
+      "end": 64.68,
+      "text": "John DelGiorno, Channel 7, Eyewitness News.",
+      "avg_logprob": -0.23466438332269357,
+      "no_speech_prob": 0.3682291805744171
+    }
+  ],
+  "transcript_full": "Boy, what a picture, John. It is, David, and what you're looking at here is really less than 30% of the entire fire. It extends several miles off to the right side. You're looking at Greenwood Lake itself. That's the body of water that you see. But the area of fire that we've got our eye on is between Greenwood Lake itself and Sterling Forest State Park. You can see the thick smoke and the fire down in the leaves right now. Officials still tell us that more than 5,000 acres have been burned since this fire began on Saturday. Today, we've been watching fire crews here in the town of Greenwood Lake along East Shore Road. They are stationed here, keeping an eye on this neighborhood. The neighborhood is between the lake and the area of fire itself. Right now, there are no mandatory evacuations in place, but the authorities have told residents here, be ready. There might come a point where you have to get out of your homes. The fire, as you said, right now, 30% contained. We're live over Greenwood Lake. John DelGiorno, Channel 7, Eyewitness News.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
