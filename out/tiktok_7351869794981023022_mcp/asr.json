@@ -1,0 +1,100 @@
+{
+  "language": "en",
+  "language_probability": 0.9972373247146606,
+  "duration": 59.433,
+  "duration_after_vad": 58.72,
+  "segment_count": 11,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.56,
+      "text": "Last year, Extreme Weather forced two and a half million Americans from their home,",
+      "avg_logprob": -0.13662448951176234,
+      "no_speech_prob": 0.01173365581780672
+    },
+    {
+      "id": 2,
+      "start": 4.56,
+      "end": 9.6,
+      "text": "and according to new research, nearly half of all U.S. households are currently threatened by",
+      "avg_logprob": -0.13662448951176234,
+      "no_speech_prob": 0.01173365581780672
+    },
+    {
+      "id": 3,
+      "start": 9.6,
+      "end": 14.8,
+      "text": "climate change. As a journalist covering Extreme Weather from the front lines, I've seen everything",
+      "avg_logprob": -0.13662448951176234,
+      "no_speech_prob": 0.01173365581780672
+    },
+    {
+      "id": 4,
+      "start": 14.8,
+      "end": 21.44,
+      "text": "from wildfires and hurricanes to tornadoes. Just last year in Lahaina, 80% of the community was",
+      "avg_logprob": -0.13662448951176234,
+      "no_speech_prob": 0.01173365581780672
+    },
+    {
+      "id": 5,
+      "start": 21.44,
+      "end": 26.88,
+      "text": "destroyed. More than a hundred people were killed. And as I've learned, usually before",
+      "avg_logprob": -0.13662448951176234,
+      "no_speech_prob": 0.01173365581780672
+    },
+    {
+      "id": 6,
+      "start": 26.96,
+      "end": 33.44,
+      "text": "every disaster, there is a scientist who's been ignored or survivors from previous storms,",
+      "avg_logprob": -0.11242912431073383,
+      "no_speech_prob": 0.22707365453243256
+    },
+    {
+      "id": 7,
+      "start": 33.44,
+      "end": 39.84,
+      "text": "whose stories have been forgotten. Their stories are part of my new book before it's gone. It is",
+      "avg_logprob": -0.11242912431073383,
+      "no_speech_prob": 0.22707365453243256
+    },
+    {
+      "id": 8,
+      "start": 39.84,
+      "end": 44.64,
+      "text": "finally being published and available in bookstores April 2nd. You can pre-order right now online.",
+      "avg_logprob": -0.11242912431073383,
+      "no_speech_prob": 0.22707365453243256
+    },
+    {
+      "id": 9,
+      "start": 45.2,
+      "end": 50.48,
+      "text": "And if you're here in Los Angeles on April 3rd, I'm doing a book reading and a Q&A",
+      "avg_logprob": -0.11242912431073383,
+      "no_speech_prob": 0.22707365453243256
+    },
+    {
+      "id": 10,
+      "start": 50.48,
+      "end": 55.36,
+      "text": "at the Barnes & Noble at the Grove, 7pm. I hope you'll be there. And if you can't make it,",
+      "avg_logprob": -0.11242912431073383,
+      "no_speech_prob": 0.22707365453243256
+    },
+    {
+      "id": 11,
+      "start": 55.36,
+      "end": 59.36,
+      "text": "I hope you'll get the book. I hope you'll read it. And I hope you like it.",
+      "avg_logprob": -0.17928577423095704,
+      "no_speech_prob": 0.053566720336675644
+    }
+  ],
+  "transcript_full": "Last year, Extreme Weather forced two and a half million Americans from their home, and according to new research, nearly half of all U.S. households are currently threatened by climate change. As a journalist covering Extreme Weather from the front lines, I've seen everything from wildfires and hurricanes to tornadoes. Just last year in Lahaina, 80% of the community was destroyed. More than a hundred people were killed. And as I've learned, usually before every disaster, there is a scientist who's been ignored or survivors from previous storms, whose stories have been forgotten. Their stories are part of my new book before it's gone. It is finally being published and available in bookstores April 2nd. You can pre-order right now online. And if you're here in Los Angeles on April 3rd, I'm doing a book reading and a Q&A at the Barnes & Noble at the Grove, 7pm. I hope you'll be there. And if you can't make it, I hope you'll get the book. I hope you'll read it. And I hope you like it.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
