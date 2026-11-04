@@ -1,0 +1,92 @@
+{
+  "language": "en",
+  "language_probability": 0.9509833455085754,
+  "duration": 29.789,
+  "duration_after_vad": 29.8,
+  "segment_count": 10,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.44,
+      "text": "Here are our top 5 favourite meat-free alternatives.",
+      "avg_logprob": -0.2594900734367825,
+      "no_speech_prob": 0.02031582221388817
+    },
+    {
+      "id": 2,
+      "start": 2.44,
+      "end": 6.28,
+      "text": "In fifth place is tofu, which does not fully solve the texture and question marks how to",
+      "avg_logprob": -0.2594900734367825,
+      "no_speech_prob": 0.02031582221388817
+    },
+    {
+      "id": 3,
+      "start": 6.28,
+      "end": 8.36,
+      "text": "be raised about sustainability of soy production.",
+      "avg_logprob": -0.2594900734367825,
+      "no_speech_prob": 0.02031582221388817
+    },
+    {
+      "id": 4,
+      "start": 8.36,
+      "end": 11.4,
+      "text": "Fourth place is mixed beans, they're packed for the protein and switching from beans",
+      "avg_logprob": -0.2594900734367825,
+      "no_speech_prob": 0.02031582221388817
+    },
+    {
+      "id": 5,
+      "start": 11.4,
+      "end": 15.32,
+      "text": "to beef because they're 42% of cropland currently used to produce feed for cows.",
+      "avg_logprob": -0.2594900734367825,
+      "no_speech_prob": 0.02031582221388817
+    },
+    {
+      "id": 6,
+      "start": 15.32,
+      "end": 18.8,
+      "text": "Third is seitan, it has the texture closest to meat whilst being fully vegan.",
+      "avg_logprob": -0.2594900734367825,
+      "no_speech_prob": 0.02031582221388817
+    },
+    {
+      "id": 7,
+      "start": 18.8,
+      "end": 22.02,
+      "text": "In second place are chickpeas, not only are they used to make hummus but growing",
+      "avg_logprob": -0.2594900734367825,
+      "no_speech_prob": 0.02031582221388817
+    },
+    {
+      "id": 8,
+      "start": 22.02,
+      "end": 24.32,
+      "text": "them can also have positive impacts on soil quality.",
+      "avg_logprob": -0.2594900734367825,
+      "no_speech_prob": 0.02031582221388817
+    },
+    {
+      "id": 9,
+      "start": 24.32,
+      "end": 27.56,
+      "text": "First place has to go to corn nuggets, however their high salt and fat content",
+      "avg_logprob": -0.2594900734367825,
+      "no_speech_prob": 0.02031582221388817
+    },
+    {
+      "id": 10,
+      "start": 27.56,
+      "end": 29.8,
+      "text": "means they should definitely be kept as just an occasional treat.",
+      "avg_logprob": -0.2594900734367825,
+      "no_speech_prob": 0.02031582221388817
+    }
+  ],
+  "transcript_full": "Here are our top 5 favourite meat-free alternatives. In fifth place is tofu, which does not fully solve the texture and question marks how to be raised about sustainability of soy production. Fourth place is mixed beans, they're packed for the protein and switching from beans to beef because they're 42% of cropland currently used to produce feed for cows. Third is seitan, it has the texture closest to meat whilst being fully vegan. In second place are chickpeas, not only are they used to make hummus but growing them can also have positive impacts on soil quality. First place has to go to corn nuggets, however their high salt and fat content means they should definitely be kept as just an occasional treat.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
