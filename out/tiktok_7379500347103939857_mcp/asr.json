@@ -1,0 +1,156 @@
+{
+  "language": "en",
+  "language_probability": 0.5056939721107483,
+  "duration": 87.745,
+  "duration_after_vad": 72.48,
+  "segment_count": 18,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.05,
+      "end": 7.81,
+      "text": "Come to our country for me as a Torres Strait Islander. I invite the government to come and sleep in my house eat from my table",
+      "avg_logprob": -0.2728536343574524,
+      "no_speech_prob": 0.7917279005050659
+    },
+    {
+      "id": 2,
+      "start": 8.77,
+      "end": 10.77,
+      "text": "sleep on my bed and",
+      "avg_logprob": -0.2728536343574524,
+      "no_speech_prob": 0.7917279005050659
+    },
+    {
+      "id": 3,
+      "start": 10.93,
+      "end": 14.47,
+      "text": "I will take you out and see show you what we have. I",
+      "avg_logprob": -0.2728536343574524,
+      "no_speech_prob": 0.7917279005050659
+    },
+    {
+      "id": 4,
+      "start": 15.17,
+      "end": 18.09,
+      "text": "Want you to jump in the plane travel to Tuvalu and",
+      "avg_logprob": -0.2728536343574524,
+      "no_speech_prob": 0.7917279005050659
+    },
+    {
+      "id": 5,
+      "start": 19.13,
+      "end": 23.53,
+      "text": "See what they see what they feel come to us to see",
+      "avg_logprob": -0.2728536343574524,
+      "no_speech_prob": 0.7917279005050659
+    },
+    {
+      "id": 6,
+      "start": 24.59,
+      "end": 27.33,
+      "text": "That we're on the front line. We haven't contributed anything",
+      "avg_logprob": -0.2728536343574524,
+      "no_speech_prob": 0.7917279005050659
+    },
+    {
+      "id": 7,
+      "start": 27.49,
+      "end": 33.61,
+      "text": "But yet we are on the front line and getting caught by Mother's Fury. I know we back at home is suffering. We need",
+      "avg_logprob": -0.23542100015808554,
+      "no_speech_prob": 0.14351177215576172
+    },
+    {
+      "id": 8,
+      "start": 34.57,
+      "end": 35.93,
+      "text": "Urgent help",
+      "avg_logprob": -0.23542100015808554,
+      "no_speech_prob": 0.14351177215576172
+    },
+    {
+      "id": 9,
+      "start": 35.93,
+      "end": 40.81,
+      "text": "Same like the brothers and sisters here in the Pacific needs urgent help. The only way is",
+      "avg_logprob": -0.23542100015808554,
+      "no_speech_prob": 0.14351177215576172
+    },
+    {
+      "id": 10,
+      "start": 41.21,
+      "end": 48.75,
+      "text": "There if Australia and all the mother big countries who burns fossil fuel to reduce the emission down from one to five",
+      "avg_logprob": -0.23542100015808554,
+      "no_speech_prob": 0.14351177215576172
+    },
+    {
+      "id": 11,
+      "start": 49.49,
+      "end": 52.65,
+      "text": "1.5 then these islands here where they call home",
+      "avg_logprob": -0.23542100015808554,
+      "no_speech_prob": 0.14351177215576172
+    },
+    {
+      "id": 12,
+      "start": 54.09,
+      "end": 56.09,
+      "text": "Will be saved for the next generation",
+      "avg_logprob": -0.23542100015808554,
+      "no_speech_prob": 0.14351177215576172
+    },
+    {
+      "id": 13,
+      "start": 56.45,
+      "end": 64.07,
+      "text": "Everybody here in this Westpac and around this world has their right to celebrate the unique beautiful",
+      "avg_logprob": -0.2889884873515084,
+      "no_speech_prob": 0.05283267796039581
+    },
+    {
+      "id": 14,
+      "start": 64.37,
+      "end": 67.81,
+      "text": "culture happily respectfully and peacefully",
+      "avg_logprob": -0.2889884873515084,
+      "no_speech_prob": 0.05283267796039581
+    },
+    {
+      "id": 15,
+      "start": 68.53,
+      "end": 70.53,
+      "text": "with no fear of",
+      "avg_logprob": -0.2889884873515084,
+      "no_speech_prob": 0.05283267796039581
+    },
+    {
+      "id": 16,
+      "start": 71.53,
+      "end": 73.53,
+      "text": "Passing on their knowledge to the next generation",
+      "avg_logprob": -0.2889884873515084,
+      "no_speech_prob": 0.05283267796039581
+    },
+    {
+      "id": 17,
+      "start": 74.33,
+      "end": 78.49,
+      "text": "So all this country has to join and I'm glad that I'm here to share",
+      "avg_logprob": -0.2889884873515084,
+      "no_speech_prob": 0.05283267796039581
+    },
+    {
+      "id": 18,
+      "start": 79.97,
+      "end": 84.81,
+      "text": "What we've did what we've gone through what we've faced what we've achieved",
+      "avg_logprob": -0.2889884873515084,
+      "no_speech_prob": 0.05283267796039581
+    }
+  ],
+  "transcript_full": "Come to our country for me as a Torres Strait Islander. I invite the government to come and sleep in my house eat from my table sleep on my bed and I will take you out and see show you what we have. I Want you to jump in the plane travel to Tuvalu and See what they see what they feel come to us to see That we're on the front line. We haven't contributed anything But yet we are on the front line and getting caught by Mother's Fury. I know we back at home is suffering. We need Urgent help Same like the brothers and sisters here in the Pacific needs urgent help. The only way is There if Australia and all the mother big countries who burns fossil fuel to reduce the emission down from one to five 1.5 then these islands here where they call home Will be saved for the next generation Everybody here in this Westpac and around this world has their right to celebrate the unique beautiful culture happily respectfully and peacefully with no fear of Passing on their knowledge to the next generation So all this country has to join and I'm glad that I'm here to share What we've did what we've gone through what we've faced what we've achieved",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
