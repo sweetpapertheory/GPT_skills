@@ -1,0 +1,596 @@
+{
+  "language": "en",
+  "language_probability": 0.7794837355613708,
+  "duration": 526.069,
+  "duration_after_vad": 471.24,
+  "segment_count": 73,
+  "segments": [
+    {
+      "id": 1,
+      "start": 30.74,
+      "end": 37.14,
+      "text": "students from Faculty of Tourism of the University of Hanoi. Our team is named",
+      "avg_logprob": -0.394789135791886,
+      "no_speech_prob": 0.48981809616088867
+    },
+    {
+      "id": 2,
+      "start": 37.14,
+      "end": 42.86,
+      "text": "Peroni. Coming to the contest, project on the use and conservation of Asian",
+      "avg_logprob": -0.394789135791886,
+      "no_speech_prob": 0.48981809616088867
+    },
+    {
+      "id": 3,
+      "start": 42.86,
+      "end": 47.74,
+      "text": "World cultural heritage in the context of climate change. Our team would like",
+      "avg_logprob": -0.394789135791886,
+      "no_speech_prob": 0.48981809616088867
+    },
+    {
+      "id": 4,
+      "start": 47.74,
+      "end": 52.38,
+      "text": "to introduce to you about the historical side of Vietnam. The Imperial",
+      "avg_logprob": -0.394789135791886,
+      "no_speech_prob": 0.48981809616088867
+    },
+    {
+      "id": 5,
+      "start": 52.38,
+      "end": 65.98,
+      "text": "Imperial Citadel of Tang Long. The Imperial Citadel of Tang Long is a complex of",
+      "avg_logprob": -0.2904488261540731,
+      "no_speech_prob": 0.01155876088887453
+    },
+    {
+      "id": 6,
+      "start": 65.98,
+      "end": 72.26,
+      "text": "relics associated with the history of Tang Long, Dong Qing and Hanoi. This",
+      "avg_logprob": -0.2904488261540731,
+      "no_speech_prob": 0.01155876088887453
+    },
+    {
+      "id": 7,
+      "start": 72.26,
+      "end": 77.86,
+      "text": "archaeological site is a living proof of the Red River Delta civilization",
+      "avg_logprob": -0.2904488261540731,
+      "no_speech_prob": 0.01155876088887453
+    },
+    {
+      "id": 8,
+      "start": 77.86,
+      "end": 83.38,
+      "text": "spanning its dynasty and still to this day. It has been one of the oldest and",
+      "avg_logprob": -0.2904488261540731,
+      "no_speech_prob": 0.01155876088887453
+    },
+    {
+      "id": 9,
+      "start": 83.38,
+      "end": 90.82,
+      "text": "most important historical site of our country. It was built in 1010 and",
+      "avg_logprob": -0.4293916638820402,
+      "no_speech_prob": 0.01265260111540556
+    },
+    {
+      "id": 10,
+      "start": 90.82,
+      "end": 98.14,
+      "text": "completed in early 1011. When King Li Taito issued a decree to move the capital",
+      "avg_logprob": -0.4293916638820402,
+      "no_speech_prob": 0.01265260111540556
+    },
+    {
+      "id": 11,
+      "start": 98.14,
+      "end": 103.82,
+      "text": "from Halu to Da La. The monument is located at 19th-century Huan Ziu,",
+      "avg_logprob": -0.4293916638820402,
+      "no_speech_prob": 0.01265260111540556
+    },
+    {
+      "id": 12,
+      "start": 103.86,
+      "end": 114.66,
+      "text": "it means Ba Ding, Hanoi, with a total area of 18,395 hectares. Tang Long Imperial Citadel",
+      "avg_logprob": -0.27292969786090615,
+      "no_speech_prob": 0.016610827296972275
+    },
+    {
+      "id": 13,
+      "start": 114.66,
+      "end": 120.5,
+      "text": "is a complex including many relics, landscapes, cleaning up palaces with a",
+      "avg_logprob": -0.27292969786090615,
+      "no_speech_prob": 0.016610827296972275
+    },
+    {
+      "id": 14,
+      "start": 120.5,
+      "end": 127.66,
+      "text": "royal architecture imbued with Oriental cultural identity. Although the",
+      "avg_logprob": -0.27292969786090615,
+      "no_speech_prob": 0.016610827296972275
+    },
+    {
+      "id": 15,
+      "start": 127.66,
+      "end": 132.62,
+      "text": "Imperial Citadel of Tang Long is not intact, but it still preserves many",
+      "avg_logprob": -0.27292969786090615,
+      "no_speech_prob": 0.016610827296972275
+    },
+    {
+      "id": 16,
+      "start": 132.66,
+      "end": 138.7,
+      "text": "relics such as the archaeological site of 18 Huan Ziu, Quy Thien Palace, Hau Lâu,",
+      "avg_logprob": -0.3466077842069476,
+      "no_speech_prob": 0.03731875121593475
+    },
+    {
+      "id": 17,
+      "start": 138.7,
+      "end": 145.74,
+      "text": "Luan Môn, Bac Môn, the system of city works and gates. Some relics are in the",
+      "avg_logprob": -0.3466077842069476,
+      "no_speech_prob": 0.03731875121593475
+    },
+    {
+      "id": 18,
+      "start": 145.74,
+      "end": 156.37,
+      "text": "process of being restored. On July 31, 2010, according to the town in Brazil, the",
+      "avg_logprob": -0.3466077842069476,
+      "no_speech_prob": 0.03731875121593475
+    },
+    {
+      "id": 19,
+      "start": 156.37,
+      "end": 161.53,
+      "text": "World Heritage Committee of the United Nations Educational Scientific and",
+      "avg_logprob": -0.3466077842069476,
+      "no_speech_prob": 0.03731875121593475
+    },
+    {
+      "id": 20,
+      "start": 162.01,
+      "end": 170.61,
+      "text": "Industrial Organizations, uproar a resolution recognizing the central Imperial Citadel of",
+      "avg_logprob": -0.3733154284102576,
+      "no_speech_prob": 0.0027776802890002728
+    },
+    {
+      "id": 21,
+      "start": 170.61,
+      "end": 183.51,
+      "text": "Tang Long Hanoi in the World Cultural Heritage. The outstanding global values of",
+      "avg_logprob": -0.3733154284102576,
+      "no_speech_prob": 0.0027776802890002728
+    },
+    {
+      "id": 22,
+      "start": 183.51,
+      "end": 189.35,
+      "text": "this heritage site are recognized by three outstanding features. According to",
+      "avg_logprob": -0.3733154284102576,
+      "no_speech_prob": 0.0027776802890002728
+    },
+    {
+      "id": 23,
+      "start": 189.35,
+      "end": 194.27,
+      "text": "criteria number two, the artifact on the ground and extrovert in the ground",
+      "avg_logprob": -0.3733154284102576,
+      "no_speech_prob": 0.0027776802890002728
+    },
+    {
+      "id": 24,
+      "start": 194.55,
+      "end": 200.87,
+      "text": "is a central area of Imperial Citadel of Tang Long Hanoi as a special proof of the",
+      "avg_logprob": -0.20400232035252783,
+      "no_speech_prob": 0.022270124405622482
+    },
+    {
+      "id": 25,
+      "start": 200.87,
+      "end": 207.15,
+      "text": "long process of cultural exchange. The place to receive many cultural influences",
+      "avg_logprob": -0.20400232035252783,
+      "no_speech_prob": 0.022270124405622482
+    },
+    {
+      "id": 26,
+      "start": 207.15,
+      "end": 213.59,
+      "text": "from outside. Many theories and ideas of universal values of human civilization,",
+      "avg_logprob": -0.20400232035252783,
+      "no_speech_prob": 0.022270124405622482
+    },
+    {
+      "id": 27,
+      "start": 213.59,
+      "end": 220.63,
+      "text": "especially Buddhism, Confucianism. According to criteria number three, the",
+      "avg_logprob": -0.20400232035252783,
+      "no_speech_prob": 0.022270124405622482
+    },
+    {
+      "id": 28,
+      "start": 220.63,
+      "end": 226.47,
+      "text": "central area Imperial Citadel of Tang Long Hanoi is the only evidence of the",
+      "avg_logprob": -0.18961260348190495,
+      "no_speech_prob": 0.010266123339533806
+    },
+    {
+      "id": 29,
+      "start": 226.47,
+      "end": 231.27,
+      "text": "long-standing cultural traditions of the Vietnamese in the Red River Delta",
+      "avg_logprob": -0.18961260348190495,
+      "no_speech_prob": 0.010266123339533806
+    },
+    {
+      "id": 30,
+      "start": 231.27,
+      "end": 244.29,
+      "text": "throughout 13th century continuous history and continue until today. According",
+      "avg_logprob": -0.18961260348190495,
+      "no_speech_prob": 0.010266123339533806
+    },
+    {
+      "id": 31,
+      "start": 244.29,
+      "end": 249.57,
+      "text": "to criteria number six, the Imperial Citadel of Tang Long Hanoi clearly",
+      "avg_logprob": -0.18961260348190495,
+      "no_speech_prob": 0.010266123339533806
+    },
+    {
+      "id": 32,
+      "start": 249.57,
+      "end": 255.05,
+      "text": "demonstrates a heritage that is directly related to many important events",
+      "avg_logprob": -0.18961260348190495,
+      "no_speech_prob": 0.010266123339533806
+    },
+    {
+      "id": 33,
+      "start": 255.21,
+      "end": 261.13,
+      "text": "in the history of an ethnic nation in the South Asian Asia in the regional and",
+      "avg_logprob": -0.2814782850713615,
+      "no_speech_prob": 0.012976967729628086
+    },
+    {
+      "id": 34,
+      "start": 261.13,
+      "end": 268.03,
+      "text": "the world relations. Over many periods, the Imperial Citadel of Tang Long suffered",
+      "avg_logprob": -0.2814782850713615,
+      "no_speech_prob": 0.012976967729628086
+    },
+    {
+      "id": 35,
+      "start": 268.03,
+      "end": 273.75,
+      "text": "from changes. Human impact and climate change, making the current village",
+      "avg_logprob": -0.2814782850713615,
+      "no_speech_prob": 0.012976967729628086
+    },
+    {
+      "id": 36,
+      "start": 273.75,
+      "end": 285.7,
+      "text": "facing the risk of degradation requiring conservation measures. The Imperial",
+      "avg_logprob": -0.2814782850713615,
+      "no_speech_prob": 0.012976967729628086
+    },
+    {
+      "id": 37,
+      "start": 285.7,
+      "end": 290.46,
+      "text": "Citadel of Tang Long is a tourist study nation located in the center of",
+      "avg_logprob": -0.2814782850713615,
+      "no_speech_prob": 0.012976967729628086
+    },
+    {
+      "id": 38,
+      "start": 290.46,
+      "end": 294.78,
+      "text": "Hanoi city. Hanoi has better conditions for preserving",
+      "avg_logprob": -0.3453125968575478,
+      "no_speech_prob": 0.014013681560754776
+    },
+    {
+      "id": 39,
+      "start": 294.78,
+      "end": 300.06,
+      "text": "artifacts than many other localities, but the artifact system in Hanoi is",
+      "avg_logprob": -0.3453125968575478,
+      "no_speech_prob": 0.014013681560754776
+    },
+    {
+      "id": 40,
+      "start": 300.06,
+      "end": 305.74,
+      "text": "under the influence of climate change. Here the climate is typical for the",
+      "avg_logprob": -0.3453125968575478,
+      "no_speech_prob": 0.014013681560754776
+    },
+    {
+      "id": 41,
+      "start": 305.74,
+      "end": 310.18,
+      "text": "northern region with the characteristic of human tropical monsoon",
+      "avg_logprob": -0.3453125968575478,
+      "no_speech_prob": 0.014013681560754776
+    },
+    {
+      "id": 42,
+      "start": 310.18,
+      "end": 316.46,
+      "text": "climate. Customers, heavy rains, causing flooding, making many buildings and",
+      "avg_logprob": -0.3453125968575478,
+      "no_speech_prob": 0.014013681560754776
+    },
+    {
+      "id": 43,
+      "start": 316.46,
+      "end": 323.42,
+      "text": "break doors to be flooded. The humid atmosphere, especially after the lunar",
+      "avg_logprob": -0.3756006027970995,
+      "no_speech_prob": 0.023689620196819305
+    },
+    {
+      "id": 44,
+      "start": 323.42,
+      "end": 328.54,
+      "text": "new year, leads to difficulty in preservation of archaeological sites and",
+      "avg_logprob": -0.3756006027970995,
+      "no_speech_prob": 0.023689620196819305
+    },
+    {
+      "id": 45,
+      "start": 328.54,
+      "end": 335.54,
+      "text": "mostly worse. When researching the World Heritage Site of the Imperial Citadel of",
+      "avg_logprob": -0.3756006027970995,
+      "no_speech_prob": 0.023689620196819305
+    },
+    {
+      "id": 46,
+      "start": 335.54,
+      "end": 341.26,
+      "text": "Tang Long at the archaeological site of 18 Huan Ziu, Professor Shidao Araki",
+      "avg_logprob": -0.3756006027970995,
+      "no_speech_prob": 0.023689620196819305
+    },
+    {
+      "id": 47,
+      "start": 341.26,
+      "end": 346.62,
+      "text": "Cyber University, Japan, found out that there are many wooden artifacts",
+      "avg_logprob": -0.25277202512011115,
+      "no_speech_prob": 0.00728388549759984
+    },
+    {
+      "id": 48,
+      "start": 346.62,
+      "end": 353.14,
+      "text": "underneath the Imperial Citadel. Meanwhile, the ground of the monument has",
+      "avg_logprob": -0.25277202512011115,
+      "no_speech_prob": 0.00728388549759984
+    },
+    {
+      "id": 49,
+      "start": 353.14,
+      "end": 358.34,
+      "text": "many underground water sources. If water is not regularly drained, the monument",
+      "avg_logprob": -0.25277202512011115,
+      "no_speech_prob": 0.00728388549759984
+    },
+    {
+      "id": 50,
+      "start": 358.34,
+      "end": 363.46,
+      "text": "will be flooded and microorganisms will be penetrated, causing negative",
+      "avg_logprob": -0.25277202512011115,
+      "no_speech_prob": 0.00728388549759984
+    },
+    {
+      "id": 51,
+      "start": 363.46,
+      "end": 369.18,
+      "text": "impacts on the heritage. To solve this problem, it is necessary to design",
+      "avg_logprob": -0.25277202512011115,
+      "no_speech_prob": 0.00728388549759984
+    },
+    {
+      "id": 52,
+      "start": 369.18,
+      "end": 375.78,
+      "text": "a regular drink and water's intake system. Strengthen and start to periodically",
+      "avg_logprob": -0.369924075786884,
+      "no_speech_prob": 0.003288327483460307
+    },
+    {
+      "id": 53,
+      "start": 375.78,
+      "end": 382.42,
+      "text": "take care to underground relics. Dr. Bu Min Chi, director of the Citadel",
+      "avg_logprob": -0.369924075786884,
+      "no_speech_prob": 0.003288327483460307
+    },
+    {
+      "id": 54,
+      "start": 382.42,
+      "end": 388.02,
+      "text": "Research Center, Vietnam Academy of Sociology Sciences, said that hydro",
+      "avg_logprob": -0.369924075786884,
+      "no_speech_prob": 0.003288327483460307
+    },
+    {
+      "id": 55,
+      "start": 388.02,
+      "end": 394.14,
+      "text": "meteorological monitoring equipment, groundwater monitoring and humidity",
+      "avg_logprob": -0.369924075786884,
+      "no_speech_prob": 0.003288327483460307
+    },
+    {
+      "id": 56,
+      "start": 394.14,
+      "end": 399.54,
+      "text": "measurement equipment in some locations in the archaeological area at",
+      "avg_logprob": -0.2624419231012643,
+      "no_speech_prob": 0.006521196570247412
+    },
+    {
+      "id": 57,
+      "start": 399.54,
+      "end": 406.58,
+      "text": "18 Huan Ziu gives a result. The relics are facing extremely harsh weather. The",
+      "avg_logprob": -0.2624419231012643,
+      "no_speech_prob": 0.006521196570247412
+    },
+    {
+      "id": 58,
+      "start": 406.58,
+      "end": 412.06,
+      "text": "above evidences show that heritage before the impact of climate change is at",
+      "avg_logprob": -0.2624419231012643,
+      "no_speech_prob": 0.006521196570247412
+    },
+    {
+      "id": 59,
+      "start": 412.06,
+      "end": 417.06,
+      "text": "risk of being deformed, lost, or even destroyed if we don't have timely",
+      "avg_logprob": -0.2624419231012643,
+      "no_speech_prob": 0.006521196570247412
+    },
+    {
+      "id": 60,
+      "start": 417.06,
+      "end": 422.58,
+      "text": "response solutions. There are design measures to lead the underground",
+      "avg_logprob": -0.2624419231012643,
+      "no_speech_prob": 0.006521196570247412
+    },
+    {
+      "id": 61,
+      "start": 422.58,
+      "end": 429.5,
+      "text": "water source under the relics to increase humidity. It is recommended to use glossy",
+      "avg_logprob": -0.23964043174471175,
+      "no_speech_prob": 0.007612996734678745
+    },
+    {
+      "id": 62,
+      "start": 429.5,
+      "end": 434.1,
+      "text": "paint to cover the relics or put the relics on the museum for better",
+      "avg_logprob": -0.23964043174471175,
+      "no_speech_prob": 0.007612996734678745
+    },
+    {
+      "id": 63,
+      "start": 434.1,
+      "end": 442.26,
+      "text": "preservation. Besides, there are also human-caused causes such as littering at",
+      "avg_logprob": -0.23964043174471175,
+      "no_speech_prob": 0.007612996734678745
+    },
+    {
+      "id": 64,
+      "start": 442.26,
+      "end": 448.18,
+      "text": "the wrong places causing environmental pollution. The Imperial Citadel is",
+      "avg_logprob": -0.23964043174471175,
+      "no_speech_prob": 0.007612996734678745
+    },
+    {
+      "id": 65,
+      "start": 448.18,
+      "end": 453.38,
+      "text": "located in the center of Hanoi capital, so the traffic density is too crowded.",
+      "avg_logprob": -0.23964043174471175,
+      "no_speech_prob": 0.007612996734678745
+    },
+    {
+      "id": 66,
+      "start": 453.82,
+      "end": 459.38,
+      "text": "Causing noise pollution for big sister and difficulty in the inter-pre-station work.",
+      "avg_logprob": -0.37829869778619873,
+      "no_speech_prob": 0.009532071650028229
+    },
+    {
+      "id": 67,
+      "start": 459.38,
+      "end": 465.3,
+      "text": "Organizing integrated tours with the farm of heritage protection propaganda,",
+      "avg_logprob": -0.37829869778619873,
+      "no_speech_prob": 0.009532071650028229
+    },
+    {
+      "id": 68,
+      "start": 465.3,
+      "end": 472.38,
+      "text": "create a page, the Imperial Citadel of Tang Long, the old shadow in the eyes of",
+      "avg_logprob": -0.37829869778619873,
+      "no_speech_prob": 0.009532071650028229
+    },
+    {
+      "id": 69,
+      "start": 472.38,
+      "end": 478.1,
+      "text": "modern people, to receive comments on the heritage situation as well as",
+      "avg_logprob": -0.37829869778619873,
+      "no_speech_prob": 0.009532071650028229
+    },
+    {
+      "id": 70,
+      "start": 478.1,
+      "end": 485.86,
+      "text": "solutions to protect the heritage. Use posters and promotional image to remind",
+      "avg_logprob": -0.21990831524638807,
+      "no_speech_prob": 0.023272719234228134
+    },
+    {
+      "id": 71,
+      "start": 485.86,
+      "end": 491.86,
+      "text": "tourists to have a sense of heritage protection. One important thing is to",
+      "avg_logprob": -0.21990831524638807,
+      "no_speech_prob": 0.023272719234228134
+    },
+    {
+      "id": 72,
+      "start": 491.86,
+      "end": 497.1,
+      "text": "promote propaganda to the people, tourists and everyone who is conscious of",
+      "avg_logprob": -0.21990831524638807,
+      "no_speech_prob": 0.023272719234228134
+    },
+    {
+      "id": 73,
+      "start": 497.1,
+      "end": 503.42,
+      "text": "environmental protection to reduce the effect of climate change.",
+      "avg_logprob": -0.21990831524638807,
+      "no_speech_prob": 0.023272719234228134
+    }
+  ],
+  "transcript_full": "students from Faculty of Tourism of the University of Hanoi. Our team is named Peroni. Coming to the contest, project on the use and conservation of Asian World cultural heritage in the context of climate change. Our team would like to introduce to you about the historical side of Vietnam. The Imperial Imperial Citadel of Tang Long. The Imperial Citadel of Tang Long is a complex of relics associated with the history of Tang Long, Dong Qing and Hanoi. This archaeological site is a living proof of the Red River Delta civilization spanning its dynasty and still to this day. It has been one of the oldest and most important historical site of our country. It was built in 1010 and completed in early 1011. When King Li Taito issued a decree to move the capital from Halu to Da La. The monument is located at 19th-century Huan Ziu, it means Ba Ding, Hanoi, with a total area of 18,395 hectares. Tang Long Imperial Citadel is a complex including many relics, landscapes, cleaning up palaces with a royal architecture imbued with Oriental cultural identity. Although the Imperial Citadel of Tang Long is not intact, but it still preserves many relics such as the archaeological site of 18 Huan Ziu, Quy Thien Palace, Hau Lâu, Luan Môn, Bac Môn, the system of city works and gates. Some relics are in the process of being restored. On July 31, 2010, according to the town in Brazil, the World Heritage Committee of the United Nations Educational Scientific and Industrial Organizations, uproar a resolution recognizing the central Imperial Citadel of Tang Long Hanoi in the World Cultural Heritage. The outstanding global values of this heritage site are recognized by three outstanding features. According to criteria number two, the artifact on the ground and extrovert in the ground is a central area of Imperial Citadel of Tang Long Hanoi as a special proof of the long process of cultural exchange. The place to receive many cultural influences from outside. Many theories and ideas of universal values of human civilization, especially Buddhism, Confucianism. According to criteria number three, the central area Imperial Citadel of Tang Long Hanoi is the only evidence of the long-standing cultural traditions of the Vietnamese in the Red River Delta throughout 13th century continuous history and continue until today. According to criteria number six, the Imperial Citadel of Tang Long Hanoi clearly demonstrates a heritage that is directly related to many important events in the history of an ethnic nation in the South Asian Asia in the regional and the world relations. Over many periods, the Imperial Citadel of Tang Long suffered from changes. Human impact and climate change, making the current village facing the risk of degradation requiring conservation measures. The Imperial Citadel of Tang Long is a tourist study nation located in the center of Hanoi city. Hanoi has better conditions for preserving artifacts than many other localities, but the artifact system in Hanoi is under the influence of climate change. Here the climate is typical for the northern region with the characteristic of human tropical monsoon climate. Customers, heavy rains, causing flooding, making many buildings and break doors to be flooded. The humid atmosphere, especially after the lunar new year, leads to difficulty in preservation of archaeological sites and mostly worse. When researching the World Heritage Site of the Imperial Citadel of Tang Long at the archaeological site of 18 Huan Ziu, Professor Shidao Araki Cyber University, Japan, found out that there are many wooden artifacts underneath the Imperial Citadel. Meanwhile, the ground of the monument has many underground water sources. If water is not regularly drained, the monument will be flooded and microorganisms will be penetrated, causing negative impacts on the heritage. To solve this problem, it is necessary to design a regular drink and water's intake system. Strengthen and start to periodically take care to underground relics. Dr. Bu Min Chi, director of the Citadel Research Center, Vietnam Academy of Sociology Sciences, said that hydro meteorological monitoring equipment, groundwater monitoring and humidity measurement equipment in some locations in the archaeological area at 18 Huan Ziu gives a result. The relics are facing extremely harsh weather. The above evidences show that heritage before the impact of climate change is at risk of being deformed, lost, or even destroyed if we don't have timely response solutions. There are design measures to lead the underground water source under the relics to increase humidity. It is recommended to use glossy paint to cover the relics or put the relics on the museum for better preservation. Besides, there are also human-caused causes such as littering at the wrong places causing environmental pollution. The Imperial Citadel is located in the center of Hanoi capital, so the traffic density is too crowded. Causing noise pollution for big sister and difficulty in the inter-pre-station work. Organizing integrated tours with the farm of heritage protection propaganda, create a page, the Imperial Citadel of Tang Long, the old shadow in the eyes of modern people, to receive comments on the heritage situation as well as solutions to protect the heritage. Use posters and promotional image to remind tourists to have a sense of heritage protection. One important thing is to promote propaganda to the people, tourists and everyone who is conscious of environmental protection to reduce the effect of climate change.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
