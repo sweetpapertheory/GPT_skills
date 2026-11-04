@@ -1,0 +1,84 @@
+{
+  "language": "en",
+  "language_probability": 0.9842098951339722,
+  "duration": 49.826,
+  "duration_after_vad": 49.0,
+  "segment_count": 9,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.08,
+      "end": 5.08,
+      "text": "Are you worried about climate change? Do you think it is a big problem?",
+      "avg_logprob": -0.10418675132856077,
+      "no_speech_prob": 0.027810391038656235
+    },
+    {
+      "id": 2,
+      "start": 5.08,
+      "end": 9.08,
+      "text": "Do you wonder what countries are doing to address it?",
+      "avg_logprob": -0.10418675132856077,
+      "no_speech_prob": 0.027810391038656235
+    },
+    {
+      "id": 3,
+      "start": 9.08,
+      "end": 15.08,
+      "text": "Do you have ideas on what we all should be doing to address climate change?",
+      "avg_logprob": -0.10418675132856077,
+      "no_speech_prob": 0.027810391038656235
+    },
+    {
+      "id": 4,
+      "start": 15.08,
+      "end": 21.08,
+      "text": "I am Patricia Spinoza. I am the head of UN Climate Change.",
+      "avg_logprob": -0.10418675132856077,
+      "no_speech_prob": 0.027810391038656235
+    },
+    {
+      "id": 5,
+      "start": 21.08,
+      "end": 25.08,
+      "text": "And the truth is that we are very, very far from where we need to be",
+      "avg_logprob": -0.10418675132856077,
+      "no_speech_prob": 0.027810391038656235
+    },
+    {
+      "id": 6,
+      "start": 25.08,
+      "end": 29.08,
+      "text": "in order to address the climate emergency.",
+      "avg_logprob": -0.10418675132856077,
+      "no_speech_prob": 0.027810391038656235
+    },
+    {
+      "id": 7,
+      "start": 29.08,
+      "end": 36.08,
+      "text": "This year, in 2021, we have a great opportunity to make a big step forward.",
+      "avg_logprob": -0.059906023657984205,
+      "no_speech_prob": 0.43613165616989136
+    },
+    {
+      "id": 8,
+      "start": 36.08,
+      "end": 43.08,
+      "text": "Are you in? Then follow this channel and let us demonstrate to the world",
+      "avg_logprob": -0.059906023657984205,
+      "no_speech_prob": 0.43613165616989136
+    },
+    {
+      "id": 9,
+      "start": 43.08,
+      "end": 49.08,
+      "text": "that we can build a green, sustainable, healthy future for all.",
+      "avg_logprob": -0.059906023657984205,
+      "no_speech_prob": 0.43613165616989136
+    }
+  ],
+  "transcript_full": "Are you worried about climate change? Do you think it is a big problem? Do you wonder what countries are doing to address it? Do you have ideas on what we all should be doing to address climate change? I am Patricia Spinoza. I am the head of UN Climate Change. And the truth is that we are very, very far from where we need to be in order to address the climate emergency. This year, in 2021, we have a great opportunity to make a big step forward. Are you in? Then follow this channel and let us demonstrate to the world that we can build a green, sustainable, healthy future for all.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
