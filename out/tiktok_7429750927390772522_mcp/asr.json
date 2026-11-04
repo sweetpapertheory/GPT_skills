@@ -1,0 +1,116 @@
+{
+  "language": "en",
+  "language_probability": 0.9969134330749512,
+  "duration": 67.396,
+  "duration_after_vad": 53.63,
+  "segment_count": 13,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.0,
+      "text": "So ice fishing is the greatest activity because every year a bunch of trucks fall through the ice.",
+      "avg_logprob": -0.2269933478216107,
+      "no_speech_prob": 0.05417555198073387
+    },
+    {
+      "id": 2,
+      "start": 6.0,
+      "end": 11.0,
+      "text": "There's nothing funnier than every year someone tries to get in one last ice fishing trip in early March",
+      "avg_logprob": -0.2269933478216107,
+      "no_speech_prob": 0.05417555198073387
+    },
+    {
+      "id": 3,
+      "start": 11.0,
+      "end": 16.0,
+      "text": "and there's Chevy Silverado plummets to the bottom of Lake Waka Waka",
+      "avg_logprob": -0.2269933478216107,
+      "no_speech_prob": 0.05417555198073387
+    },
+    {
+      "id": 4,
+      "start": 16.0,
+      "end": 21.0,
+      "text": "and everyone's like Randy Dodd doing what Randy loves.",
+      "avg_logprob": -0.2269933478216107,
+      "no_speech_prob": 0.05417555198073387
+    },
+    {
+      "id": 5,
+      "start": 22.0,
+      "end": 25.0,
+      "text": "Not listen to the mainstream media.",
+      "avg_logprob": -0.2269933478216107,
+      "no_speech_prob": 0.05417555198073387
+    },
+    {
+      "id": 6,
+      "start": 26.0,
+      "end": 31.0,
+      "text": "His last words were if there's global warmer than what I'm about to die in a Bible, there we are!",
+      "avg_logprob": -0.20886592054367065,
+      "no_speech_prob": 0.022903745993971825
+    },
+    {
+      "id": 7,
+      "start": 32.0,
+      "end": 37.63,
+      "text": "Ice fishing is so funny because like they could just wait.",
+      "avg_logprob": -0.20886592054367065,
+      "no_speech_prob": 0.022903745993971825
+    },
+    {
+      "id": 8,
+      "start": 40.97,
+      "end": 44.97,
+      "text": "It's not like necessary for survival to get some cold perch during the winter.",
+      "avg_logprob": -0.20886592054367065,
+      "no_speech_prob": 0.022903745993971825
+    },
+    {
+      "id": 9,
+      "start": 45.97,
+      "end": 48.97,
+      "text": "Men just ice fish, we can be honest, it's because they hate their wives.",
+      "avg_logprob": -0.20886592054367065,
+      "no_speech_prob": 0.022903745993971825
+    },
+    {
+      "id": 10,
+      "start": 48.97,
+      "end": 50.97,
+      "text": "That's what it is.",
+      "avg_logprob": -0.20886592054367065,
+      "no_speech_prob": 0.022903745993971825
+    },
+    {
+      "id": 11,
+      "start": 50.97,
+      "end": 53.97,
+      "text": "Winter comes and the women are like yay we get to snuggle all winter",
+      "avg_logprob": -0.20886592054367065,
+      "no_speech_prob": 0.022903745993971825
+    },
+    {
+      "id": 12,
+      "start": 53.97,
+      "end": 57.97,
+      "text": "and the men are like no we're gonna go huddle around the hole in silence.",
+      "avg_logprob": -0.20886592054367065,
+      "no_speech_prob": 0.022903745993971825
+    },
+    {
+      "id": 13,
+      "start": 58.97,
+      "end": 62.97,
+      "text": "And the women are like that's what snuggling is.",
+      "avg_logprob": -0.1389454503854116,
+      "no_speech_prob": 0.004310238175094128
+    }
+  ],
+  "transcript_full": "So ice fishing is the greatest activity because every year a bunch of trucks fall through the ice. There's nothing funnier than every year someone tries to get in one last ice fishing trip in early March and there's Chevy Silverado plummets to the bottom of Lake Waka Waka and everyone's like Randy Dodd doing what Randy loves. Not listen to the mainstream media. His last words were if there's global warmer than what I'm about to die in a Bible, there we are! Ice fishing is so funny because like they could just wait. It's not like necessary for survival to get some cold perch during the winter. Men just ice fish, we can be honest, it's because they hate their wives. That's what it is. Winter comes and the women are like yay we get to snuggle all winter and the men are like no we're gonna go huddle around the hole in silence. And the women are like that's what snuggling is.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
