@@ -1,0 +1,100 @@
+{
+  "language": "en",
+  "language_probability": 0.9996280670166016,
+  "duration": 49.917,
+  "duration_after_vad": 49.84,
+  "segment_count": 11,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.56,
+      "text": "It's the day after the midterm elections, and here are the California results you need to know.",
+      "avg_logprob": -0.1367564053595567,
+      "no_speech_prob": 0.003820001380518079
+    },
+    {
+      "id": 2,
+      "start": 4.56,
+      "end": 9.68,
+      "text": "Gavin Newsom will remain governor of California, winning another term against opponent Brian Daly,",
+      "avg_logprob": -0.1367564053595567,
+      "no_speech_prob": 0.003820001380518079
+    },
+    {
+      "id": 3,
+      "start": 9.68,
+      "end": 13.84,
+      "text": "Proposition 1, which adds the right to an abortion to the state constitution, passed.",
+      "avg_logprob": -0.1367564053595567,
+      "no_speech_prob": 0.003820001380518079
+    },
+    {
+      "id": 4,
+      "start": 13.84,
+      "end": 19.68,
+      "text": "Propositions 26 and 27 both failed hugely. Prop 26 would have legalized sports betting",
+      "avg_logprob": -0.1367564053595567,
+      "no_speech_prob": 0.003820001380518079
+    },
+    {
+      "id": 5,
+      "start": 19.68,
+      "end": 23.84,
+      "text": "in tribal casinos, while 27 would have legalized sports betting online.",
+      "avg_logprob": -0.1367564053595567,
+      "no_speech_prob": 0.003820001380518079
+    },
+    {
+      "id": 6,
+      "start": 23.84,
+      "end": 28.0,
+      "text": "Proposition 28 passed. It will double the amount of funding California gives schools",
+      "avg_logprob": -0.1367564053595567,
+      "no_speech_prob": 0.003820001380518079
+    },
+    {
+      "id": 7,
+      "start": 28.0,
+      "end": 32.4,
+      "text": "for art and music education. In San Jose, Matt Mayhem leads the race for mayor,",
+      "avg_logprob": -0.1457675339616075,
+      "no_speech_prob": 0.05725983530282974
+    },
+    {
+      "id": 8,
+      "start": 32.4,
+      "end": 37.28,
+      "text": "and in the Oakland mayors race, Lauren Taylor is in front. Brooke Jenkins, the tough-on-crime",
+      "avg_logprob": -0.1457675339616075,
+      "no_speech_prob": 0.05725983530282974
+    },
+    {
+      "id": 9,
+      "start": 37.28,
+      "end": 41.92,
+      "text": "incumbent for San Francisco's district attorney, appears headed to victory in her race against",
+      "avg_logprob": -0.1457675339616075,
+      "no_speech_prob": 0.05725983530282974
+    },
+    {
+      "id": 10,
+      "start": 41.92,
+      "end": 47.28,
+      "text": "civil rights attorney John Hamasaki. And in Richmond, Eduardo Martinez leads the race for mayor",
+      "avg_logprob": -0.1457675339616075,
+      "no_speech_prob": 0.05725983530282974
+    },
+    {
+      "id": 11,
+      "start": 47.28,
+      "end": 49.84,
+      "text": "and would become the city's first Latino mayor.",
+      "avg_logprob": -0.1457675339616075,
+      "no_speech_prob": 0.05725983530282974
+    }
+  ],
+  "transcript_full": "It's the day after the midterm elections, and here are the California results you need to know. Gavin Newsom will remain governor of California, winning another term against opponent Brian Daly, Proposition 1, which adds the right to an abortion to the state constitution, passed. Propositions 26 and 27 both failed hugely. Prop 26 would have legalized sports betting in tribal casinos, while 27 would have legalized sports betting online. Proposition 28 passed. It will double the amount of funding California gives schools for art and music education. In San Jose, Matt Mayhem leads the race for mayor, and in the Oakland mayors race, Lauren Taylor is in front. Brooke Jenkins, the tough-on-crime incumbent for San Francisco's district attorney, appears headed to victory in her race against civil rights attorney John Hamasaki. And in Richmond, Eduardo Martinez leads the race for mayor and would become the city's first Latino mayor.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
