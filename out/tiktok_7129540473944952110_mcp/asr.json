@@ -1,0 +1,196 @@
+{
+  "language": "en",
+  "language_probability": 0.9949871301651001,
+  "duration": 95.3,
+  "duration_after_vad": 94.96,
+  "segment_count": 23,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.64,
+      "text": "Senate being equally divided, the vice president votes in the affirmative, and the bill, as",
+      "avg_logprob": -0.2624243510666714,
+      "no_speech_prob": 0.2533160150051117
+    },
+    {
+      "id": 2,
+      "start": 5.64,
+      "end": 8.52,
+      "text": "amended, is passed.",
+      "avg_logprob": -0.2624243510666714,
+      "no_speech_prob": 0.2533160150051117
+    },
+    {
+      "id": 3,
+      "start": 8.52,
+      "end": 13.48,
+      "text": "Applauses erupted on the Senate floor after Vice President Kamala Harris delivered the",
+      "avg_logprob": -0.2624243510666714,
+      "no_speech_prob": 0.2533160150051117
+    },
+    {
+      "id": 4,
+      "start": 13.48,
+      "end": 19.4,
+      "text": "tie-breaking vote to pass Democrats' signature economic health and climate agenda.",
+      "avg_logprob": -0.2624243510666714,
+      "no_speech_prob": 0.2533160150051117
+    },
+    {
+      "id": 5,
+      "start": 19.4,
+      "end": 23.44,
+      "text": "It's been a long, tough, and winding road.",
+      "avg_logprob": -0.2624243510666714,
+      "no_speech_prob": 0.2533160150051117
+    },
+    {
+      "id": 6,
+      "start": 23.44,
+      "end": 27.4,
+      "text": "At last we've arrived, and we are elated.",
+      "avg_logprob": -0.2624243510666714,
+      "no_speech_prob": 0.2533160150051117
+    },
+    {
+      "id": 7,
+      "start": 27.4,
+      "end": 31.96,
+      "text": "Called the Inflation Reduction Act, it is the largest federal investment to address climate",
+      "avg_logprob": -0.14286427653354147,
+      "no_speech_prob": 0.8589798212051392
+    },
+    {
+      "id": 8,
+      "start": 31.96,
+      "end": 39.32,
+      "text": "change with $369 billion for clean energy programs, including tax credits for individuals who make",
+      "avg_logprob": -0.14286427653354147,
+      "no_speech_prob": 0.8589798212051392
+    },
+    {
+      "id": 9,
+      "start": 39.32,
+      "end": 45.16,
+      "text": "their homes more energy efficient or by electric vehicles, as well as the manufacturers who",
+      "avg_logprob": -0.14286427653354147,
+      "no_speech_prob": 0.8589798212051392
+    },
+    {
+      "id": 10,
+      "start": 45.16,
+      "end": 46.36,
+      "text": "build them.",
+      "avg_logprob": -0.14286427653354147,
+      "no_speech_prob": 0.8589798212051392
+    },
+    {
+      "id": 11,
+      "start": 46.36,
+      "end": 52.04,
+      "text": "It allows Medicare to negotiate lower prescription drug prices and caps drug costs for seniors",
+      "avg_logprob": -0.14286427653354147,
+      "no_speech_prob": 0.8589798212051392
+    },
+    {
+      "id": 12,
+      "start": 52.04,
+      "end": 54.28,
+      "text": "at $2,000 a year.",
+      "avg_logprob": -0.14286427653354147,
+      "no_speech_prob": 0.8589798212051392
+    },
+    {
+      "id": 13,
+      "start": 54.28,
+      "end": 60.0,
+      "text": "The Congressional Budget Office says the $430 billion package is expected to cut the deficit",
+      "avg_logprob": -0.17310858827776612,
+      "no_speech_prob": 0.017367906868457794
+    },
+    {
+      "id": 14,
+      "start": 60.0,
+      "end": 62.36,
+      "text": "by $300 billion.",
+      "avg_logprob": -0.17310858827776612,
+      "no_speech_prob": 0.017367906868457794
+    },
+    {
+      "id": 15,
+      "start": 62.36,
+      "end": 69.56,
+      "text": "It will be paid in part through a 15% minimum tax on corporations, an increased IRS enforcement.",
+      "avg_logprob": -0.17310858827776612,
+      "no_speech_prob": 0.017367906868457794
+    },
+    {
+      "id": 16,
+      "start": 69.56,
+      "end": 72.88,
+      "text": "Republicans who opposed the measure had choice words.",
+      "avg_logprob": -0.17310858827776612,
+      "no_speech_prob": 0.017367906868457794
+    },
+    {
+      "id": 17,
+      "start": 72.88,
+      "end": 75.28,
+      "text": "The bill's title shows you what **** it is.",
+      "avg_logprob": -0.17310858827776612,
+      "no_speech_prob": 0.017367906868457794
+    },
+    {
+      "id": 18,
+      "start": 75.28,
+      "end": 77.4,
+      "text": "It's an Inflation Increase Act.",
+      "avg_logprob": -0.17310858827776612,
+      "no_speech_prob": 0.017367906868457794
+    },
+    {
+      "id": 19,
+      "start": 77.4,
+      "end": 82.16,
+      "text": "This is going to continue to drive us into a bigger recession than we are.",
+      "avg_logprob": -0.17310858827776612,
+      "no_speech_prob": 0.017367906868457794
+    },
+    {
+      "id": 20,
+      "start": 82.16,
+      "end": 83.6,
+      "text": "It is a terrible idea.",
+      "avg_logprob": -0.17310858827776612,
+      "no_speech_prob": 0.017367906868457794
+    },
+    {
+      "id": 21,
+      "start": 83.6,
+      "end": 88.0,
+      "text": "While Democrats acknowledge only some of the bill's provisions would be felt immediately,",
+      "avg_logprob": -0.15600446332246065,
+      "no_speech_prob": 0.3762369453907013
+    },
+    {
+      "id": 22,
+      "start": 88.0,
+      "end": 91.52,
+      "text": "they emphasize the significant long-term benefits.",
+      "avg_logprob": -0.15600446332246065,
+      "no_speech_prob": 0.3762369453907013
+    },
+    {
+      "id": 23,
+      "start": 91.52,
+      "end": 94.96,
+      "text": "The world will be a better place for my grandchildren because of what we did today.",
+      "avg_logprob": -0.15600446332246065,
+      "no_speech_prob": 0.3762369453907013
+    }
+  ],
+  "transcript_full": "Senate being equally divided, the vice president votes in the affirmative, and the bill, as amended, is passed. Applauses erupted on the Senate floor after Vice President Kamala Harris delivered the tie-breaking vote to pass Democrats' signature economic health and climate agenda. It's been a long, tough, and winding road. At last we've arrived, and we are elated. Called the Inflation Reduction Act, it is the largest federal investment to address climate change with $369 billion for clean energy programs, including tax credits for individuals who make their homes more energy efficient or by electric vehicles, as well as the manufacturers who build them. It allows Medicare to negotiate lower prescription drug prices and caps drug costs for seniors at $2,000 a year. The Congressional Budget Office says the $430 billion package is expected to cut the deficit by $300 billion. It will be paid in part through a 15% minimum tax on corporations, an increased IRS enforcement. Republicans who opposed the measure had choice words. The bill's title shows you what **** it is. It's an Inflation Increase Act. This is going to continue to drive us into a bigger recession than we are. It is a terrible idea. While Democrats acknowledge only some of the bill's provisions would be felt immediately, they emphasize the significant long-term benefits. The world will be a better place for my grandchildren because of what we did today.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
