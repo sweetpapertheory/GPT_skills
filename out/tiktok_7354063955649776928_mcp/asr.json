@@ -1,0 +1,60 @@
+{
+  "language": "en",
+  "language_probability": 0.3795209527015686,
+  "duration": 41.285,
+  "duration_after_vad": 24.02,
+  "segment_count": 6,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.54,
+      "text": "I will, I will, I will, I will, I will join into the crew of songs and tunes",
+      "avg_logprob": -0.9161911173870689,
+      "no_speech_prob": 0.08198259770870209
+    },
+    {
+      "id": 2,
+      "start": 6.54,
+      "end": 10.44,
+      "text": "I know they want to see me for, oooh",
+      "avg_logprob": -0.9161911173870689,
+      "no_speech_prob": 0.08198259770870209
+    },
+    {
+      "id": 3,
+      "start": 10.44,
+      "end": 14.62,
+      "text": "But they're they stop it, I know they fall out oooh",
+      "avg_logprob": -0.9161911173870689,
+      "no_speech_prob": 0.08198259770870209
+    },
+    {
+      "id": 4,
+      "start": 14.62,
+      "end": 19.04,
+      "text": "Won't bring me up on my ballo, oooh",
+      "avg_logprob": -0.9161911173870689,
+      "no_speech_prob": 0.08198259770870209
+    },
+    {
+      "id": 5,
+      "start": 19.04,
+      "end": 23.04,
+      "text": "If you don't know make you ask her to go, how you go",
+      "avg_logprob": -0.9161911173870689,
+      "no_speech_prob": 0.08198259770870209
+    },
+    {
+      "id": 6,
+      "start": 23.04,
+      "end": 25.02,
+      "text": "Better do the body, how you go",
+      "avg_logprob": -0.9161911173870689,
+      "no_speech_prob": 0.08198259770870209
+    }
+  ],
+  "transcript_full": "I will, I will, I will, I will, I will join into the crew of songs and tunes I know they want to see me for, oooh But they're they stop it, I know they fall out oooh Won't bring me up on my ballo, oooh If you don't know make you ask her to go, how you go Better do the body, how you go",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
