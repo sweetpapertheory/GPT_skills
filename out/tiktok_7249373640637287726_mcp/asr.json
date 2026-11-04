@@ -1,0 +1,692 @@
+{
+  "language": "en",
+  "language_probability": 0.9975621700286865,
+  "duration": 274.389,
+  "duration_after_vad": 270.34,
+  "segment_count": 85,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.16,
+      "text": "If you could spend 30 billion dollars trying to solve the world's problems, how would",
+      "avg_logprob": -0.22093571600366813,
+      "no_speech_prob": 0.035187672823667526
+    },
+    {
+      "id": 2,
+      "start": 5.16,
+      "end": 6.16,
+      "text": "you spend it?",
+      "avg_logprob": -0.22093571600366813,
+      "no_speech_prob": 0.035187672823667526
+    },
+    {
+      "id": 3,
+      "start": 6.16,
+      "end": 7.16,
+      "text": "Real estate.",
+      "avg_logprob": -0.22093571600366813,
+      "no_speech_prob": 0.035187672823667526
+    },
+    {
+      "id": 4,
+      "start": 7.16,
+      "end": 9.52,
+      "text": "You would build houses for people?",
+      "avg_logprob": -0.22093571600366813,
+      "no_speech_prob": 0.035187672823667526
+    },
+    {
+      "id": 5,
+      "start": 9.52,
+      "end": 11.08,
+      "text": "Yes, I'm an architect.",
+      "avg_logprob": -0.22093571600366813,
+      "no_speech_prob": 0.035187672823667526
+    },
+    {
+      "id": 6,
+      "start": 11.08,
+      "end": 14.8,
+      "text": "People have very different ideas about how to help the world.",
+      "avg_logprob": -0.22093571600366813,
+      "no_speech_prob": 0.035187672823667526
+    },
+    {
+      "id": 7,
+      "start": 14.8,
+      "end": 16.52,
+      "text": "Healthcare and water access.",
+      "avg_logprob": -0.22093571600366813,
+      "no_speech_prob": 0.035187672823667526
+    },
+    {
+      "id": 8,
+      "start": 16.52,
+      "end": 19.0,
+      "text": "Definitely work towards eradicating homelessness.",
+      "avg_logprob": -0.22093571600366813,
+      "no_speech_prob": 0.035187672823667526
+    },
+    {
+      "id": 9,
+      "start": 19.0,
+      "end": 20.0,
+      "text": "Climate change.",
+      "avg_logprob": -0.22093571600366813,
+      "no_speech_prob": 0.035187672823667526
+    },
+    {
+      "id": 10,
+      "start": 20.0,
+      "end": 22.68,
+      "text": "Climate change was the most common answer.",
+      "avg_logprob": -0.22093571600366813,
+      "no_speech_prob": 0.035187672823667526
+    },
+    {
+      "id": 11,
+      "start": 22.68,
+      "end": 23.92,
+      "text": "Climate affects the climate.",
+      "avg_logprob": -0.22093571600366813,
+      "no_speech_prob": 0.035187672823667526
+    },
+    {
+      "id": 12,
+      "start": 23.92,
+      "end": 25.2,
+      "text": "Tackling climate change.",
+      "avg_logprob": -0.22093571600366813,
+      "no_speech_prob": 0.035187672823667526
+    },
+    {
+      "id": 13,
+      "start": 25.2,
+      "end": 27.52,
+      "text": "That's what people think is the most important stuff.",
+      "avg_logprob": -0.22093571600366813,
+      "no_speech_prob": 0.035187672823667526
+    },
+    {
+      "id": 14,
+      "start": 27.52,
+      "end": 30.08,
+      "text": "It's not surprising if you live in the rich world.",
+      "avg_logprob": -0.2566595543985781,
+      "no_speech_prob": 0.002880996325984597
+    },
+    {
+      "id": 15,
+      "start": 30.08,
+      "end": 36.9,
+      "text": "Bjorn Lomburg studies solutions for the world's biggest problems.",
+      "avg_logprob": -0.2566595543985781,
+      "no_speech_prob": 0.002880996325984597
+    },
+    {
+      "id": 16,
+      "start": 36.9,
+      "end": 40.66,
+      "text": "He's not surprised that rich people worry about climate change.",
+      "avg_logprob": -0.2566595543985781,
+      "no_speech_prob": 0.002880996325984597
+    },
+    {
+      "id": 17,
+      "start": 40.66,
+      "end": 45.74,
+      "text": "We're constantly told climate change is impacting everything from a conception to pregnancy and",
+      "avg_logprob": -0.2566595543985781,
+      "no_speech_prob": 0.002880996325984597
+    },
+    {
+      "id": 18,
+      "start": 45.74,
+      "end": 46.74,
+      "text": "your children.",
+      "avg_logprob": -0.2566595543985781,
+      "no_speech_prob": 0.002880996325984597
+    },
+    {
+      "id": 19,
+      "start": 46.74,
+      "end": 50.14,
+      "text": "Trees will die and fall down.",
+      "avg_logprob": -0.2566595543985781,
+      "no_speech_prob": 0.002880996325984597
+    },
+    {
+      "id": 20,
+      "start": 50.14,
+      "end": 52.18,
+      "text": "Countries will be underwater.",
+      "avg_logprob": -0.2566595543985781,
+      "no_speech_prob": 0.002880996325984597
+    },
+    {
+      "id": 21,
+      "start": 52.18,
+      "end": 57.02,
+      "text": "Okay, half-louid people are right to worry that climate change might cause big problems",
+      "avg_logprob": -0.2566595543985781,
+      "no_speech_prob": 0.002880996325984597
+    },
+    {
+      "id": 22,
+      "start": 57.02,
+      "end": 58.02,
+      "text": "someday.",
+      "avg_logprob": -0.2566595543985781,
+      "no_speech_prob": 0.002880996325984597
+    },
+    {
+      "id": 23,
+      "start": 58.02,
+      "end": 59.02,
+      "text": "But.",
+      "avg_logprob": -0.2566595543985781,
+      "no_speech_prob": 0.002880996325984597
+    },
+    {
+      "id": 24,
+      "start": 59.02,
+      "end": 63.06,
+      "text": "If you live in most other places in the planet, you're worried about the fact that your kids",
+      "avg_logprob": -0.12378928658923483,
+      "no_speech_prob": 0.0005420984816737473
+    },
+    {
+      "id": 25,
+      "start": 63.06,
+      "end": 66.14,
+      "text": "might die from easily curable diseases tonight.",
+      "avg_logprob": -0.12378928658923483,
+      "no_speech_prob": 0.0005420984816737473
+    },
+    {
+      "id": 26,
+      "start": 66.14,
+      "end": 71.94,
+      "text": "Lomburg spent years consulting with all sorts of experts to try to find the smartest solutions",
+      "avg_logprob": -0.12378928658923483,
+      "no_speech_prob": 0.0005420984816737473
+    },
+    {
+      "id": 27,
+      "start": 71.94,
+      "end": 74.02,
+      "text": "to the world's biggest problems.",
+      "avg_logprob": -0.12378928658923483,
+      "no_speech_prob": 0.0005420984816737473
+    },
+    {
+      "id": 28,
+      "start": 74.02,
+      "end": 78.42,
+      "text": "The point is not that climate change is not also an issue, but we also just need to",
+      "avg_logprob": -0.12378928658923483,
+      "no_speech_prob": 0.0005420984816737473
+    },
+    {
+      "id": 29,
+      "start": 78.42,
+      "end": 83.1,
+      "text": "have a sense of proportion and ask ourselves, where can we spend dollars and actually",
+      "avg_logprob": -0.12378928658923483,
+      "no_speech_prob": 0.0005420984816737473
+    },
+    {
+      "id": 30,
+      "start": 83.1,
+      "end": 86.9,
+      "text": "do a lot of good versus where can we spend dollars and just do a little good?",
+      "avg_logprob": -0.12378928658923483,
+      "no_speech_prob": 0.0005420984816737473
+    },
+    {
+      "id": 31,
+      "start": 86.9,
+      "end": 92.74,
+      "text": "Twenty years ago, the UN came out with development goals that did help.",
+      "avg_logprob": -0.16184692775661294,
+      "no_speech_prob": 0.15706273913383484
+    },
+    {
+      "id": 32,
+      "start": 92.74,
+      "end": 93.74,
+      "text": "Yes.",
+      "avg_logprob": -0.16184692775661294,
+      "no_speech_prob": 0.15706273913383484
+    },
+    {
+      "id": 33,
+      "start": 93.74,
+      "end": 97.9,
+      "text": "They basically said, let's get people out of poverty, out of hunger, let's get kids",
+      "avg_logprob": -0.16184692775661294,
+      "no_speech_prob": 0.15706273913383484
+    },
+    {
+      "id": 34,
+      "start": 97.9,
+      "end": 102.02,
+      "text": "into school, let's stop moms, and let's stop kids from dying.",
+      "avg_logprob": -0.16184692775661294,
+      "no_speech_prob": 0.15706273913383484
+    },
+    {
+      "id": 35,
+      "start": 102.02,
+      "end": 106.1,
+      "text": "That and global capitalism lifted millions out of poverty.",
+      "avg_logprob": -0.16184692775661294,
+      "no_speech_prob": 0.15706273913383484
+    },
+    {
+      "id": 36,
+      "start": 106.1,
+      "end": 110.78,
+      "text": "But now the UN pushes so-called sustainable development goals.",
+      "avg_logprob": -0.16184692775661294,
+      "no_speech_prob": 0.15706273913383484
+    },
+    {
+      "id": 37,
+      "start": 110.78,
+      "end": 112.38,
+      "text": "They promise everything.",
+      "avg_logprob": -0.16184692775661294,
+      "no_speech_prob": 0.15706273913383484
+    },
+    {
+      "id": 38,
+      "start": 112.38,
+      "end": 115.86,
+      "text": "We're going to get rid of poverty, hunger, disease.",
+      "avg_logprob": -0.16184692775661294,
+      "no_speech_prob": 0.15706273913383484
+    },
+    {
+      "id": 39,
+      "start": 115.86,
+      "end": 119.06,
+      "text": "We're going to fix war, corruption, climate change.",
+      "avg_logprob": -0.12811840065952504,
+      "no_speech_prob": 0.00965176522731781
+    },
+    {
+      "id": 40,
+      "start": 119.06,
+      "end": 123.42,
+      "text": "But fighting climate change alone will cost trillions and might do little.",
+      "avg_logprob": -0.12811840065952504,
+      "no_speech_prob": 0.00965176522731781
+    },
+    {
+      "id": 41,
+      "start": 123.42,
+      "end": 128.3,
+      "text": "If we spend way too much money ineffectively on climate, not only are we not fixing",
+      "avg_logprob": -0.12811840065952504,
+      "no_speech_prob": 0.00965176522731781
+    },
+    {
+      "id": 42,
+      "start": 128.3,
+      "end": 131.82,
+      "text": "climate, but we're also wasting an enormous amount of money that could have been spent",
+      "avg_logprob": -0.12811840065952504,
+      "no_speech_prob": 0.00965176522731781
+    },
+    {
+      "id": 43,
+      "start": 131.82,
+      "end": 132.9,
+      "text": "on all these other things.",
+      "avg_logprob": -0.12811840065952504,
+      "no_speech_prob": 0.00965176522731781
+    },
+    {
+      "id": 44,
+      "start": 132.9,
+      "end": 136.22,
+      "text": "We should spend on the best things first, says Lomburg.",
+      "avg_logprob": -0.12811840065952504,
+      "no_speech_prob": 0.00965176522731781
+    },
+    {
+      "id": 45,
+      "start": 136.22,
+      "end": 141.38,
+      "text": "$35 billion could save 4.2 million lives in the poor part of the world each and",
+      "avg_logprob": -0.12811840065952504,
+      "no_speech_prob": 0.00965176522731781
+    },
+    {
+      "id": 46,
+      "start": 141.38,
+      "end": 142.38,
+      "text": "every year.",
+      "avg_logprob": -0.12811840065952504,
+      "no_speech_prob": 0.00965176522731781
+    },
+    {
+      "id": 47,
+      "start": 142.38,
+      "end": 144.22,
+      "text": "Treating tuberculosis, for example.",
+      "avg_logprob": -0.12811840065952504,
+      "no_speech_prob": 0.00965176522731781
+    },
+    {
+      "id": 48,
+      "start": 144.22,
+      "end": 148.66,
+      "text": "An estimated 1.8 billion people globally are infected with TB.",
+      "avg_logprob": -0.127931351198795,
+      "no_speech_prob": 0.020809026435017586
+    },
+    {
+      "id": 49,
+      "start": 148.66,
+      "end": 150.98,
+      "text": "People in America don't even talk about that.",
+      "avg_logprob": -0.127931351198795,
+      "no_speech_prob": 0.020809026435017586
+    },
+    {
+      "id": 50,
+      "start": 150.98,
+      "end": 154.1,
+      "text": "Nobody in rich world countries die from tuberculosis.",
+      "avg_logprob": -0.127931351198795,
+      "no_speech_prob": 0.020809026435017586
+    },
+    {
+      "id": 51,
+      "start": 154.1,
+      "end": 156.48,
+      "text": "But in poor countries, they still do.",
+      "avg_logprob": -0.127931351198795,
+      "no_speech_prob": 0.020809026435017586
+    },
+    {
+      "id": 52,
+      "start": 156.48,
+      "end": 163.18,
+      "text": "If you spend about $5.5 billion, you could save most of those people.",
+      "avg_logprob": -0.127931351198795,
+      "no_speech_prob": 0.020809026435017586
+    },
+    {
+      "id": 53,
+      "start": 163.18,
+      "end": 165.7,
+      "text": "Hundreds of thousands more die from malaria.",
+      "avg_logprob": -0.127931351198795,
+      "no_speech_prob": 0.020809026435017586
+    },
+    {
+      "id": 54,
+      "start": 165.7,
+      "end": 169.86,
+      "text": "The malaria parasite continues to have a devastating impact.",
+      "avg_logprob": -0.127931351198795,
+      "no_speech_prob": 0.020809026435017586
+    },
+    {
+      "id": 55,
+      "start": 169.86,
+      "end": 174.98,
+      "text": "Trying bed nets with insecticides that kill mosquitoes would save lots of lives.",
+      "avg_logprob": -0.22635098926045677,
+      "no_speech_prob": 0.21379883587360382
+    },
+    {
+      "id": 56,
+      "start": 174.98,
+      "end": 180.78,
+      "text": "So would spending on vaccines for kids, and other relatively simple things.",
+      "avg_logprob": -0.22635098926045677,
+      "no_speech_prob": 0.21379883587360382
+    },
+    {
+      "id": 57,
+      "start": 180.78,
+      "end": 188.26,
+      "text": "These ideas seem common sense, and you want to help people, and yet people hate you.",
+      "avg_logprob": -0.22635098926045677,
+      "no_speech_prob": 0.21379883587360382
+    },
+    {
+      "id": 58,
+      "start": 188.26,
+      "end": 190.74,
+      "text": "Well, some people hate me.",
+      "avg_logprob": -0.22635098926045677,
+      "no_speech_prob": 0.21379883587360382
+    },
+    {
+      "id": 59,
+      "start": 190.74,
+      "end": 194.02,
+      "text": "One hater shoved a pie in his face when he was signing books.",
+      "avg_logprob": -0.22635098926045677,
+      "no_speech_prob": 0.21379883587360382
+    },
+    {
+      "id": 60,
+      "start": 194.02,
+      "end": 197.66,
+      "text": "That's the whole thing you say about the environment, which is completely bullshit.",
+      "avg_logprob": -0.22635098926045677,
+      "no_speech_prob": 0.21379883587360382
+    },
+    {
+      "id": 61,
+      "start": 197.66,
+      "end": 199.82,
+      "text": "You're lying about climate change.",
+      "avg_logprob": -0.22635098926045677,
+      "no_speech_prob": 0.21379883587360382
+    },
+    {
+      "id": 62,
+      "start": 199.82,
+      "end": 203.38,
+      "text": "He's later apologized, and now he's actually getting pied himself.",
+      "avg_logprob": -0.15193312990981922,
+      "no_speech_prob": 0.0056543294340372086
+    },
+    {
+      "id": 63,
+      "start": 203.38,
+      "end": 205.98,
+      "text": "But others still call Lumberg the devil.",
+      "avg_logprob": -0.15193312990981922,
+      "no_speech_prob": 0.0056543294340372086
+    },
+    {
+      "id": 64,
+      "start": 205.98,
+      "end": 207.46,
+      "text": "This guy needs to be taken down.",
+      "avg_logprob": -0.15193312990981922,
+      "no_speech_prob": 0.0056543294340372086
+    },
+    {
+      "id": 65,
+      "start": 207.46,
+      "end": 212.7,
+      "text": "He should be taken down for saying poor people have bigger problems than climate change?",
+      "avg_logprob": -0.15193312990981922,
+      "no_speech_prob": 0.0056543294340372086
+    },
+    {
+      "id": 66,
+      "start": 212.7,
+      "end": 214.9,
+      "text": "I get why people get upset.",
+      "avg_logprob": -0.15193312990981922,
+      "no_speech_prob": 0.0056543294340372086
+    },
+    {
+      "id": 67,
+      "start": 214.9,
+      "end": 217.02,
+      "text": "Climate change might kill poor people, too.",
+      "avg_logprob": -0.15193312990981922,
+      "no_speech_prob": 0.0056543294340372086
+    },
+    {
+      "id": 68,
+      "start": 217.02,
+      "end": 221.06,
+      "text": "It certainly will, and climate change is more damaging for poor people.",
+      "avg_logprob": -0.15193312990981922,
+      "no_speech_prob": 0.0056543294340372086
+    },
+    {
+      "id": 69,
+      "start": 221.06,
+      "end": 224.98,
+      "text": "But remember, everything is worse for poor people.",
+      "avg_logprob": -0.15193312990981922,
+      "no_speech_prob": 0.0056543294340372086
+    },
+    {
+      "id": 70,
+      "start": 224.98,
+      "end": 225.98,
+      "text": "Because they're poor.",
+      "avg_logprob": -0.15193312990981922,
+      "no_speech_prob": 0.0056543294340372086
+    },
+    {
+      "id": 71,
+      "start": 225.98,
+      "end": 230.62,
+      "text": "The activists still behave as if climate change is the world's biggest problem.",
+      "avg_logprob": -0.21537006807093526,
+      "no_speech_prob": 0.17922450602054596
+    },
+    {
+      "id": 72,
+      "start": 230.62,
+      "end": 232.82,
+      "text": "They block roads and stop freeways.",
+      "avg_logprob": -0.21537006807093526,
+      "no_speech_prob": 0.17922450602054596
+    },
+    {
+      "id": 73,
+      "start": 232.82,
+      "end": 233.82,
+      "text": "Government gives me no choice.",
+      "avg_logprob": -0.21537006807093526,
+      "no_speech_prob": 0.17922450602054596
+    },
+    {
+      "id": 74,
+      "start": 233.82,
+      "end": 236.02,
+      "text": "They've sprayed paint onto government buildings.",
+      "avg_logprob": -0.21537006807093526,
+      "no_speech_prob": 0.17922450602054596
+    },
+    {
+      "id": 75,
+      "start": 236.02,
+      "end": 239.5,
+      "text": "These two threw soup out of Van Gogh.",
+      "avg_logprob": -0.21537006807093526,
+      "no_speech_prob": 0.17922450602054596
+    },
+    {
+      "id": 76,
+      "start": 239.5,
+      "end": 246.02,
+      "text": "Are you more concerned about the protection of a painting, or the protection of our planet?",
+      "avg_logprob": -0.21537006807093526,
+      "no_speech_prob": 0.17922450602054596
+    },
+    {
+      "id": 77,
+      "start": 246.02,
+      "end": 248.1,
+      "text": "People really believe they have no future.",
+      "avg_logprob": -0.21537006807093526,
+      "no_speech_prob": 0.17922450602054596
+    },
+    {
+      "id": 78,
+      "start": 248.1,
+      "end": 250.74,
+      "text": "I'm here because I don't have a future.",
+      "avg_logprob": -0.21537006807093526,
+      "no_speech_prob": 0.17922450602054596
+    },
+    {
+      "id": 79,
+      "start": 250.74,
+      "end": 256.54,
+      "text": "Unmitigated scaremongering leads to ineffective political action because you're like, we got",
+      "avg_logprob": -0.1737698123830816,
+      "no_speech_prob": 0.8803457021713257
+    },
+    {
+      "id": 80,
+      "start": 256.54,
+      "end": 257.78,
+      "text": "to do something right now.",
+      "avg_logprob": -0.1737698123830816,
+      "no_speech_prob": 0.8803457021713257
+    },
+    {
+      "id": 81,
+      "start": 257.78,
+      "end": 259.18,
+      "text": "This is not some hypothetical.",
+      "avg_logprob": -0.1737698123830816,
+      "no_speech_prob": 0.8803457021713257
+    },
+    {
+      "id": 82,
+      "start": 259.18,
+      "end": 260.18,
+      "text": "It's happening now.",
+      "avg_logprob": -0.1737698123830816,
+      "no_speech_prob": 0.8803457021713257
+    },
+    {
+      "id": 83,
+      "start": 260.18,
+      "end": 262.78,
+      "text": "How many people have to die before you take this seriously?",
+      "avg_logprob": -0.1737698123830816,
+      "no_speech_prob": 0.8803457021713257
+    },
+    {
+      "id": 84,
+      "start": 262.78,
+      "end": 267.38,
+      "text": "We actually need to have a conversation about where do we spend money well compared",
+      "avg_logprob": -0.1737698123830816,
+      "no_speech_prob": 0.8803457021713257
+    },
+    {
+      "id": 85,
+      "start": 267.38,
+      "end": 270.34,
+      "text": "to where do we just spend money and feel virtuous about ourselves.",
+      "avg_logprob": -0.1737698123830816,
+      "no_speech_prob": 0.8803457021713257
+    }
+  ],
+  "transcript_full": "If you could spend 30 billion dollars trying to solve the world's problems, how would you spend it? Real estate. You would build houses for people? Yes, I'm an architect. People have very different ideas about how to help the world. Healthcare and water access. Definitely work towards eradicating homelessness. Climate change. Climate change was the most common answer. Climate affects the climate. Tackling climate change. That's what people think is the most important stuff. It's not surprising if you live in the rich world. Bjorn Lomburg studies solutions for the world's biggest problems. He's not surprised that rich people worry about climate change. We're constantly told climate change is impacting everything from a conception to pregnancy and your children. Trees will die and fall down. Countries will be underwater. Okay, half-louid people are right to worry that climate change might cause big problems someday. But. If you live in most other places in the planet, you're worried about the fact that your kids might die from easily curable diseases tonight. Lomburg spent years consulting with all sorts of experts to try to find the smartest solutions to the world's biggest problems. The point is not that climate change is not also an issue, but we also just need to have a sense of proportion and ask ourselves, where can we spend dollars and actually do a lot of good versus where can we spend dollars and just do a little good? Twenty years ago, the UN came out with development goals that did help. Yes. They basically said, let's get people out of poverty, out of hunger, let's get kids into school, let's stop moms, and let's stop kids from dying. That and global capitalism lifted millions out of poverty. But now the UN pushes so-called sustainable development goals. They promise everything. We're going to get rid of poverty, hunger, disease. We're going to fix war, corruption, climate change. But fighting climate change alone will cost trillions and might do little. If we spend way too much money ineffectively on climate, not only are we not fixing climate, but we're also wasting an enormous amount of money that could have been spent on all these other things. We should spend on the best things first, says Lomburg. $35 billion could save 4.2 million lives in the poor part of the world each and every year. Treating tuberculosis, for example. An estimated 1.8 billion people globally are infected with TB. People in America don't even talk about that. Nobody in rich world countries die from tuberculosis. But in poor countries, they still do. If you spend about $5.5 billion, you could save most of those people. Hundreds of thousands more die from malaria. The malaria parasite continues to have a devastating impact. Trying bed nets with insecticides that kill mosquitoes would save lots of lives. So would spending on vaccines for kids, and other relatively simple things. These ideas seem common sense, and you want to help people, and yet people hate you. Well, some people hate me. One hater shoved a pie in his face when he was signing books. That's the whole thing you say about the environment, which is completely bullshit. You're lying about climate change. He's later apologized, and now he's actually getting pied himself. But others still call Lumberg the devil. This guy needs to be taken down. He should be taken down for saying poor people have bigger problems than climate change? I get why people get upset. Climate change might kill poor people, too. It certainly will, and climate change is more damaging for poor people. But remember, everything is worse for poor people. Because they're poor. The activists still behave as if climate change is the world's biggest problem. They block roads and stop freeways. Government gives me no choice. They've sprayed paint onto government buildings. These two threw soup out of Van Gogh. Are you more concerned about the protection of a painting, or the protection of our planet? People really believe they have no future. I'm here because I don't have a future. Unmitigated scaremongering leads to ineffective political action because you're like, we got to do something right now. This is not some hypothetical. It's happening now. How many people have to die before you take this seriously? We actually need to have a conversation about where do we spend money well compared to where do we just spend money and feel virtuous about ourselves.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
