@@ -1,0 +1,164 @@
+{
+  "language": "en",
+  "language_probability": 0.9998776912689209,
+  "duration": 42.353,
+  "duration_after_vad": 42.04,
+  "segment_count": 19,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.88,
+      "text": "climate change leads to stronger hurricanes.",
+      "avg_logprob": -0.09619125338284286,
+      "no_speech_prob": 0.008669878356158733
+    },
+    {
+      "id": 2,
+      "start": 2.88,
+      "end": 5.16,
+      "text": "It's not just one thing that does it,",
+      "avg_logprob": -0.09619125338284286,
+      "no_speech_prob": 0.008669878356158733
+    },
+    {
+      "id": 3,
+      "start": 5.16,
+      "end": 8.08,
+      "text": "but if you have warmer water in the Gulf,",
+      "avg_logprob": -0.09619125338284286,
+      "no_speech_prob": 0.008669878356158733
+    },
+    {
+      "id": 4,
+      "start": 8.08,
+      "end": 9.6,
+      "text": "you get more evaporation.",
+      "avg_logprob": -0.09619125338284286,
+      "no_speech_prob": 0.008669878356158733
+    },
+    {
+      "id": 5,
+      "start": 9.6,
+      "end": 11.88,
+      "text": "So remember that when water evaporates,",
+      "avg_logprob": -0.09619125338284286,
+      "no_speech_prob": 0.008669878356158733
+    },
+    {
+      "id": 6,
+      "start": 11.88,
+      "end": 14.6,
+      "text": "it goes from a liquid phase to a gas phase.",
+      "avg_logprob": -0.09619125338284286,
+      "no_speech_prob": 0.008669878356158733
+    },
+    {
+      "id": 7,
+      "start": 14.6,
+      "end": 16.24,
+      "text": "So this is room temperature water,",
+      "avg_logprob": -0.09619125338284286,
+      "no_speech_prob": 0.008669878356158733
+    },
+    {
+      "id": 8,
+      "start": 16.24,
+      "end": 18.16,
+      "text": "and I put a cover over it so you can see",
+      "avg_logprob": -0.09619125338284286,
+      "no_speech_prob": 0.008669878356158733
+    },
+    {
+      "id": 9,
+      "start": 18.16,
+      "end": 20.44,
+      "text": "that there's not really that much evaporation.",
+      "avg_logprob": -0.09619125338284286,
+      "no_speech_prob": 0.008669878356158733
+    },
+    {
+      "id": 10,
+      "start": 20.44,
+      "end": 22.84,
+      "text": "Now this is just slightly warmer water.",
+      "avg_logprob": -0.09619125338284286,
+      "no_speech_prob": 0.008669878356158733
+    },
+    {
+      "id": 11,
+      "start": 22.84,
+      "end": 24.0,
+      "text": "You can see I'm holding it,",
+      "avg_logprob": -0.09619125338284286,
+      "no_speech_prob": 0.008669878356158733
+    },
+    {
+      "id": 12,
+      "start": 24.0,
+      "end": 26.38,
+      "text": "and look at all the condensation on the top.",
+      "avg_logprob": -0.09619125338284286,
+      "no_speech_prob": 0.008669878356158733
+    },
+    {
+      "id": 13,
+      "start": 26.38,
+      "end": 27.68,
+      "text": "So with the warmer water,",
+      "avg_logprob": -0.09619125338284286,
+      "no_speech_prob": 0.008669878356158733
+    },
+    {
+      "id": 14,
+      "start": 27.68,
+      "end": 30.2,
+      "text": "each molecule of water has more energy",
+      "avg_logprob": -0.14572059033346957,
+      "no_speech_prob": 0.00027190992841497064
+    },
+    {
+      "id": 15,
+      "start": 30.2,
+      "end": 33.88,
+      "text": "and a greater chance to break free from the water phase",
+      "avg_logprob": -0.14572059033346957,
+      "no_speech_prob": 0.00027190992841497064
+    },
+    {
+      "id": 16,
+      "start": 33.88,
+      "end": 35.4,
+      "text": "and into the gas phase.",
+      "avg_logprob": -0.14572059033346957,
+      "no_speech_prob": 0.00027190992841497064
+    },
+    {
+      "id": 17,
+      "start": 35.4,
+      "end": 37.16,
+      "text": "And so you get more evaporation,",
+      "avg_logprob": -0.14572059033346957,
+      "no_speech_prob": 0.00027190992841497064
+    },
+    {
+      "id": 18,
+      "start": 37.16,
+      "end": 40.12,
+      "text": "and that's what helps give more moisture",
+      "avg_logprob": -0.14572059033346957,
+      "no_speech_prob": 0.00027190992841497064
+    },
+    {
+      "id": 19,
+      "start": 40.12,
+      "end": 42.04,
+      "text": "to hurricanes and make them worse.",
+      "avg_logprob": -0.14572059033346957,
+      "no_speech_prob": 0.00027190992841497064
+    }
+  ],
+  "transcript_full": "climate change leads to stronger hurricanes. It's not just one thing that does it, but if you have warmer water in the Gulf, you get more evaporation. So remember that when water evaporates, it goes from a liquid phase to a gas phase. So this is room temperature water, and I put a cover over it so you can see that there's not really that much evaporation. Now this is just slightly warmer water. You can see I'm holding it, and look at all the condensation on the top. So with the warmer water, each molecule of water has more energy and a greater chance to break free from the water phase and into the gas phase. And so you get more evaporation, and that's what helps give more moisture to hurricanes and make them worse.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
