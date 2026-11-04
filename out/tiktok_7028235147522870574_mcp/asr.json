@@ -1,0 +1,52 @@
+{
+  "language": "en",
+  "language_probability": 0.9859024286270142,
+  "duration": 16.316,
+  "duration_after_vad": 17.4,
+  "segment_count": 5,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.32,
+      "text": "I want you to stay angry.",
+      "avg_logprob": -0.23389509787746504,
+      "no_speech_prob": 0.03593060001730919
+    },
+    {
+      "id": 2,
+      "start": 3.32,
+      "end": 5.6,
+      "text": "I want you to stay frustrated.",
+      "avg_logprob": -0.23389509787746504,
+      "no_speech_prob": 0.03593060001730919
+    },
+    {
+      "id": 3,
+      "start": 5.6,
+      "end": 8.28,
+      "text": "Harness that frustration.",
+      "avg_logprob": -0.23389509787746504,
+      "no_speech_prob": 0.03593060001730919
+    },
+    {
+      "id": 4,
+      "start": 8.28,
+      "end": 13.6,
+      "text": "Keep pushing harder and harder for more and more,",
+      "avg_logprob": -0.23389509787746504,
+      "no_speech_prob": 0.03593060001730919
+    },
+    {
+      "id": 5,
+      "start": 13.6,
+      "end": 17.4,
+      "text": "because that's what's required to meet this challenge.",
+      "avg_logprob": -0.23389509787746504,
+      "no_speech_prob": 0.03593060001730919
+    }
+  ],
+  "transcript_full": "I want you to stay angry. I want you to stay frustrated. Harness that frustration. Keep pushing harder and harder for more and more, because that's what's required to meet this challenge.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
