@@ -1,0 +1,292 @@
+{
+  "language": "en",
+  "language_probability": 0.9997486472129822,
+  "duration": 60.0,
+  "duration_after_vad": 60.24,
+  "segment_count": 35,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.56,
+      "text": "Real trees are fake trees,",
+      "avg_logprob": -0.10666151964886589,
+      "no_speech_prob": 0.005459131207317114
+    },
+    {
+      "id": 2,
+      "start": 1.56,
+      "end": 2.84,
+      "text": "which is better for the environment.",
+      "avg_logprob": -0.10666151964886589,
+      "no_speech_prob": 0.005459131207317114
+    },
+    {
+      "id": 3,
+      "start": 2.84,
+      "end": 4.36,
+      "text": "Most real trees are grown on farms",
+      "avg_logprob": -0.10666151964886589,
+      "no_speech_prob": 0.005459131207317114
+    },
+    {
+      "id": 4,
+      "start": 4.36,
+      "end": 6.52,
+      "text": "for the sole purpose of being cut down,",
+      "avg_logprob": -0.10666151964886589,
+      "no_speech_prob": 0.005459131207317114
+    },
+    {
+      "id": 5,
+      "start": 6.52,
+      "end": 9.56,
+      "text": "but while they are growing, they are absorbing CO2,",
+      "avg_logprob": -0.10666151964886589,
+      "no_speech_prob": 0.005459131207317114
+    },
+    {
+      "id": 6,
+      "start": 9.56,
+      "end": 11.64,
+      "text": "releasing oxygen into the atmosphere",
+      "avg_logprob": -0.10666151964886589,
+      "no_speech_prob": 0.005459131207317114
+    },
+    {
+      "id": 7,
+      "start": 11.64,
+      "end": 13.8,
+      "text": "and providing habitat for local wildlife.",
+      "avg_logprob": -0.10666151964886589,
+      "no_speech_prob": 0.005459131207317114
+    },
+    {
+      "id": 8,
+      "start": 13.8,
+      "end": 16.16,
+      "text": "So at least all of the energy and resources",
+      "avg_logprob": -0.10666151964886589,
+      "no_speech_prob": 0.005459131207317114
+    },
+    {
+      "id": 9,
+      "start": 16.16,
+      "end": 17.44,
+      "text": "that go into growing these trees",
+      "avg_logprob": -0.10666151964886589,
+      "no_speech_prob": 0.005459131207317114
+    },
+    {
+      "id": 10,
+      "start": 17.44,
+      "end": 18.8,
+      "text": "aren't going to complete waste.",
+      "avg_logprob": -0.10666151964886589,
+      "no_speech_prob": 0.005459131207317114
+    },
+    {
+      "id": 11,
+      "start": 18.8,
+      "end": 20.18,
+      "text": "There are also tons of ways",
+      "avg_logprob": -0.10666151964886589,
+      "no_speech_prob": 0.005459131207317114
+    },
+    {
+      "id": 12,
+      "start": 20.18,
+      "end": 22.6,
+      "text": "to properly dispose of your trees like composting,",
+      "avg_logprob": -0.10666151964886589,
+      "no_speech_prob": 0.005459131207317114
+    },
+    {
+      "id": 13,
+      "start": 22.6,
+      "end": 23.96,
+      "text": "and there are even services now",
+      "avg_logprob": -0.10666151964886589,
+      "no_speech_prob": 0.005459131207317114
+    },
+    {
+      "id": 14,
+      "start": 23.96,
+      "end": 25.36,
+      "text": "that will let you rent a tree",
+      "avg_logprob": -0.10666151964886589,
+      "no_speech_prob": 0.005459131207317114
+    },
+    {
+      "id": 15,
+      "start": 25.36,
+      "end": 26.52,
+      "text": "with the roots still attached.",
+      "avg_logprob": -0.10666151964886589,
+      "no_speech_prob": 0.005459131207317114
+    },
+    {
+      "id": 16,
+      "start": 26.52,
+      "end": 27.84,
+      "text": "So once you're done with it,",
+      "avg_logprob": -0.10666151964886589,
+      "no_speech_prob": 0.005459131207317114
+    },
+    {
+      "id": 17,
+      "start": 27.84,
+      "end": 29.0,
+      "text": "they take it back and plant it",
+      "avg_logprob": -0.10666151964886589,
+      "no_speech_prob": 0.005459131207317114
+    },
+    {
+      "id": 18,
+      "start": 29.0,
+      "end": 30.4,
+      "text": "right back into the ground again.",
+      "avg_logprob": -0.08269607751484377,
+      "no_speech_prob": 0.01416312251240015
+    },
+    {
+      "id": 19,
+      "start": 30.4,
+      "end": 31.72,
+      "text": "Artificial trees on the other hand",
+      "avg_logprob": -0.08269607751484377,
+      "no_speech_prob": 0.01416312251240015
+    },
+    {
+      "id": 20,
+      "start": 31.72,
+      "end": 33.64,
+      "text": "are made from PVC plastics,",
+      "avg_logprob": -0.08269607751484377,
+      "no_speech_prob": 0.01416312251240015
+    },
+    {
+      "id": 21,
+      "start": 33.64,
+      "end": 36.04,
+      "text": "which are extremely harmful to the environment",
+      "avg_logprob": -0.08269607751484377,
+      "no_speech_prob": 0.01416312251240015
+    },
+    {
+      "id": 22,
+      "start": 36.04,
+      "end": 38.08,
+      "text": "and very, very difficult to recycle.",
+      "avg_logprob": -0.08269607751484377,
+      "no_speech_prob": 0.01416312251240015
+    },
+    {
+      "id": 23,
+      "start": 38.08,
+      "end": 40.24,
+      "text": "In fact, one study found that you would have to use",
+      "avg_logprob": -0.08269607751484377,
+      "no_speech_prob": 0.01416312251240015
+    },
+    {
+      "id": 24,
+      "start": 40.24,
+      "end": 42.6,
+      "text": "your artificial tree for 20 years",
+      "avg_logprob": -0.08269607751484377,
+      "no_speech_prob": 0.01416312251240015
+    },
+    {
+      "id": 25,
+      "start": 42.6,
+      "end": 44.68,
+      "text": "in order to offset the greenhouse gas emissions",
+      "avg_logprob": -0.08269607751484377,
+      "no_speech_prob": 0.01416312251240015
+    },
+    {
+      "id": 26,
+      "start": 44.68,
+      "end": 45.52,
+      "text": "from its production.",
+      "avg_logprob": -0.08269607751484377,
+      "no_speech_prob": 0.01416312251240015
+    },
+    {
+      "id": 27,
+      "start": 45.52,
+      "end": 47.36,
+      "text": "But obviously, most people only keep theirs",
+      "avg_logprob": -0.08269607751484377,
+      "no_speech_prob": 0.01416312251240015
+    },
+    {
+      "id": 28,
+      "start": 47.36,
+      "end": 49.08,
+      "text": "for a few years before tossing it out",
+      "avg_logprob": -0.08269607751484377,
+      "no_speech_prob": 0.01416312251240015
+    },
+    {
+      "id": 29,
+      "start": 49.08,
+      "end": 49.92,
+      "text": "and getting a new one.",
+      "avg_logprob": -0.08269607751484377,
+      "no_speech_prob": 0.01416312251240015
+    },
+    {
+      "id": 30,
+      "start": 49.92,
+      "end": 51.6,
+      "text": "So if you already have an artificial tree",
+      "avg_logprob": -0.08269607751484377,
+      "no_speech_prob": 0.01416312251240015
+    },
+    {
+      "id": 31,
+      "start": 51.6,
+      "end": 52.92,
+      "text": "that you've been using for years,",
+      "avg_logprob": -0.08269607751484377,
+      "no_speech_prob": 0.01416312251240015
+    },
+    {
+      "id": 32,
+      "start": 52.92,
+      "end": 54.64,
+      "text": "go on and keep using that.",
+      "avg_logprob": -0.08269607751484377,
+      "no_speech_prob": 0.01416312251240015
+    },
+    {
+      "id": 33,
+      "start": 54.64,
+      "end": 56.08,
+      "text": "But if you don't have anything at all",
+      "avg_logprob": -0.08269607751484377,
+      "no_speech_prob": 0.01416312251240015
+    },
+    {
+      "id": 34,
+      "start": 56.08,
+      "end": 57.88,
+      "text": "and are looking for the best place to start,",
+      "avg_logprob": -0.08269607751484377,
+      "no_speech_prob": 0.01416312251240015
+    },
+    {
+      "id": 35,
+      "start": 57.88,
+      "end": 60.24,
+      "text": "going with real trees is probably your best bet.",
+      "avg_logprob": -0.32154412452991193,
+      "no_speech_prob": 0.0497872419655323
+    }
+  ],
+  "transcript_full": "Real trees are fake trees, which is better for the environment. Most real trees are grown on farms for the sole purpose of being cut down, but while they are growing, they are absorbing CO2, releasing oxygen into the atmosphere and providing habitat for local wildlife. So at least all of the energy and resources that go into growing these trees aren't going to complete waste. There are also tons of ways to properly dispose of your trees like composting, and there are even services now that will let you rent a tree with the roots still attached. So once you're done with it, they take it back and plant it right back into the ground again. Artificial trees on the other hand are made from PVC plastics, which are extremely harmful to the environment and very, very difficult to recycle. In fact, one study found that you would have to use your artificial tree for 20 years in order to offset the greenhouse gas emissions from its production. But obviously, most people only keep theirs for a few years before tossing it out and getting a new one. So if you already have an artificial tree that you've been using for years, go on and keep using that. But if you don't have anything at all and are looking for the best place to start, going with real trees is probably your best bet.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
