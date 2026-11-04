@@ -1,0 +1,300 @@
+{
+  "language": "en",
+  "language_probability": 0.9968811273574829,
+  "duration": 181.167,
+  "duration_after_vad": 166.76,
+  "segment_count": 36,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.11,
+      "end": 4.19,
+      "text": "We're in big trouble. I debated on making this video. I've been",
+      "avg_logprob": -0.1855590653662779,
+      "no_speech_prob": 0.06668192893266678
+    },
+    {
+      "id": 2,
+      "start": 5.11,
+      "end": 7.27,
+      "text": "having a panic attack for the last hour",
+      "avg_logprob": -0.1855590653662779,
+      "no_speech_prob": 0.06668192893266678
+    },
+    {
+      "id": 3,
+      "start": 8.59,
+      "end": 10.67,
+      "text": "It's not good, but you know what?",
+      "avg_logprob": -0.1855590653662779,
+      "no_speech_prob": 0.06668192893266678
+    },
+    {
+      "id": 4,
+      "start": 10.67,
+      "end": 16.07,
+      "text": "I got my start here on TikTok as a prepper and I want to inform you guys of what I know",
+      "avg_logprob": -0.1855590653662779,
+      "no_speech_prob": 0.06668192893266678
+    },
+    {
+      "id": 5,
+      "start": 16.07,
+      "end": 18.07,
+      "text": "I want you guys to look at this chart",
+      "avg_logprob": -0.1855590653662779,
+      "no_speech_prob": 0.06668192893266678
+    },
+    {
+      "id": 6,
+      "start": 18.23,
+      "end": 24.43,
+      "text": "This is the sea surface temperature in the North Atlantic and these are the average temperatures between 1991 and",
+      "avg_logprob": -0.1855590653662779,
+      "no_speech_prob": 0.06668192893266678
+    },
+    {
+      "id": 7,
+      "start": 24.91,
+      "end": 27.19,
+      "text": "2020 what you're seeing here is",
+      "avg_logprob": -0.2305416506715119,
+      "no_speech_prob": 0.08121824264526367
+    },
+    {
+      "id": 8,
+      "start": 28.43,
+      "end": 31.07,
+      "text": "Exponential increase in ocean temperatures",
+      "avg_logprob": -0.2305416506715119,
+      "no_speech_prob": 0.08121824264526367
+    },
+    {
+      "id": 9,
+      "start": 31.51,
+      "end": 36.47,
+      "text": "So much so that the man who made this chart Ellie Jacobson right here",
+      "avg_logprob": -0.2305416506715119,
+      "no_speech_prob": 0.08121824264526367
+    },
+    {
+      "id": 10,
+      "start": 36.87,
+      "end": 44.11,
+      "text": "He has for the last week had to increase the line here on this graph because it is literally off the charts",
+      "avg_logprob": -0.2305416506715119,
+      "no_speech_prob": 0.08121824264526367
+    },
+    {
+      "id": 11,
+      "start": 44.23,
+      "end": 49.47,
+      "text": "See here. He is four days ago talking about having to increase it and he just had to increase it again today",
+      "avg_logprob": -0.2305416506715119,
+      "no_speech_prob": 0.08121824264526367
+    },
+    {
+      "id": 12,
+      "start": 49.83,
+      "end": 51.99,
+      "text": "Here's another example from four days ago",
+      "avg_logprob": -0.2305416506715119,
+      "no_speech_prob": 0.08121824264526367
+    },
+    {
+      "id": 13,
+      "start": 51.99,
+      "end": 56.63,
+      "text": "So please remember that this is higher today if you are still with me here",
+      "avg_logprob": -0.16983726746157596,
+      "no_speech_prob": 0.001328039332292974
+    },
+    {
+      "id": 14,
+      "start": 56.63,
+      "end": 62.39,
+      "text": "Let me explain the Atlantic posted today climate collapse could happen fast because right now",
+      "avg_logprob": -0.16983726746157596,
+      "no_speech_prob": 0.001328039332292974
+    },
+    {
+      "id": 15,
+      "start": 62.39,
+      "end": 68.39,
+      "text": "We are experiencing the hottest temperatures ever recorded. This is why that chart is so",
+      "avg_logprob": -0.16983726746157596,
+      "no_speech_prob": 0.001328039332292974
+    },
+    {
+      "id": 16,
+      "start": 68.99,
+      "end": 71.67,
+      "text": "Devastating I'm going to explain this with a visual aid",
+      "avg_logprob": -0.16983726746157596,
+      "no_speech_prob": 0.001328039332292974
+    },
+    {
+      "id": 17,
+      "start": 72.19,
+      "end": 79.07,
+      "text": "Heat is energy and our ocean works as a sponge to absorb that heat and so even through the years as we've been",
+      "avg_logprob": -0.16983726746157596,
+      "no_speech_prob": 0.001328039332292974
+    },
+    {
+      "id": 18,
+      "start": 79.07,
+      "end": 85.87,
+      "text": "Adding massive heat to our oceans. We have not felt the effects of it because it has been absorbing it now",
+      "avg_logprob": -0.14439060830551645,
+      "no_speech_prob": 0.0011247533839195967
+    },
+    {
+      "id": 19,
+      "start": 85.87,
+      "end": 87.87,
+      "text": "Let's get our sponge soaking wet",
+      "avg_logprob": -0.14439060830551645,
+      "no_speech_prob": 0.0011247533839195967
+    },
+    {
+      "id": 20,
+      "start": 88.15,
+      "end": 92.39,
+      "text": "So now if it's absorbed all that it can hold what happens is",
+      "avg_logprob": -0.14439060830551645,
+      "no_speech_prob": 0.0011247533839195967
+    },
+    {
+      "id": 21,
+      "start": 92.87,
+      "end": 94.87,
+      "text": "It cannot hold anymore",
+      "avg_logprob": -0.14439060830551645,
+      "no_speech_prob": 0.0011247533839195967
+    },
+    {
+      "id": 22,
+      "start": 94.87,
+      "end": 99.35,
+      "text": "And so what happens is we see an exponential rise",
+      "avg_logprob": -0.14439060830551645,
+      "no_speech_prob": 0.0011247533839195967
+    },
+    {
+      "id": 23,
+      "start": 100.67,
+      "end": 106.75,
+      "text": "Jacobson who made the chart says that what makes the graph remarkable is the magnitude of the jump from anything",
+      "avg_logprob": -0.14439060830551645,
+      "no_speech_prob": 0.0011247533839195967
+    },
+    {
+      "id": 24,
+      "start": 106.75,
+      "end": 115.55,
+      "text": "That's happened before it just flies off the page and climate scientists are having trouble predicting what comes next because they weren't expecting something like this for many years",
+      "avg_logprob": -0.1953401690665281,
+      "no_speech_prob": 0.008000766858458519
+    },
+    {
+      "id": 25,
+      "start": 116.59,
+      "end": 118.59,
+      "text": "Immediate threats mean hurricanes",
+      "avg_logprob": -0.1953401690665281,
+      "no_speech_prob": 0.008000766858458519
+    },
+    {
+      "id": 26,
+      "start": 119.23,
+      "end": 121.79,
+      "text": "Massive ones ones like we've never seen before",
+      "avg_logprob": -0.1953401690665281,
+      "no_speech_prob": 0.008000766858458519
+    },
+    {
+      "id": 27,
+      "start": 122.55,
+      "end": 128.91,
+      "text": "Especially in the east coast of the United States. We're in an El Nino year and normally we have wind shear that prevents",
+      "avg_logprob": -0.1953401690665281,
+      "no_speech_prob": 0.008000766858458519
+    },
+    {
+      "id": 28,
+      "start": 129.19,
+      "end": 135.67,
+      "text": "Hurricanes from hitting the coast, but the hotter the ocean is the more likely that wind shear no longer matters",
+      "avg_logprob": -0.1953401690665281,
+      "no_speech_prob": 0.008000766858458519
+    },
+    {
+      "id": 29,
+      "start": 135.67,
+      "end": 138.59,
+      "text": "And it's the hottest it's ever been in the long term",
+      "avg_logprob": -0.223945621443891,
+      "no_speech_prob": 0.0023242421448230743
+    },
+    {
+      "id": 30,
+      "start": 138.59,
+      "end": 147.75,
+      "text": "It's the death of ocean life an equally exponential rise in surface temperatures very soon a blue ocean event where there is no longer any ice in the Arctic at",
+      "avg_logprob": -0.223945621443891,
+      "no_speech_prob": 0.0023242421448230743
+    },
+    {
+      "id": 31,
+      "start": 147.75,
+      "end": 153.95,
+      "text": "All the collapse of the jet stream global bread basket failures global wet bulb unsurvivable",
+      "avg_logprob": -0.223945621443891,
+      "no_speech_prob": 0.0023242421448230743
+    },
+    {
+      "id": 32,
+      "start": 154.71,
+      "end": 159.11,
+      "text": "Temperatures Jacobson says it's humanity's equivalent of hospice care an",
+      "avg_logprob": -0.223945621443891,
+      "no_speech_prob": 0.0023242421448230743
+    },
+    {
+      "id": 33,
+      "start": 159.31,
+      "end": 167.15,
+      "text": "Extessential threat to everything we know and we still have five to six weeks left until we hit the temperature peak of this season and",
+      "avg_logprob": -0.18831806405481086,
+      "no_speech_prob": 0.11924327909946442
+    },
+    {
+      "id": 34,
+      "start": 167.79,
+      "end": 169.35,
+      "text": "2024 is supposed to be hotter",
+      "avg_logprob": -0.18831806405481086,
+      "no_speech_prob": 0.11924327909946442
+    },
+    {
+      "id": 35,
+      "start": 169.35,
+      "end": 175.27,
+      "text": "This is the scene in the Titanic where they have hit the iceberg and if this video hasn't scared you enough do a little homework",
+      "avg_logprob": -0.18831806405481086,
+      "no_speech_prob": 0.11924327909946442
+    },
+    {
+      "id": 36,
+      "start": 175.55,
+      "end": 180.11,
+      "text": "Go see what the scientific community is saying and Google crops and look at the news",
+      "avg_logprob": -0.18831806405481086,
+      "no_speech_prob": 0.11924327909946442
+    }
+  ],
+  "transcript_full": "We're in big trouble. I debated on making this video. I've been having a panic attack for the last hour It's not good, but you know what? I got my start here on TikTok as a prepper and I want to inform you guys of what I know I want you guys to look at this chart This is the sea surface temperature in the North Atlantic and these are the average temperatures between 1991 and 2020 what you're seeing here is Exponential increase in ocean temperatures So much so that the man who made this chart Ellie Jacobson right here He has for the last week had to increase the line here on this graph because it is literally off the charts See here. He is four days ago talking about having to increase it and he just had to increase it again today Here's another example from four days ago So please remember that this is higher today if you are still with me here Let me explain the Atlantic posted today climate collapse could happen fast because right now We are experiencing the hottest temperatures ever recorded. This is why that chart is so Devastating I'm going to explain this with a visual aid Heat is energy and our ocean works as a sponge to absorb that heat and so even through the years as we've been Adding massive heat to our oceans. We have not felt the effects of it because it has been absorbing it now Let's get our sponge soaking wet So now if it's absorbed all that it can hold what happens is It cannot hold anymore And so what happens is we see an exponential rise Jacobson who made the chart says that what makes the graph remarkable is the magnitude of the jump from anything That's happened before it just flies off the page and climate scientists are having trouble predicting what comes next because they weren't expecting something like this for many years Immediate threats mean hurricanes Massive ones ones like we've never seen before Especially in the east coast of the United States. We're in an El Nino year and normally we have wind shear that prevents Hurricanes from hitting the coast, but the hotter the ocean is the more likely that wind shear no longer matters And it's the hottest it's ever been in the long term It's the death of ocean life an equally exponential rise in surface temperatures very soon a blue ocean event where there is no longer any ice in the Arctic at All the collapse of the jet stream global bread basket failures global wet bulb unsurvivable Temperatures Jacobson says it's humanity's equivalent of hospice care an Extessential threat to everything we know and we still have five to six weeks left until we hit the temperature peak of this season and 2024 is supposed to be hotter This is the scene in the Titanic where they have hit the iceberg and if this video hasn't scared you enough do a little homework Go see what the scientific community is saying and Google crops and look at the news",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
