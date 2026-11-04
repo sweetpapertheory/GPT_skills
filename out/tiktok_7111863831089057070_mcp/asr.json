@@ -1,0 +1,244 @@
+{
+  "language": "en",
+  "language_probability": 0.9998192191123962,
+  "duration": 88.4,
+  "duration_after_vad": 88.24,
+  "segment_count": 29,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.56,
+      "text": "In today's climate anxiety inducing water news, the largest river in Italy is experiencing",
+      "avg_logprob": -0.12183965460369081,
+      "no_speech_prob": 0.0006324176792986691
+    },
+    {
+      "id": 2,
+      "start": 4.56,
+      "end": 7.64,
+      "text": "the worst drought it's seen in at least 70 years.",
+      "avg_logprob": -0.12183965460369081,
+      "no_speech_prob": 0.0006324176792986691
+    },
+    {
+      "id": 3,
+      "start": 7.64,
+      "end": 9.92,
+      "text": "Like the river is literally drying up.",
+      "avg_logprob": -0.12183965460369081,
+      "no_speech_prob": 0.0006324176792986691
+    },
+    {
+      "id": 4,
+      "start": 9.92,
+      "end": 13.84,
+      "text": "It's so low that a sunken World War II vessel has resurfaced.",
+      "avg_logprob": -0.12183965460369081,
+      "no_speech_prob": 0.0006324176792986691
+    },
+    {
+      "id": 5,
+      "start": 13.84,
+      "end": 17.8,
+      "text": "The Po River runs all the way from the Alps to the Adriatic Sea, and the Po River Valley",
+      "avg_logprob": -0.12183965460369081,
+      "no_speech_prob": 0.0006324176792986691
+    },
+    {
+      "id": 6,
+      "start": 17.8,
+      "end": 22.0,
+      "text": "is responsible for 30% of the national agricultural production in Italy.",
+      "avg_logprob": -0.12183965460369081,
+      "no_speech_prob": 0.0006324176792986691
+    },
+    {
+      "id": 7,
+      "start": 22.0,
+      "end": 26.6,
+      "text": "And unlike the United States where agriculture only accounts for like 1% of our GDP,",
+      "avg_logprob": -0.12183965460369081,
+      "no_speech_prob": 0.0006324176792986691
+    },
+    {
+      "id": 8,
+      "start": 26.6,
+      "end": 28.84,
+      "text": "agriculture is 40% of Italy's GDP.",
+      "avg_logprob": -0.12183965460369081,
+      "no_speech_prob": 0.0006324176792986691
+    },
+    {
+      "id": 9,
+      "start": 28.84,
+      "end": 33.2,
+      "text": "But because the river is so low, seawater is starting to get sucked into it and it's flowing",
+      "avg_logprob": -0.14245511044701226,
+      "no_speech_prob": 0.0007680585258640349
+    },
+    {
+      "id": 10,
+      "start": 33.2,
+      "end": 34.6,
+      "text": "back upstream.",
+      "avg_logprob": -0.14245511044701226,
+      "no_speech_prob": 0.0007680585258640349
+    },
+    {
+      "id": 11,
+      "start": 34.6,
+      "end": 38.72,
+      "text": "This seawater is then seeping into the ground and poisoning the farmers' crops.",
+      "avg_logprob": -0.14245511044701226,
+      "no_speech_prob": 0.0007680585258640349
+    },
+    {
+      "id": 12,
+      "start": 38.72,
+      "end": 42.92,
+      "text": "And the causes for this drought are very parallel to the causes for the Colorado River drought.",
+      "avg_logprob": -0.14245511044701226,
+      "no_speech_prob": 0.0007680585258640349
+    },
+    {
+      "id": 13,
+      "start": 42.92,
+      "end": 46.64,
+      "text": "Of course the river is fully appropriated, but the real cause of this specific drought",
+      "avg_logprob": -0.14245511044701226,
+      "no_speech_prob": 0.0007680585258640349
+    },
+    {
+      "id": 14,
+      "start": 46.64,
+      "end": 49.4,
+      "text": "have been higher temperatures and lower snowpack.",
+      "avg_logprob": -0.14245511044701226,
+      "no_speech_prob": 0.0007680585258640349
+    },
+    {
+      "id": 15,
+      "start": 49.4,
+      "end": 51.6,
+      "text": "And they basically just haven't had a rainy season.",
+      "avg_logprob": -0.14245511044701226,
+      "no_speech_prob": 0.0007680585258640349
+    },
+    {
+      "id": 16,
+      "start": 51.6,
+      "end": 55.72,
+      "text": "They've gone 110 days without getting any rain, when it should be raining every",
+      "avg_logprob": -0.14245511044701226,
+      "no_speech_prob": 0.0007680585258640349
+    },
+    {
+      "id": 17,
+      "start": 55.72,
+      "end": 57.2,
+      "text": "one or two weeks.",
+      "avg_logprob": -0.14245511044701226,
+      "no_speech_prob": 0.0007680585258640349
+    },
+    {
+      "id": 18,
+      "start": 57.2,
+      "end": 61.08,
+      "text": "One guy who lives in the Alps said that the conditions are like it's the end of July.",
+      "avg_logprob": -0.13501314078371948,
+      "no_speech_prob": 0.06093453988432884
+    },
+    {
+      "id": 19,
+      "start": 61.08,
+      "end": 62.32,
+      "text": "Not the middle of June.",
+      "avg_logprob": -0.13501314078371948,
+      "no_speech_prob": 0.06093453988432884
+    },
+    {
+      "id": 20,
+      "start": 62.32,
+      "end": 65.12,
+      "text": "Which is really crazy to me because I've been saying the same thing about my home",
+      "avg_logprob": -0.13501314078371948,
+      "no_speech_prob": 0.06093453988432884
+    },
+    {
+      "id": 21,
+      "start": 65.12,
+      "end": 67.0,
+      "text": "mountain range, the San Juan's.",
+      "avg_logprob": -0.13501314078371948,
+      "no_speech_prob": 0.06093453988432884
+    },
+    {
+      "id": 22,
+      "start": 67.0,
+      "end": 70.0,
+      "text": "Back in May we only had 2% of our normal snowpack.",
+      "avg_logprob": -0.13501314078371948,
+      "no_speech_prob": 0.06093453988432884
+    },
+    {
+      "id": 23,
+      "start": 70.0,
+      "end": 74.0,
+      "text": "And just like on the Colorado River, experts have directly linked this drought to climate",
+      "avg_logprob": -0.13501314078371948,
+      "no_speech_prob": 0.06093453988432884
+    },
+    {
+      "id": 24,
+      "start": 74.0,
+      "end": 75.12,
+      "text": "change.",
+      "avg_logprob": -0.13501314078371948,
+      "no_speech_prob": 0.06093453988432884
+    },
+    {
+      "id": 25,
+      "start": 75.12,
+      "end": 78.56,
+      "text": "And before the loser climate change deniers start up in my comments, I would like",
+      "avg_logprob": -0.13501314078371948,
+      "no_speech_prob": 0.06093453988432884
+    },
+    {
+      "id": 26,
+      "start": 78.56,
+      "end": 81.72,
+      "text": "to remind you that it was the president of the Italian Meteorological Society",
+      "avg_logprob": -0.13501314078371948,
+      "no_speech_prob": 0.06093453988432884
+    },
+    {
+      "id": 27,
+      "start": 81.72,
+      "end": 83.12,
+      "text": "who pointed out this link.",
+      "avg_logprob": -0.13501314078371948,
+      "no_speech_prob": 0.06093453988432884
+    },
+    {
+      "id": 28,
+      "start": 83.12,
+      "end": 86.36,
+      "text": "And if you think you know more than that guy about Italy's weather and climate,",
+      "avg_logprob": -0.13501314078371948,
+      "no_speech_prob": 0.06093453988432884
+    },
+    {
+      "id": 29,
+      "start": 86.36,
+      "end": 88.24,
+      "text": "then I would really love to see your PhD.",
+      "avg_logprob": -0.3868845792917105,
+      "no_speech_prob": 0.8217706084251404
+    }
+  ],
+  "transcript_full": "In today's climate anxiety inducing water news, the largest river in Italy is experiencing the worst drought it's seen in at least 70 years. Like the river is literally drying up. It's so low that a sunken World War II vessel has resurfaced. The Po River runs all the way from the Alps to the Adriatic Sea, and the Po River Valley is responsible for 30% of the national agricultural production in Italy. And unlike the United States where agriculture only accounts for like 1% of our GDP, agriculture is 40% of Italy's GDP. But because the river is so low, seawater is starting to get sucked into it and it's flowing back upstream. This seawater is then seeping into the ground and poisoning the farmers' crops. And the causes for this drought are very parallel to the causes for the Colorado River drought. Of course the river is fully appropriated, but the real cause of this specific drought have been higher temperatures and lower snowpack. And they basically just haven't had a rainy season. They've gone 110 days without getting any rain, when it should be raining every one or two weeks. One guy who lives in the Alps said that the conditions are like it's the end of July. Not the middle of June. Which is really crazy to me because I've been saying the same thing about my home mountain range, the San Juan's. Back in May we only had 2% of our normal snowpack. And just like on the Colorado River, experts have directly linked this drought to climate change. And before the loser climate change deniers start up in my comments, I would like to remind you that it was the president of the Italian Meteorological Society who pointed out this link. And if you think you know more than that guy about Italy's weather and climate, then I would really love to see your PhD.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
