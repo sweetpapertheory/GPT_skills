@@ -1,0 +1,164 @@
+{
+  "language": "en",
+  "language_probability": 1,
+  "duration": 110.016,
+  "duration_after_vad": 110.64,
+  "segment_count": 19,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.44,
+      "text": "sure that that one minute you've gotten something. Do Google stories and identify",
+      "avg_logprob": -0.27533104148092147,
+      "no_speech_prob": 0.5561745166778564
+    },
+    {
+      "id": 2,
+      "start": 6.44,
+      "end": 12.12,
+      "text": "your niche. What is your niche? Is it environment? Is it health? Which ever way",
+      "avg_logprob": -0.27533104148092147,
+      "no_speech_prob": 0.5561745166778564
+    },
+    {
+      "id": 3,
+      "start": 12.12,
+      "end": 20.88,
+      "text": "you want. Don't just say, me I just report generally, just make sure that",
+      "avg_logprob": -0.27533104148092147,
+      "no_speech_prob": 0.5561745166778564
+    },
+    {
+      "id": 4,
+      "start": 20.88,
+      "end": 25.88,
+      "text": "you decide which one is your niche and then when you've done that and then go",
+      "avg_logprob": -0.27533104148092147,
+      "no_speech_prob": 0.5561745166778564
+    },
+    {
+      "id": 5,
+      "start": 26.8,
+      "end": 32.32,
+      "text": "always Google and then also be part of this organization, media organizations.",
+      "avg_logprob": -0.2517146735706113,
+      "no_speech_prob": 0.07457159459590912
+    },
+    {
+      "id": 6,
+      "start": 32.32,
+      "end": 37.64,
+      "text": "Actually Media Council has given me so many grants, so yeah they have so many",
+      "avg_logprob": -0.2517146735706113,
+      "no_speech_prob": 0.07457159459590912
+    },
+    {
+      "id": 7,
+      "start": 37.64,
+      "end": 42.56,
+      "text": "grants that they give out not only for climate change but also health and then",
+      "avg_logprob": -0.2517146735706113,
+      "no_speech_prob": 0.07457159459590912
+    },
+    {
+      "id": 8,
+      "start": 42.56,
+      "end": 48.28,
+      "text": "also we have Africa China reporting program that gives a lot of grants and",
+      "avg_logprob": -0.2517146735706113,
+      "no_speech_prob": 0.07457159459590912
+    },
+    {
+      "id": 9,
+      "start": 48.28,
+      "end": 53.12,
+      "text": "then maybe for women we have African women in media that one has given me so many",
+      "avg_logprob": -0.2517146735706113,
+      "no_speech_prob": 0.07457159459590912
+    },
+    {
+      "id": 10,
+      "start": 53.12,
+      "end": 60.44,
+      "text": "grants and I had a chance even to travel to Morocco for a conference.",
+      "avg_logprob": -0.24264026555833937,
+      "no_speech_prob": 0.08537638932466507
+    },
+    {
+      "id": 11,
+      "start": 60.44,
+      "end": 65.96,
+      "text": "So just make internet your friend. Me I just go to Google and then when there's",
+      "avg_logprob": -0.24264026555833937,
+      "no_speech_prob": 0.08537638932466507
+    },
+    {
+      "id": 12,
+      "start": 65.96,
+      "end": 73.04,
+      "text": "an opportunity I do what I apply. Try your luck, do a nice speech and then luckily",
+      "avg_logprob": -0.24264026555833937,
+      "no_speech_prob": 0.08537638932466507
+    },
+    {
+      "id": 13,
+      "start": 73.04,
+      "end": 78.6,
+      "text": "you might be picked or something can come out of it but don't sit there and",
+      "avg_logprob": -0.24264026555833937,
+      "no_speech_prob": 0.08537638932466507
+    },
+    {
+      "id": 14,
+      "start": 78.6,
+      "end": 84.8,
+      "text": "say you know climate change is not is not sexy as many people say and don't say",
+      "avg_logprob": -0.17756903924123205,
+      "no_speech_prob": 0.1601746678352356
+    },
+    {
+      "id": 15,
+      "start": 84.8,
+      "end": 89.48,
+      "text": "that I don't have a platform because my editor will not write this story. For me",
+      "avg_logprob": -0.17756903924123205,
+      "no_speech_prob": 0.1601746678352356
+    },
+    {
+      "id": 16,
+      "start": 89.48,
+      "end": 95.68,
+      "text": "I do use online. Actually everything, every pitch I do online publication is",
+      "avg_logprob": -0.17756903924123205,
+      "no_speech_prob": 0.1601746678352356
+    },
+    {
+      "id": 17,
+      "start": 95.68,
+      "end": 102.72,
+      "text": "what I use because I do radio, I do broadcast but I also write. So that one",
+      "avg_logprob": -0.17756903924123205,
+      "no_speech_prob": 0.1601746678352356
+    },
+    {
+      "id": 18,
+      "start": 102.72,
+      "end": 107.4,
+      "text": "gives me an advantage. I can apply for broadcast and I can also apply, apply",
+      "avg_logprob": -0.17756903924123205,
+      "no_speech_prob": 0.1601746678352356
+    },
+    {
+      "id": 19,
+      "start": 107.4,
+      "end": 111.56,
+      "text": "for print. So, always.",
+      "avg_logprob": -0.7040913462638855,
+      "no_speech_prob": 0.61970055103302
+    }
+  ],
+  "transcript_full": "sure that that one minute you've gotten something. Do Google stories and identify your niche. What is your niche? Is it environment? Is it health? Which ever way you want. Don't just say, me I just report generally, just make sure that you decide which one is your niche and then when you've done that and then go always Google and then also be part of this organization, media organizations. Actually Media Council has given me so many grants, so yeah they have so many grants that they give out not only for climate change but also health and then also we have Africa China reporting program that gives a lot of grants and then maybe for women we have African women in media that one has given me so many grants and I had a chance even to travel to Morocco for a conference. So just make internet your friend. Me I just go to Google and then when there's an opportunity I do what I apply. Try your luck, do a nice speech and then luckily you might be picked or something can come out of it but don't sit there and say you know climate change is not is not sexy as many people say and don't say that I don't have a platform because my editor will not write this story. For me I do use online. Actually everything, every pitch I do online publication is what I use because I do radio, I do broadcast but I also write. So that one gives me an advantage. I can apply for broadcast and I can also apply, apply for print. So, always.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
