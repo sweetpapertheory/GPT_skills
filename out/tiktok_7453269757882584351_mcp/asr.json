@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "language_probability": 0.9584305882453918,
+  "duration": 92.238,
+  "duration_after_vad": 37.28,
+  "segment_count": 1,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.82,
+      "end": 38.1,
+      "text": "When the whales won't let you leave, they're still right here, they're still right there.",
+      "avg_logprob": -0.3825380702813466,
+      "no_speech_prob": 0.10141218453645706
+    }
+  ],
+  "transcript_full": "When the whales won't let you leave, they're still right here, they're still right there.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
