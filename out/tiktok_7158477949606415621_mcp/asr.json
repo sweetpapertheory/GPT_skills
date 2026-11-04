@@ -1,0 +1,148 @@
+{
+  "language": "cy",
+  "language_probability": 0.9181765913963318,
+  "duration": 68.452,
+  "duration_after_vad": 68.22,
+  "segment_count": 17,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.2,
+      "text": "Mae'r rhaglau yn hawdd gennymau, ac mae'n dwylo'r cyffredinol, ac mae'n gweld yn ffacolol yn gweithio.",
+      "avg_logprob": -1.4743971214202292,
+      "no_speech_prob": 0.4251725971698761
+    },
+    {
+      "id": 2,
+      "start": 7.2,
+      "end": 12.5,
+      "text": "53 rydyn ni'n gweithio, yn ysgolio, yn ysgolio, yn ateb, yn ymlaen, yn ymlaen i oktober.",
+      "avg_logprob": -1.4743971214202292,
+      "no_speech_prob": 0.4251725971698761
+    },
+    {
+      "id": 3,
+      "start": 12.5,
+      "end": 16.5,
+      "text": "Mae'r mwylo yn ysgolio yn ymweld yn ysgolio, yn amlwyd y 33 miliwn.",
+      "avg_logprob": -1.4743971214202292,
+      "no_speech_prob": 0.4251725971698761
+    },
+    {
+      "id": 4,
+      "start": 16.5,
+      "end": 20.6,
+      "text": "Mae'n gweithio o'r gweithio ar gyfer y gweithio, ac mae'n gofio ar gyfer yng ngyfru,",
+      "avg_logprob": -1.4743971214202292,
+      "no_speech_prob": 0.4251725971698761
+    },
+    {
+      "id": 5,
+      "start": 20.6,
+      "end": 24.5,
+      "text": "ar gyfer y cyfnodau, ac mae'n gweithio ar gyfer yr gufnodau.",
+      "avg_logprob": -1.4743971214202292,
+      "no_speech_prob": 0.4251725971698761
+    },
+    {
+      "id": 6,
+      "start": 24.5,
+      "end": 27.62,
+      "text": "a Llew Gwlaffau Cymru, Ryrtydd Sherry Remann,",
+      "avg_logprob": -2.1645405281722816,
+      "no_speech_prob": 0.3777511417865753
+    },
+    {
+      "id": 7,
+      "start": 27.62,
+      "end": 30.98,
+      "text": "ond elinodd yn ymlaen ei sydd i gyflaenau eich Llew Gwlaffau North,",
+      "avg_logprob": -2.1645405281722816,
+      "no_speech_prob": 0.3777511417865753
+    },
+    {
+      "id": 8,
+      "start": 30.98,
+      "end": 33.54,
+      "text": "yn oes gyrin nhw,",
+      "avg_logprob": -2.1645405281722816,
+      "no_speech_prob": 0.3777511417865753
+    },
+    {
+      "id": 9,
+      "start": 33.62,
+      "end": 37.06,
+      "text": "aryf yn byw gweld arnau gwybod hefyd yn cyflaen adrodd rhan yma",
+      "avg_logprob": -2.1645405281722816,
+      "no_speech_prob": 0.3777511417865753
+    },
+    {
+      "id": 10,
+      "start": 37.06,
+      "end": 40.02,
+      "text": "i wneud hynny, ac ei chyfnod wedi'n gyfflaenau",
+      "avg_logprob": -2.1645405281722816,
+      "no_speech_prob": 0.3777511417865753
+    },
+    {
+      "id": 11,
+      "start": 40.02,
+      "end": 42.66,
+      "text": "i'w cael gyfrifyr этотag ac yn ddwylo,",
+      "avg_logprob": -2.1645405281722816,
+      "no_speech_prob": 0.3777511417865753
+    },
+    {
+      "id": 12,
+      "start": 42.66,
+      "end": 46.9,
+      "text": "neu'n gyflaenu rhan a'r gyflaenau i Llew Gwlaff Nidol",
+      "avg_logprob": -2.1645405281722816,
+      "no_speech_prob": 0.3777511417865753
+    },
+    {
+      "id": 13,
+      "start": 46.9,
+      "end": 49.82,
+      "text": "ac ei wedi'n cyflaenau i'w cael gyfrifyr hwn,",
+      "avg_logprob": -2.1645405281722816,
+      "no_speech_prob": 0.3777511417865753
+    },
+    {
+      "id": 14,
+      "start": 49.82,
+      "end": 52.22,
+      "text": "a'i gyrin nhw i gyrin nhw,",
+      "avg_logprob": -2.1645405281722816,
+      "no_speech_prob": 0.3777511417865753
+    },
+    {
+      "id": 15,
+      "start": 52.22,
+      "end": 59.74,
+      "text": "world's 50th populist country. It's toast to so many Afghan refugees, to whom we shut up, our borders.",
+      "avg_logprob": -0.5849200127755895,
+      "no_speech_prob": 0.19558875262737274
+    },
+    {
+      "id": 16,
+      "start": 59.74,
+      "end": 64.86,
+      "text": "The international community has an obligation to assist, and yet we condition our relief",
+      "avg_logprob": -0.5849200127755895,
+      "no_speech_prob": 0.19558875262737274
+    },
+    {
+      "id": 17,
+      "start": 64.86,
+      "end": 68.3,
+      "text": "or give them a pickence. It's just not good enough, it's time to act.",
+      "avg_logprob": -0.5849200127755895,
+      "no_speech_prob": 0.19558875262737274
+    }
+  ],
+  "transcript_full": "Mae'r rhaglau yn hawdd gennymau, ac mae'n dwylo'r cyffredinol, ac mae'n gweld yn ffacolol yn gweithio. 53 rydyn ni'n gweithio, yn ysgolio, yn ysgolio, yn ateb, yn ymlaen, yn ymlaen i oktober. Mae'r mwylo yn ysgolio yn ymweld yn ysgolio, yn amlwyd y 33 miliwn. Mae'n gweithio o'r gweithio ar gyfer y gweithio, ac mae'n gofio ar gyfer yng ngyfru, ar gyfer y cyfnodau, ac mae'n gweithio ar gyfer yr gufnodau. a Llew Gwlaffau Cymru, Ryrtydd Sherry Remann, ond elinodd yn ymlaen ei sydd i gyflaenau eich Llew Gwlaffau North, yn oes gyrin nhw, aryf yn byw gweld arnau gwybod hefyd yn cyflaen adrodd rhan yma i wneud hynny, ac ei chyfnod wedi'n gyfflaenau i'w cael gyfrifyr этотag ac yn ddwylo, neu'n gyflaenu rhan a'r gyflaenau i Llew Gwlaff Nidol ac ei wedi'n cyflaenau i'w cael gyfrifyr hwn, a'i gyrin nhw i gyrin nhw, world's 50th populist country. It's toast to so many Afghan refugees, to whom we shut up, our borders. The international community has an obligation to assist, and yet we condition our relief or give them a pickence. It's just not good enough, it's time to act.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
