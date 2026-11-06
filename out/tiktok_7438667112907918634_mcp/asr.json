@@ -1,0 +1,132 @@
+{
+  "language": "en",
+  "language_probability": 0.9427556991577148,
+  "duration": 57.96,
+  "duration_after_vad": 57.68,
+  "segment_count": 15,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.08,
+      "text": "And today, I'm proud to be here, the first city U.S.",
+      "avg_logprob": -0.1887751508642126,
+      "no_speech_prob": 0.08932516723871231
+    },
+    {
+      "id": 2,
+      "start": 4.08,
+      "end": 10.28,
+      "text": "president to visit the Amazon rainforest to recommit to protecting the rainforest like",
+      "avg_logprob": -0.1887751508642126,
+      "no_speech_prob": 0.08932516723871231
+    },
+    {
+      "id": 3,
+      "start": 10.28,
+      "end": 11.28,
+      "text": "this one.",
+      "avg_logprob": -0.1887751508642126,
+      "no_speech_prob": 0.08932516723871231
+    },
+    {
+      "id": 4,
+      "start": 11.28,
+      "end": 18.72,
+      "text": "I'm proud to announce, first, the United States Development Finance Corporation will",
+      "avg_logprob": -0.1887751508642126,
+      "no_speech_prob": 0.08932516723871231
+    },
+    {
+      "id": 5,
+      "start": 18.72,
+      "end": 23.92,
+      "text": "mobilize hundreds of millions of dollars in partnership with the Brazilian company",
+      "avg_logprob": -0.1887751508642126,
+      "no_speech_prob": 0.08932516723871231
+    },
+    {
+      "id": 6,
+      "start": 23.92,
+      "end": 25.96,
+      "text": "to reforest the Amazon.",
+      "avg_logprob": -0.1887751508642126,
+      "no_speech_prob": 0.08932516723871231
+    },
+    {
+      "id": 7,
+      "start": 25.96,
+      "end": 30.48,
+      "text": "We don't have to choose between the environment and the economy.",
+      "avg_logprob": -0.19847624612097836,
+      "no_speech_prob": 0.007991272956132889
+    },
+    {
+      "id": 8,
+      "start": 30.48,
+      "end": 32.32,
+      "text": "We can do both.",
+      "avg_logprob": -0.19847624612097836,
+      "no_speech_prob": 0.007991272956132889
+    },
+    {
+      "id": 9,
+      "start": 32.32,
+      "end": 34.72,
+      "text": "We've proven it back home.",
+      "avg_logprob": -0.19847624612097836,
+      "no_speech_prob": 0.007991272956132889
+    },
+    {
+      "id": 10,
+      "start": 34.72,
+      "end": 38.88,
+      "text": "It's no secret that I'm leaving office in January.",
+      "avg_logprob": -0.19847624612097836,
+      "no_speech_prob": 0.007991272956132889
+    },
+    {
+      "id": 11,
+      "start": 38.88,
+      "end": 43.88,
+      "text": "I will leave my successor and my country in a strong foundation to build on if they",
+      "avg_logprob": -0.19847624612097836,
+      "no_speech_prob": 0.007991272956132889
+    },
+    {
+      "id": 12,
+      "start": 43.88,
+      "end": 45.36,
+      "text": "choose to do so.",
+      "avg_logprob": -0.19847624612097836,
+      "no_speech_prob": 0.007991272956132889
+    },
+    {
+      "id": 13,
+      "start": 45.36,
+      "end": 47.36,
+      "text": "It's true.",
+      "avg_logprob": -0.19847624612097836,
+      "no_speech_prob": 0.007991272956132889
+    },
+    {
+      "id": 14,
+      "start": 47.36,
+      "end": 54.04,
+      "text": "Some may seek to deny or delay the clean energy revolution that's underway in America.",
+      "avg_logprob": -0.19847624612097836,
+      "no_speech_prob": 0.007991272956132889
+    },
+    {
+      "id": 15,
+      "start": 54.04,
+      "end": 57.68,
+      "text": "But nobody, nobody can reverse it, nobody.",
+      "avg_logprob": -0.3634569003031804,
+      "no_speech_prob": 0.7041211724281311
+    }
+  ],
+  "transcript_full": "And today, I'm proud to be here, the first city U.S. president to visit the Amazon rainforest to recommit to protecting the rainforest like this one. I'm proud to announce, first, the United States Development Finance Corporation will mobilize hundreds of millions of dollars in partnership with the Brazilian company to reforest the Amazon. We don't have to choose between the environment and the economy. We can do both. We've proven it back home. It's no secret that I'm leaving office in January. I will leave my successor and my country in a strong foundation to build on if they choose to do so. It's true. Some may seek to deny or delay the clean energy revolution that's underway in America. But nobody, nobody can reverse it, nobody.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
