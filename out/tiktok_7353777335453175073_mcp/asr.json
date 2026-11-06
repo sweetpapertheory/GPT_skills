@@ -1,0 +1,148 @@
+{
+  "language": "en",
+  "language_probability": 0.9979653358459473,
+  "duration": 90.8,
+  "duration_after_vad": 90.64,
+  "segment_count": 17,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.72,
+      "text": "Jerome Powell just spoke at the Stanford Business School today and gave us its latest",
+      "avg_logprob": -0.07308793239868604,
+      "no_speech_prob": 0.08750364184379578
+    },
+    {
+      "id": 2,
+      "start": 4.72,
+      "end": 9.2,
+      "text": "update on the economy and inflation. He also talked about politics and climate change,",
+      "avg_logprob": -0.07308793239868604,
+      "no_speech_prob": 0.08750364184379578
+    },
+    {
+      "id": 3,
+      "start": 9.2,
+      "end": 13.36,
+      "text": "which is not usual. I'm not going to waste your time, so let's get straight into it.",
+      "avg_logprob": -0.07308793239868604,
+      "no_speech_prob": 0.08750364184379578
+    },
+    {
+      "id": 4,
+      "start": 13.36,
+      "end": 20.56,
+      "text": "First, Powell reiterated that the economy is doing well. He said there are on average 265,000",
+      "avg_logprob": -0.07308793239868604,
+      "no_speech_prob": 0.08750364184379578
+    },
+    {
+      "id": 5,
+      "start": 20.56,
+      "end": 25.6,
+      "text": "jobs added per month, which is more than expected. Jerome Powell also said the economic",
+      "avg_logprob": -0.07308793239868604,
+      "no_speech_prob": 0.08750364184379578
+    },
+    {
+      "id": 6,
+      "start": 25.6,
+      "end": 32.72,
+      "text": "growth stayed strong in 2023, with a real GDP going up more than 3%, even as inflation fell",
+      "avg_logprob": -0.05559174797019443,
+      "no_speech_prob": 0.3252418041229248
+    },
+    {
+      "id": 7,
+      "start": 32.72,
+      "end": 37.84,
+      "text": "during the year. However, Powell said that the recent inflation data was not as good as expected,",
+      "avg_logprob": -0.05559174797019443,
+      "no_speech_prob": 0.3252418041229248
+    },
+    {
+      "id": 8,
+      "start": 37.84,
+      "end": 44.16,
+      "text": "but that the trend is still going toward the 2% target on a sometimes bumpy path. He added that",
+      "avg_logprob": -0.05559174797019443,
+      "no_speech_prob": 0.3252418041229248
+    },
+    {
+      "id": 9,
+      "start": 44.16,
+      "end": 49.2,
+      "text": "it's too soon to know if the recent inflation data is just a bump or a shift in the trend.",
+      "avg_logprob": -0.05559174797019443,
+      "no_speech_prob": 0.3252418041229248
+    },
+    {
+      "id": 10,
+      "start": 49.2,
+      "end": 53.76,
+      "text": "Powell said again that the Fed is taking decision meeting by meeting. So basically,",
+      "avg_logprob": -0.05559174797019443,
+      "no_speech_prob": 0.3252418041229248
+    },
+    {
+      "id": 11,
+      "start": 53.76,
+      "end": 58.8,
+      "text": "we didn't learn a lot today, except that everything depends on the next inflation prints.",
+      "avg_logprob": -0.04922616669853914,
+      "no_speech_prob": 0.05461021512746811
+    },
+    {
+      "id": 12,
+      "start": 58.8,
+      "end": 64.64,
+      "text": "60% of traders in Wall Street believe that the first rate cut will happen in June,",
+      "avg_logprob": -0.04922616669853914,
+      "no_speech_prob": 0.05461021512746811
+    },
+    {
+      "id": 13,
+      "start": 64.64,
+      "end": 70.48,
+      "text": "which is down compared to the 70% last month. We could very well see the first cut in July",
+      "avg_logprob": -0.04922616669853914,
+      "no_speech_prob": 0.05461021512746811
+    },
+    {
+      "id": 14,
+      "start": 70.48,
+      "end": 76.4,
+      "text": "because Powell keeps saying the Fed is in no rush to cut interest rates. Jerome Powell also",
+      "avg_logprob": -0.04922616669853914,
+      "no_speech_prob": 0.05461021512746811
+    },
+    {
+      "id": 15,
+      "start": 76.4,
+      "end": 80.08,
+      "text": "said that the Fed was independent from the government, and they don't think about",
+      "avg_logprob": -0.04922616669853914,
+      "no_speech_prob": 0.05461021512746811
+    },
+    {
+      "id": 16,
+      "start": 80.08,
+      "end": 85.04,
+      "text": "short-term political matters. He also said, the Fed doesn't want to focus on other missions",
+      "avg_logprob": -0.1500570433943168,
+      "no_speech_prob": 0.37968283891677856
+    },
+    {
+      "id": 17,
+      "start": 85.04,
+      "end": 90.64,
+      "text": "not related directly to the economy. We are not, nor do we seek to be, climate policymakers.",
+      "avg_logprob": -0.1500570433943168,
+      "no_speech_prob": 0.37968283891677856
+    }
+  ],
+  "transcript_full": "Jerome Powell just spoke at the Stanford Business School today and gave us its latest update on the economy and inflation. He also talked about politics and climate change, which is not usual. I'm not going to waste your time, so let's get straight into it. First, Powell reiterated that the economy is doing well. He said there are on average 265,000 jobs added per month, which is more than expected. Jerome Powell also said the economic growth stayed strong in 2023, with a real GDP going up more than 3%, even as inflation fell during the year. However, Powell said that the recent inflation data was not as good as expected, but that the trend is still going toward the 2% target on a sometimes bumpy path. He added that it's too soon to know if the recent inflation data is just a bump or a shift in the trend. Powell said again that the Fed is taking decision meeting by meeting. So basically, we didn't learn a lot today, except that everything depends on the next inflation prints. 60% of traders in Wall Street believe that the first rate cut will happen in June, which is down compared to the 70% last month. We could very well see the first cut in July because Powell keeps saying the Fed is in no rush to cut interest rates. Jerome Powell also said that the Fed was independent from the government, and they don't think about short-term political matters. He also said, the Fed doesn't want to focus on other missions not related directly to the economy. We are not, nor do we seek to be, climate policymakers.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
