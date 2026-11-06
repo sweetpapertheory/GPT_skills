@@ -1,0 +1,140 @@
+{
+  "language": "en",
+  "language_probability": 0.998970627784729,
+  "duration": 75.1,
+  "duration_after_vad": 74.24,
+  "segment_count": 16,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.6,
+      "text": "This is where the UK government has just approved a coal mine for the first time in 30 years.",
+      "avg_logprob": -0.12518991460309964,
+      "no_speech_prob": 0.0012641901848837733
+    },
+    {
+      "id": 2,
+      "start": 5.6,
+      "end": 10.64,
+      "text": "The decision is a climate disaster, not least because it violates the government's own targets",
+      "avg_logprob": -0.12518991460309964,
+      "no_speech_prob": 0.0012641901848837733
+    },
+    {
+      "id": 3,
+      "start": 10.64,
+      "end": 16.0,
+      "text": "of hitting net zero by 2050. In fact, it was this very government that told the rest of the",
+      "avg_logprob": -0.12518991460309964,
+      "no_speech_prob": 0.0012641901848837733
+    },
+    {
+      "id": 4,
+      "start": 16.0,
+      "end": 20.24,
+      "text": "world a year ago that we need to consign coal power to history.",
+      "avg_logprob": -0.12518991460309964,
+      "no_speech_prob": 0.0012641901848837733
+    },
+    {
+      "id": 5,
+      "start": 20.24,
+      "end": 25.76,
+      "text": "So why is the UK going back to coal? Jobs, says the Mayor of Copeland, Inc.",
+      "avg_logprob": -0.12518991460309964,
+      "no_speech_prob": 0.0012641901848837733
+    },
+    {
+      "id": 6,
+      "start": 25.76,
+      "end": 31.84,
+      "text": "This mine will bring with it 500 direct jobs and 1500 jobs in the supply chain.",
+      "avg_logprob": -0.08211524166325306,
+      "no_speech_prob": 0.0002448538434691727
+    },
+    {
+      "id": 7,
+      "start": 31.84,
+      "end": 37.52,
+      "text": "But these jobs will be low-waged, precarious, dangerous and unsustainable,",
+      "avg_logprob": -0.08211524166325306,
+      "no_speech_prob": 0.0002448538434691727
+    },
+    {
+      "id": 8,
+      "start": 37.52,
+      "end": 40.72,
+      "text": "not to mention the fact that there are no jobs on a dead planet.",
+      "avg_logprob": -0.08211524166325306,
+      "no_speech_prob": 0.0002448538434691727
+    },
+    {
+      "id": 9,
+      "start": 41.28,
+      "end": 47.28,
+      "text": "Climate change will disrupt our lives in every way imaginable, including how we work.",
+      "avg_logprob": -0.08211524166325306,
+      "no_speech_prob": 0.0002448538434691727
+    },
+    {
+      "id": 10,
+      "start": 47.28,
+      "end": 51.28,
+      "text": "Meanwhile, there are plenty of jobs available in a green economy.",
+      "avg_logprob": -0.08211524166325306,
+      "no_speech_prob": 0.0002448538434691727
+    },
+    {
+      "id": 11,
+      "start": 51.36,
+      "end": 55.92,
+      "text": "In fact, up to 24 million jobs could be created by an energy transition.",
+      "avg_logprob": -0.09198237469662791,
+      "no_speech_prob": 0.004117810633033514
+    },
+    {
+      "id": 12,
+      "start": 55.92,
+      "end": 59.36,
+      "text": "So this isn't really about climate versus jobs.",
+      "avg_logprob": -0.09198237469662791,
+      "no_speech_prob": 0.004117810633033514
+    },
+    {
+      "id": 13,
+      "start": 59.36,
+      "end": 63.44,
+      "text": "This is about, as always, a government that doesn't have the political will",
+      "avg_logprob": -0.09198237469662791,
+      "no_speech_prob": 0.004117810633033514
+    },
+    {
+      "id": 14,
+      "start": 63.44,
+      "end": 66.08,
+      "text": "or skill to make a just transition happen.",
+      "avg_logprob": -0.09198237469662791,
+      "no_speech_prob": 0.004117810633033514
+    },
+    {
+      "id": 15,
+      "start": 66.08,
+      "end": 69.44,
+      "text": "A government that's still in the pockets of the oil and gas industry,",
+      "avg_logprob": -0.09198237469662791,
+      "no_speech_prob": 0.004117810633033514
+    },
+    {
+      "id": 16,
+      "start": 69.44,
+      "end": 74.88,
+      "text": "despite us having less than 10 years to prevent catastrophic climate change.",
+      "avg_logprob": -0.09198237469662791,
+      "no_speech_prob": 0.004117810633033514
+    }
+  ],
+  "transcript_full": "This is where the UK government has just approved a coal mine for the first time in 30 years. The decision is a climate disaster, not least because it violates the government's own targets of hitting net zero by 2050. In fact, it was this very government that told the rest of the world a year ago that we need to consign coal power to history. So why is the UK going back to coal? Jobs, says the Mayor of Copeland, Inc. This mine will bring with it 500 direct jobs and 1500 jobs in the supply chain. But these jobs will be low-waged, precarious, dangerous and unsustainable, not to mention the fact that there are no jobs on a dead planet. Climate change will disrupt our lives in every way imaginable, including how we work. Meanwhile, there are plenty of jobs available in a green economy. In fact, up to 24 million jobs could be created by an energy transition. So this isn't really about climate versus jobs. This is about, as always, a government that doesn't have the political will or skill to make a just transition happen. A government that's still in the pockets of the oil and gas industry, despite us having less than 10 years to prevent catastrophic climate change.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
