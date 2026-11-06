@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "language_probability": 0.7568236589431763,
+  "duration": 25.533,
+  "duration_after_vad": 5.1,
+  "segment_count": 1,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.1,
+      "text": "We'll just end up here, knowing...",
+      "avg_logprob": -0.8439626097679138,
+      "no_speech_prob": 0.28169265389442444
+    }
+  ],
+  "transcript_full": "We'll just end up here, knowing...",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
