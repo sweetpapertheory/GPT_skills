@@ -1,0 +1,28 @@
+{
+  "language": "en",
+  "language_probability": 0.8571291565895081,
+  "duration": 11.367,
+  "duration_after_vad": 8.4,
+  "segment_count": 2,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.28,
+      "text": "Down the budgie, down, down the-",
+      "avg_logprob": -0.6557653469917102,
+      "no_speech_prob": 0.7494667768478394
+    },
+    {
+      "id": 2,
+      "start": 3.28,
+      "end": 8.4,
+      "text": "Let's groove, let's groove, let's groove, let's groove, let's groove, let's groove!",
+      "avg_logprob": -0.6557653469917102,
+      "no_speech_prob": 0.7494667768478394
+    }
+  ],
+  "transcript_full": "Down the budgie, down, down the- Let's groove, let's groove, let's groove, let's groove, let's groove, let's groove!",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
