@@ -1,0 +1,196 @@
+{
+  "language": "en",
+  "language_probability": 0.9996211528778076,
+  "duration": 58.333,
+  "duration_after_vad": 59.62,
+  "segment_count": 23,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.08,
+      "end": 4.22,
+      "text": "Breaking news, the right wing Supreme Court just issued another horrific ruling, this",
+      "avg_logprob": -0.16234180158820033,
+      "no_speech_prob": 0.017154810950160027
+    },
+    {
+      "id": 2,
+      "start": 4.22,
+      "end": 8.12,
+      "text": "time limiting the EPA's ability to combat climate change.",
+      "avg_logprob": -0.16234180158820033,
+      "no_speech_prob": 0.017154810950160027
+    },
+    {
+      "id": 3,
+      "start": 8.12,
+      "end": 12.56,
+      "text": "Ruling 6-3, the Supreme Court says that the EPA, literally the Environmental Protection",
+      "avg_logprob": -0.16234180158820033,
+      "no_speech_prob": 0.017154810950160027
+    },
+    {
+      "id": 4,
+      "start": 12.56,
+      "end": 16.8,
+      "text": "Agency, does not have the authority to protect the environment.",
+      "avg_logprob": -0.16234180158820033,
+      "no_speech_prob": 0.017154810950160027
+    },
+    {
+      "id": 5,
+      "start": 16.8,
+      "end": 21.08,
+      "text": "This ruling is both a climate catastrophe as well as a racial justice catastrophe.",
+      "avg_logprob": -0.16234180158820033,
+      "no_speech_prob": 0.017154810950160027
+    },
+    {
+      "id": 6,
+      "start": 21.08,
+      "end": 22.08,
+      "text": "Let me explain.",
+      "avg_logprob": -0.16234180158820033,
+      "no_speech_prob": 0.017154810950160027
+    },
+    {
+      "id": 7,
+      "start": 22.08,
+      "end": 23.84,
+      "text": "First, the climate catastrophe.",
+      "avg_logprob": -0.16234180158820033,
+      "no_speech_prob": 0.017154810950160027
+    },
+    {
+      "id": 8,
+      "start": 23.84,
+      "end": 28.28,
+      "text": "This is what Lake Erie and the Cuyahoga River looked like before the EPA was formed.",
+      "avg_logprob": -0.16234180158820033,
+      "no_speech_prob": 0.017154810950160027
+    },
+    {
+      "id": 9,
+      "start": 28.28,
+      "end": 31.56,
+      "text": "For so many chemicals in the water, the rivers would literally be on fire.",
+      "avg_logprob": -0.17638326441641333,
+      "no_speech_prob": 0.001310122199356556
+    },
+    {
+      "id": 10,
+      "start": 31.56,
+      "end": 33.56,
+      "text": "Next, the racial justice catastrophe.",
+      "avg_logprob": -0.17638326441641333,
+      "no_speech_prob": 0.001310122199356556
+    },
+    {
+      "id": 11,
+      "start": 33.56,
+      "end": 38.32,
+      "text": "Black, indigenous, and Latino Americans suffer higher degrees of cancer and disease caused",
+      "avg_logprob": -0.17638326441641333,
+      "no_speech_prob": 0.001310122199356556
+    },
+    {
+      "id": 12,
+      "start": 38.32,
+      "end": 39.32,
+      "text": "by climate.",
+      "avg_logprob": -0.17638326441641333,
+      "no_speech_prob": 0.001310122199356556
+    },
+    {
+      "id": 13,
+      "start": 39.32,
+      "end": 40.32,
+      "text": "Why?",
+      "avg_logprob": -0.17638326441641333,
+      "no_speech_prob": 0.001310122199356556
+    },
+    {
+      "id": 14,
+      "start": 40.32,
+      "end": 44.72,
+      "text": "Because corporations like to dump their toxic chemicals in air, land, and water used by",
+      "avg_logprob": -0.17638326441641333,
+      "no_speech_prob": 0.001310122199356556
+    },
+    {
+      "id": 15,
+      "start": 44.72,
+      "end": 46.52,
+      "text": "black and indigenous communities.",
+      "avg_logprob": -0.17638326441641333,
+      "no_speech_prob": 0.001310122199356556
+    },
+    {
+      "id": 16,
+      "start": 46.52,
+      "end": 50.12,
+      "text": "World Health Organization estimates another quarter million deaths per year due to",
+      "avg_logprob": -0.17638326441641333,
+      "no_speech_prob": 0.001310122199356556
+    },
+    {
+      "id": 17,
+      "start": 50.12,
+      "end": 51.12,
+      "text": "climate change.",
+      "avg_logprob": -0.17638326441641333,
+      "no_speech_prob": 0.001310122199356556
+    },
+    {
+      "id": 18,
+      "start": 51.12,
+      "end": 53.48,
+      "text": "This is why I've been saying that we must expand the court.",
+      "avg_logprob": -0.17638326441641333,
+      "no_speech_prob": 0.001310122199356556
+    },
+    {
+      "id": 19,
+      "start": 53.48,
+      "end": 54.48,
+      "text": "We can't give into apathy.",
+      "avg_logprob": -0.17638326441641333,
+      "no_speech_prob": 0.001310122199356556
+    },
+    {
+      "id": 20,
+      "start": 54.48,
+      "end": 57.2,
+      "text": "Let's continue to fight for our climate and our democracy.",
+      "avg_logprob": -0.17638326441641333,
+      "no_speech_prob": 0.001310122199356556
+    },
+    {
+      "id": 21,
+      "start": 58.28,
+      "end": 59.28,
+      "text": "Thank you.",
+      "avg_logprob": -0.7295245304703712,
+      "no_speech_prob": 0.9947539567947388
+    },
+    {
+      "id": 22,
+      "start": 59.28,
+      "end": 60.28,
+      "text": "Thank you.",
+      "avg_logprob": -0.7295245304703712,
+      "no_speech_prob": 0.9947539567947388
+    },
+    {
+      "id": 23,
+      "start": 60.28,
+      "end": 60.78,
+      "text": "Thank you.",
+      "avg_logprob": -0.7295245304703712,
+      "no_speech_prob": 0.9947539567947388
+    }
+  ],
+  "transcript_full": "Breaking news, the right wing Supreme Court just issued another horrific ruling, this time limiting the EPA's ability to combat climate change. Ruling 6-3, the Supreme Court says that the EPA, literally the Environmental Protection Agency, does not have the authority to protect the environment. This ruling is both a climate catastrophe as well as a racial justice catastrophe. Let me explain. First, the climate catastrophe. This is what Lake Erie and the Cuyahoga River looked like before the EPA was formed. For so many chemicals in the water, the rivers would literally be on fire. Next, the racial justice catastrophe. Black, indigenous, and Latino Americans suffer higher degrees of cancer and disease caused by climate. Why? Because corporations like to dump their toxic chemicals in air, land, and water used by black and indigenous communities. World Health Organization estimates another quarter million deaths per year due to climate change. This is why I've been saying that we must expand the court. We can't give into apathy. Let's continue to fight for our climate and our democracy. Thank you. Thank you. Thank you.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
