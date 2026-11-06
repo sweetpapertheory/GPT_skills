@@ -1,0 +1,60 @@
+{
+  "language": "en",
+  "language_probability": 0.6563183069229126,
+  "duration": 28.933,
+  "duration_after_vad": 29.0,
+  "segment_count": 6,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 8.0,
+      "text": "Here in Rwanda, we've lost 130 people, countless animals, and over 5,000 houses destroyed.",
+      "avg_logprob": -0.17703283246200863,
+      "no_speech_prob": 0.11000985652208328
+    },
+    {
+      "id": 2,
+      "start": 8.0,
+      "end": 12.0,
+      "text": "The death toll is expected to rise, as five people remain missing.",
+      "avg_logprob": -0.17703283246200863,
+      "no_speech_prob": 0.11000985652208328
+    },
+    {
+      "id": 3,
+      "start": 12.0,
+      "end": 15.0,
+      "text": "9,000 people have been displaced.",
+      "avg_logprob": -0.17703283246200863,
+      "no_speech_prob": 0.11000985652208328
+    },
+    {
+      "id": 4,
+      "start": 15.0,
+      "end": 20.0,
+      "text": "A woman called Lucia Ingabere lost her husband and three children to the floods.",
+      "avg_logprob": -0.17703283246200863,
+      "no_speech_prob": 0.11000985652208328
+    },
+    {
+      "id": 5,
+      "start": 20.0,
+      "end": 25.0,
+      "text": "The recovery effort is expected to cost 130 million Rwandan francs.",
+      "avg_logprob": -0.17703283246200863,
+      "no_speech_prob": 0.11000985652208328
+    },
+    {
+      "id": 6,
+      "start": 25.0,
+      "end": 29.0,
+      "text": "Countless lives destroyed. Climate change kills.",
+      "avg_logprob": -0.17703283246200863,
+      "no_speech_prob": 0.11000985652208328
+    }
+  ],
+  "transcript_full": "Here in Rwanda, we've lost 130 people, countless animals, and over 5,000 houses destroyed. The death toll is expected to rise, as five people remain missing. 9,000 people have been displaced. A woman called Lucia Ingabere lost her husband and three children to the floods. The recovery effort is expected to cost 130 million Rwandan francs. Countless lives destroyed. Climate change kills.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
