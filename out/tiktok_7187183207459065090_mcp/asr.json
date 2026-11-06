@@ -1,0 +1,340 @@
+{
+  "language": "en",
+  "language_probability": 0.9992486834526062,
+  "duration": 89.167,
+  "duration_after_vad": 89.0,
+  "segment_count": 41,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.16,
+      "text": "The past few years have been bad.",
+      "avg_logprob": -0.17161186987703497,
+      "no_speech_prob": 0.0015649169217795134
+    },
+    {
+      "id": 2,
+      "start": 2.16,
+      "end": 4.52,
+      "text": "Yep, they've all been pretty bad.",
+      "avg_logprob": -0.17161186987703497,
+      "no_speech_prob": 0.0015649169217795134
+    },
+    {
+      "id": 3,
+      "start": 4.52,
+      "end": 7.2,
+      "text": "But have you heard about Year 536,",
+      "avg_logprob": -0.17161186987703497,
+      "no_speech_prob": 0.0015649169217795134
+    },
+    {
+      "id": 4,
+      "start": 7.2,
+      "end": 8.84,
+      "text": "the worst year in human history?",
+      "avg_logprob": -0.17161186987703497,
+      "no_speech_prob": 0.0015649169217795134
+    },
+    {
+      "id": 5,
+      "start": 8.84,
+      "end": 10.48,
+      "text": "According to this researcher of medieval",
+      "avg_logprob": -0.17161186987703497,
+      "no_speech_prob": 0.0015649169217795134
+    },
+    {
+      "id": 6,
+      "start": 10.48,
+      "end": 11.52,
+      "text": "and early modern studies,",
+      "avg_logprob": -0.17161186987703497,
+      "no_speech_prob": 0.0015649169217795134
+    },
+    {
+      "id": 7,
+      "start": 11.52,
+      "end": 13.4,
+      "text": "the reason it's called the worst ever year",
+      "avg_logprob": -0.17161186987703497,
+      "no_speech_prob": 0.0015649169217795134
+    },
+    {
+      "id": 8,
+      "start": 13.4,
+      "end": 16.08,
+      "text": "isn't just backed up by historians, but also by science.",
+      "avg_logprob": -0.17161186987703497,
+      "no_speech_prob": 0.0015649169217795134
+    },
+    {
+      "id": 9,
+      "start": 16.08,
+      "end": 18.24,
+      "text": "A volcanic eruption somewhere in the Northern Hemisphere",
+      "avg_logprob": -0.17161186987703497,
+      "no_speech_prob": 0.0015649169217795134
+    },
+    {
+      "id": 10,
+      "start": 18.24,
+      "end": 20.32,
+      "text": "caused a decade-long volcanic winter",
+      "avg_logprob": -0.17161186987703497,
+      "no_speech_prob": 0.0015649169217795134
+    },
+    {
+      "id": 11,
+      "start": 20.32,
+      "end": 23.24,
+      "text": "in which places like China suffered so much snow.",
+      "avg_logprob": -0.17161186987703497,
+      "no_speech_prob": 0.0015649169217795134
+    },
+    {
+      "id": 12,
+      "start": 23.24,
+      "end": 24.44,
+      "text": "Average temperature in Europe",
+      "avg_logprob": -0.17161186987703497,
+      "no_speech_prob": 0.0015649169217795134
+    },
+    {
+      "id": 13,
+      "start": 24.44,
+      "end": 26.6,
+      "text": "dropped by 2.5 Celsius degrees,",
+      "avg_logprob": -0.17161186987703497,
+      "no_speech_prob": 0.0015649169217795134
+    },
+    {
+      "id": 14,
+      "start": 26.6,
+      "end": 28.52,
+      "text": "and it all ended in a global cooling",
+      "avg_logprob": -0.17161186987703497,
+      "no_speech_prob": 0.0015649169217795134
+    },
+    {
+      "id": 15,
+      "start": 28.52,
+      "end": 30.2,
+      "text": "that lasted for more than a century.",
+      "avg_logprob": -0.14762034154013742,
+      "no_speech_prob": 0.008645456284284592
+    },
+    {
+      "id": 16,
+      "start": 30.2,
+      "end": 31.68,
+      "text": "Crops failed, people starved,",
+      "avg_logprob": -0.14762034154013742,
+      "no_speech_prob": 0.008645456284284592
+    },
+    {
+      "id": 17,
+      "start": 31.68,
+      "end": 33.32,
+      "text": "then they took up arms against each other.",
+      "avg_logprob": -0.14762034154013742,
+      "no_speech_prob": 0.008645456284284592
+    },
+    {
+      "id": 18,
+      "start": 33.32,
+      "end": 35.92,
+      "text": "Many of the societies living in the 530 CE",
+      "avg_logprob": -0.14762034154013742,
+      "no_speech_prob": 0.008645456284284592
+    },
+    {
+      "id": 19,
+      "start": 35.92,
+      "end": 39.16,
+      "text": "simply could not survive the upheavals of the decades that followed,",
+      "avg_logprob": -0.14762034154013742,
+      "no_speech_prob": 0.008645456284284592
+    },
+    {
+      "id": 20,
+      "start": 39.16,
+      "end": 41.0,
+      "text": "like the bubonic plague that arrived and killed",
+      "avg_logprob": -0.14762034154013742,
+      "no_speech_prob": 0.008645456284284592
+    },
+    {
+      "id": 21,
+      "start": 41.0,
+      "end": 43.08,
+      "text": "a third of the population of the Byzantine Empire",
+      "avg_logprob": -0.14762034154013742,
+      "no_speech_prob": 0.008645456284284592
+    },
+    {
+      "id": 22,
+      "start": 43.08,
+      "end": 44.48,
+      "text": "less than a decade after.",
+      "avg_logprob": -0.14762034154013742,
+      "no_speech_prob": 0.008645456284284592
+    },
+    {
+      "id": 23,
+      "start": 44.48,
+      "end": 46.44,
+      "text": "Historians and scientists have teamed up",
+      "avg_logprob": -0.14762034154013742,
+      "no_speech_prob": 0.008645456284284592
+    },
+    {
+      "id": 24,
+      "start": 46.44,
+      "end": 48.76,
+      "text": "to make sense of what happened around this time",
+      "avg_logprob": -0.14762034154013742,
+      "no_speech_prob": 0.008645456284284592
+    },
+    {
+      "id": 25,
+      "start": 48.76,
+      "end": 50.92,
+      "text": "since there are not many of insources available.",
+      "avg_logprob": -0.14762034154013742,
+      "no_speech_prob": 0.008645456284284592
+    },
+    {
+      "id": 26,
+      "start": 50.92,
+      "end": 52.72,
+      "text": "There are a few counts such as",
+      "avg_logprob": -0.14762034154013742,
+      "no_speech_prob": 0.008645456284284592
+    },
+    {
+      "id": 27,
+      "start": 52.72,
+      "end": 55.4,
+      "text": "this one from Byzantine historian Procopius",
+      "avg_logprob": -0.14762034154013742,
+      "no_speech_prob": 0.008645456284284592
+    },
+    {
+      "id": 28,
+      "start": 55.4,
+      "end": 58.2,
+      "text": "and this one from the Roman senator Cassiodorus",
+      "avg_logprob": -0.14762034154013742,
+      "no_speech_prob": 0.008645456284284592
+    },
+    {
+      "id": 29,
+      "start": 58.2,
+      "end": 61.2,
+      "text": "who noted the sun appeared to be a bluish color.",
+      "avg_logprob": -0.11412304223000587,
+      "no_speech_prob": 0.000626054999884218
+    },
+    {
+      "id": 30,
+      "start": 61.2,
+      "end": 63.12,
+      "text": "But science have filled the gap.",
+      "avg_logprob": -0.11412304223000587,
+      "no_speech_prob": 0.000626054999884218
+    },
+    {
+      "id": 31,
+      "start": 63.12,
+      "end": 65.72,
+      "text": "There is evidence of a cluster of volcanic eruptions",
+      "avg_logprob": -0.11412304223000587,
+      "no_speech_prob": 0.000626054999884218
+    },
+    {
+      "id": 32,
+      "start": 65.72,
+      "end": 68.04,
+      "text": "both in 536 and a few years after",
+      "avg_logprob": -0.11412304223000587,
+      "no_speech_prob": 0.000626054999884218
+    },
+    {
+      "id": 33,
+      "start": 68.04,
+      "end": 70.36,
+      "text": "in patterns of tree-ring growth.",
+      "avg_logprob": -0.11412304223000587,
+      "no_speech_prob": 0.000626054999884218
+    },
+    {
+      "id": 34,
+      "start": 70.36,
+      "end": 73.64,
+      "text": "And thanks to an ultra-precise analysis of ice from a glacier,",
+      "avg_logprob": -0.11412304223000587,
+      "no_speech_prob": 0.000626054999884218
+    },
+    {
+      "id": 35,
+      "start": 73.64,
+      "end": 75.24,
+      "text": "we are now closer to understanding",
+      "avg_logprob": -0.11412304223000587,
+      "no_speech_prob": 0.000626054999884218
+    },
+    {
+      "id": 36,
+      "start": 75.24,
+      "end": 78.72,
+      "text": "just how severe the climate change of year 536 was.",
+      "avg_logprob": -0.11412304223000587,
+      "no_speech_prob": 0.000626054999884218
+    },
+    {
+      "id": 37,
+      "start": 78.72,
+      "end": 81.92,
+      "text": "The worst moment would not in fact have been in 536 itself,",
+      "avg_logprob": -0.11412304223000587,
+      "no_speech_prob": 0.000626054999884218
+    },
+    {
+      "id": 38,
+      "start": 81.92,
+      "end": 83.84,
+      "text": "but sometimes after when the full effects",
+      "avg_logprob": -0.11412304223000587,
+      "no_speech_prob": 0.000626054999884218
+    },
+    {
+      "id": 39,
+      "start": 83.84,
+      "end": 86.24,
+      "text": "of plagues and droughts and chills and famines",
+      "avg_logprob": -0.11412304223000587,
+      "no_speech_prob": 0.000626054999884218
+    },
+    {
+      "id": 40,
+      "start": 86.24,
+      "end": 87.16,
+      "text": "have truly set in,",
+      "avg_logprob": -0.11412304223000587,
+      "no_speech_prob": 0.000626054999884218
+    },
+    {
+      "id": 41,
+      "start": 87.16,
+      "end": 89.0,
+      "text": "which kind of put things into some perspective.",
+      "avg_logprob": -0.3901575307051341,
+      "no_speech_prob": 0.25797003507614136
+    }
+  ],
+  "transcript_full": "The past few years have been bad. Yep, they've all been pretty bad. But have you heard about Year 536, the worst year in human history? According to this researcher of medieval and early modern studies, the reason it's called the worst ever year isn't just backed up by historians, but also by science. A volcanic eruption somewhere in the Northern Hemisphere caused a decade-long volcanic winter in which places like China suffered so much snow. Average temperature in Europe dropped by 2.5 Celsius degrees, and it all ended in a global cooling that lasted for more than a century. Crops failed, people starved, then they took up arms against each other. Many of the societies living in the 530 CE simply could not survive the upheavals of the decades that followed, like the bubonic plague that arrived and killed a third of the population of the Byzantine Empire less than a decade after. Historians and scientists have teamed up to make sense of what happened around this time since there are not many of insources available. There are a few counts such as this one from Byzantine historian Procopius and this one from the Roman senator Cassiodorus who noted the sun appeared to be a bluish color. But science have filled the gap. There is evidence of a cluster of volcanic eruptions both in 536 and a few years after in patterns of tree-ring growth. And thanks to an ultra-precise analysis of ice from a glacier, we are now closer to understanding just how severe the climate change of year 536 was. The worst moment would not in fact have been in 536 itself, but sometimes after when the full effects of plagues and droughts and chills and famines have truly set in, which kind of put things into some perspective.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
