@@ -1,0 +1,68 @@
+{
+  "language": "ms",
+  "language_probability": 0.7770587801933289,
+  "duration": 23.0,
+  "duration_after_vad": 18.2,
+  "segment_count": 7,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.42,
+      "end": 5.82,
+      "text": "Adakah anda telah menjelaskan air dan air yang panjang pada masa yang sama?",
+      "avg_logprob": -0.7211522973500766,
+      "no_speech_prob": 0.03127225488424301
+    },
+    {
+      "id": 2,
+      "start": 5.82,
+      "end": 8.7,
+      "text": "Adakah anda tahu mengapa kita menjelaskan air yang panjang?",
+      "avg_logprob": -0.7211522973500766,
+      "no_speech_prob": 0.03127225488424301
+    },
+    {
+      "id": 3,
+      "start": 8.7,
+      "end": 10.9,
+      "text": "Ia adalah disebabkan perubahan klinik.",
+      "avg_logprob": -0.7211522973500766,
+      "no_speech_prob": 0.03127225488424301
+    },
+    {
+      "id": 4,
+      "start": 10.9,
+      "end": 13.06,
+      "text": "Jadi bagaimana kita menghubungi ini?",
+      "avg_logprob": -0.7211522973500766,
+      "no_speech_prob": 0.03127225488424301
+    },
+    {
+      "id": 5,
+      "start": 13.06,
+      "end": 16.54,
+      "text": "Dengan menghubungi perubahan klinik dan menghubungi perubahan klinik?",
+      "avg_logprob": -0.7211522973500766,
+      "no_speech_prob": 0.03127225488424301
+    },
+    {
+      "id": 6,
+      "start": 16.54,
+      "end": 18.82,
+      "text": "Mari kita menghubungi perubahan klinik bersama.",
+      "avg_logprob": -0.7211522973500766,
+      "no_speech_prob": 0.03127225488424301
+    },
+    {
+      "id": 7,
+      "start": 18.82,
+      "end": 20.62,
+      "text": "Berlain lebih banyak dalam bio link kita.",
+      "avg_logprob": -0.7211522973500766,
+      "no_speech_prob": 0.03127225488424301
+    }
+  ],
+  "transcript_full": "Adakah anda telah menjelaskan air dan air yang panjang pada masa yang sama? Adakah anda tahu mengapa kita menjelaskan air yang panjang? Ia adalah disebabkan perubahan klinik. Jadi bagaimana kita menghubungi ini? Dengan menghubungi perubahan klinik dan menghubungi perubahan klinik? Mari kita menghubungi perubahan klinik bersama. Berlain lebih banyak dalam bio link kita.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
