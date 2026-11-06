@@ -1,0 +1,68 @@
+{
+  "language": "en",
+  "language_probability": 0.9773272275924683,
+  "duration": 27.88,
+  "duration_after_vad": 28.08,
+  "segment_count": 7,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.12,
+      "text": "And it will help a lot if we can step back",
+      "avg_logprob": -0.12353643038591673,
+      "no_speech_prob": 0.1394478678703308
+    },
+    {
+      "id": 2,
+      "start": 4.12,
+      "end": 7.24,
+      "text": "and have a conversation on climate",
+      "avg_logprob": -0.12353643038591673,
+      "no_speech_prob": 0.1394478678703308
+    },
+    {
+      "id": 3,
+      "start": 7.24,
+      "end": 11.16,
+      "text": "with that individual human being we're talking to.",
+      "avg_logprob": -0.12353643038591673,
+      "no_speech_prob": 0.1394478678703308
+    },
+    {
+      "id": 4,
+      "start": 11.16,
+      "end": 14.12,
+      "text": "And we have the goal of listening to them",
+      "avg_logprob": -0.12353643038591673,
+      "no_speech_prob": 0.1394478678703308
+    },
+    {
+      "id": 5,
+      "start": 14.12,
+      "end": 18.36,
+      "text": "and understanding them, understanding what are the deep values",
+      "avg_logprob": -0.12353643038591673,
+      "no_speech_prob": 0.1394478678703308
+    },
+    {
+      "id": 6,
+      "start": 18.36,
+      "end": 23.08,
+      "text": "that are leading to the thoughts and opinions they have.",
+      "avg_logprob": -0.12353643038591673,
+      "no_speech_prob": 0.1394478678703308
+    },
+    {
+      "id": 7,
+      "start": 23.08,
+      "end": 28.08,
+      "text": "And if we are trying to win an argument, we'll fail.",
+      "avg_logprob": -0.12353643038591673,
+      "no_speech_prob": 0.1394478678703308
+    }
+  ],
+  "transcript_full": "And it will help a lot if we can step back and have a conversation on climate with that individual human being we're talking to. And we have the goal of listening to them and understanding them, understanding what are the deep values that are leading to the thoughts and opinions they have. And if we are trying to win an argument, we'll fail.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
