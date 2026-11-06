@@ -1,0 +1,36 @@
+{
+  "language": "en",
+  "language_probability": 0.9902427792549133,
+  "duration": 26.414,
+  "duration_after_vad": 24.0,
+  "segment_count": 3,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 8.02,
+      "text": "Our climate crisis is not a partisan issue, and it is not a hoax.",
+      "avg_logprob": -0.16798232422500362,
+      "no_speech_prob": 0.01925216242671013
+    },
+    {
+      "id": 2,
+      "start": 9.02,
+      "end": 18.02,
+      "text": "It is an existential threat to all of us, particularly poor communities and communities of color,",
+      "avg_logprob": -0.16798232422500362,
+      "no_speech_prob": 0.01925216242671013
+    },
+    {
+      "id": 3,
+      "start": 19.02,
+      "end": 26.02,
+      "text": "who bear the greatest risks from polluted air, polluted water, and a failing infrastructure.",
+      "avg_logprob": -0.16798232422500362,
+      "no_speech_prob": 0.01925216242671013
+    }
+  ],
+  "transcript_full": "Our climate crisis is not a partisan issue, and it is not a hoax. It is an existential threat to all of us, particularly poor communities and communities of color, who bear the greatest risks from polluted air, polluted water, and a failing infrastructure.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
