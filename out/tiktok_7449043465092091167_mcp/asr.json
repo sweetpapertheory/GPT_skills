@@ -1,0 +1,188 @@
+{
+  "language": "en",
+  "language_probability": 0.9989105463027954,
+  "duration": 46.367,
+  "duration_after_vad": 46.4,
+  "segment_count": 22,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.68,
+      "text": "What if you could spark and build community",
+      "avg_logprob": -0.0977127116301964,
+      "no_speech_prob": 0.023340411484241486
+    },
+    {
+      "id": 2,
+      "start": 2.68,
+      "end": 4.12,
+      "text": "right where you live?",
+      "avg_logprob": -0.0977127116301964,
+      "no_speech_prob": 0.023340411484241486
+    },
+    {
+      "id": 3,
+      "start": 4.12,
+      "end": 6.0,
+      "text": "That's what my friend Sarah is doing",
+      "avg_logprob": -0.0977127116301964,
+      "no_speech_prob": 0.023340411484241486
+    },
+    {
+      "id": 4,
+      "start": 6.0,
+      "end": 9.28,
+      "text": "by hosting simple pop-up coffee gatherings in her yard.",
+      "avg_logprob": -0.0977127116301964,
+      "no_speech_prob": 0.023340411484241486
+    },
+    {
+      "id": 5,
+      "start": 9.28,
+      "end": 11.56,
+      "text": "And it's always a dog-friendly event.",
+      "avg_logprob": -0.0977127116301964,
+      "no_speech_prob": 0.023340411484241486
+    },
+    {
+      "id": 6,
+      "start": 11.56,
+      "end": 13.52,
+      "text": "She keeps it simple, asking people",
+      "avg_logprob": -0.0977127116301964,
+      "no_speech_prob": 0.023340411484241486
+    },
+    {
+      "id": 7,
+      "start": 13.52,
+      "end": 15.72,
+      "text": "to bring their own mugs and chairs.",
+      "avg_logprob": -0.0977127116301964,
+      "no_speech_prob": 0.023340411484241486
+    },
+    {
+      "id": 8,
+      "start": 15.72,
+      "end": 17.0,
+      "text": "She'll set out some coffee",
+      "avg_logprob": -0.0977127116301964,
+      "no_speech_prob": 0.023340411484241486
+    },
+    {
+      "id": 9,
+      "start": 17.0,
+      "end": 18.96,
+      "text": "and a few food items to share.",
+      "avg_logprob": -0.0977127116301964,
+      "no_speech_prob": 0.023340411484241486
+    },
+    {
+      "id": 10,
+      "start": 18.96,
+      "end": 20.38,
+      "text": "Others will add to it.",
+      "avg_logprob": -0.0977127116301964,
+      "no_speech_prob": 0.023340411484241486
+    },
+    {
+      "id": 11,
+      "start": 20.38,
+      "end": 22.84,
+      "text": "This last time, I brought a thermos of cardamom tea.",
+      "avg_logprob": -0.0977127116301964,
+      "no_speech_prob": 0.023340411484241486
+    },
+    {
+      "id": 12,
+      "start": 22.84,
+      "end": 24.52,
+      "text": "Recently, she tried something new",
+      "avg_logprob": -0.0977127116301964,
+      "no_speech_prob": 0.023340411484241486
+    },
+    {
+      "id": 13,
+      "start": 24.52,
+      "end": 26.04,
+      "text": "and set out a swap table",
+      "avg_logprob": -0.0977127116301964,
+      "no_speech_prob": 0.023340411484241486
+    },
+    {
+      "id": 14,
+      "start": 26.04,
+      "end": 28.6,
+      "text": "where people could bring items they no longer need",
+      "avg_logprob": -0.0977127116301964,
+      "no_speech_prob": 0.023340411484241486
+    },
+    {
+      "id": 15,
+      "start": 28.72,
+      "end": 30.72,
+      "text": "and take things they want for free.",
+      "avg_logprob": -0.1129840661497677,
+      "no_speech_prob": 0.021479107439517975
+    },
+    {
+      "id": 16,
+      "start": 30.72,
+      "end": 33.08,
+      "text": "Her neighbors rave about these gatherings",
+      "avg_logprob": -0.1129840661497677,
+      "no_speech_prob": 0.021479107439517975
+    },
+    {
+      "id": 17,
+      "start": 33.08,
+      "end": 35.6,
+      "text": "and many of them linger chatting long beyond",
+      "avg_logprob": -0.1129840661497677,
+      "no_speech_prob": 0.021479107439517975
+    },
+    {
+      "id": 18,
+      "start": 35.6,
+      "end": 36.88,
+      "text": "the 10 a.m. stop time.",
+      "avg_logprob": -0.1129840661497677,
+      "no_speech_prob": 0.021479107439517975
+    },
+    {
+      "id": 19,
+      "start": 36.88,
+      "end": 38.8,
+      "text": "If you live in an apartment building,",
+      "avg_logprob": -0.1129840661497677,
+      "no_speech_prob": 0.021479107439517975
+    },
+    {
+      "id": 20,
+      "start": 38.8,
+      "end": 41.64,
+      "text": "maybe you could try hosting this in a nearby park.",
+      "avg_logprob": -0.1129840661497677,
+      "no_speech_prob": 0.021479107439517975
+    },
+    {
+      "id": 21,
+      "start": 41.64,
+      "end": 43.88,
+      "text": "We're only limited in connecting with each other",
+      "avg_logprob": -0.1129840661497677,
+      "no_speech_prob": 0.021479107439517975
+    },
+    {
+      "id": 22,
+      "start": 43.88,
+      "end": 46.52,
+      "text": "by our lack of initiative and imagination.",
+      "avg_logprob": -0.1129840661497677,
+      "no_speech_prob": 0.021479107439517975
+    }
+  ],
+  "transcript_full": "What if you could spark and build community right where you live? That's what my friend Sarah is doing by hosting simple pop-up coffee gatherings in her yard. And it's always a dog-friendly event. She keeps it simple, asking people to bring their own mugs and chairs. She'll set out some coffee and a few food items to share. Others will add to it. This last time, I brought a thermos of cardamom tea. Recently, she tried something new and set out a swap table where people could bring items they no longer need and take things they want for free. Her neighbors rave about these gatherings and many of them linger chatting long beyond the 10 a.m. stop time. If you live in an apartment building, maybe you could try hosting this in a nearby park. We're only limited in connecting with each other by our lack of initiative and imagination.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
