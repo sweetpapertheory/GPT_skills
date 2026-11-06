@@ -1,0 +1,60 @@
+{
+  "language": "en",
+  "language_probability": 0.5241542458534241,
+  "duration": 58.967,
+  "duration_after_vad": 58.16,
+  "segment_count": 6,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 10.0,
+      "text": "Cambodia is committed to fight against climate change. At COP 28, I announced that Cambodia is",
+      "avg_logprob": -0.14515837281942368,
+      "no_speech_prob": 0.05311082676053047
+    },
+    {
+      "id": 2,
+      "start": 10.0,
+      "end": 20.4,
+      "text": "committed to reduce the greenhouse gas emissions by 21.3% by 2030. Cambodia is committed to renewable",
+      "avg_logprob": -0.14515837281942368,
+      "no_speech_prob": 0.05311082676053047
+    },
+    {
+      "id": 3,
+      "start": 20.4,
+      "end": 30.96,
+      "text": "energy 70% by 2030. Cambodia committed to cancel 700 megawatt of coal power generated coal power plant",
+      "avg_logprob": -0.16691994300255408,
+      "no_speech_prob": 0.32596108317375183
+    },
+    {
+      "id": 4,
+      "start": 31.6,
+      "end": 39.92,
+      "text": "and Cambodia committed further making Cambodia clean. Our cleaning we have 8.3 million people",
+      "avg_logprob": -0.16691994300255408,
+      "no_speech_prob": 0.32596108317375183
+    },
+    {
+      "id": 5,
+      "start": 39.92,
+      "end": 48.8,
+      "text": "in Cambodia. More than half of the population joined us to clean namely plastic. We will also",
+      "avg_logprob": -0.16691994300255408,
+      "no_speech_prob": 0.32596108317375183
+    },
+    {
+      "id": 6,
+      "start": 48.8,
+      "end": 58.8,
+      "text": "continue working hard with the clean pillars of our strategy to make sure that by 2050 Cambodia will be clean.",
+      "avg_logprob": -0.1468697041273117,
+      "no_speech_prob": 0.07577382028102875
+    }
+  ],
+  "transcript_full": "Cambodia is committed to fight against climate change. At COP 28, I announced that Cambodia is committed to reduce the greenhouse gas emissions by 21.3% by 2030. Cambodia is committed to renewable energy 70% by 2030. Cambodia committed to cancel 700 megawatt of coal power generated coal power plant and Cambodia committed further making Cambodia clean. Our cleaning we have 8.3 million people in Cambodia. More than half of the population joined us to clean namely plastic. We will also continue working hard with the clean pillars of our strategy to make sure that by 2050 Cambodia will be clean.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
