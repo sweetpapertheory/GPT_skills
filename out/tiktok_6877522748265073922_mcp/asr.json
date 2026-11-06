@@ -1,0 +1,68 @@
+{
+  "language": "en",
+  "language_probability": 0.9994893074035645,
+  "duration": 29.138,
+  "duration_after_vad": 28.08,
+  "segment_count": 7,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.48,
+      "text": "Not everyone alive today will be alive in 2060, let alone 2100, so it's people born",
+      "avg_logprob": -0.12888200519498716,
+      "no_speech_prob": 0.009139236062765121
+    },
+    {
+      "id": 2,
+      "start": 5.48,
+      "end": 9.22,
+      "text": "in the future who will benefit the most from slowing climate change.",
+      "avg_logprob": -0.12888200519498716,
+      "no_speech_prob": 0.009139236062765121
+    },
+    {
+      "id": 3,
+      "start": 9.22,
+      "end": 13.84,
+      "text": "But even if we don't care about future generations, slowing down climate change is a smart choice",
+      "avg_logprob": -0.12888200519498716,
+      "no_speech_prob": 0.009139236062765121
+    },
+    {
+      "id": 4,
+      "start": 13.84,
+      "end": 15.72,
+      "text": "for people alive today.",
+      "avg_logprob": -0.12888200519498716,
+      "no_speech_prob": 0.009139236062765121
+    },
+    {
+      "id": 5,
+      "start": 15.72,
+      "end": 21.08,
+      "text": "Because doing so will save each of us on average $100,000 in avoided damages during",
+      "avg_logprob": -0.12888200519498716,
+      "no_speech_prob": 0.009139236062765121
+    },
+    {
+      "id": 6,
+      "start": 21.08,
+      "end": 24.84,
+      "text": "our lifetimes, leaving us with more money in our wallets.",
+      "avg_logprob": -0.12888200519498716,
+      "no_speech_prob": 0.009139236062765121
+    },
+    {
+      "id": 7,
+      "start": 24.84,
+      "end": 28.08,
+      "text": "That's not a bad outcome, regardless of your favorite shade of green.",
+      "avg_logprob": -0.12888200519498716,
+      "no_speech_prob": 0.009139236062765121
+    }
+  ],
+  "transcript_full": "Not everyone alive today will be alive in 2060, let alone 2100, so it's people born in the future who will benefit the most from slowing climate change. But even if we don't care about future generations, slowing down climate change is a smart choice for people alive today. Because doing so will save each of us on average $100,000 in avoided damages during our lifetimes, leaving us with more money in our wallets. That's not a bad outcome, regardless of your favorite shade of green.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
