@@ -1,0 +1,84 @@
+{
+  "language": "en",
+  "language_probability": 0.9990915060043335,
+  "duration": 23.133,
+  "duration_after_vad": 22.88,
+  "segment_count": 9,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.32,
+      "text": "This is how you can get my favorite snack for free right now.",
+      "avg_logprob": -0.1767824039561674,
+      "no_speech_prob": 0.019831368699669838
+    },
+    {
+      "id": 2,
+      "start": 3.32,
+      "end": 7.6,
+      "text": "Airly is available at Walmart nationwide and not only does it have that cravable crunch,",
+      "avg_logprob": -0.1767824039561674,
+      "no_speech_prob": 0.019831368699669838
+    },
+    {
+      "id": 3,
+      "start": 7.6,
+      "end": 10.72,
+      "text": "it's a snack brand that's on a mission to reverse climate change through food.",
+      "avg_logprob": -0.1767824039561674,
+      "no_speech_prob": 0.019831368699669838
+    },
+    {
+      "id": 4,
+      "start": 10.72,
+      "end": 14.36,
+      "text": "It's made with grains that remove greenhouse gases, making it the first snack brand to",
+      "avg_logprob": -0.1767824039561674,
+      "no_speech_prob": 0.019831368699669838
+    },
+    {
+      "id": 5,
+      "start": 14.36,
+      "end": 15.36,
+      "text": "do so.",
+      "avg_logprob": -0.1767824039561674,
+      "no_speech_prob": 0.019831368699669838
+    },
+    {
+      "id": 6,
+      "start": 15.36,
+      "end": 16.68,
+      "text": "And they want you to try it for free.",
+      "avg_logprob": -0.1767824039561674,
+      "no_speech_prob": 0.019831368699669838
+    },
+    {
+      "id": 7,
+      "start": 16.68,
+      "end": 19.88,
+      "text": "Just use the link in my bio to claim your free box and head to Walmart for free",
+      "avg_logprob": -0.1767824039561674,
+      "no_speech_prob": 0.019831368699669838
+    },
+    {
+      "id": 8,
+      "start": 19.88,
+      "end": 20.88,
+      "text": "snacks.",
+      "avg_logprob": -0.1767824039561674,
+      "no_speech_prob": 0.019831368699669838
+    },
+    {
+      "id": 9,
+      "start": 20.88,
+      "end": 22.88,
+      "text": "Let's snack positive and kick some greenhouse gas.",
+      "avg_logprob": -0.1767824039561674,
+      "no_speech_prob": 0.019831368699669838
+    }
+  ],
+  "transcript_full": "This is how you can get my favorite snack for free right now. Airly is available at Walmart nationwide and not only does it have that cravable crunch, it's a snack brand that's on a mission to reverse climate change through food. It's made with grains that remove greenhouse gases, making it the first snack brand to do so. And they want you to try it for free. Just use the link in my bio to claim your free box and head to Walmart for free snacks. Let's snack positive and kick some greenhouse gas.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
