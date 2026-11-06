@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "language_probability": 0.7558438777923584,
+  "duration": 14.6,
+  "duration_after_vad": 2.0,
+  "segment_count": 1,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Come inside my...",
+      "avg_logprob": -0.77796813419887,
+      "no_speech_prob": 0.3687467873096466
+    }
+  ],
+  "transcript_full": "Come inside my...",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
