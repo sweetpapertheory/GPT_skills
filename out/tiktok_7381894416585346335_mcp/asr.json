@@ -1,0 +1,668 @@
+{
+  "language": "en",
+  "language_probability": 0.9979085922241211,
+  "duration": 373.6,
+  "duration_after_vad": 367.5,
+  "segment_count": 82,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.36,
+      "end": 8.8,
+      "text": "95 percent of paradise surrendered to flame in the 2018 campfire, the once lush landscape",
+      "avg_logprob": -0.2795768357240237,
+      "no_speech_prob": 0.029981819912791252
+    },
+    {
+      "id": 2,
+      "start": 8.8,
+      "end": 12.16,
+      "text": "covered in pine trees stripped bare.",
+      "avg_logprob": -0.2795768357240237,
+      "no_speech_prob": 0.029981819912791252
+    },
+    {
+      "id": 3,
+      "start": 12.16,
+      "end": 16.64,
+      "text": "But from the ashes, a new breed of American pioneer was born.",
+      "avg_logprob": -0.2795768357240237,
+      "no_speech_prob": 0.029981819912791252
+    },
+    {
+      "id": 4,
+      "start": 16.64,
+      "end": 18.96,
+      "text": "Hi, oh my God.",
+      "avg_logprob": -0.2795768357240237,
+      "no_speech_prob": 0.029981819912791252
+    },
+    {
+      "id": 5,
+      "start": 18.96,
+      "end": 21.04,
+      "text": "It's so good to see you.",
+      "avg_logprob": -0.2795768357240237,
+      "no_speech_prob": 0.029981819912791252
+    },
+    {
+      "id": 6,
+      "start": 21.04,
+      "end": 24.8,
+      "text": "Kylie Warble and her daughter Ellie were one of the first families to return.",
+      "avg_logprob": -0.2795768357240237,
+      "no_speech_prob": 0.029981819912791252
+    },
+    {
+      "id": 7,
+      "start": 24.8,
+      "end": 27.56,
+      "text": "A lot of people don't want to come back here.",
+      "avg_logprob": -0.2795768357240237,
+      "no_speech_prob": 0.029981819912791252
+    },
+    {
+      "id": 8,
+      "start": 27.56,
+      "end": 29.16,
+      "text": "I had to stay here.",
+      "avg_logprob": -0.2795768357240237,
+      "no_speech_prob": 0.029981819912791252
+    },
+    {
+      "id": 9,
+      "start": 29.16,
+      "end": 36.2,
+      "text": "We first met the Warbles back in 2019, six months after the firestorm destroyed everything.",
+      "avg_logprob": -0.1954008840363134,
+      "no_speech_prob": 0.0015211255522444844
+    },
+    {
+      "id": 10,
+      "start": 36.2,
+      "end": 38.64,
+      "text": "They barely escaped with their lives.",
+      "avg_logprob": -0.1954008840363134,
+      "no_speech_prob": 0.0015211255522444844
+    },
+    {
+      "id": 11,
+      "start": 38.64,
+      "end": 43.38,
+      "text": "Why are you crying?",
+      "avg_logprob": -0.1954008840363134,
+      "no_speech_prob": 0.0015211255522444844
+    },
+    {
+      "id": 12,
+      "start": 43.38,
+      "end": 50.86,
+      "text": "What's that?",
+      "avg_logprob": -0.1954008840363134,
+      "no_speech_prob": 0.0015211255522444844
+    },
+    {
+      "id": 13,
+      "start": 50.86,
+      "end": 55.74,
+      "text": "Between then and now, how has life for both of you changed?",
+      "avg_logprob": -0.1954008840363134,
+      "no_speech_prob": 0.0015211255522444844
+    },
+    {
+      "id": 14,
+      "start": 55.74,
+      "end": 60.42,
+      "text": "Even though we lost everything in the fire, it's nice to have something new.",
+      "avg_logprob": -0.1954008840363134,
+      "no_speech_prob": 0.0015211255522444844
+    },
+    {
+      "id": 15,
+      "start": 60.42,
+      "end": 61.98,
+      "text": "You heal every single day.",
+      "avg_logprob": -0.1954008840363134,
+      "no_speech_prob": 0.0015211255522444844
+    },
+    {
+      "id": 16,
+      "start": 61.98,
+      "end": 67.74,
+      "text": "It's nice to get back in our hometown because then you get a fresh start on life.",
+      "avg_logprob": -0.11239375843914277,
+      "no_speech_prob": 0.004932644311338663
+    },
+    {
+      "id": 17,
+      "start": 67.74,
+      "end": 70.98,
+      "text": "And thousands of people have come back for a fresh start.",
+      "avg_logprob": -0.11239375843914277,
+      "no_speech_prob": 0.004932644311338663
+    },
+    {
+      "id": 18,
+      "start": 70.98,
+      "end": 76.38,
+      "text": "In fact, paradise was the fastest growing city in California for the past four years.",
+      "avg_logprob": -0.11239375843914277,
+      "no_speech_prob": 0.004932644311338663
+    },
+    {
+      "id": 19,
+      "start": 76.38,
+      "end": 82.74,
+      "text": "Is it a crazy idea to move back to a community that has been decimated by wildfire?",
+      "avg_logprob": -0.11239375843914277,
+      "no_speech_prob": 0.004932644311338663
+    },
+    {
+      "id": 20,
+      "start": 82.74,
+      "end": 84.94,
+      "text": "You know, it's not a crazy idea.",
+      "avg_logprob": -0.11239375843914277,
+      "no_speech_prob": 0.004932644311338663
+    },
+    {
+      "id": 21,
+      "start": 84.94,
+      "end": 89.38,
+      "text": "And people who do decide to rebuild in a place like paradise, they're often even",
+      "avg_logprob": -0.11239375843914277,
+      "no_speech_prob": 0.004932644311338663
+    },
+    {
+      "id": 22,
+      "start": 89.38,
+      "end": 94.14,
+      "text": "safer than they were before the fire because that place has already been burned.",
+      "avg_logprob": -0.15974211490270004,
+      "no_speech_prob": 0.060597460716962814
+    },
+    {
+      "id": 23,
+      "start": 94.14,
+      "end": 99.42,
+      "text": "Jennifer Gray Thompson is founder of After the Fire, a nonprofit that helps people decide",
+      "avg_logprob": -0.15974211490270004,
+      "no_speech_prob": 0.060597460716962814
+    },
+    {
+      "id": 24,
+      "start": 99.42,
+      "end": 101.22,
+      "text": "if they should rebuild.",
+      "avg_logprob": -0.15974211490270004,
+      "no_speech_prob": 0.060597460716962814
+    },
+    {
+      "id": 25,
+      "start": 101.22,
+      "end": 105.74,
+      "text": "People do live in the woods now because it's naturally occurring affordable housing often.",
+      "avg_logprob": -0.15974211490270004,
+      "no_speech_prob": 0.060597460716962814
+    },
+    {
+      "id": 26,
+      "start": 105.74,
+      "end": 109.7,
+      "text": "So when we tell people don't live in the woods anymore, I say let's actually help",
+      "avg_logprob": -0.15974211490270004,
+      "no_speech_prob": 0.060597460716962814
+    },
+    {
+      "id": 27,
+      "start": 109.7,
+      "end": 114.86,
+      "text": "the people now who are not fire affected to actually remain, you know, in place.",
+      "avg_logprob": -0.15974211490270004,
+      "no_speech_prob": 0.060597460716962814
+    },
+    {
+      "id": 28,
+      "start": 114.9,
+      "end": 119.26,
+      "text": "Today, fire threatens nearly 40 percent of all homes here in California.",
+      "avg_logprob": -0.179524679677655,
+      "no_speech_prob": 0.13623590767383575
+    },
+    {
+      "id": 29,
+      "start": 119.26,
+      "end": 124.1,
+      "text": "Well intentioned firefighters were first trained to put out wildfires beginning in the early",
+      "avg_logprob": -0.179524679677655,
+      "no_speech_prob": 0.13623590767383575
+    },
+    {
+      "id": 30,
+      "start": 124.1,
+      "end": 127.34,
+      "text": "nineteen hundreds to protect a growing population.",
+      "avg_logprob": -0.179524679677655,
+      "no_speech_prob": 0.13623590767383575
+    },
+    {
+      "id": 31,
+      "start": 127.34,
+      "end": 132.5,
+      "text": "But all of that dead vegetation left behind worsened by drought led to a fuel source",
+      "avg_logprob": -0.179524679677655,
+      "no_speech_prob": 0.13623590767383575
+    },
+    {
+      "id": 32,
+      "start": 132.5,
+      "end": 137.18,
+      "text": "that if sparked can now be explosive in paradise.",
+      "avg_logprob": -0.179524679677655,
+      "no_speech_prob": 0.13623590767383575
+    },
+    {
+      "id": 33,
+      "start": 137.18,
+      "end": 140.34,
+      "text": "Efforts are focused on protecting against future fires.",
+      "avg_logprob": -0.179524679677655,
+      "no_speech_prob": 0.13623590767383575
+    },
+    {
+      "id": 34,
+      "start": 140.34,
+      "end": 142.7,
+      "text": "All power lines will be buried underground.",
+      "avg_logprob": -0.179524679677655,
+      "no_speech_prob": 0.13623590767383575
+    },
+    {
+      "id": 35,
+      "start": 142.74,
+      "end": 146.82,
+      "text": "And all residents must also remove vegetation too close to their homes.",
+      "avg_logprob": -0.14327770471572876,
+      "no_speech_prob": 6.279328954406083e-05
+    },
+    {
+      "id": 36,
+      "start": 146.82,
+      "end": 152.26,
+      "text": "Federal grants are offered to homeowners who use fire resistant materials to build their homes.",
+      "avg_logprob": -0.14327770471572876,
+      "no_speech_prob": 6.279328954406083e-05
+    },
+    {
+      "id": 37,
+      "start": 152.26,
+      "end": 157.14,
+      "text": "Do you feel like the new paradise is more resilient if there was a wildfire nearby?",
+      "avg_logprob": -0.14327770471572876,
+      "no_speech_prob": 6.279328954406083e-05
+    },
+    {
+      "id": 38,
+      "start": 157.14,
+      "end": 159.94,
+      "text": "Yes, I do.",
+      "avg_logprob": -0.14327770471572876,
+      "no_speech_prob": 6.279328954406083e-05
+    },
+    {
+      "id": 39,
+      "start": 159.94,
+      "end": 165.9,
+      "text": "The likelihood of seeing another wildfire in paradise, it already devastated our whole community.",
+      "avg_logprob": -0.14327770471572876,
+      "no_speech_prob": 6.279328954406083e-05
+    },
+    {
+      "id": 40,
+      "start": 165.9,
+      "end": 168.66,
+      "text": "Not everyone agrees enough to return.",
+      "avg_logprob": -0.14327770471572876,
+      "no_speech_prob": 6.279328954406083e-05
+    },
+    {
+      "id": 41,
+      "start": 168.66,
+      "end": 175.54,
+      "text": "While paradise has seen record growth, the current population is only a third of what it was before the fire.",
+      "avg_logprob": -0.12509375796825797,
+      "no_speech_prob": 0.0017108602914959192
+    },
+    {
+      "id": 42,
+      "start": 175.54,
+      "end": 180.34,
+      "text": "Paradise is a microcosm of just broader issues that our nation's going to have to grapple with more.",
+      "avg_logprob": -0.12509375796825797,
+      "no_speech_prob": 0.0017108602914959192
+    },
+    {
+      "id": 43,
+      "start": 180.34,
+      "end": 187.94,
+      "text": "Researcher Ryan Miller is tracking our nation's growing climate migration and the conflict it's causing.",
+      "avg_logprob": -0.12509375796825797,
+      "no_speech_prob": 0.0017108602914959192
+    },
+    {
+      "id": 44,
+      "start": 187.94,
+      "end": 192.34,
+      "text": "I'm hoping with some of the work we understand from paradise we can get ahead of some of those",
+      "avg_logprob": -0.12509375796825797,
+      "no_speech_prob": 0.0017108602914959192
+    },
+    {
+      "id": 45,
+      "start": 192.34,
+      "end": 195.54,
+      "text": "issues and prevent those disasters from happening later down the road.",
+      "avg_logprob": -0.12509375796825797,
+      "no_speech_prob": 0.0017108602914959192
+    },
+    {
+      "id": 46,
+      "start": 195.62,
+      "end": 200.5,
+      "text": "But for Miller, this issue isn't just academic. It's deeply personal.",
+      "avg_logprob": -0.19198380699453427,
+      "no_speech_prob": 0.0008704166975803673
+    },
+    {
+      "id": 47,
+      "start": 200.5,
+      "end": 202.54,
+      "text": "This is before we even got back to the house.",
+      "avg_logprob": -0.19198380699453427,
+      "no_speech_prob": 0.0008704166975803673
+    },
+    {
+      "id": 48,
+      "start": 202.54,
+      "end": 204.78,
+      "text": "Oh, look at that boy! Look at that boy! Look at that boy!",
+      "avg_logprob": -0.19198380699453427,
+      "no_speech_prob": 0.0008704166975803673
+    },
+    {
+      "id": 49,
+      "start": 204.78,
+      "end": 209.7,
+      "text": "Images like this show how extreme weather ravages main streets across America.",
+      "avg_logprob": -0.19198380699453427,
+      "no_speech_prob": 0.0008704166975803673
+    },
+    {
+      "id": 50,
+      "start": 209.7,
+      "end": 215.74,
+      "text": "In the last five years, at least five towns in four states have been nearly erased from the map.",
+      "avg_logprob": -0.19198380699453427,
+      "no_speech_prob": 0.0008704166975803673
+    },
+    {
+      "id": 51,
+      "start": 215.74,
+      "end": 219.38,
+      "text": "All of them, after paradise California, fell.",
+      "avg_logprob": -0.19198380699453427,
+      "no_speech_prob": 0.0008704166975803673
+    },
+    {
+      "id": 52,
+      "start": 219.38,
+      "end": 223.58,
+      "text": "So at first I thought we were just going to evacuate maybe for a day or two and then come back home.",
+      "avg_logprob": -0.19198380699453427,
+      "no_speech_prob": 0.0008704166975803673
+    },
+    {
+      "id": 53,
+      "start": 223.58,
+      "end": 226.94,
+      "text": "Justin Miller's child at home in paradise was destroyed.",
+      "avg_logprob": -0.16082038589078804,
+      "no_speech_prob": 0.00017418176867067814
+    },
+    {
+      "id": 54,
+      "start": 226.94,
+      "end": 232.14,
+      "text": "He's one of the many who chose not to return, now making his home in nearby Oroville.",
+      "avg_logprob": -0.16082038589078804,
+      "no_speech_prob": 0.00017418176867067814
+    },
+    {
+      "id": 55,
+      "start": 232.14,
+      "end": 236.78,
+      "text": "Was there ever a thought in your mind of staying in paradise, of returning?",
+      "avg_logprob": -0.16082038589078804,
+      "no_speech_prob": 0.00017418176867067814
+    },
+    {
+      "id": 56,
+      "start": 237.42,
+      "end": 242.38,
+      "text": "At first we were thinking, you know, after the lot was cleared off we could rebuild there but,",
+      "avg_logprob": -0.16082038589078804,
+      "no_speech_prob": 0.00017418176867067814
+    },
+    {
+      "id": 57,
+      "start": 242.38,
+      "end": 245.18,
+      "text": "you know, then we realized the town would take a while to rebuild.",
+      "avg_logprob": -0.16082038589078804,
+      "no_speech_prob": 0.00017418176867067814
+    },
+    {
+      "id": 58,
+      "start": 245.18,
+      "end": 247.74,
+      "text": "So it would just be easier to move to someplace like here in Oroville.",
+      "avg_logprob": -0.16082038589078804,
+      "no_speech_prob": 0.00017418176867067814
+    },
+    {
+      "id": 59,
+      "start": 248.7,
+      "end": 253.34,
+      "text": "Just last year, extreme weather forced two and a half million Americans from their homes",
+      "avg_logprob": -0.10617671185924162,
+      "no_speech_prob": 0.0045755524188280106
+    },
+    {
+      "id": 60,
+      "start": 254.62,
+      "end": 259.82,
+      "text": "and new research finds nearly half of all American homes are threatened by climate change.",
+      "avg_logprob": -0.10617671185924162,
+      "no_speech_prob": 0.0045755524188280106
+    },
+    {
+      "id": 61,
+      "start": 259.82,
+      "end": 265.42,
+      "text": "Paradise was that place in the 90s for my family where they could afford their own small house.",
+      "avg_logprob": -0.10617671185924162,
+      "no_speech_prob": 0.0045755524188280106
+    },
+    {
+      "id": 62,
+      "start": 265.42,
+      "end": 272.22,
+      "text": "Justin's older brother Ryan, a PhD candidate in geography, is now studying this climate migration.",
+      "avg_logprob": -0.10617671185924162,
+      "no_speech_prob": 0.0045755524188280106
+    },
+    {
+      "id": 63,
+      "start": 272.22,
+      "end": 274.94,
+      "text": "This is research that is deeply personal for you.",
+      "avg_logprob": -0.10617671185924162,
+      "no_speech_prob": 0.0045755524188280106
+    },
+    {
+      "id": 64,
+      "start": 275.02,
+      "end": 279.9,
+      "text": "Yeah, why were we in a situation where the affordable place was also the place that",
+      "avg_logprob": -0.07992725826513308,
+      "no_speech_prob": 0.0007957900525070727
+    },
+    {
+      "id": 65,
+      "start": 279.9,
+      "end": 285.82,
+      "text": "had this huge hazard? Ryan and his team used postal records to track where people moved.",
+      "avg_logprob": -0.07992725826513308,
+      "no_speech_prob": 0.0007957900525070727
+    },
+    {
+      "id": 66,
+      "start": 285.82,
+      "end": 289.18,
+      "text": "We think this covers about two-thirds of all the households in paradise.",
+      "avg_logprob": -0.07992725826513308,
+      "no_speech_prob": 0.0007957900525070727
+    },
+    {
+      "id": 67,
+      "start": 289.18,
+      "end": 293.58,
+      "text": "What he found in many cases, a move didn't solve the problem.",
+      "avg_logprob": -0.07992725826513308,
+      "no_speech_prob": 0.0007957900525070727
+    },
+    {
+      "id": 68,
+      "start": 293.58,
+      "end": 296.38,
+      "text": "It put people back in harm's way.",
+      "avg_logprob": -0.07992725826513308,
+      "no_speech_prob": 0.0007957900525070727
+    },
+    {
+      "id": 69,
+      "start": 296.38,
+      "end": 300.46,
+      "text": "I'm seeing a lot of households moved into areas that are also threatened by other",
+      "avg_logprob": -0.07992725826513308,
+      "no_speech_prob": 0.0007957900525070727
+    },
+    {
+      "id": 70,
+      "start": 300.46,
+      "end": 306.46,
+      "text": "kinds of disasters. You know, here in Florida you have hurricanes, Tennessee, Kentucky, you have",
+      "avg_logprob": -0.092187383616308,
+      "no_speech_prob": 0.010977821424603462
+    },
+    {
+      "id": 71,
+      "start": 306.46,
+      "end": 311.66,
+      "text": "tornadoes. What does that say to you? Maybe we're in a situation where increasingly people are finding",
+      "avg_logprob": -0.092187383616308,
+      "no_speech_prob": 0.010977821424603462
+    },
+    {
+      "id": 72,
+      "start": 311.66,
+      "end": 316.7,
+      "text": "that in their search for affordable housing they sort of have to live in an area that's exposed",
+      "avg_logprob": -0.092187383616308,
+      "no_speech_prob": 0.010977821424603462
+    },
+    {
+      "id": 73,
+      "start": 316.7,
+      "end": 321.74,
+      "text": "to one of these climate-driven hazards. We're gonna see more potential paradises happening",
+      "avg_logprob": -0.092187383616308,
+      "no_speech_prob": 0.010977821424603462
+    },
+    {
+      "id": 74,
+      "start": 321.74,
+      "end": 327.02,
+      "text": "where we have these communities exposed to this threat that the community might not be prepared",
+      "avg_logprob": -0.092187383616308,
+      "no_speech_prob": 0.010977821424603462
+    },
+    {
+      "id": 75,
+      "start": 327.18,
+      "end": 333.26,
+      "text": "to face. Paradise residents Kylie and Ellie Warbel largely picked up the pieces on their own,",
+      "avg_logprob": -0.15887421369552612,
+      "no_speech_prob": 0.0013997387140989304
+    },
+    {
+      "id": 76,
+      "start": 333.26,
+      "end": 338.54,
+      "text": "including removing dead trees and vegetation from their property as they applied for and",
+      "avg_logprob": -0.15887421369552612,
+      "no_speech_prob": 0.0013997387140989304
+    },
+    {
+      "id": 77,
+      "start": 338.54,
+      "end": 342.14,
+      "text": "waited to receive federal aid. Has the meaning of home changed for you?",
+      "avg_logprob": -0.15887421369552612,
+      "no_speech_prob": 0.0013997387140989304
+    },
+    {
+      "id": 78,
+      "start": 343.5,
+      "end": 350.62,
+      "text": "Yes, a lot. Home for me was like kind of like a place we live in, but home will always be",
+      "avg_logprob": -0.15887421369552612,
+      "no_speech_prob": 0.0013997387140989304
+    },
+    {
+      "id": 79,
+      "start": 350.62,
+      "end": 357.1,
+      "text": "wherever my mom is. Five years on, paradise families have scattered the fabric of this small",
+      "avg_logprob": -0.1761164150067738,
+      "no_speech_prob": 0.00735357915982604
+    },
+    {
+      "id": 80,
+      "start": 357.1,
+      "end": 362.78,
+      "text": "town freight. In Jesus' name, amen. But don't tell that to the Warbels. Pioneers of a new",
+      "avg_logprob": -0.1761164150067738,
+      "no_speech_prob": 0.00735357915982604
+    },
+    {
+      "id": 81,
+      "start": 362.78,
+      "end": 369.26,
+      "text": "American community they hope is resilient to climate-fueled storms. For I in America,",
+      "avg_logprob": -0.1761164150067738,
+      "no_speech_prob": 0.00735357915982604
+    },
+    {
+      "id": 82,
+      "start": 369.26,
+      "end": 373.5,
+      "text": "I'm Jonathan Vigliotti, Paradise, California.",
+      "avg_logprob": -0.4204003930091858,
+      "no_speech_prob": 0.14942042529582977
+    }
+  ],
+  "transcript_full": "95 percent of paradise surrendered to flame in the 2018 campfire, the once lush landscape covered in pine trees stripped bare. But from the ashes, a new breed of American pioneer was born. Hi, oh my God. It's so good to see you. Kylie Warble and her daughter Ellie were one of the first families to return. A lot of people don't want to come back here. I had to stay here. We first met the Warbles back in 2019, six months after the firestorm destroyed everything. They barely escaped with their lives. Why are you crying? What's that? Between then and now, how has life for both of you changed? Even though we lost everything in the fire, it's nice to have something new. You heal every single day. It's nice to get back in our hometown because then you get a fresh start on life. And thousands of people have come back for a fresh start. In fact, paradise was the fastest growing city in California for the past four years. Is it a crazy idea to move back to a community that has been decimated by wildfire? You know, it's not a crazy idea. And people who do decide to rebuild in a place like paradise, they're often even safer than they were before the fire because that place has already been burned. Jennifer Gray Thompson is founder of After the Fire, a nonprofit that helps people decide if they should rebuild. People do live in the woods now because it's naturally occurring affordable housing often. So when we tell people don't live in the woods anymore, I say let's actually help the people now who are not fire affected to actually remain, you know, in place. Today, fire threatens nearly 40 percent of all homes here in California. Well intentioned firefighters were first trained to put out wildfires beginning in the early nineteen hundreds to protect a growing population. But all of that dead vegetation left behind worsened by drought led to a fuel source that if sparked can now be explosive in paradise. Efforts are focused on protecting against future fires. All power lines will be buried underground. And all residents must also remove vegetation too close to their homes. Federal grants are offered to homeowners who use fire resistant materials to build their homes. Do you feel like the new paradise is more resilient if there was a wildfire nearby? Yes, I do. The likelihood of seeing another wildfire in paradise, it already devastated our whole community. Not everyone agrees enough to return. While paradise has seen record growth, the current population is only a third of what it was before the fire. Paradise is a microcosm of just broader issues that our nation's going to have to grapple with more. Researcher Ryan Miller is tracking our nation's growing climate migration and the conflict it's causing. I'm hoping with some of the work we understand from paradise we can get ahead of some of those issues and prevent those disasters from happening later down the road. But for Miller, this issue isn't just academic. It's deeply personal. This is before we even got back to the house. Oh, look at that boy! Look at that boy! Look at that boy! Images like this show how extreme weather ravages main streets across America. In the last five years, at least five towns in four states have been nearly erased from the map. All of them, after paradise California, fell. So at first I thought we were just going to evacuate maybe for a day or two and then come back home. Justin Miller's child at home in paradise was destroyed. He's one of the many who chose not to return, now making his home in nearby Oroville. Was there ever a thought in your mind of staying in paradise, of returning? At first we were thinking, you know, after the lot was cleared off we could rebuild there but, you know, then we realized the town would take a while to rebuild. So it would just be easier to move to someplace like here in Oroville. Just last year, extreme weather forced two and a half million Americans from their homes and new research finds nearly half of all American homes are threatened by climate change. Paradise was that place in the 90s for my family where they could afford their own small house. Justin's older brother Ryan, a PhD candidate in geography, is now studying this climate migration. This is research that is deeply personal for you. Yeah, why were we in a situation where the affordable place was also the place that had this huge hazard? Ryan and his team used postal records to track where people moved. We think this covers about two-thirds of all the households in paradise. What he found in many cases, a move didn't solve the problem. It put people back in harm's way. I'm seeing a lot of households moved into areas that are also threatened by other kinds of disasters. You know, here in Florida you have hurricanes, Tennessee, Kentucky, you have tornadoes. What does that say to you? Maybe we're in a situation where increasingly people are finding that in their search for affordable housing they sort of have to live in an area that's exposed to one of these climate-driven hazards. We're gonna see more potential paradises happening where we have these communities exposed to this threat that the community might not be prepared to face. Paradise residents Kylie and Ellie Warbel largely picked up the pieces on their own, including removing dead trees and vegetation from their property as they applied for and waited to receive federal aid. Has the meaning of home changed for you? Yes, a lot. Home for me was like kind of like a place we live in, but home will always be wherever my mom is. Five years on, paradise families have scattered the fabric of this small town freight. In Jesus' name, amen. But don't tell that to the Warbels. Pioneers of a new American community they hope is resilient to climate-fueled storms. For I in America, I'm Jonathan Vigliotti, Paradise, California.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
