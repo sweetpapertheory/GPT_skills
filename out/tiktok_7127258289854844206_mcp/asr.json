@@ -1,0 +1,156 @@
+{
+  "language": "en",
+  "language_probability": 0.9981347322463989,
+  "duration": 99.433,
+  "duration_after_vad": 98.88,
+  "segment_count": 18,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.78,
+      "end": 4.54,
+      "text": "what's a history fact that just gets you choked up every time you have to tell it?",
+      "avg_logprob": -0.09907996379634709,
+      "no_speech_prob": 0.0522867776453495
+    },
+    {
+      "id": 2,
+      "start": 4.54,
+      "end": 9.9,
+      "text": "Colonization killed our climate and there is a horrifying example of this within our history",
+      "avg_logprob": -0.09907996379634709,
+      "no_speech_prob": 0.0522867776453495
+    },
+    {
+      "id": 3,
+      "start": 9.9,
+      "end": 14.46,
+      "text": "books that none of us actually know about. In the year 1610 there was something called the",
+      "avg_logprob": -0.09907996379634709,
+      "no_speech_prob": 0.0522867776453495
+    },
+    {
+      "id": 4,
+      "start": 14.46,
+      "end": 20.22,
+      "text": "Orbus Spike in which carbon dioxide levels were the lowest on earth they had been for centuries",
+      "avg_logprob": -0.09907996379634709,
+      "no_speech_prob": 0.0522867776453495
+    },
+    {
+      "id": 5,
+      "start": 20.22,
+      "end": 25.18,
+      "text": "and is the lowest they've ever been since then. But carbon dioxide levels were so low",
+      "avg_logprob": -0.09907996379634709,
+      "no_speech_prob": 0.0522867776453495
+    },
+    {
+      "id": 6,
+      "start": 25.26,
+      "end": 31.66,
+      "text": "only because european colonizers killed so many native americans that the lands they domesticated",
+      "avg_logprob": -0.0779725176446578,
+      "no_speech_prob": 0.014005961827933788
+    },
+    {
+      "id": 7,
+      "start": 31.66,
+      "end": 37.74,
+      "text": "for farming and stewardship returned to their more forested states with no one to upkeep the land.",
+      "avg_logprob": -0.0779725176446578,
+      "no_speech_prob": 0.014005961827933788
+    },
+    {
+      "id": 8,
+      "start": 38.38,
+      "end": 43.82,
+      "text": "Right around the year 1500 there is a huge drop in this red line which depicts carbon dioxide",
+      "avg_logprob": -0.0779725176446578,
+      "no_speech_prob": 0.014005961827933788
+    },
+    {
+      "id": 9,
+      "start": 43.82,
+      "end": 48.86,
+      "text": "levels on earth and so the biggest thing brought to the americas from the columbian exchange",
+      "avg_logprob": -0.0779725176446578,
+      "no_speech_prob": 0.014005961827933788
+    },
+    {
+      "id": 10,
+      "start": 48.94,
+      "end": 56.94,
+      "text": "were diseases violence and death so it's estimated that between 1492 and 1610 approximately 50",
+      "avg_logprob": -0.07152035923265829,
+      "no_speech_prob": 0.011877795681357384
+    },
+    {
+      "id": 11,
+      "start": 56.94,
+      "end": 63.18,
+      "text": "million native americans died due to european colonial practices and so all of the lands native",
+      "avg_logprob": -0.07152035923265829,
+      "no_speech_prob": 0.011877795681357384
+    },
+    {
+      "id": 12,
+      "start": 63.18,
+      "end": 68.54,
+      "text": "americans looked over started to go back to their wild states meaning that there was a more plant",
+      "avg_logprob": -0.07152035923265829,
+      "no_speech_prob": 0.011877795681357384
+    },
+    {
+      "id": 13,
+      "start": 68.54,
+      "end": 74.54,
+      "text": "life to suck carbon dioxide out of our atmosphere and ever since 1610 carbon dioxide levels",
+      "avg_logprob": -0.07152035923265829,
+      "no_speech_prob": 0.011877795681357384
+    },
+    {
+      "id": 14,
+      "start": 74.54,
+      "end": 79.82,
+      "text": "have been steadily going up with a huge acceleration coming around the industrial revolution time.",
+      "avg_logprob": -0.07285195253789425,
+      "no_speech_prob": 0.008935614489018917
+    },
+    {
+      "id": 15,
+      "start": 80.38,
+      "end": 85.82,
+      "text": "So this is huge because it shows that colonization global trade and coal is what brought around this",
+      "avg_logprob": -0.07285195253789425,
+      "no_speech_prob": 0.008935614489018917
+    },
+    {
+      "id": 16,
+      "start": 85.82,
+      "end": 91.1,
+      "text": "time period now where the earth is in a unstable period. The roots of all oppression we are",
+      "avg_logprob": -0.07285195253789425,
+      "no_speech_prob": 0.008935614489018917
+    },
+    {
+      "id": 17,
+      "start": 91.1,
+      "end": 96.78,
+      "text": "living through today live in colonization and capitalism where the Orbus Spike is just",
+      "avg_logprob": -0.07285195253789425,
+      "no_speech_prob": 0.008935614489018917
+    },
+    {
+      "id": 18,
+      "start": 96.78,
+      "end": 101.02,
+      "text": "one of many facts that proves that.",
+      "avg_logprob": -0.4135066812688654,
+      "no_speech_prob": 0.1363072395324707
+    }
+  ],
+  "transcript_full": "what's a history fact that just gets you choked up every time you have to tell it? Colonization killed our climate and there is a horrifying example of this within our history books that none of us actually know about. In the year 1610 there was something called the Orbus Spike in which carbon dioxide levels were the lowest on earth they had been for centuries and is the lowest they've ever been since then. But carbon dioxide levels were so low only because european colonizers killed so many native americans that the lands they domesticated for farming and stewardship returned to their more forested states with no one to upkeep the land. Right around the year 1500 there is a huge drop in this red line which depicts carbon dioxide levels on earth and so the biggest thing brought to the americas from the columbian exchange were diseases violence and death so it's estimated that between 1492 and 1610 approximately 50 million native americans died due to european colonial practices and so all of the lands native americans looked over started to go back to their wild states meaning that there was a more plant life to suck carbon dioxide out of our atmosphere and ever since 1610 carbon dioxide levels have been steadily going up with a huge acceleration coming around the industrial revolution time. So this is huge because it shows that colonization global trade and coal is what brought around this time period now where the earth is in a unstable period. The roots of all oppression we are living through today live in colonization and capitalism where the Orbus Spike is just one of many facts that proves that.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
