@@ -1,0 +1,244 @@
+{
+  "language": "en",
+  "language_probability": 0.9943178296089172,
+  "duration": 123.967,
+  "duration_after_vad": 107.48,
+  "segment_count": 29,
+  "segments": [
+    {
+      "id": 1,
+      "start": 4.14,
+      "end": 10.5,
+      "text": "Just got done with the run and I'm incredibly tired and I'm sitting in this garden that I made which is made of moss and",
+      "avg_logprob": -0.23920238338490968,
+      "no_speech_prob": 0.15953429043293
+    },
+    {
+      "id": 2,
+      "start": 10.62,
+      "end": 17.7,
+      "text": "I need to tell you about moss because moss is super cool. So moss or as the moss insiders say mosses because there's like",
+      "avg_logprob": -0.23920238338490968,
+      "no_speech_prob": 0.15953429043293
+    },
+    {
+      "id": 3,
+      "start": 18.38,
+      "end": 20.38,
+      "text": "40,000 species of moss",
+      "avg_logprob": -0.23920238338490968,
+      "no_speech_prob": 0.15953429043293
+    },
+    {
+      "id": 4,
+      "start": 20.58,
+      "end": 22.06,
+      "text": "Mosses are",
+      "avg_logprob": -0.23920238338490968,
+      "no_speech_prob": 0.15953429043293
+    },
+    {
+      "id": 5,
+      "start": 22.06,
+      "end": 25.02,
+      "text": "one of the oldest if not the oldest",
+      "avg_logprob": -0.23920238338490968,
+      "no_speech_prob": 0.15953429043293
+    },
+    {
+      "id": 6,
+      "start": 25.3,
+      "end": 27.78,
+      "text": "plant to ever come on to the",
+      "avg_logprob": -0.23920238338490968,
+      "no_speech_prob": 0.15953429043293
+    },
+    {
+      "id": 7,
+      "start": 27.94,
+      "end": 35.82,
+      "text": "Like land reminder that life first existed in the ocean and before any animals came on to land to start",
+      "avg_logprob": -0.17903150314266242,
+      "no_speech_prob": 0.1860087662935257
+    },
+    {
+      "id": 8,
+      "start": 36.1,
+      "end": 38.1,
+      "text": "becoming the animals we know today",
+      "avg_logprob": -0.17903150314266242,
+      "no_speech_prob": 0.1860087662935257
+    },
+    {
+      "id": 9,
+      "start": 38.46,
+      "end": 42.02,
+      "text": "Plants started to come on to land little teeny tiny plants",
+      "avg_logprob": -0.17903150314266242,
+      "no_speech_prob": 0.1860087662935257
+    },
+    {
+      "id": 10,
+      "start": 42.02,
+      "end": 46.26,
+      "text": "I guess the first plants that ever came on were like algae, but algae is like not really that cool",
+      "avg_logprob": -0.17903150314266242,
+      "no_speech_prob": 0.1860087662935257
+    },
+    {
+      "id": 11,
+      "start": 46.86,
+      "end": 48.58,
+      "text": "Moss was the second one",
+      "avg_logprob": -0.17903150314266242,
+      "no_speech_prob": 0.1860087662935257
+    },
+    {
+      "id": 12,
+      "start": 48.58,
+      "end": 53.54,
+      "text": "So moss starts to come on to land because it loves water and it starts to sort of just like come onto the rocks and",
+      "avg_logprob": -0.17903150314266242,
+      "no_speech_prob": 0.1860087662935257
+    },
+    {
+      "id": 13,
+      "start": 53.62,
+      "end": 56.82,
+      "text": "It starts to dramatically reshape the earth",
+      "avg_logprob": -0.1924585671651931,
+      "no_speech_prob": 0.003835047362372279
+    },
+    {
+      "id": 14,
+      "start": 56.82,
+      "end": 61.44,
+      "text": "It starts to break down the rocks in new ways that the earth had never experienced before",
+      "avg_logprob": -0.1924585671651931,
+      "no_speech_prob": 0.003835047362372279
+    },
+    {
+      "id": 15,
+      "start": 61.9,
+      "end": 63.9,
+      "text": "releasing all sorts of like",
+      "avg_logprob": -0.1924585671651931,
+      "no_speech_prob": 0.003835047362372279
+    },
+    {
+      "id": 16,
+      "start": 64.14,
+      "end": 70.82,
+      "text": "Chemicals into the atmosphere and changing the climate moss was the original climate change moss is just a very simple little",
+      "avg_logprob": -0.1924585671651931,
+      "no_speech_prob": 0.003835047362372279
+    },
+    {
+      "id": 17,
+      "start": 70.82,
+      "end": 76.94,
+      "text": "Structure doesn't have any vascular system meaning any of the tubes that bring nutrients and water and stuff up to the leaves",
+      "avg_logprob": -0.1924585671651931,
+      "no_speech_prob": 0.003835047362372279
+    },
+    {
+      "id": 18,
+      "start": 76.94,
+      "end": 79.74,
+      "text": "And trees doesn't have that that's why it doesn't grow tall",
+      "avg_logprob": -0.1924585671651931,
+      "no_speech_prob": 0.003835047362372279
+    },
+    {
+      "id": 19,
+      "start": 79.9,
+      "end": 86.66,
+      "text": "It just stays in these little tiny spores and it grows out very simple little structure, but man",
+      "avg_logprob": -0.22219701273606554,
+      "no_speech_prob": 0.0023610114585608244
+    },
+    {
+      "id": 20,
+      "start": 86.66,
+      "end": 89.9,
+      "text": "It's beautiful. Look at this. Here's my moss garden. Look at all these butterflies",
+      "avg_logprob": -0.22219701273606554,
+      "no_speech_prob": 0.0023610114585608244
+    },
+    {
+      "id": 21,
+      "start": 90.9,
+      "end": 95.38,
+      "text": "Happy my mosses moss just loves water just wants water and shade and",
+      "avg_logprob": -0.22219701273606554,
+      "no_speech_prob": 0.0023610114585608244
+    },
+    {
+      "id": 22,
+      "start": 96.06,
+      "end": 100.3,
+      "text": "That's what it gets here in the backyard water and shade and butterflies",
+      "avg_logprob": -0.22219701273606554,
+      "no_speech_prob": 0.0023610114585608244
+    },
+    {
+      "id": 23,
+      "start": 101.1,
+      "end": 106.38,
+      "text": "so next time you see moss in your driveway or on the sidewalk or in the forest",
+      "avg_logprob": -0.22219701273606554,
+      "no_speech_prob": 0.0023610114585608244
+    },
+    {
+      "id": 24,
+      "start": 107.18,
+      "end": 108.58,
+      "text": "appreciate it because",
+      "avg_logprob": -0.22219701273606554,
+      "no_speech_prob": 0.0023610114585608244
+    },
+    {
+      "id": 25,
+      "start": 108.58,
+      "end": 110.58,
+      "text": "It was like the original",
+      "avg_logprob": -0.33239756737436565,
+      "no_speech_prob": 0.0012362264096736908
+    },
+    {
+      "id": 26,
+      "start": 110.98,
+      "end": 112.98,
+      "text": "like plant on earth",
+      "avg_logprob": -0.33239756737436565,
+      "no_speech_prob": 0.0012362264096736908
+    },
+    {
+      "id": 27,
+      "start": 114.06,
+      "end": 116.5,
+      "text": "Really cool. Now look at these butterflies before we go",
+      "avg_logprob": -0.33239756737436565,
+      "no_speech_prob": 0.0012362264096736908
+    },
+    {
+      "id": 28,
+      "start": 117.5,
+      "end": 119.0,
+      "text": "butterflies",
+      "avg_logprob": -0.33239756737436565,
+      "no_speech_prob": 0.0012362264096736908
+    },
+    {
+      "id": 29,
+      "start": 119.0,
+      "end": 121.0,
+      "text": "They're just all right there. Look at this",
+      "avg_logprob": -0.33239756737436565,
+      "no_speech_prob": 0.0012362264096736908
+    }
+  ],
+  "transcript_full": "Just got done with the run and I'm incredibly tired and I'm sitting in this garden that I made which is made of moss and I need to tell you about moss because moss is super cool. So moss or as the moss insiders say mosses because there's like 40,000 species of moss Mosses are one of the oldest if not the oldest plant to ever come on to the Like land reminder that life first existed in the ocean and before any animals came on to land to start becoming the animals we know today Plants started to come on to land little teeny tiny plants I guess the first plants that ever came on were like algae, but algae is like not really that cool Moss was the second one So moss starts to come on to land because it loves water and it starts to sort of just like come onto the rocks and It starts to dramatically reshape the earth It starts to break down the rocks in new ways that the earth had never experienced before releasing all sorts of like Chemicals into the atmosphere and changing the climate moss was the original climate change moss is just a very simple little Structure doesn't have any vascular system meaning any of the tubes that bring nutrients and water and stuff up to the leaves And trees doesn't have that that's why it doesn't grow tall It just stays in these little tiny spores and it grows out very simple little structure, but man It's beautiful. Look at this. Here's my moss garden. Look at all these butterflies Happy my mosses moss just loves water just wants water and shade and That's what it gets here in the backyard water and shade and butterflies so next time you see moss in your driveway or on the sidewalk or in the forest appreciate it because It was like the original like plant on earth Really cool. Now look at these butterflies before we go butterflies They're just all right there. Look at this",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

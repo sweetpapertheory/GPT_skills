@@ -1,212 +1,92 @@
 {
-  "language": "ms",
-  "language_probability": 0.7550333142280579,
+  "language": "en",
+  "language_probability": 1,
   "duration": 60.967,
-  "duration_after_vad": 59.1,
-  "segment_count": 25,
+  "duration_after_vad": 60.6,
+  "segment_count": 10,
   "segments": [
     {
       "id": 1,
       "start": 0.08,
-      "end": 3.48,
-      "text": "U.S. Presiden yang telah diselamatkan,",
-      "avg_logprob": -0.7304254918316611,
+      "end": 5.48,
+      "text": "US president who's just been elected it seems Donald Trump last time around the",
+      "avg_logprob": -0.26161052712372374,
       "no_speech_prob": 0.5358068346977234
     },
     {
       "id": 2,
-      "start": 3.48,
-      "end": 6.88,
-      "text": "ia nampak Donald Trump yang terakhir di sekitar hubungan China U.S.",
-      "avg_logprob": -0.7304254918316611,
+      "start": 5.48,
+      "end": 9.26,
+      "text": "US-China relationship caused a lot of problems for countries like Singapore",
+      "avg_logprob": -0.26161052712372374,
       "no_speech_prob": 0.5358068346977234
     },
     {
       "id": 3,
-      "start": 6.88,
-      "end": 9.88,
-      "text": "membuat banyak masalah untuk negara seperti Singapura, Malaysia",
-      "avg_logprob": -0.7304254918316611,
+      "start": 9.26,
+      "end": 13.04,
+      "text": "Malaysia and some opportunities as well how do you assess that and how are you",
+      "avg_logprob": -0.26161052712372374,
       "no_speech_prob": 0.5358068346977234
     },
     {
       "id": 4,
-      "start": 9.88,
-      "end": 11.68,
-      "text": "dan beberapa peluang juga.",
-      "avg_logprob": -0.7304254918316611,
+      "start": 13.04,
+      "end": 18.96,
+      "text": "preparing to challenge against that? I think our position is clear you know you",
+      "avg_logprob": -0.26161052712372374,
       "no_speech_prob": 0.5358068346977234
     },
     {
       "id": 5,
-      "start": 11.68,
-      "end": 12.68,
-      "text": "Bagaimana anda mengajar itu?",
-      "avg_logprob": -0.7304254918316611,
+      "start": 18.96,
+      "end": 25.24,
+      "text": "have to see trans policies when he was president the first administration now",
+      "avg_logprob": -0.26161052712372374,
       "no_speech_prob": 0.5358068346977234
     },
     {
       "id": 6,
-      "start": 12.68,
-      "end": 15.68,
-      "text": "Bagaimana anda memutuskan untuk mencabar?",
-      "avg_logprob": -0.7304254918316611,
-      "no_speech_prob": 0.5358068346977234
+      "start": 25.24,
+      "end": 31.0,
+      "text": "is the incoming administration after less of four years so a lot of things",
+      "avg_logprob": -0.17400695966637653,
+      "no_speech_prob": 0.0420556515455246
     },
     {
       "id": 7,
-      "start": 15.68,
-      "end": 17.68,
-      "text": "Saya rasa posisi kita sudah jelas.",
-      "avg_logprob": -0.7304254918316611,
-      "no_speech_prob": 0.5358068346977234
+      "start": 31.0,
+      "end": 39.4,
+      "text": "happening within four years perhaps I just I believe that I'm sure US will try",
+      "avg_logprob": -0.17400695966637653,
+      "no_speech_prob": 0.0420556515455246
     },
     {
       "id": 8,
-      "start": 17.68,
-      "end": 21.58,
-      "text": "Anda tahu, anda perlu melihat keputusan trans",
-      "avg_logprob": -0.7304254918316611,
-      "no_speech_prob": 0.5358068346977234
+      "start": 39.4,
+      "end": 44.68,
+      "text": "to align with the global issues we are facing in terms of climate change",
+      "avg_logprob": -0.17400695966637653,
+      "no_speech_prob": 0.0420556515455246
     },
     {
       "id": 9,
-      "start": 21.58,
-      "end": 23.18,
-      "text": "apabila dia adalah Presiden,",
-      "avg_logprob": -0.7304254918316611,
-      "no_speech_prob": 0.5358068346977234
+      "start": 44.68,
+      "end": 53.96,
+      "text": "particularly climate change we see what will happen next few months I think it's",
+      "avg_logprob": -0.17400695966637653,
+      "no_speech_prob": 0.0420556515455246
     },
     {
       "id": 10,
-      "start": 23.18,
-      "end": 25.08,
-      "text": "pemeriksaan pertama.",
-      "avg_logprob": -0.7304254918316611,
-      "no_speech_prob": 0.5358068346977234
-    },
-    {
-      "id": 11,
-      "start": 25.08,
-      "end": 28.08,
-      "text": "Sekarang, ia adalah pemeriksaan keputusan",
-      "avg_logprob": -0.7304254918316611,
-      "no_speech_prob": 0.5358068346977234
-    },
-    {
-      "id": 12,
-      "start": 28.08,
-      "end": 30.18,
-      "text": "selama 4 tahun.",
-      "avg_logprob": -0.5765020962347064,
-      "no_speech_prob": 0.008878749795258045
-    },
-    {
-      "id": 13,
-      "start": 30.18,
-      "end": 33.48,
-      "text": "Jadi banyak perkara berlaku selama 4 tahun.",
-      "avg_logprob": -0.5765020962347064,
-      "no_speech_prob": 0.008878749795258045
-    },
-    {
-      "id": 14,
-      "start": 33.48,
-      "end": 35.88,
-      "text": "Mungkin saya percaya",
-      "avg_logprob": -0.5765020962347064,
-      "no_speech_prob": 0.008878749795258045
-    },
-    {
-      "id": 15,
-      "start": 35.88,
-      "end": 38.48,
-      "text": "saya percaya U.S.",
-      "avg_logprob": -0.5765020962347064,
-      "no_speech_prob": 0.008878749795258045
-    },
-    {
-      "id": 16,
-      "start": 38.48,
-      "end": 40.98,
-      "text": "kita akan cuba mengalainya",
-      "avg_logprob": -0.5765020962347064,
-      "no_speech_prob": 0.008878749795258045
-    },
-    {
-      "id": 17,
-      "start": 40.98,
-      "end": 43.38,
-      "text": "dengan masalah global yang kita melihat",
-      "avg_logprob": -0.5765020962347064,
-      "no_speech_prob": 0.008878749795258045
-    },
-    {
-      "id": 18,
-      "start": 43.38,
-      "end": 44.88,
-      "text": "dalam keputusan trans,",
-      "avg_logprob": -0.5765020962347064,
-      "no_speech_prob": 0.008878749795258045
-    },
-    {
-      "id": 19,
-      "start": 44.88,
-      "end": 47.08,
-      "text": "terutamanya keputusan trans.",
-      "avg_logprob": -0.5765020962347064,
-      "no_speech_prob": 0.008878749795258045
-    },
-    {
-      "id": 20,
-      "start": 47.08,
-      "end": 48.88,
-      "text": "Kita melihat apa yang akan berlaku",
-      "avg_logprob": -0.5765020962347064,
-      "no_speech_prob": 0.008878749795258045
-    },
-    {
-      "id": 21,
-      "start": 48.88,
-      "end": 50.88,
-      "text": "selama beberapa bulan.",
-      "avg_logprob": -0.5765020962347064,
-      "no_speech_prob": 0.008878749795258045
-    },
-    {
-      "id": 22,
-      "start": 50.88,
-      "end": 53.78,
-      "text": "Saya rasa",
-      "avg_logprob": -0.5765020962347064,
-      "no_speech_prob": 0.008878749795258045
-    },
-    {
-      "id": 23,
-      "start": 53.78,
-      "end": 55.48,
-      "text": "ia sedar-sedar pada masa",
-      "avg_logprob": -0.5765020962347064,
-      "no_speech_prob": 0.008878749795258045
-    },
-    {
-      "id": 24,
-      "start": 55.48,
-      "end": 58.18,
-      "text": "untuk memutuskan keputusan trans.",
-      "avg_logprob": -0.7247997283935547,
-      "no_speech_prob": 0.24050243198871613
-    },
-    {
-      "id": 25,
-      "start": 58.18,
-      "end": 59.18,
-      "text": "Pada masa ini.",
-      "avg_logprob": -0.7247997283935547,
-      "no_speech_prob": 0.24050243198871613
+      "start": 53.96,
+      "end": 60.68,
+      "text": "quite premature at the moment to determine what is the policy of Trump at the moment",
+      "avg_logprob": -0.2921988336663497,
+      "no_speech_prob": 0.04097777232527733
     }
   ],
-  "transcript_full": "U.S. Presiden yang telah diselamatkan, ia nampak Donald Trump yang terakhir di sekitar hubungan China U.S. membuat banyak masalah untuk negara seperti Singapura, Malaysia dan beberapa peluang juga. Bagaimana anda mengajar itu? Bagaimana anda memutuskan untuk mencabar? Saya rasa posisi kita sudah jelas. Anda tahu, anda perlu melihat keputusan trans apabila dia adalah Presiden, pemeriksaan pertama. Sekarang, ia adalah pemeriksaan keputusan selama 4 tahun. Jadi banyak perkara berlaku selama 4 tahun. Mungkin saya percaya saya percaya U.S. kita akan cuba mengalainya dengan masalah global yang kita melihat dalam keputusan trans, terutamanya keputusan trans. Kita melihat apa yang akan berlaku selama beberapa bulan. Saya rasa ia sedar-sedar pada masa untuk memutuskan keputusan trans. Pada masa ini.",
+  "transcript_full": "US president who's just been elected it seems Donald Trump last time around the US-China relationship caused a lot of problems for countries like Singapore Malaysia and some opportunities as well how do you assess that and how are you preparing to challenge against that? I think our position is clear you know you have to see trans policies when he was president the first administration now is the incoming administration after less of four years so a lot of things happening within four years perhaps I just I believe that I'm sure US will try to align with the global issues we are facing in terms of climate change particularly climate change we see what will happen next few months I think it's quite premature at the moment to determine what is the policy of Trump at the moment",
   "model": "faster-whisper-small-int8",
   "asr_backend": "faster-whisper"
 }
