@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "language_probability": 0.6249775886535645,
+  "duration": 13.133,
+  "duration_after_vad": 2.66,
+  "segment_count": 1,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.08,
+      "end": 2.74,
+      "text": "So I want you to give the way",
+      "avg_logprob": -0.7191157882863825,
+      "no_speech_prob": 0.4699898958206177
+    }
+  ],
+  "transcript_full": "So I want you to give the way",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
