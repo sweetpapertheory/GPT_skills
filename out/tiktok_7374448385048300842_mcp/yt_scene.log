@@ -1,0 +1,60 @@
+frame:0    pts:500     pts_time:0.0417084
+lavfi.scene_score=0.110437
+frame:1    pts:54500   pts_time:4.54621
+lavfi.scene_score=0.191495
+frame:2    pts:55000   pts_time:4.58792
+lavfi.scene_score=0.146511
+frame:3    pts:102000  pts_time:8.50851
+lavfi.scene_score=0.352040
+frame:4    pts:129000  pts_time:10.7608
+lavfi.scene_score=0.580836
+frame:5    pts:129500  pts_time:10.8025
+lavfi.scene_score=0.151576
+frame:6    pts:175000  pts_time:14.5979
+lavfi.scene_score=0.339493
+frame:7    pts:175500  pts_time:14.6396
+lavfi.scene_score=0.139790
+frame:8    pts:252000  pts_time:21.021
+lavfi.scene_score=0.569836
+frame:9    pts:318500  pts_time:26.5682
+lavfi.scene_score=0.309627
+frame:10   pts:362000  pts_time:30.1969
+lavfi.scene_score=0.418465
+frame:11   pts:406000  pts_time:33.8672
+lavfi.scene_score=0.535488
+frame:12   pts:406500  pts_time:33.9089
+lavfi.scene_score=0.157605
+frame:13   pts:508000  pts_time:42.3757
+lavfi.scene_score=0.747777
+frame:14   pts:508500  pts_time:42.4174
+lavfi.scene_score=0.297534
+frame:15   pts:597000  pts_time:49.7998
+lavfi.scene_score=0.109674
+frame:16   pts:668000  pts_time:55.7224
+lavfi.scene_score=0.254462
+frame:17   pts:698500  pts_time:58.2666
+lavfi.scene_score=0.500959
+frame:18   pts:716500  pts_time:59.7681
+lavfi.scene_score=0.330088
+frame:19   pts:748000  pts_time:62.3957
+lavfi.scene_score=0.563261
+frame:20   pts:794500  pts_time:66.2746
+lavfi.scene_score=0.456746
+frame:21   pts:795000  pts_time:66.3163
+lavfi.scene_score=0.119078
+frame:22   pts:806000  pts_time:67.2339
+lavfi.scene_score=0.390971
+frame:23   pts:869500  pts_time:72.5309
+lavfi.scene_score=0.292858
+frame:24   pts:909000  pts_time:75.8258
+lavfi.scene_score=0.206041
+frame:25   pts:938500  pts_time:78.2866
+lavfi.scene_score=0.517084
+frame:26   pts:939000  pts_time:78.3283
+lavfi.scene_score=0.251746
+frame:27   pts:976000  pts_time:81.4147
+lavfi.scene_score=0.118565
+frame:28   pts:987000  pts_time:82.3323
+lavfi.scene_score=0.533329
+frame:29   pts:987500  pts_time:82.374
+lavfi.scene_score=0.114341
