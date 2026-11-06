@@ -1,0 +1,204 @@
+{
+  "language": "en",
+  "language_probability": 0.499160498380661,
+  "duration": 85.6,
+  "duration_after_vad": 82.44,
+  "segment_count": 24,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.0,
+      "text": "If you look at the waters that Great White Sharks inhabit in the North West Atlantic and the Mediterranean,",
+      "avg_logprob": -0.12575651435401497,
+      "no_speech_prob": 0.0043595926836133
+    },
+    {
+      "id": 2,
+      "start": 5.0,
+      "end": 10.0,
+      "text": "we're within their temperature range, we're within the salinity range, we've got perfect prey availability.",
+      "avg_logprob": -0.12575651435401497,
+      "no_speech_prob": 0.0043595926836133
+    },
+    {
+      "id": 3,
+      "start": 10.0,
+      "end": 11.0,
+      "text": "It's perfect really.",
+      "avg_logprob": -0.12575651435401497,
+      "no_speech_prob": 0.0043595926836133
+    },
+    {
+      "id": 4,
+      "start": 11.0,
+      "end": 16.0,
+      "text": "So through modelling and statistical analysis there's like a 98% chance that they are here",
+      "avg_logprob": -0.12575651435401497,
+      "no_speech_prob": 0.0043595926836133
+    },
+    {
+      "id": 5,
+      "start": 16.0,
+      "end": 18.0,
+      "text": "and these waters are absolutely perfect for them.",
+      "avg_logprob": -0.12575651435401497,
+      "no_speech_prob": 0.0043595926836133
+    },
+    {
+      "id": 6,
+      "start": 18.0,
+      "end": 22.79,
+      "text": "Most likely because they're spending their time at depth.",
+      "avg_logprob": -0.12575651435401497,
+      "no_speech_prob": 0.0043595926836133
+    },
+    {
+      "id": 7,
+      "start": 22.79,
+      "end": 26.79,
+      "text": "So male Great White Sharks can spend a considerable amount of time at great depth",
+      "avg_logprob": -0.12575651435401497,
+      "no_speech_prob": 0.0043595926836133
+    },
+    {
+      "id": 8,
+      "start": 26.79,
+      "end": 28.79,
+      "text": "so they basically can't be seen.",
+      "avg_logprob": -0.12575651435401497,
+      "no_speech_prob": 0.0043595926836133
+    },
+    {
+      "id": 9,
+      "start": 28.79,
+      "end": 32.79,
+      "text": "If they are coming to the UK it's very likely that they're spending time in deep waters",
+      "avg_logprob": -0.11178645310979901,
+      "no_speech_prob": 0.009696340188384056
+    },
+    {
+      "id": 10,
+      "start": 32.79,
+      "end": 35.79,
+      "text": "foraging or hunting or doing whatever they do down there",
+      "avg_logprob": -0.11178645310979901,
+      "no_speech_prob": 0.009696340188384056
+    },
+    {
+      "id": 11,
+      "start": 35.79,
+      "end": 37.79,
+      "text": "and that's why we very rarely see them.",
+      "avg_logprob": -0.11178645310979901,
+      "no_speech_prob": 0.009696340188384056
+    },
+    {
+      "id": 12,
+      "start": 37.79,
+      "end": 42.9,
+      "text": "It could be the North West Atlantic, it's not out of their range.",
+      "avg_logprob": -0.11178645310979901,
+      "no_speech_prob": 0.009696340188384056
+    },
+    {
+      "id": 13,
+      "start": 42.9,
+      "end": 45.9,
+      "text": "Great White Sharks have been shown to travel extremely far distances",
+      "avg_logprob": -0.11178645310979901,
+      "no_speech_prob": 0.009696340188384056
+    },
+    {
+      "id": 14,
+      "start": 45.9,
+      "end": 47.9,
+      "text": "so it could totally be the North West Atlantic.",
+      "avg_logprob": -0.11178645310979901,
+      "no_speech_prob": 0.009696340188384056
+    },
+    {
+      "id": 15,
+      "start": 47.9,
+      "end": 50.9,
+      "text": "Most likely it would be the Mediterranean population as",
+      "avg_logprob": -0.11178645310979901,
+      "no_speech_prob": 0.009696340188384056
+    },
+    {
+      "id": 16,
+      "start": 50.9,
+      "end": 54.9,
+      "text": "Mediterranean population Great White Sharks, they've come to the Bay of Biscay in France,",
+      "avg_logprob": -0.11178645310979901,
+      "no_speech_prob": 0.009696340188384056
+    },
+    {
+      "id": 17,
+      "start": 54.9,
+      "end": 56.9,
+      "text": "168 miles away.",
+      "avg_logprob": -0.11178645310979901,
+      "no_speech_prob": 0.009696340188384056
+    },
+    {
+      "id": 18,
+      "start": 56.9,
+      "end": 61.44,
+      "text": "So Great Whites globally are listed as vulnerable by the IUCN",
+      "avg_logprob": -0.07883380393724183,
+      "no_speech_prob": 0.0004632986383512616
+    },
+    {
+      "id": 19,
+      "start": 61.44,
+      "end": 65.44,
+      "text": "but the Mediterranean population because it's a very isolated small area",
+      "avg_logprob": -0.07883380393724183,
+      "no_speech_prob": 0.0004632986383512616
+    },
+    {
+      "id": 20,
+      "start": 65.44,
+      "end": 70.44,
+      "text": "they can come under fishery pressure therefore they're listed as critically in danger.",
+      "avg_logprob": -0.07883380393724183,
+      "no_speech_prob": 0.0004632986383512616
+    },
+    {
+      "id": 21,
+      "start": 70.44,
+      "end": 73.44,
+      "text": "Due to climate change and kind of the effects that that's having on their prey distribution",
+      "avg_logprob": -0.07883380393724183,
+      "no_speech_prob": 0.0004632986383512616
+    },
+    {
+      "id": 22,
+      "start": 73.44,
+      "end": 75.44,
+      "text": "and water temperatures around the world",
+      "avg_logprob": -0.07883380393724183,
+      "no_speech_prob": 0.0004632986383512616
+    },
+    {
+      "id": 23,
+      "start": 75.44,
+      "end": 78.44,
+      "text": "I think we're going to start seeing Great Whites in the near future",
+      "avg_logprob": -0.07883380393724183,
+      "no_speech_prob": 0.0004632986383512616
+    },
+    {
+      "id": 24,
+      "start": 78.44,
+      "end": 82.44,
+      "text": "or the likelihood of them being seen in the UK will rise year on year.",
+      "avg_logprob": -0.07883380393724183,
+      "no_speech_prob": 0.0004632986383512616
+    }
+  ],
+  "transcript_full": "If you look at the waters that Great White Sharks inhabit in the North West Atlantic and the Mediterranean, we're within their temperature range, we're within the salinity range, we've got perfect prey availability. It's perfect really. So through modelling and statistical analysis there's like a 98% chance that they are here and these waters are absolutely perfect for them. Most likely because they're spending their time at depth. So male Great White Sharks can spend a considerable amount of time at great depth so they basically can't be seen. If they are coming to the UK it's very likely that they're spending time in deep waters foraging or hunting or doing whatever they do down there and that's why we very rarely see them. It could be the North West Atlantic, it's not out of their range. Great White Sharks have been shown to travel extremely far distances so it could totally be the North West Atlantic. Most likely it would be the Mediterranean population as Mediterranean population Great White Sharks, they've come to the Bay of Biscay in France, 168 miles away. So Great Whites globally are listed as vulnerable by the IUCN but the Mediterranean population because it's a very isolated small area they can come under fishery pressure therefore they're listed as critically in danger. Due to climate change and kind of the effects that that's having on their prey distribution and water temperatures around the world I think we're going to start seeing Great Whites in the near future or the likelihood of them being seen in the UK will rise year on year.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
