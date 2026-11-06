@@ -1,0 +1,36 @@
+{
+  "language": "en",
+  "language_probability": 0.9941957592964172,
+  "duration": 14.167,
+  "duration_after_vad": 13.2,
+  "segment_count": 3,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.4,
+      "text": "We're all going to be safe and we're all going to have a great time.",
+      "avg_logprob": -0.18405868886755064,
+      "no_speech_prob": 0.04705648124217987
+    },
+    {
+      "id": 2,
+      "start": 5.4,
+      "end": 10.08,
+      "text": "We need to be kinder to our planet because our planet is clearly rejecting us as more",
+      "avg_logprob": -0.18405868886755064,
+      "no_speech_prob": 0.04705648124217987
+    },
+    {
+      "id": 3,
+      "start": 10.08,
+      "end": 13.2,
+      "text": "infectious diseases continue to emerge across the world.",
+      "avg_logprob": -0.18405868886755064,
+      "no_speech_prob": 0.04705648124217987
+    }
+  ],
+  "transcript_full": "We're all going to be safe and we're all going to have a great time. We need to be kinder to our planet because our planet is clearly rejecting us as more infectious diseases continue to emerge across the world.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
