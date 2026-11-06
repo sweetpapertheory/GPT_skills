@@ -1,0 +1,324 @@
+{
+  "language": "en",
+  "language_probability": 0.987201452255249,
+  "duration": 238.1,
+  "duration_after_vad": 228.78,
+  "segment_count": 39,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 4.26,
+      "text": "Why are we sending all this money to Ukraine? There are problems here.",
+      "avg_logprob": -0.213696283869224,
+      "no_speech_prob": 0.16337040066719055
+    },
+    {
+      "id": 2,
+      "start": 4.58,
+      "end": 9.32,
+      "text": "This is the question that's being asked in a lot of countries. Last week in Germany,",
+      "avg_logprob": -0.213696283869224,
+      "no_speech_prob": 0.16337040066719055
+    },
+    {
+      "id": 3,
+      "start": 9.32,
+      "end": 12.88,
+      "text": "I saw a man was forced to move out of a house that he",
+      "avg_logprob": -0.213696283869224,
+      "no_speech_prob": 0.16337040066719055
+    },
+    {
+      "id": 4,
+      "start": 13.7,
+      "end": 20.5,
+      "text": "was renting a loan at a reduced rate because officials wanted it for a family that was thought to be from Ukraine.",
+      "avg_logprob": -0.213696283869224,
+      "no_speech_prob": 0.16337040066719055
+    },
+    {
+      "id": 5,
+      "start": 21.3,
+      "end": 27.46,
+      "text": "In a TikTok from the US, footage was shown of a homeless 10th city in California",
+      "avg_logprob": -0.213696283869224,
+      "no_speech_prob": 0.16337040066719055
+    },
+    {
+      "id": 6,
+      "start": 27.46,
+      "end": 32.26,
+      "text": "and the question was asked why the US government wasn't taking care of Americans first.",
+      "avg_logprob": -0.15695045652186,
+      "no_speech_prob": 0.011986890807747841
+    },
+    {
+      "id": 7,
+      "start": 33.06,
+      "end": 38.58,
+      "text": "Sending money, military and humanitarian aid to other places is one topic.",
+      "avg_logprob": -0.15695045652186,
+      "no_speech_prob": 0.011986890807747841
+    },
+    {
+      "id": 8,
+      "start": 39.14,
+      "end": 41.7,
+      "text": "Taking and displace people is another.",
+      "avg_logprob": -0.15695045652186,
+      "no_speech_prob": 0.011986890807747841
+    },
+    {
+      "id": 9,
+      "start": 42.58,
+      "end": 48.66,
+      "text": "Why are ultimately your taxes being used to improve the lives of people around the world?",
+      "avg_logprob": -0.15695045652186,
+      "no_speech_prob": 0.011986890807747841
+    },
+    {
+      "id": 10,
+      "start": 49.54,
+      "end": 54.5,
+      "text": "The simple and hard answer is they're being spent for you.",
+      "avg_logprob": -0.15695045652186,
+      "no_speech_prob": 0.011986890807747841
+    },
+    {
+      "id": 11,
+      "start": 55.3,
+      "end": 58.1,
+      "text": "Look around. If you're doing better than others,",
+      "avg_logprob": -0.07139856975687586,
+      "no_speech_prob": 0.030637454241514206
+    },
+    {
+      "id": 12,
+      "start": 58.98,
+      "end": 65.22,
+      "text": "it's in your country's interest to bring that standard to other places so you can maintain",
+      "avg_logprob": -0.07139856975687586,
+      "no_speech_prob": 0.030637454241514206
+    },
+    {
+      "id": 13,
+      "start": 65.22,
+      "end": 71.46,
+      "text": "your standard. It seems oversimplified, but with how interconnected our world is,",
+      "avg_logprob": -0.07139856975687586,
+      "no_speech_prob": 0.030637454241514206
+    },
+    {
+      "id": 14,
+      "start": 71.46,
+      "end": 75.62,
+      "text": "if there is disease in one place, it'll more than likely come to you.",
+      "avg_logprob": -0.07139856975687586,
+      "no_speech_prob": 0.030637454241514206
+    },
+    {
+      "id": 15,
+      "start": 75.62,
+      "end": 80.42,
+      "text": "If there are limited rights, people will try to go where they can be free",
+      "avg_logprob": -0.07139856975687586,
+      "no_speech_prob": 0.030637454241514206
+    },
+    {
+      "id": 16,
+      "start": 80.42,
+      "end": 84.26,
+      "text": "by reducing poverty or the impacts of climate change in other places.",
+      "avg_logprob": -0.09914902931389709,
+      "no_speech_prob": 0.0034745156299322844
+    },
+    {
+      "id": 17,
+      "start": 85.3,
+      "end": 90.98,
+      "text": "They also won't affect you where you are. And there are huge differences in what motivates",
+      "avg_logprob": -0.09914902931389709,
+      "no_speech_prob": 0.0034745156299322844
+    },
+    {
+      "id": 18,
+      "start": 90.98,
+      "end": 97.62,
+      "text": "humanitarian aid and military aid. But both types of aid are tied to what the country's",
+      "avg_logprob": -0.09914902931389709,
+      "no_speech_prob": 0.0034745156299322844
+    },
+    {
+      "id": 19,
+      "start": 97.62,
+      "end": 103.3,
+      "text": "providing them hold as important values. In most government systems, there are budgets set",
+      "avg_logprob": -0.09914902931389709,
+      "no_speech_prob": 0.0034745156299322844
+    },
+    {
+      "id": 20,
+      "start": 103.3,
+      "end": 108.9,
+      "text": "and what's happening in the country, inside the country, isn't always reflected in how the",
+      "avg_logprob": -0.09914902931389709,
+      "no_speech_prob": 0.0034745156299322844
+    },
+    {
+      "id": 21,
+      "start": 108.9,
+      "end": 116.58,
+      "text": "country helps outside. Let's look at America. U.S. voters have opted for lower taxes and less or",
+      "avg_logprob": -0.08329292606901038,
+      "no_speech_prob": 0.0029207314364612103
+    },
+    {
+      "id": 22,
+      "start": 116.58,
+      "end": 122.34,
+      "text": "no support for the homeless, jobless, and sick people. They have approved less money for education",
+      "avg_logprob": -0.08329292606901038,
+      "no_speech_prob": 0.0029207314364612103
+    },
+    {
+      "id": 23,
+      "start": 122.34,
+      "end": 129.06,
+      "text": "since the 1980s and in a lot of places, they reject the idea of universal health care. Americans",
+      "avg_logprob": -0.08329292606901038,
+      "no_speech_prob": 0.0029207314364612103
+    },
+    {
+      "id": 24,
+      "start": 129.06,
+      "end": 134.26,
+      "text": "that are complaining about supporting Ukraine because there are problems at home often have",
+      "avg_logprob": -0.08329292606901038,
+      "no_speech_prob": 0.0029207314364612103
+    },
+    {
+      "id": 25,
+      "start": 134.26,
+      "end": 142.02,
+      "text": "voted or supported policies that created these problems at home. There's also the idea that",
+      "avg_logprob": -0.07684327682127824,
+      "no_speech_prob": 0.02126489393413067
+    },
+    {
+      "id": 26,
+      "start": 142.02,
+      "end": 147.62,
+      "text": "Ukrainian displaced persons in Europe and in the rest of the world are being unfairly favored.",
+      "avg_logprob": -0.07684327682127824,
+      "no_speech_prob": 0.02126489393413067
+    },
+    {
+      "id": 27,
+      "start": 148.34,
+      "end": 155.22,
+      "text": "Structural racism is certainly at play and so are political interests. The alignments",
+      "avg_logprob": -0.07684327682127824,
+      "no_speech_prob": 0.02126489393413067
+    },
+    {
+      "id": 28,
+      "start": 155.22,
+      "end": 160.82,
+      "text": "between domestic and political ideologies and international relations factor into this",
+      "avg_logprob": -0.07684327682127824,
+      "no_speech_prob": 0.02126489393413067
+    },
+    {
+      "id": 29,
+      "start": 160.82,
+      "end": 169.22,
+      "text": "situation. Think about this. Ukraine has a really large population, 44 million. That's more people",
+      "avg_logprob": -0.10292535424232482,
+      "no_speech_prob": 0.028871729969978333
+    },
+    {
+      "id": 30,
+      "start": 169.22,
+      "end": 177.78,
+      "text": "than Iraq, Syria, Libya, and Afghanistan. Ukraine is also a lot closer to Europe and easier to",
+      "avg_logprob": -0.10292535424232482,
+      "no_speech_prob": 0.028871729969978333
+    },
+    {
+      "id": 31,
+      "start": 177.78,
+      "end": 185.06,
+      "text": "travel to. In April 2022, the Kiev Post reported that over 90% of Ukrainians wanted to return",
+      "avg_logprob": -0.10292535424232482,
+      "no_speech_prob": 0.028871729969978333
+    },
+    {
+      "id": 32,
+      "start": 185.06,
+      "end": 191.22,
+      "text": "home and this number has fluctuated only a little bit in Month 7 of the war with Ukrainians",
+      "avg_logprob": -0.11762337583415913,
+      "no_speech_prob": 0.3646683692932129
+    },
+    {
+      "id": 33,
+      "start": 191.22,
+      "end": 196.34,
+      "text": "worried about winter temperatures. Some are now saying, for example in a Polish survey,",
+      "avg_logprob": -0.11762337583415913,
+      "no_speech_prob": 0.3646683692932129
+    },
+    {
+      "id": 34,
+      "start": 196.34,
+      "end": 201.62,
+      "text": "that they're going to wait until after winter to return. That most Ukrainians don't want to",
+      "avg_logprob": -0.11762337583415913,
+      "no_speech_prob": 0.3646683692932129
+    },
+    {
+      "id": 35,
+      "start": 201.62,
+      "end": 208.02,
+      "text": "stay wherever they are, differentiates them from other groups. In September, there are",
+      "avg_logprob": -0.11762337583415913,
+      "no_speech_prob": 0.3646683692932129
+    },
+    {
+      "id": 36,
+      "start": 208.02,
+      "end": 214.5,
+      "text": "reports of bot-like social media accounts that were amplifying anti-Ukraine hashtags on social",
+      "avg_logprob": -0.11762337583415913,
+      "no_speech_prob": 0.3646683692932129
+    },
+    {
+      "id": 37,
+      "start": 214.5,
+      "end": 221.78,
+      "text": "media in Poland. Tiktok is probably no different with efforts being made to question the political",
+      "avg_logprob": -0.09010130545449635,
+      "no_speech_prob": 0.024259023368358612
+    },
+    {
+      "id": 38,
+      "start": 221.78,
+      "end": 228.82,
+      "text": "response to Ukraine and how Ukrainians are being treated. As Russia's war in Ukraine continues,",
+      "avg_logprob": -0.09010130545449635,
+      "no_speech_prob": 0.024259023368358612
+    },
+    {
+      "id": 39,
+      "start": 229.46,
+      "end": 237.94,
+      "text": "so does the information war on social media. So what do you do when people ask?",
+      "avg_logprob": -0.09010130545449635,
+      "no_speech_prob": 0.024259023368358612
+    }
+  ],
+  "transcript_full": "Why are we sending all this money to Ukraine? There are problems here. This is the question that's being asked in a lot of countries. Last week in Germany, I saw a man was forced to move out of a house that he was renting a loan at a reduced rate because officials wanted it for a family that was thought to be from Ukraine. In a TikTok from the US, footage was shown of a homeless 10th city in California and the question was asked why the US government wasn't taking care of Americans first. Sending money, military and humanitarian aid to other places is one topic. Taking and displace people is another. Why are ultimately your taxes being used to improve the lives of people around the world? The simple and hard answer is they're being spent for you. Look around. If you're doing better than others, it's in your country's interest to bring that standard to other places so you can maintain your standard. It seems oversimplified, but with how interconnected our world is, if there is disease in one place, it'll more than likely come to you. If there are limited rights, people will try to go where they can be free by reducing poverty or the impacts of climate change in other places. They also won't affect you where you are. And there are huge differences in what motivates humanitarian aid and military aid. But both types of aid are tied to what the country's providing them hold as important values. In most government systems, there are budgets set and what's happening in the country, inside the country, isn't always reflected in how the country helps outside. Let's look at America. U.S. voters have opted for lower taxes and less or no support for the homeless, jobless, and sick people. They have approved less money for education since the 1980s and in a lot of places, they reject the idea of universal health care. Americans that are complaining about supporting Ukraine because there are problems at home often have voted or supported policies that created these problems at home. There's also the idea that Ukrainian displaced persons in Europe and in the rest of the world are being unfairly favored. Structural racism is certainly at play and so are political interests. The alignments between domestic and political ideologies and international relations factor into this situation. Think about this. Ukraine has a really large population, 44 million. That's more people than Iraq, Syria, Libya, and Afghanistan. Ukraine is also a lot closer to Europe and easier to travel to. In April 2022, the Kiev Post reported that over 90% of Ukrainians wanted to return home and this number has fluctuated only a little bit in Month 7 of the war with Ukrainians worried about winter temperatures. Some are now saying, for example in a Polish survey, that they're going to wait until after winter to return. That most Ukrainians don't want to stay wherever they are, differentiates them from other groups. In September, there are reports of bot-like social media accounts that were amplifying anti-Ukraine hashtags on social media in Poland. Tiktok is probably no different with efforts being made to question the political response to Ukraine and how Ukrainians are being treated. As Russia's war in Ukraine continues, so does the information war on social media. So what do you do when people ask?",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

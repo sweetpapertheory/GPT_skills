@@ -1,0 +1,11 @@
+{
+  "language": "en",
+  "language_probability": 0.47852110862731934,
+  "duration": 14.975,
+  "duration_after_vad": 0.0,
+  "segment_count": 0,
+  "segments": [],
+  "transcript_full": "",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

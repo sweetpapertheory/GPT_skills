@@ -1,0 +1,60 @@
+{
+  "language": "en",
+  "language_probability": 0.998443067073822,
+  "duration": 25.47,
+  "duration_after_vad": 25.28,
+  "segment_count": 6,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.52,
+      "text": "If sea levels do in fact end up rising up to 2.7 meters higher than what they are today,",
+      "avg_logprob": -0.09310870790722395,
+      "no_speech_prob": 0.0026173985097557306
+    },
+    {
+      "id": 2,
+      "start": 5.52,
+      "end": 8.88,
+      "text": "this is what the area around the Netherlands will end up looking like.",
+      "avg_logprob": -0.09310870790722395,
+      "no_speech_prob": 0.0026173985097557306
+    },
+    {
+      "id": 3,
+      "start": 8.88,
+      "end": 12.16,
+      "text": "Nearly half of the country is going to be underwater,",
+      "avg_logprob": -0.09310870790722395,
+      "no_speech_prob": 0.0026173985097557306
+    },
+    {
+      "id": 4,
+      "start": 12.16,
+      "end": 17.92,
+      "text": "including her most major and important cities like Amsterdam, Rotterdam, The Hague, and Utrecht.",
+      "avg_logprob": -0.09310870790722395,
+      "no_speech_prob": 0.0026173985097557306
+    },
+    {
+      "id": 5,
+      "start": 17.92,
+      "end": 23.28,
+      "text": "Belgium, Germany, Denmark, France, and England will all suffer significant parts of their",
+      "avg_logprob": -0.09310870790722395,
+      "no_speech_prob": 0.0026173985097557306
+    },
+    {
+      "id": 6,
+      "start": 23.28,
+      "end": 25.28,
+      "text": "coastlines going beneath the waves as well.",
+      "avg_logprob": -0.3108556568622589,
+      "no_speech_prob": 0.7662667036056519
+    }
+  ],
+  "transcript_full": "If sea levels do in fact end up rising up to 2.7 meters higher than what they are today, this is what the area around the Netherlands will end up looking like. Nearly half of the country is going to be underwater, including her most major and important cities like Amsterdam, Rotterdam, The Hague, and Utrecht. Belgium, Germany, Denmark, France, and England will all suffer significant parts of their coastlines going beneath the waves as well.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

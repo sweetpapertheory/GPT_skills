@@ -1,0 +1,364 @@
+{
+  "language": "en",
+  "language_probability": 0.9981852173805237,
+  "duration": 144.067,
+  "duration_after_vad": 142.92,
+  "segment_count": 44,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.43,
+      "end": 3.35,
+      "text": "Okay, so another thing that a lot of people were talking about in the comments was why",
+      "avg_logprob": -0.22215706823577344,
+      "no_speech_prob": 0.10879302024841309
+    },
+    {
+      "id": 2,
+      "start": 3.35,
+      "end": 7.03,
+      "text": "it seems like a lot of people in California don't have air conditioning in their homes.",
+      "avg_logprob": -0.22215706823577344,
+      "no_speech_prob": 0.10879302024841309
+    },
+    {
+      "id": 3,
+      "start": 7.03,
+      "end": 8.79,
+      "text": "To be honest, it's not a really uncommon thing to me.",
+      "avg_logprob": -0.22215706823577344,
+      "no_speech_prob": 0.10879302024841309
+    },
+    {
+      "id": 4,
+      "start": 8.79,
+      "end": 13.63,
+      "text": "A lot of people I know and a lot of people I live, there was a heater but not air conditioning.",
+      "avg_logprob": -0.22215706823577344,
+      "no_speech_prob": 0.10879302024841309
+    },
+    {
+      "id": 5,
+      "start": 13.63,
+      "end": 17.95,
+      "text": "Even at UCSD, the dorms have heaters but no central cooling.",
+      "avg_logprob": -0.22215706823577344,
+      "no_speech_prob": 0.10879302024841309
+    },
+    {
+      "id": 6,
+      "start": 17.95,
+      "end": 23.95,
+      "text": "The only on-campus living that has ACs are the brand new campus that just got",
+      "avg_logprob": -0.22215706823577344,
+      "no_speech_prob": 0.10879302024841309
+    },
+    {
+      "id": 7,
+      "start": 23.95,
+      "end": 27.67,
+      "text": "built, brand new dorms that just got built and that is a testament to the fact",
+      "avg_logprob": -0.22215706823577344,
+      "no_speech_prob": 0.10879302024841309
+    },
+    {
+      "id": 8,
+      "start": 27.67,
+      "end": 32.47,
+      "text": "that our infrastructure has yet to catch up to climate change.",
+      "avg_logprob": -0.20198390596816618,
+      "no_speech_prob": 0.006621031556278467
+    },
+    {
+      "id": 9,
+      "start": 32.47,
+      "end": 36.67,
+      "text": "When a lot of places were being built in the 60s and 70s in these coastal areas,",
+      "avg_logprob": -0.20198390596816618,
+      "no_speech_prob": 0.006621031556278467
+    },
+    {
+      "id": 10,
+      "start": 36.67,
+      "end": 40.47,
+      "text": "especially where I live in La Jolla, where the ocean is literally right there,",
+      "avg_logprob": -0.20198390596816618,
+      "no_speech_prob": 0.006621031556278467
+    },
+    {
+      "id": 11,
+      "start": 40.47,
+      "end": 43.31,
+      "text": "extreme heat like this was not a concern.",
+      "avg_logprob": -0.20198390596816618,
+      "no_speech_prob": 0.006621031556278467
+    },
+    {
+      "id": 12,
+      "start": 43.31,
+      "end": 48.03,
+      "text": "Usually in coastal cities and in SoCal, we're drifting between that 60, 70 degree",
+      "avg_logprob": -0.20198390596816618,
+      "no_speech_prob": 0.006621031556278467
+    },
+    {
+      "id": 13,
+      "start": 48.03,
+      "end": 49.27,
+      "text": "weather all the time.",
+      "avg_logprob": -0.20198390596816618,
+      "no_speech_prob": 0.006621031556278467
+    },
+    {
+      "id": 14,
+      "start": 49.27,
+      "end": 51.79,
+      "text": "That's what literally we are known for.",
+      "avg_logprob": -0.20198390596816618,
+      "no_speech_prob": 0.006621031556278467
+    },
+    {
+      "id": 15,
+      "start": 51.79,
+      "end": 55.03,
+      "text": "There'll be a couple days during the summer where it hits like a degree,",
+      "avg_logprob": -0.20198390596816618,
+      "no_speech_prob": 0.006621031556278467
+    },
+    {
+      "id": 16,
+      "start": 55.07,
+      "end": 58.71,
+      "text": "maybe a 19, everyone's like, oh my God, it's a beach day, we need to get out.",
+      "avg_logprob": -0.21425256235846157,
+      "no_speech_prob": 0.10539048165082932
+    },
+    {
+      "id": 17,
+      "start": 58.71,
+      "end": 60.43,
+      "text": "Oh my God.",
+      "avg_logprob": -0.21425256235846157,
+      "no_speech_prob": 0.10539048165082932
+    },
+    {
+      "id": 18,
+      "start": 60.43,
+      "end": 63.95,
+      "text": "But as the years have gone on, the summers here in San Diego have gotten hotter",
+      "avg_logprob": -0.21425256235846157,
+      "no_speech_prob": 0.10539048165082932
+    },
+    {
+      "id": 19,
+      "start": 63.95,
+      "end": 66.91,
+      "text": "and as someone who's lived here my entire life, like I said,",
+      "avg_logprob": -0.21425256235846157,
+      "no_speech_prob": 0.10539048165082932
+    },
+    {
+      "id": 20,
+      "start": 66.91,
+      "end": 72.15,
+      "text": "it has gotten more intensely and comfortably hot each summer.",
+      "avg_logprob": -0.21425256235846157,
+      "no_speech_prob": 0.10539048165082932
+    },
+    {
+      "id": 21,
+      "start": 72.15,
+      "end": 74.71,
+      "text": "And the number one people that these are gonna affect are vulnerable",
+      "avg_logprob": -0.21425256235846157,
+      "no_speech_prob": 0.10539048165082932
+    },
+    {
+      "id": 22,
+      "start": 74.71,
+      "end": 78.15,
+      "text": "populations like the elderly, babies, and animals.",
+      "avg_logprob": -0.21425256235846157,
+      "no_speech_prob": 0.10539048165082932
+    },
+    {
+      "id": 23,
+      "start": 78.15,
+      "end": 81.19,
+      "text": "So I hope this is kind of a wake up call to everybody that climate change",
+      "avg_logprob": -0.21425256235846157,
+      "no_speech_prob": 0.10539048165082932
+    },
+    {
+      "id": 24,
+      "start": 81.19,
+      "end": 84.99,
+      "text": "is real and we are pretty underprepared for it and that we kind of",
+      "avg_logprob": -0.21425256235846157,
+      "no_speech_prob": 0.10539048165082932
+    },
+    {
+      "id": 25,
+      "start": 84.99,
+      "end": 88.67,
+      "text": "have to take matters into our own hands at this point because as a society,",
+      "avg_logprob": -0.17823770536598585,
+      "no_speech_prob": 0.0032108963932842016
+    },
+    {
+      "id": 26,
+      "start": 88.67,
+      "end": 92.07,
+      "text": "we just have not accepted the damage that has been done.",
+      "avg_logprob": -0.17823770536598585,
+      "no_speech_prob": 0.0032108963932842016
+    },
+    {
+      "id": 27,
+      "start": 92.07,
+      "end": 96.51,
+      "text": "So yeah, obviously like in places like Arizona where it's been hot there,",
+      "avg_logprob": -0.17823770536598585,
+      "no_speech_prob": 0.0032108963932842016
+    },
+    {
+      "id": 28,
+      "start": 96.51,
+      "end": 98.67,
+      "text": "a lot of people have AC because if you don't have AC,",
+      "avg_logprob": -0.17823770536598585,
+      "no_speech_prob": 0.0032108963932842016
+    },
+    {
+      "id": 29,
+      "start": 98.67,
+      "end": 102.75,
+      "text": "they look you're not gonna survive, but California was not prepared for this",
+      "avg_logprob": -0.17823770536598585,
+      "no_speech_prob": 0.0032108963932842016
+    },
+    {
+      "id": 30,
+      "start": 102.75,
+      "end": 103.27,
+      "text": "type of weather.",
+      "avg_logprob": -0.17823770536598585,
+      "no_speech_prob": 0.0032108963932842016
+    },
+    {
+      "id": 31,
+      "start": 103.27,
+      "end": 104.27,
+      "text": "We still aren't.",
+      "avg_logprob": -0.17823770536598585,
+      "no_speech_prob": 0.0032108963932842016
+    },
+    {
+      "id": 32,
+      "start": 104.27,
+      "end": 107.55,
+      "text": "We literally have rolling blackouts because our energy grid cannot handle",
+      "avg_logprob": -0.17823770536598585,
+      "no_speech_prob": 0.0032108963932842016
+    },
+    {
+      "id": 33,
+      "start": 107.55,
+      "end": 110.35,
+      "text": "a bunch of people using their AC at the same time.",
+      "avg_logprob": -0.17823770536598585,
+      "no_speech_prob": 0.0032108963932842016
+    },
+    {
+      "id": 34,
+      "start": 110.35,
+      "end": 113.23,
+      "text": "But another part of that note is that rich neighborhoods don't have",
+      "avg_logprob": -0.17823770536598585,
+      "no_speech_prob": 0.0032108963932842016
+    },
+    {
+      "id": 35,
+      "start": 113.23,
+      "end": 113.71,
+      "text": "blackouts.",
+      "avg_logprob": -0.16750136844348162,
+      "no_speech_prob": 0.01352283637970686
+    },
+    {
+      "id": 36,
+      "start": 113.71,
+      "end": 117.15,
+      "text": "SDG and you will do rolling blackouts on low income neighborhoods who are",
+      "avg_logprob": -0.16750136844348162,
+      "no_speech_prob": 0.01352283637970686
+    },
+    {
+      "id": 37,
+      "start": 117.15,
+      "end": 120.31,
+      "text": "using their energy during the conservation hours.",
+      "avg_logprob": -0.16750136844348162,
+      "no_speech_prob": 0.01352283637970686
+    },
+    {
+      "id": 38,
+      "start": 120.31,
+      "end": 122.79,
+      "text": "And they're doing it to try to prevent further blackouts, but",
+      "avg_logprob": -0.16750136844348162,
+      "no_speech_prob": 0.01352283637970686
+    },
+    {
+      "id": 39,
+      "start": 122.79,
+      "end": 126.23,
+      "text": "there's never blackouts in the rich neighborhoods or at their country",
+      "avg_logprob": -0.16750136844348162,
+      "no_speech_prob": 0.01352283637970686
+    },
+    {
+      "id": 40,
+      "start": 126.23,
+      "end": 129.95,
+      "text": "clubs or at the golf courses or any of that.",
+      "avg_logprob": -0.16750136844348162,
+      "no_speech_prob": 0.01352283637970686
+    },
+    {
+      "id": 41,
+      "start": 129.95,
+      "end": 134.39,
+      "text": "But yeah, y'all, just be aware, protect yourselves, drink water,",
+      "avg_logprob": -0.16750136844348162,
+      "no_speech_prob": 0.01352283637970686
+    },
+    {
+      "id": 42,
+      "start": 134.39,
+      "end": 137.79,
+      "text": "and do what you can that's in your financial means and",
+      "avg_logprob": -0.16750136844348162,
+      "no_speech_prob": 0.01352283637970686
+    },
+    {
+      "id": 43,
+      "start": 137.79,
+      "end": 141.51,
+      "text": "don't put other people down because they don't have access to the same",
+      "avg_logprob": -0.16750136844348162,
+      "no_speech_prob": 0.01352283637970686
+    },
+    {
+      "id": 44,
+      "start": 141.51,
+      "end": 143.39,
+      "text": "luxuries and resources that you do.",
+      "avg_logprob": -0.5998235399072821,
+      "no_speech_prob": 0.3663206100463867
+    }
+  ],
+  "transcript_full": "Okay, so another thing that a lot of people were talking about in the comments was why it seems like a lot of people in California don't have air conditioning in their homes. To be honest, it's not a really uncommon thing to me. A lot of people I know and a lot of people I live, there was a heater but not air conditioning. Even at UCSD, the dorms have heaters but no central cooling. The only on-campus living that has ACs are the brand new campus that just got built, brand new dorms that just got built and that is a testament to the fact that our infrastructure has yet to catch up to climate change. When a lot of places were being built in the 60s and 70s in these coastal areas, especially where I live in La Jolla, where the ocean is literally right there, extreme heat like this was not a concern. Usually in coastal cities and in SoCal, we're drifting between that 60, 70 degree weather all the time. That's what literally we are known for. There'll be a couple days during the summer where it hits like a degree, maybe a 19, everyone's like, oh my God, it's a beach day, we need to get out. Oh my God. But as the years have gone on, the summers here in San Diego have gotten hotter and as someone who's lived here my entire life, like I said, it has gotten more intensely and comfortably hot each summer. And the number one people that these are gonna affect are vulnerable populations like the elderly, babies, and animals. So I hope this is kind of a wake up call to everybody that climate change is real and we are pretty underprepared for it and that we kind of have to take matters into our own hands at this point because as a society, we just have not accepted the damage that has been done. So yeah, obviously like in places like Arizona where it's been hot there, a lot of people have AC because if you don't have AC, they look you're not gonna survive, but California was not prepared for this type of weather. We still aren't. We literally have rolling blackouts because our energy grid cannot handle a bunch of people using their AC at the same time. But another part of that note is that rich neighborhoods don't have blackouts. SDG and you will do rolling blackouts on low income neighborhoods who are using their energy during the conservation hours. And they're doing it to try to prevent further blackouts, but there's never blackouts in the rich neighborhoods or at their country clubs or at the golf courses or any of that. But yeah, y'all, just be aware, protect yourselves, drink water, and do what you can that's in your financial means and don't put other people down because they don't have access to the same luxuries and resources that you do.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

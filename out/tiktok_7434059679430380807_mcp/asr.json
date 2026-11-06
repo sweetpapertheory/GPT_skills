@@ -1,0 +1,68 @@
+{
+  "language": "en",
+  "language_probability": 1,
+  "duration": 23.0,
+  "duration_after_vad": 18.2,
+  "segment_count": 7,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.42,
+      "end": 5.82,
+      "text": "Have you been experiencing hot and rainy weather at the same time?",
+      "avg_logprob": -0.23039676935264938,
+      "no_speech_prob": 0.03127225488424301
+    },
+    {
+      "id": 2,
+      "start": 5.82,
+      "end": 8.62,
+      "text": "Do you know why we're facing such erratic weather?",
+      "avg_logprob": -0.23039676935264938,
+      "no_speech_prob": 0.03127225488424301
+    },
+    {
+      "id": 3,
+      "start": 8.62,
+      "end": 10.82,
+      "text": "It is due to climate change.",
+      "avg_logprob": -0.23039676935264938,
+      "no_speech_prob": 0.03127225488424301
+    },
+    {
+      "id": 4,
+      "start": 10.82,
+      "end": 13.02,
+      "text": "So how do we overcome this?",
+      "avg_logprob": -0.23039676935264938,
+      "no_speech_prob": 0.03127225488424301
+    },
+    {
+      "id": 5,
+      "start": 13.02,
+      "end": 16.42,
+      "text": "By restoring nature and practicing sustainable habits.",
+      "avg_logprob": -0.23039676935264938,
+      "no_speech_prob": 0.03127225488424301
+    },
+    {
+      "id": 6,
+      "start": 16.42,
+      "end": 18.82,
+      "text": "Let's overcome climate change together.",
+      "avg_logprob": -0.23039676935264938,
+      "no_speech_prob": 0.03127225488424301
+    },
+    {
+      "id": 7,
+      "start": 18.82,
+      "end": 20.62,
+      "text": "Learn more in our LinkedIn bio.",
+      "avg_logprob": -0.23039676935264938,
+      "no_speech_prob": 0.03127225488424301
+    }
+  ],
+  "transcript_full": "Have you been experiencing hot and rainy weather at the same time? Do you know why we're facing such erratic weather? It is due to climate change. So how do we overcome this? By restoring nature and practicing sustainable habits. Let's overcome climate change together. Learn more in our LinkedIn bio.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

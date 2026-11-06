@@ -1,0 +1,260 @@
+{
+  "language": "en",
+  "language_probability": 0.9996168613433838,
+  "duration": 62.367,
+  "duration_after_vad": 62.16,
+  "segment_count": 31,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.76,
+      "text": "Have you heard about Last Chance Tourism and how it may be destroying the planet?",
+      "avg_logprob": -0.1463678332782069,
+      "no_speech_prob": 0.009991375729441643
+    },
+    {
+      "id": 2,
+      "start": 2.76,
+      "end": 5.84,
+      "text": "Buckle up your seatbelts, Bestie, because this one's fucking crazy.",
+      "avg_logprob": -0.1463678332782069,
+      "no_speech_prob": 0.009991375729441643
+    },
+    {
+      "id": 3,
+      "start": 5.84,
+      "end": 8.16,
+      "text": "Last Chance Tourism is essentially exactly what it sounds like.",
+      "avg_logprob": -0.1463678332782069,
+      "no_speech_prob": 0.009991375729441643
+    },
+    {
+      "id": 4,
+      "start": 8.16,
+      "end": 10.56,
+      "text": "As we keep destroying the planet, things are falling apart.",
+      "avg_logprob": -0.1463678332782069,
+      "no_speech_prob": 0.009991375729441643
+    },
+    {
+      "id": 5,
+      "start": 10.56,
+      "end": 11.12,
+      "text": "Duh!",
+      "avg_logprob": -0.1463678332782069,
+      "no_speech_prob": 0.009991375729441643
+    },
+    {
+      "id": 6,
+      "start": 11.12,
+      "end": 11.84,
+      "text": "Here's the deal.",
+      "avg_logprob": -0.1463678332782069,
+      "no_speech_prob": 0.009991375729441643
+    },
+    {
+      "id": 7,
+      "start": 11.84,
+      "end": 14.24,
+      "text": "All of these natural wonders that we don't want to lose,",
+      "avg_logprob": -0.1463678332782069,
+      "no_speech_prob": 0.009991375729441643
+    },
+    {
+      "id": 8,
+      "start": 14.24,
+      "end": 17.8,
+      "text": "but we are losing because we literally refuse to change our ways.",
+      "avg_logprob": -0.1463678332782069,
+      "no_speech_prob": 0.009991375729441643
+    },
+    {
+      "id": 9,
+      "start": 17.8,
+      "end": 20.76,
+      "text": "People are essentially flocking there to see them before they disappear.",
+      "avg_logprob": -0.1463678332782069,
+      "no_speech_prob": 0.009991375729441643
+    },
+    {
+      "id": 10,
+      "start": 20.76,
+      "end": 22.96,
+      "text": "Some really great examples of this are glaciers,",
+      "avg_logprob": -0.1463678332782069,
+      "no_speech_prob": 0.009991375729441643
+    },
+    {
+      "id": 11,
+      "start": 22.96,
+      "end": 24.4,
+      "text": "delicate coral reefs,",
+      "avg_logprob": -0.1463678332782069,
+      "no_speech_prob": 0.009991375729441643
+    },
+    {
+      "id": 12,
+      "start": 24.4,
+      "end": 26.48,
+      "text": "even certain trail systems that are being threatened to be closed off",
+      "avg_logprob": -0.1463678332782069,
+      "no_speech_prob": 0.009991375729441643
+    },
+    {
+      "id": 13,
+      "start": 26.48,
+      "end": 28.4,
+      "text": "because people don't know how to practice leave no trace.",
+      "avg_logprob": -0.1463678332782069,
+      "no_speech_prob": 0.009991375729441643
+    },
+    {
+      "id": 14,
+      "start": 28.4,
+      "end": 30.24,
+      "text": "And while there is some research to suggest",
+      "avg_logprob": -0.12344632761144056,
+      "no_speech_prob": 0.0009343981510028243
+    },
+    {
+      "id": 15,
+      "start": 30.24,
+      "end": 32.96,
+      "text": "that people visiting Last Chance Tourism hotspots such as glaciers",
+      "avg_logprob": -0.12344632761144056,
+      "no_speech_prob": 0.0009343981510028243
+    },
+    {
+      "id": 16,
+      "start": 32.96,
+      "end": 34.96,
+      "text": "may have a come to Jesus moment and open their eyes",
+      "avg_logprob": -0.12344632761144056,
+      "no_speech_prob": 0.0009343981510028243
+    },
+    {
+      "id": 17,
+      "start": 34.96,
+      "end": 36.08,
+      "text": "and try to change their ways,",
+      "avg_logprob": -0.12344632761144056,
+      "no_speech_prob": 0.0009343981510028243
+    },
+    {
+      "id": 18,
+      "start": 36.08,
+      "end": 38.24,
+      "text": "become more informed and start advocating for the planet,",
+      "avg_logprob": -0.12344632761144056,
+      "no_speech_prob": 0.0009343981510028243
+    },
+    {
+      "id": 19,
+      "start": 38.24,
+      "end": 40.4,
+      "text": "increased visitation to already fragile ecosystems",
+      "avg_logprob": -0.12344632761144056,
+      "no_speech_prob": 0.0009343981510028243
+    },
+    {
+      "id": 20,
+      "start": 40.4,
+      "end": 41.68,
+      "text": "can cause more harm than good.",
+      "avg_logprob": -0.12344632761144056,
+      "no_speech_prob": 0.0009343981510028243
+    },
+    {
+      "id": 21,
+      "start": 41.68,
+      "end": 43.28,
+      "text": "Furthermore, an additional study found",
+      "avg_logprob": -0.12344632761144056,
+      "no_speech_prob": 0.0009343981510028243
+    },
+    {
+      "id": 22,
+      "start": 43.28,
+      "end": 45.2,
+      "text": "that people visiting Last Chance Tourism spots,",
+      "avg_logprob": -0.12344632761144056,
+      "no_speech_prob": 0.0009343981510028243
+    },
+    {
+      "id": 23,
+      "start": 45.2,
+      "end": 46.16,
+      "text": "specifically in Canada,",
+      "avg_logprob": -0.12344632761144056,
+      "no_speech_prob": 0.0009343981510028243
+    },
+    {
+      "id": 24,
+      "start": 46.16,
+      "end": 49.2,
+      "text": "were unwilling to pay any extra to offset their global footprint.",
+      "avg_logprob": -0.12344632761144056,
+      "no_speech_prob": 0.0009343981510028243
+    },
+    {
+      "id": 25,
+      "start": 49.2,
+      "end": 51.28,
+      "text": "Because, you know, traveling to special places",
+      "avg_logprob": -0.12344632761144056,
+      "no_speech_prob": 0.0009343981510028243
+    },
+    {
+      "id": 26,
+      "start": 51.28,
+      "end": 53.36,
+      "text": "is gonna have an impact on the environment.",
+      "avg_logprob": -0.12344632761144056,
+      "no_speech_prob": 0.0009343981510028243
+    },
+    {
+      "id": 27,
+      "start": 53.36,
+      "end": 55.36,
+      "text": "Comes down to is essentially an ethical paradox.",
+      "avg_logprob": -0.12344632761144056,
+      "no_speech_prob": 0.0009343981510028243
+    },
+    {
+      "id": 28,
+      "start": 55.36,
+      "end": 56.88,
+      "text": "I'd love to know your thoughts on this.",
+      "avg_logprob": -0.12344632761144056,
+      "no_speech_prob": 0.0009343981510028243
+    },
+    {
+      "id": 29,
+      "start": 56.88,
+      "end": 59.36,
+      "text": "Is increased visitation to these fragile ecosystems a good thing?",
+      "avg_logprob": -0.16101129528354197,
+      "no_speech_prob": 0.18465971946716309
+    },
+    {
+      "id": 30,
+      "start": 59.36,
+      "end": 60.72,
+      "text": "Are people just doing what they do?",
+      "avg_logprob": -0.16101129528354197,
+      "no_speech_prob": 0.18465971946716309
+    },
+    {
+      "id": 31,
+      "start": 60.72,
+      "end": 62.16,
+      "text": "Causing more harm than good.",
+      "avg_logprob": -0.16101129528354197,
+      "no_speech_prob": 0.18465971946716309
+    }
+  ],
+  "transcript_full": "Have you heard about Last Chance Tourism and how it may be destroying the planet? Buckle up your seatbelts, Bestie, because this one's fucking crazy. Last Chance Tourism is essentially exactly what it sounds like. As we keep destroying the planet, things are falling apart. Duh! Here's the deal. All of these natural wonders that we don't want to lose, but we are losing because we literally refuse to change our ways. People are essentially flocking there to see them before they disappear. Some really great examples of this are glaciers, delicate coral reefs, even certain trail systems that are being threatened to be closed off because people don't know how to practice leave no trace. And while there is some research to suggest that people visiting Last Chance Tourism hotspots such as glaciers may have a come to Jesus moment and open their eyes and try to change their ways, become more informed and start advocating for the planet, increased visitation to already fragile ecosystems can cause more harm than good. Furthermore, an additional study found that people visiting Last Chance Tourism spots, specifically in Canada, were unwilling to pay any extra to offset their global footprint. Because, you know, traveling to special places is gonna have an impact on the environment. Comes down to is essentially an ethical paradox. I'd love to know your thoughts on this. Is increased visitation to these fragile ecosystems a good thing? Are people just doing what they do? Causing more harm than good.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

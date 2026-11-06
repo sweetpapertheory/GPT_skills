@@ -1,0 +1,28 @@
+{
+  "language": "en",
+  "language_probability": 0.9846354722976685,
+  "duration": 15.067,
+  "duration_after_vad": 14.81,
+  "segment_count": 2,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.21,
+      "end": 5.87,
+      "text": "Oh my god, I can't believe it took humans so long to realize that humans are killing the globe.",
+      "avg_logprob": -0.33104126046343546,
+      "no_speech_prob": 0.05891930311918259
+    },
+    {
+      "id": 2,
+      "start": 5.87,
+      "end": 15.02,
+      "text": "It's not humans, it's colonization, it's not...",
+      "avg_logprob": -0.33104126046343546,
+      "no_speech_prob": 0.05891930311918259
+    }
+  ],
+  "transcript_full": "Oh my god, I can't believe it took humans so long to realize that humans are killing the globe. It's not humans, it's colonization, it's not...",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

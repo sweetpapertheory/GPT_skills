@@ -1,0 +1,100 @@
+{
+  "language": "en",
+  "language_probability": 0.9868135452270508,
+  "duration": 136.833,
+  "duration_after_vad": 83.52,
+  "segment_count": 11,
+  "segments": [
+    {
+      "id": 1,
+      "start": 9.49,
+      "end": 16.21,
+      "text": "Once the world was peace and its beauty was breathtaking, the forest was enourmous and densely",
+      "avg_logprob": -0.21824656554630825,
+      "no_speech_prob": 0.0033708245027810335
+    },
+    {
+      "id": 2,
+      "start": 16.21,
+      "end": 25.01,
+      "text": "forested and provided us with food and shelter. The animals were allowed to rule freely. It was",
+      "avg_logprob": -0.21824656554630825,
+      "no_speech_prob": 0.0033708245027810335
+    },
+    {
+      "id": 3,
+      "start": 25.01,
+      "end": 34.53,
+      "text": "amazing how clean the air was. The sky and water were both clean and blue. The fields were lush",
+      "avg_logprob": -0.21824656554630825,
+      "no_speech_prob": 0.0033708245027810335
+    },
+    {
+      "id": 4,
+      "start": 34.53,
+      "end": 40.61,
+      "text": "and the land was clean. The planet was indeed a beautiful place to live, but in one snap,",
+      "avg_logprob": -0.1318414168698447,
+      "no_speech_prob": 0.05789101496338844
+    },
+    {
+      "id": 5,
+      "start": 42.21,
+      "end": 51.01,
+      "text": "everything turned different. Climate change is a critical issue that affect every living being",
+      "avg_logprob": -0.1318414168698447,
+      "no_speech_prob": 0.05789101496338844
+    },
+    {
+      "id": 6,
+      "start": 51.01,
+      "end": 58.69,
+      "text": "on our planet. It is caused by human activities such as burning fossil fuels, deforestation",
+      "avg_logprob": -0.1318414168698447,
+      "no_speech_prob": 0.05789101496338844
+    },
+    {
+      "id": 7,
+      "start": 58.69,
+      "end": 66.45,
+      "text": "and industrial processes, which release large amounts of greenhouse gases into the atmosphere.",
+      "avg_logprob": -0.15877737131501948,
+      "no_speech_prob": 0.14064185321331024
+    },
+    {
+      "id": 8,
+      "start": 67.89,
+      "end": 75.01,
+      "text": "These gases trap heat from the sun causing the earth temperature to rise and leading",
+      "avg_logprob": -0.15877737131501948,
+      "no_speech_prob": 0.14064185321331024
+    },
+    {
+      "id": 9,
+      "start": 75.01,
+      "end": 82.85,
+      "text": "to a range of negative impact, such as rising sea levels, more frequent and intense weather",
+      "avg_logprob": -0.15877737131501948,
+      "no_speech_prob": 0.14064185321331024
+    },
+    {
+      "id": 10,
+      "start": 82.85,
+      "end": 92.85,
+      "text": "events and loss of our diversity. Together, let's act global and act local. Let's reduce our carbon",
+      "avg_logprob": -0.3003275322191643,
+      "no_speech_prob": 0.18157614767551422
+    },
+    {
+      "id": 11,
+      "start": 92.85,
+      "end": 96.05,
+      "text": "footprint and save the planet.",
+      "avg_logprob": -0.3003275322191643,
+      "no_speech_prob": 0.18157614767551422
+    }
+  ],
+  "transcript_full": "Once the world was peace and its beauty was breathtaking, the forest was enourmous and densely forested and provided us with food and shelter. The animals were allowed to rule freely. It was amazing how clean the air was. The sky and water were both clean and blue. The fields were lush and the land was clean. The planet was indeed a beautiful place to live, but in one snap, everything turned different. Climate change is a critical issue that affect every living being on our planet. It is caused by human activities such as burning fossil fuels, deforestation and industrial processes, which release large amounts of greenhouse gases into the atmosphere. These gases trap heat from the sun causing the earth temperature to rise and leading to a range of negative impact, such as rising sea levels, more frequent and intense weather events and loss of our diversity. Together, let's act global and act local. Let's reduce our carbon footprint and save the planet.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

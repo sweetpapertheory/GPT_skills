@@ -1,0 +1,124 @@
+{
+  "language": "en",
+  "language_probability": 0.9978328347206116,
+  "duration": 45.267,
+  "duration_after_vad": 45.04,
+  "segment_count": 14,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.68,
+      "text": "What would you do if you could never visit your favorite parks, beaches, or vacation spots again?",
+      "avg_logprob": -0.09952939728386381,
+      "no_speech_prob": 0.017915865406394005
+    },
+    {
+      "id": 2,
+      "start": 5.68,
+      "end": 8.8,
+      "text": "Because that's a possibility with the current state of climate change.",
+      "avg_logprob": -0.09952939728386381,
+      "no_speech_prob": 0.017915865406394005
+    },
+    {
+      "id": 3,
+      "start": 8.8,
+      "end": 12.88,
+      "text": "Unnatural disasters are accelerating in frequency and severity as a result of",
+      "avg_logprob": -0.09952939728386381,
+      "no_speech_prob": 0.017915865406394005
+    },
+    {
+      "id": 4,
+      "start": 12.88,
+      "end": 16.64,
+      "text": "fossil fuel pollution and impacting the people in places we all love.",
+      "avg_logprob": -0.09952939728386381,
+      "no_speech_prob": 0.017915865406394005
+    },
+    {
+      "id": 5,
+      "start": 16.64,
+      "end": 20.8,
+      "text": "All Hands and Hearts is a volunteer-powered non-profit that addresses the immediate",
+      "avg_logprob": -0.09952939728386381,
+      "no_speech_prob": 0.017915865406394005
+    },
+    {
+      "id": 6,
+      "start": 20.8,
+      "end": 24.48,
+      "text": "and long-term needs of communities impacted by these disasters.",
+      "avg_logprob": -0.09952939728386381,
+      "no_speech_prob": 0.017915865406394005
+    },
+    {
+      "id": 7,
+      "start": 24.48,
+      "end": 27.2,
+      "text": "Hurricane Milton and Helene were the wake-up calls we needed.",
+      "avg_logprob": -0.09952939728386381,
+      "no_speech_prob": 0.017915865406394005
+    },
+    {
+      "id": 8,
+      "start": 27.2,
+      "end": 29.04,
+      "text": "We have two things to do at once.",
+      "avg_logprob": -0.1448059360404591,
+      "no_speech_prob": 0.043571099638938904
+    },
+    {
+      "id": 9,
+      "start": 29.04,
+      "end": 32.8,
+      "text": "One, donate what you can to hurricane survivors at laterstoolaid.org.",
+      "avg_logprob": -0.1448059360404591,
+      "no_speech_prob": 0.043571099638938904
+    },
+    {
+      "id": 10,
+      "start": 32.8,
+      "end": 34.16,
+      "text": "They desperately need help.",
+      "avg_logprob": -0.1448059360404591,
+      "no_speech_prob": 0.043571099638938904
+    },
+    {
+      "id": 11,
+      "start": 34.16,
+      "end": 37.68,
+      "text": "And step two, we must raise our voice in the fight against climate change.",
+      "avg_logprob": -0.1448059360404591,
+      "no_speech_prob": 0.043571099638938904
+    },
+    {
+      "id": 12,
+      "start": 37.68,
+      "end": 40.16,
+      "text": "Let's start calling these events what they actually are.",
+      "avg_logprob": -0.1448059360404591,
+      "no_speech_prob": 0.043571099638938904
+    },
+    {
+      "id": 13,
+      "start": 40.16,
+      "end": 43.52,
+      "text": "Unnatural by the burning fossil fuels and human activity.",
+      "avg_logprob": -0.1448059360404591,
+      "no_speech_prob": 0.043571099638938904
+    },
+    {
+      "id": 14,
+      "start": 43.52,
+      "end": 45.04,
+      "text": "And tap to get started now.",
+      "avg_logprob": -0.1448059360404591,
+      "no_speech_prob": 0.043571099638938904
+    }
+  ],
+  "transcript_full": "What would you do if you could never visit your favorite parks, beaches, or vacation spots again? Because that's a possibility with the current state of climate change. Unnatural disasters are accelerating in frequency and severity as a result of fossil fuel pollution and impacting the people in places we all love. All Hands and Hearts is a volunteer-powered non-profit that addresses the immediate and long-term needs of communities impacted by these disasters. Hurricane Milton and Helene were the wake-up calls we needed. We have two things to do at once. One, donate what you can to hurricane survivors at laterstoolaid.org. They desperately need help. And step two, we must raise our voice in the fight against climate change. Let's start calling these events what they actually are. Unnatural by the burning fossil fuels and human activity. And tap to get started now.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

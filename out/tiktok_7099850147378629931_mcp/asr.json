@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "language_probability": 0.43332985043525696,
+  "duration": 8.967,
+  "duration_after_vad": 2.0,
+  "segment_count": 1,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.98,
+      "end": 2.98,
+      "text": "Let's just do the thing",
+      "avg_logprob": -0.893137084113227,
+      "no_speech_prob": 0.8285297155380249
+    }
+  ],
+  "transcript_full": "Let's just do the thing",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

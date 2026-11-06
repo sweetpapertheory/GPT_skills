@@ -1,0 +1,180 @@
+{
+  "language": "sw",
+  "language_probability": 0.6030317544937134,
+  "duration": 264.056,
+  "duration_after_vad": 246.64,
+  "segment_count": 21,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.97,
+      "end": 13.61,
+      "text": "I welcome you to Nairobi, Kenya's capital with the distinction of being the only city with a national wildlife park on one side and a closed canopy forest on the other.",
+      "avg_logprob": -0.23274644500598674,
+      "no_speech_prob": 0.10791880637407303
+    },
+    {
+      "id": 2,
+      "start": 13.61,
+      "end": 21.13,
+      "text": "Kenya is a country of innovative, hardworking, hospitable and ecologically conscious people.",
+      "avg_logprob": -0.23274644500598674,
+      "no_speech_prob": 0.10791880637407303
+    },
+    {
+      "id": 3,
+      "start": 21.13,
+      "end": 30.73,
+      "text": "It is also a magical place full of delightful attractions with breathtaking diversity of natural flora and fauna,",
+      "avg_logprob": -0.23274644500598674,
+      "no_speech_prob": 0.10791880637407303
+    },
+    {
+      "id": 4,
+      "start": 31.13,
+      "end": 38.21,
+      "text": "stunning landscapes, vibrant cultures and an impressive enterprise work and service ethic.",
+      "avg_logprob": -0.24878259915024487,
+      "no_speech_prob": 0.003299327800050378
+    },
+    {
+      "id": 5,
+      "start": 38.21,
+      "end": 60.53,
+      "text": "Between 4th and 6th of September this year, Nairobi will host the Africa Climate Summit where our continent will gather to define and refine its fresh and distinctive position regarding how humanity should engage in effective action in order to save this planet",
+      "avg_logprob": -0.24878259915024487,
+      "no_speech_prob": 0.003299327800050378
+    },
+    {
+      "id": 6,
+      "start": 60.53,
+      "end": 67.57,
+      "text": "from a climate catastrophe and at the same time lift hundreds of millions out of poverty.",
+      "avg_logprob": -0.16997994740804037,
+      "no_speech_prob": 0.012550054118037224
+    },
+    {
+      "id": 7,
+      "start": 67.57,
+      "end": 74.57,
+      "text": "As the chairperson of the Committee of African Heads of State and Government on Climate Change",
+      "avg_logprob": -0.16997994740804037,
+      "no_speech_prob": 0.012550054118037224
+    },
+    {
+      "id": 8,
+      "start": 74.57,
+      "end": 87.89,
+      "text": "and as president of Kenya, it is an immense privilege to have the owner of inviting fellow heads of state and government from every African nation and throughout the world.",
+      "avg_logprob": -0.16997994740804037,
+      "no_speech_prob": 0.012550054118037224
+    },
+    {
+      "id": 9,
+      "start": 87.89,
+      "end": 103.69,
+      "text": "Heads of national delegations, corporate leaders and captains of industry, representations of development, institutions and every distinguished participant to Nairobi for the Africa Climate Summit.",
+      "avg_logprob": -0.17134332495766716,
+      "no_speech_prob": 0.02105800248682499
+    },
+    {
+      "id": 10,
+      "start": 103.69,
+      "end": 112.01,
+      "text": "As Afrika, we are committed to bringing everyone on board in order to make every voice to be heard.",
+      "avg_logprob": -0.17712985475858053,
+      "no_speech_prob": 0.47710874676704407
+    },
+    {
+      "id": 11,
+      "start": 112.01,
+      "end": 122.01,
+      "text": "Since the climate crisis does not discriminate between the global north and the global south or between rich nations or poor nations,",
+      "avg_logprob": -0.17712985475858053,
+      "no_speech_prob": 0.47710874676704407
+    },
+    {
+      "id": 12,
+      "start": 122.13,
+      "end": 134.13,
+      "text": "effective climate action must recognize our shared threat as well as collective opportunity to develop and implement common global solutions.",
+      "avg_logprob": -0.1649623780414976,
+      "no_speech_prob": 0.2750377953052521
+    },
+    {
+      "id": 13,
+      "start": 134.13,
+      "end": 148.13,
+      "text": "Afrika is ushering in a new era of international solidarity and multilateral governance to guide the world in climate action and a new green industrial age.",
+      "avg_logprob": -0.1649623780414976,
+      "no_speech_prob": 0.2750377953052521
+    },
+    {
+      "id": 14,
+      "start": 148.25,
+      "end": 166.25,
+      "text": "We are championing new values to reconcile sustainable development with environmental responsibility through decarbonization and clean production and advocating inclusion and justice in international governance and development.",
+      "avg_logprob": -0.13984118484788471,
+      "no_speech_prob": 0.005559889599680901
+    },
+    {
+      "id": 15,
+      "start": 166.65,
+      "end": 184.65,
+      "text": "Afrika nasiyans are emerging as the new touch bearers of the most impactful climate action and at the summit, we aspire to chart a new growth agenda that will deliver shared prosperity and sustainable development.",
+      "avg_logprob": -0.2807418425877889,
+      "no_speech_prob": 0.06722128391265869
+    },
+    {
+      "id": 16,
+      "start": 185.05,
+      "end": 204.05,
+      "text": "I am strongly persuaded that the Africa Climate Summit will give all of us a unique opportunity to make significant progress in the global climate action agenda by committing to the Nairobi Declaration on Green Growth and Climate Finance.",
+      "avg_logprob": -0.1367256032096015,
+      "no_speech_prob": 0.04741354286670685
+    },
+    {
+      "id": 17,
+      "start": 204.81,
+      "end": 214.81,
+      "text": "This commitment will consolidate and outline Africa's ambitious green growth agenda and climate finance solutions.",
+      "avg_logprob": -0.12355022620538185,
+      "no_speech_prob": 0.1891549676656723
+    },
+    {
+      "id": 18,
+      "start": 214.81,
+      "end": 227.81,
+      "text": "I am honored to have the opportunity to convey the collective gratitude of the people of Kenya to the Africa Union for entrusting us with the opportunity to host the Africa Climate Summit.",
+      "avg_logprob": -0.12355022620538185,
+      "no_speech_prob": 0.1891549676656723
+    },
+    {
+      "id": 19,
+      "start": 228.05,
+      "end": 240.05,
+      "text": "We are making every effort to make Africa proud by giving every delegate an incomparable and historic all Kenyan experience.",
+      "avg_logprob": -0.18191020536635602,
+      "no_speech_prob": 0.04231442138552666
+    },
+    {
+      "id": 20,
+      "start": 240.05,
+      "end": 248.05,
+      "text": "Welcome to Kenya for the Africa Climate Summit from the 4th to the 6th September 2023.",
+      "avg_logprob": -0.18191020536635602,
+      "no_speech_prob": 0.04231442138552666
+    },
+    {
+      "id": 21,
+      "start": 248.05,
+      "end": 251.05,
+      "text": "See you all in Nairobi.",
+      "avg_logprob": -0.18191020536635602,
+      "no_speech_prob": 0.04231442138552666
+    }
+  ],
+  "transcript_full": "I welcome you to Nairobi, Kenya's capital with the distinction of being the only city with a national wildlife park on one side and a closed canopy forest on the other. Kenya is a country of innovative, hardworking, hospitable and ecologically conscious people. It is also a magical place full of delightful attractions with breathtaking diversity of natural flora and fauna, stunning landscapes, vibrant cultures and an impressive enterprise work and service ethic. Between 4th and 6th of September this year, Nairobi will host the Africa Climate Summit where our continent will gather to define and refine its fresh and distinctive position regarding how humanity should engage in effective action in order to save this planet from a climate catastrophe and at the same time lift hundreds of millions out of poverty. As the chairperson of the Committee of African Heads of State and Government on Climate Change and as president of Kenya, it is an immense privilege to have the owner of inviting fellow heads of state and government from every African nation and throughout the world. Heads of national delegations, corporate leaders and captains of industry, representations of development, institutions and every distinguished participant to Nairobi for the Africa Climate Summit. As Afrika, we are committed to bringing everyone on board in order to make every voice to be heard. Since the climate crisis does not discriminate between the global north and the global south or between rich nations or poor nations, effective climate action must recognize our shared threat as well as collective opportunity to develop and implement common global solutions. Afrika is ushering in a new era of international solidarity and multilateral governance to guide the world in climate action and a new green industrial age. We are championing new values to reconcile sustainable development with environmental responsibility through decarbonization and clean production and advocating inclusion and justice in international governance and development. Afrika nasiyans are emerging as the new touch bearers of the most impactful climate action and at the summit, we aspire to chart a new growth agenda that will deliver shared prosperity and sustainable development. I am strongly persuaded that the Africa Climate Summit will give all of us a unique opportunity to make significant progress in the global climate action agenda by committing to the Nairobi Declaration on Green Growth and Climate Finance. This commitment will consolidate and outline Africa's ambitious green growth agenda and climate finance solutions. I am honored to have the opportunity to convey the collective gratitude of the people of Kenya to the Africa Union for entrusting us with the opportunity to host the Africa Climate Summit. We are making every effort to make Africa proud by giving every delegate an incomparable and historic all Kenyan experience. Welcome to Kenya for the Africa Climate Summit from the 4th to the 6th September 2023. See you all in Nairobi.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

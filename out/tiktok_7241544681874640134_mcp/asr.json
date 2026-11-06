@@ -1,0 +1,20 @@
+{
+  "language": "uk",
+  "language_probability": 0.4800977110862732,
+  "duration": 53.034,
+  "duration_after_vad": 4.78,
+  "segment_count": 1,
+  "segments": [
+    {
+      "id": 1,
+      "start": 28.34,
+      "end": 33.12,
+      "text": "Наявжане, то ж завтра я зможу пі...",
+      "avg_logprob": -0.6779453224605985,
+      "no_speech_prob": 0.4747730791568756
+    }
+  ],
+  "transcript_full": "Наявжане, то ж завтра я зможу пі...",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

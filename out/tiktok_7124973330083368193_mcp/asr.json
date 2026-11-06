@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "language_probability": 0.9392997622489929,
+  "duration": 83.067,
+  "duration_after_vad": 4.8,
+  "segment_count": 1,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.8,
+      "text": "BTS of a piece we made after the tsunami hit Tonga earlier this year.",
+      "avg_logprob": -0.34841336074628326,
+      "no_speech_prob": 0.02142590656876564
+    }
+  ],
+  "transcript_full": "BTS of a piece we made after the tsunami hit Tonga earlier this year.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

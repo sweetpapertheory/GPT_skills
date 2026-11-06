@@ -1,0 +1,220 @@
+{
+  "language": "en",
+  "language_probability": 0.9956240057945251,
+  "duration": 230.1,
+  "duration_after_vad": 190.76,
+  "segment_count": 26,
+  "segments": [
+    {
+      "id": 1,
+      "start": 7.92,
+      "end": 15.92,
+      "text": "Hey there, I'm Dwin, I'm Shabil and I'm Brandon. Today we're going to talk about global warming and climate change.",
+      "avg_logprob": -0.21269039521840485,
+      "no_speech_prob": 0.08013641089200974
+    },
+    {
+      "id": 2,
+      "start": 15.92,
+      "end": 26.78,
+      "text": "There is a lot of ways to overcome the phenomena of global warming and climate change for sustainability life on Earth, such as change of light.",
+      "avg_logprob": -0.21269039521840485,
+      "no_speech_prob": 0.08013641089200974
+    },
+    {
+      "id": 3,
+      "start": 26.78,
+      "end": 34.78,
+      "text": "Replacing one regular light bulb with a compact fluorescent light bulb will save 150 pounds of carbon dioxide a year.",
+      "avg_logprob": -0.21269039521840485,
+      "no_speech_prob": 0.08013641089200974
+    },
+    {
+      "id": 4,
+      "start": 34.78,
+      "end": 47.4,
+      "text": "Adjust your thermostat. Moving your thermostat down just to degrees in winter and up to degrees in summer could save about 2,000 pounds of carbon dioxide a year.",
+      "avg_logprob": -0.07671386981382966,
+      "no_speech_prob": 0.017554117366671562
+    },
+    {
+      "id": 5,
+      "start": 47.4,
+      "end": 67.9,
+      "text": "Drive less. Option for eco-friendly transportation alternatives such as walking, biking or carpooling on a regular basis and contribute to reducing one pound of carbon dioxide emissions for every mile you avoid driving.",
+      "avg_logprob": -0.07671386981382966,
+      "no_speech_prob": 0.017554117366671562
+    },
+    {
+      "id": 6,
+      "start": 67.9,
+      "end": 84.18,
+      "text": "Plant a tree. By planting a single tree, you actively participate in combating climate change, as this living organism can absorb and sequester a staggering one ton of carbon dioxide during its lifetime.",
+      "avg_logprob": -0.08281541021564338,
+      "no_speech_prob": 0.032656535506248474
+    },
+    {
+      "id": 7,
+      "start": 84.18,
+      "end": 89.18,
+      "text": "And that's how to overcome global warming and climate change. Thanks for watching.",
+      "avg_logprob": -0.08281541021564338,
+      "no_speech_prob": 0.032656535506248474
+    },
+    {
+      "id": 8,
+      "start": 89.18,
+      "end": 100.27,
+      "text": "Wait. You already know how to overcome global warming and climate change, right?",
+      "avg_logprob": -0.08281541021564338,
+      "no_speech_prob": 0.032656535506248474
+    },
+    {
+      "id": 9,
+      "start": 100.27,
+      "end": 104.27,
+      "text": "But did you know what causes global warming and climate change?",
+      "avg_logprob": -0.11842295084849443,
+      "no_speech_prob": 0.21000264585018158
+    },
+    {
+      "id": 10,
+      "start": 104.27,
+      "end": 105.27,
+      "text": "No.",
+      "avg_logprob": -0.11842295084849443,
+      "no_speech_prob": 0.21000264585018158
+    },
+    {
+      "id": 11,
+      "start": 105.27,
+      "end": 106.27,
+      "text": "Same.",
+      "avg_logprob": -0.11842295084849443,
+      "no_speech_prob": 0.21000264585018158
+    },
+    {
+      "id": 12,
+      "start": 106.27,
+      "end": 109.27,
+      "text": "And that's why we go in to call Dwyne for help.",
+      "avg_logprob": -0.11842295084849443,
+      "no_speech_prob": 0.21000264585018158
+    },
+    {
+      "id": 13,
+      "start": 109.27,
+      "end": 111.27,
+      "text": "Dwyne, come here.",
+      "avg_logprob": -0.11842295084849443,
+      "no_speech_prob": 0.21000264585018158
+    },
+    {
+      "id": 14,
+      "start": 111.27,
+      "end": 112.27,
+      "text": "What?",
+      "avg_logprob": -0.11842295084849443,
+      "no_speech_prob": 0.21000264585018158
+    },
+    {
+      "id": 15,
+      "start": 112.27,
+      "end": 115.27,
+      "text": "Can you tell us what causes global warming and climate change?",
+      "avg_logprob": -0.11842295084849443,
+      "no_speech_prob": 0.21000264585018158
+    },
+    {
+      "id": 16,
+      "start": 115.27,
+      "end": 118.27,
+      "text": "Sure. Why not?",
+      "avg_logprob": -0.11842295084849443,
+      "no_speech_prob": 0.21000264585018158
+    },
+    {
+      "id": 17,
+      "start": 118.27,
+      "end": 125.27,
+      "text": "As greenhouse gas emissions blanket the Earth, they trap the sun's heat. This leads to global warming and climate change.",
+      "avg_logprob": -0.11842295084849443,
+      "no_speech_prob": 0.21000264585018158
+    },
+    {
+      "id": 18,
+      "start": 125.27,
+      "end": 140.27,
+      "text": "The world is now warming faster than at any point in recorded history. The main causes for it are generating power, generating electricity and heat by burning fossil fuels such as coal, oil and natural gas causes a large chunk of global emissions.",
+      "avg_logprob": -0.06671018070644802,
+      "no_speech_prob": 0.750013530254364
+    },
+    {
+      "id": 19,
+      "start": 140.27,
+      "end": 154.68,
+      "text": "Most electricity is still produced form fossil fuels. Only about a quarter comes from wind and solar, manufacturing goods, manufacturing and industry produce emissions.",
+      "avg_logprob": -0.06671018070644802,
+      "no_speech_prob": 0.750013530254364
+    },
+    {
+      "id": 20,
+      "start": 154.68,
+      "end": 164.68,
+      "text": "Mostly from burning fossil fuels to produce energy for making things like cement, iron, steel, electronic, plastic, clothes and other good.",
+      "avg_logprob": -0.11484844018431271,
+      "no_speech_prob": 0.016481198370456696
+    },
+    {
+      "id": 21,
+      "start": 164.68,
+      "end": 169.68,
+      "text": "Mining and other endutrile processes also release gases.",
+      "avg_logprob": -0.11484844018431271,
+      "no_speech_prob": 0.016481198370456696
+    },
+    {
+      "id": 22,
+      "start": 169.68,
+      "end": 171.68,
+      "text": "My turn.",
+      "avg_logprob": -0.11484844018431271,
+      "no_speech_prob": 0.016481198370456696
+    },
+    {
+      "id": 23,
+      "start": 171.68,
+      "end": 182.68,
+      "text": "Cutting down trees. Cutting down trees to create farms or pastures. All for other reasons causes emissions since trees when they are cut release the carbon.",
+      "avg_logprob": -0.11484844018431271,
+      "no_speech_prob": 0.016481198370456696
+    },
+    {
+      "id": 24,
+      "start": 182.68,
+      "end": 192.68,
+      "text": "They have been storing since trees absorb carbon dioxide. Destroying them also limits nature's ability to keep emissions out of the atmosphere.",
+      "avg_logprob": -0.0809728002773141,
+      "no_speech_prob": 0.013337254524230957
+    },
+    {
+      "id": 25,
+      "start": 192.68,
+      "end": 196.68,
+      "text": "That's it. Please like this video and share to anyone.",
+      "avg_logprob": -0.0809728002773141,
+      "no_speech_prob": 0.013337254524230957
+    },
+    {
+      "id": 26,
+      "start": 196.68,
+      "end": 198.68,
+      "text": "Thanks for watching and bye.",
+      "avg_logprob": -0.0809728002773141,
+      "no_speech_prob": 0.013337254524230957
+    }
+  ],
+  "transcript_full": "Hey there, I'm Dwin, I'm Shabil and I'm Brandon. Today we're going to talk about global warming and climate change. There is a lot of ways to overcome the phenomena of global warming and climate change for sustainability life on Earth, such as change of light. Replacing one regular light bulb with a compact fluorescent light bulb will save 150 pounds of carbon dioxide a year. Adjust your thermostat. Moving your thermostat down just to degrees in winter and up to degrees in summer could save about 2,000 pounds of carbon dioxide a year. Drive less. Option for eco-friendly transportation alternatives such as walking, biking or carpooling on a regular basis and contribute to reducing one pound of carbon dioxide emissions for every mile you avoid driving. Plant a tree. By planting a single tree, you actively participate in combating climate change, as this living organism can absorb and sequester a staggering one ton of carbon dioxide during its lifetime. And that's how to overcome global warming and climate change. Thanks for watching. Wait. You already know how to overcome global warming and climate change, right? But did you know what causes global warming and climate change? No. Same. And that's why we go in to call Dwyne for help. Dwyne, come here. What? Can you tell us what causes global warming and climate change? Sure. Why not? As greenhouse gas emissions blanket the Earth, they trap the sun's heat. This leads to global warming and climate change. The world is now warming faster than at any point in recorded history. The main causes for it are generating power, generating electricity and heat by burning fossil fuels such as coal, oil and natural gas causes a large chunk of global emissions. Most electricity is still produced form fossil fuels. Only about a quarter comes from wind and solar, manufacturing goods, manufacturing and industry produce emissions. Mostly from burning fossil fuels to produce energy for making things like cement, iron, steel, electronic, plastic, clothes and other good. Mining and other endutrile processes also release gases. My turn. Cutting down trees. Cutting down trees to create farms or pastures. All for other reasons causes emissions since trees when they are cut release the carbon. They have been storing since trees absorb carbon dioxide. Destroying them also limits nature's ability to keep emissions out of the atmosphere. That's it. Please like this video and share to anyone. Thanks for watching and bye.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

@@ -1,0 +1,180 @@
+{
+  "language": "en",
+  "language_probability": 0.9989615678787231,
+  "duration": 53.833,
+  "duration_after_vad": 53.8,
+  "segment_count": 21,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.62,
+      "text": "The Willow Project was approved.",
+      "avg_logprob": -0.17196881076309578,
+      "no_speech_prob": 0.03528328984975815
+    },
+    {
+      "id": 2,
+      "start": 1.62,
+      "end": 3.72,
+      "text": "What does that mean for you, animals, and the planet?",
+      "avg_logprob": -0.17196881076309578,
+      "no_speech_prob": 0.03528328984975815
+    },
+    {
+      "id": 3,
+      "start": 3.72,
+      "end": 6.46,
+      "text": "I'm an environmental engineer and I work in the petrochemical industry.",
+      "avg_logprob": -0.17196881076309578,
+      "no_speech_prob": 0.03528328984975815
+    },
+    {
+      "id": 4,
+      "start": 6.46,
+      "end": 9.44,
+      "text": "The oil rigs are going to be placed on a very ecologically sensitive area.",
+      "avg_logprob": -0.17196881076309578,
+      "no_speech_prob": 0.03528328984975815
+    },
+    {
+      "id": 5,
+      "start": 9.44,
+      "end": 12.76,
+      "text": "You're going to see habitat loss, migration, disruption, noise pollution.",
+      "avg_logprob": -0.17196881076309578,
+      "no_speech_prob": 0.03528328984975815
+    },
+    {
+      "id": 6,
+      "start": 12.76,
+      "end": 17.04,
+      "text": "Animals like caribou, polar bears, migratory birds depend on this area for breeding, feeding,",
+      "avg_logprob": -0.17196881076309578,
+      "no_speech_prob": 0.03528328984975815
+    },
+    {
+      "id": 7,
+      "start": 17.04,
+      "end": 18.04,
+      "text": "and resting.",
+      "avg_logprob": -0.17196881076309578,
+      "no_speech_prob": 0.03528328984975815
+    },
+    {
+      "id": 8,
+      "start": 18.04,
+      "end": 20.12,
+      "text": "They're displaced by the increase in infrastructure and activity.",
+      "avg_logprob": -0.17196881076309578,
+      "no_speech_prob": 0.03528328984975815
+    },
+    {
+      "id": 9,
+      "start": 20.12,
+      "end": 23.6,
+      "text": "Air pollution like greenhouse gases, VOCs, and hazardous air pollutants are going to",
+      "avg_logprob": -0.17196881076309578,
+      "no_speech_prob": 0.03528328984975815
+    },
+    {
+      "id": 10,
+      "start": 23.6,
+      "end": 24.6,
+      "text": "be released.",
+      "avg_logprob": -0.17196881076309578,
+      "no_speech_prob": 0.03528328984975815
+    },
+    {
+      "id": 11,
+      "start": 24.6,
+      "end": 28.32,
+      "text": "This will directly affect not only the animals in the area but also human populations.",
+      "avg_logprob": -0.17196881076309578,
+      "no_speech_prob": 0.03528328984975815
+    },
+    {
+      "id": 12,
+      "start": 28.32,
+      "end": 31.84,
+      "text": "It's also unrealistic to think that there wouldn't be contamination of water and soils.",
+      "avg_logprob": -0.1737656830050421,
+      "no_speech_prob": 0.1026965081691742
+    },
+    {
+      "id": 13,
+      "start": 31.84,
+      "end": 34.2,
+      "text": "It's unlikely that there would be a massive oil spill.",
+      "avg_logprob": -0.1737656830050421,
+      "no_speech_prob": 0.1026965081691742
+    },
+    {
+      "id": 14,
+      "start": 34.2,
+      "end": 38.0,
+      "text": "Very likely that there will be common, minor spills during loading and normal maintenance",
+      "avg_logprob": -0.1737656830050421,
+      "no_speech_prob": 0.1026965081691742
+    },
+    {
+      "id": 15,
+      "start": 38.0,
+      "end": 39.0,
+      "text": "and operation.",
+      "avg_logprob": -0.1737656830050421,
+      "no_speech_prob": 0.1026965081691742
+    },
+    {
+      "id": 16,
+      "start": 39.0,
+      "end": 42.0,
+      "text": "Globally, this locks us into decades of fossil fuel extraction.",
+      "avg_logprob": -0.1737656830050421,
+      "no_speech_prob": 0.1026965081691742
+    },
+    {
+      "id": 17,
+      "start": 42.0,
+      "end": 45.04,
+      "text": "For all this project is going to contribute to climate change but there's really no",
+      "avg_logprob": -0.1737656830050421,
+      "no_speech_prob": 0.1026965081691742
+    },
+    {
+      "id": 18,
+      "start": 45.04,
+      "end": 46.04,
+      "text": "need to panic.",
+      "avg_logprob": -0.1737656830050421,
+      "no_speech_prob": 0.1026965081691742
+    },
+    {
+      "id": 19,
+      "start": 46.04,
+      "end": 50.0,
+      "text": "For a few small winds, ConocoPhillips originally wanted five drilling rigs and they only",
+      "avg_logprob": -0.1737656830050421,
+      "no_speech_prob": 0.1026965081691742
+    },
+    {
+      "id": 20,
+      "start": 50.0,
+      "end": 51.0,
+      "text": "got three.",
+      "avg_logprob": -0.1737656830050421,
+      "no_speech_prob": 0.1026965081691742
+    },
+    {
+      "id": 21,
+      "start": 51.0,
+      "end": 53.8,
+      "text": "It really was incredible to see how people came together for a common cause.",
+      "avg_logprob": -0.1737656830050421,
+      "no_speech_prob": 0.1026965081691742
+    }
+  ],
+  "transcript_full": "The Willow Project was approved. What does that mean for you, animals, and the planet? I'm an environmental engineer and I work in the petrochemical industry. The oil rigs are going to be placed on a very ecologically sensitive area. You're going to see habitat loss, migration, disruption, noise pollution. Animals like caribou, polar bears, migratory birds depend on this area for breeding, feeding, and resting. They're displaced by the increase in infrastructure and activity. Air pollution like greenhouse gases, VOCs, and hazardous air pollutants are going to be released. This will directly affect not only the animals in the area but also human populations. It's also unrealistic to think that there wouldn't be contamination of water and soils. It's unlikely that there would be a massive oil spill. Very likely that there will be common, minor spills during loading and normal maintenance and operation. Globally, this locks us into decades of fossil fuel extraction. For all this project is going to contribute to climate change but there's really no need to panic. For a few small winds, ConocoPhillips originally wanted five drilling rigs and they only got three. It really was incredible to see how people came together for a common cause.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

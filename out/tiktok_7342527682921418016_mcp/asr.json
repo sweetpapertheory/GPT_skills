@@ -1,0 +1,132 @@
+{
+  "language": "en",
+  "language_probability": 0.8614814281463623,
+  "duration": 40.207,
+  "duration_after_vad": 37.12,
+  "segment_count": 15,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.96,
+      "text": "How to get conservatives to care about climate change.",
+      "avg_logprob": -0.15797283038620122,
+      "no_speech_prob": 0.298821359872818
+    },
+    {
+      "id": 2,
+      "start": 2.96,
+      "end": 4.96,
+      "text": "I had to think about it, I've come up with an idea.",
+      "avg_logprob": -0.15797283038620122,
+      "no_speech_prob": 0.298821359872818
+    },
+    {
+      "id": 3,
+      "start": 4.96,
+      "end": 7.8,
+      "text": "I'm a very clever guy.",
+      "avg_logprob": -0.15797283038620122,
+      "no_speech_prob": 0.298821359872818
+    },
+    {
+      "id": 4,
+      "start": 7.8,
+      "end": 8.64,
+      "text": "Here's what you do.",
+      "avg_logprob": -0.15797283038620122,
+      "no_speech_prob": 0.298821359872818
+    },
+    {
+      "id": 5,
+      "start": 8.64,
+      "end": 9.92,
+      "text": "Stop referring to it as climate change",
+      "avg_logprob": -0.15797283038620122,
+      "no_speech_prob": 0.298821359872818
+    },
+    {
+      "id": 6,
+      "start": 9.92,
+      "end": 11.2,
+      "text": "or the climate crisis",
+      "avg_logprob": -0.15797283038620122,
+      "no_speech_prob": 0.298821359872818
+    },
+    {
+      "id": 7,
+      "start": 11.2,
+      "end": 14.68,
+      "text": "and start referring to it as climate immigration.",
+      "avg_logprob": -0.15797283038620122,
+      "no_speech_prob": 0.298821359872818
+    },
+    {
+      "id": 8,
+      "start": 14.68,
+      "end": 17.76,
+      "text": "Foreign weather is coming over here.",
+      "avg_logprob": -0.15797283038620122,
+      "no_speech_prob": 0.298821359872818
+    },
+    {
+      "id": 9,
+      "start": 17.76,
+      "end": 19.72,
+      "text": "It can't be stopped by building a wall",
+      "avg_logprob": -0.15797283038620122,
+      "no_speech_prob": 0.298821359872818
+    },
+    {
+      "id": 10,
+      "start": 19.72,
+      "end": 21.12,
+      "text": "or stopping small boats.",
+      "avg_logprob": -0.15797283038620122,
+      "no_speech_prob": 0.298821359872818
+    },
+    {
+      "id": 11,
+      "start": 21.12,
+      "end": 24.8,
+      "text": "It's in the air turning cold patriotic British weather",
+      "avg_logprob": -0.15797283038620122,
+      "no_speech_prob": 0.298821359872818
+    },
+    {
+      "id": 12,
+      "start": 24.8,
+      "end": 26.8,
+      "text": "into hot foreign nonsense.",
+      "avg_logprob": -0.15797283038620122,
+      "no_speech_prob": 0.298821359872818
+    },
+    {
+      "id": 13,
+      "start": 26.8,
+      "end": 30.52,
+      "text": "It's raining Tika Masala down on the centre of London.",
+      "avg_logprob": -0.3323719067418057,
+      "no_speech_prob": 0.5813358426094055
+    },
+    {
+      "id": 14,
+      "start": 30.52,
+      "end": 35.12,
+      "text": "Tidal waves of jerk spices sullying the once white cliffs of Dover.",
+      "avg_logprob": -0.3323719067418057,
+      "no_speech_prob": 0.5813358426094055
+    },
+    {
+      "id": 15,
+      "start": 35.12,
+      "end": 37.12,
+      "text": "Some of it's sharia weather.",
+      "avg_logprob": -0.3323719067418057,
+      "no_speech_prob": 0.5813358426094055
+    }
+  ],
+  "transcript_full": "How to get conservatives to care about climate change. I had to think about it, I've come up with an idea. I'm a very clever guy. Here's what you do. Stop referring to it as climate change or the climate crisis and start referring to it as climate immigration. Foreign weather is coming over here. It can't be stopped by building a wall or stopping small boats. It's in the air turning cold patriotic British weather into hot foreign nonsense. It's raining Tika Masala down on the centre of London. Tidal waves of jerk spices sullying the once white cliffs of Dover. Some of it's sharia weather.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

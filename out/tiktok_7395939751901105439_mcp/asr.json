@@ -1,0 +1,188 @@
+{
+  "language": "en",
+  "language_probability": 0.9998199343681335,
+  "duration": 56.7,
+  "duration_after_vad": 56.24,
+  "segment_count": 22,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.8,
+      "text": "Despite an abundance of mud and swarms of mosquitoes,",
+      "avg_logprob": -0.13062814751962074,
+      "no_speech_prob": 0.0012595485895872116
+    },
+    {
+      "id": 2,
+      "start": 2.8,
+      "end": 5.68,
+      "text": "mangroves are true environmental superheroes.",
+      "avg_logprob": -0.13062814751962074,
+      "no_speech_prob": 0.0012595485895872116
+    },
+    {
+      "id": 3,
+      "start": 5.68,
+      "end": 7.52,
+      "text": "Mangroves act as a natural barrier",
+      "avg_logprob": -0.13062814751962074,
+      "no_speech_prob": 0.0012595485895872116
+    },
+    {
+      "id": 4,
+      "start": 7.52,
+      "end": 9.88,
+      "text": "against storm surges and coastal erosion.",
+      "avg_logprob": -0.13062814751962074,
+      "no_speech_prob": 0.0012595485895872116
+    },
+    {
+      "id": 5,
+      "start": 9.88,
+      "end": 12.4,
+      "text": "Their dense root system stabilizes the shoreline,",
+      "avg_logprob": -0.13062814751962074,
+      "no_speech_prob": 0.0012595485895872116
+    },
+    {
+      "id": 6,
+      "start": 12.4,
+      "end": 14.04,
+      "text": "protecting communities from the impacts",
+      "avg_logprob": -0.13062814751962074,
+      "no_speech_prob": 0.0012595485895872116
+    },
+    {
+      "id": 7,
+      "start": 14.04,
+      "end": 16.16,
+      "text": "of extreme weather events.",
+      "avg_logprob": -0.13062814751962074,
+      "no_speech_prob": 0.0012595485895872116
+    },
+    {
+      "id": 8,
+      "start": 16.16,
+      "end": 19.08,
+      "text": "Mangroves are essential to maintaining coastal landscapes,",
+      "avg_logprob": -0.13062814751962074,
+      "no_speech_prob": 0.0012595485895872116
+    },
+    {
+      "id": 9,
+      "start": 19.08,
+      "end": 21.96,
+      "text": "once destroyed, land erodes, and tides and currents",
+      "avg_logprob": -0.13062814751962074,
+      "no_speech_prob": 0.0012595485895872116
+    },
+    {
+      "id": 10,
+      "start": 21.96,
+      "end": 24.84,
+      "text": "reshape coastlines, making it difficult for mangroves",
+      "avg_logprob": -0.13062814751962074,
+      "no_speech_prob": 0.0012595485895872116
+    },
+    {
+      "id": 11,
+      "start": 24.84,
+      "end": 26.56,
+      "text": "to re-establish themselves.",
+      "avg_logprob": -0.13062814751962074,
+      "no_speech_prob": 0.0012595485895872116
+    },
+    {
+      "id": 12,
+      "start": 26.56,
+      "end": 29.68,
+      "text": "Mangroves are exceptional at sequestering carbon.",
+      "avg_logprob": -0.13062814751962074,
+      "no_speech_prob": 0.0012595485895872116
+    },
+    {
+      "id": 13,
+      "start": 29.68,
+      "end": 32.64,
+      "text": "Due to the low oxygen conditions of coastal soil,",
+      "avg_logprob": -0.09504138555341554,
+      "no_speech_prob": 4.276554682292044e-05
+    },
+    {
+      "id": 14,
+      "start": 32.64,
+      "end": 36.24,
+      "text": "carbon can be stored for centuries or even millennia.",
+      "avg_logprob": -0.09504138555341554,
+      "no_speech_prob": 4.276554682292044e-05
+    },
+    {
+      "id": 15,
+      "start": 36.24,
+      "end": 39.24,
+      "text": "Mangroves play a critical role in maintaining coral reefs",
+      "avg_logprob": -0.09504138555341554,
+      "no_speech_prob": 4.276554682292044e-05
+    },
+    {
+      "id": 16,
+      "start": 39.24,
+      "end": 41.72,
+      "text": "by providing nurseries for young corals.",
+      "avg_logprob": -0.09504138555341554,
+      "no_speech_prob": 4.276554682292044e-05
+    },
+    {
+      "id": 17,
+      "start": 41.72,
+      "end": 44.52,
+      "text": "They can also help reduce ocean acidification,",
+      "avg_logprob": -0.09504138555341554,
+      "no_speech_prob": 4.276554682292044e-05
+    },
+    {
+      "id": 18,
+      "start": 44.52,
+      "end": 46.96,
+      "text": "which helps reduce coral bleaching.",
+      "avg_logprob": -0.09504138555341554,
+      "no_speech_prob": 4.276554682292044e-05
+    },
+    {
+      "id": 19,
+      "start": 46.96,
+      "end": 48.36,
+      "text": "At Conservation International,",
+      "avg_logprob": -0.09504138555341554,
+      "no_speech_prob": 4.276554682292044e-05
+    },
+    {
+      "id": 20,
+      "start": 48.36,
+      "end": 51.8,
+      "text": "we are striving to protect these vital ecosystems",
+      "avg_logprob": -0.09504138555341554,
+      "no_speech_prob": 4.276554682292044e-05
+    },
+    {
+      "id": 21,
+      "start": 51.8,
+      "end": 54.12,
+      "text": "and to recognize their crucial role",
+      "avg_logprob": -0.09504138555341554,
+      "no_speech_prob": 4.276554682292044e-05
+    },
+    {
+      "id": 22,
+      "start": 54.12,
+      "end": 56.24,
+      "text": "in the fight against climate change.",
+      "avg_logprob": -0.09504138555341554,
+      "no_speech_prob": 4.276554682292044e-05
+    }
+  ],
+  "transcript_full": "Despite an abundance of mud and swarms of mosquitoes, mangroves are true environmental superheroes. Mangroves act as a natural barrier against storm surges and coastal erosion. Their dense root system stabilizes the shoreline, protecting communities from the impacts of extreme weather events. Mangroves are essential to maintaining coastal landscapes, once destroyed, land erodes, and tides and currents reshape coastlines, making it difficult for mangroves to re-establish themselves. Mangroves are exceptional at sequestering carbon. Due to the low oxygen conditions of coastal soil, carbon can be stored for centuries or even millennia. Mangroves play a critical role in maintaining coral reefs by providing nurseries for young corals. They can also help reduce ocean acidification, which helps reduce coral bleaching. At Conservation International, we are striving to protect these vital ecosystems and to recognize their crucial role in the fight against climate change.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

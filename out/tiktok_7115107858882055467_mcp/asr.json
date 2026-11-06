@@ -1,0 +1,60 @@
+{
+  "language": "en",
+  "language_probability": 0.997840166091919,
+  "duration": 36.871,
+  "duration_after_vad": 36.5,
+  "segment_count": 6,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.0,
+      "text": "Just when you thought things couldn't get any worse, well, we all knew they were going to get worse, but let me tell you what's going on.",
+      "avg_logprob": -0.153818704750178,
+      "no_speech_prob": 0.05694813281297684
+    },
+    {
+      "id": 2,
+      "start": 7.0,
+      "end": 11.5,
+      "text": "The Supreme Court has put limits on the Environmental Protection Agency.",
+      "avg_logprob": -0.153818704750178,
+      "no_speech_prob": 0.05694813281297684
+    },
+    {
+      "id": 3,
+      "start": 11.5,
+      "end": 20.0,
+      "text": "So when I say Republicans want you dead, they want climate change to come, they want to take away all your rights, believe me.",
+      "avg_logprob": -0.153818704750178,
+      "no_speech_prob": 0.05694813281297684
+    },
+    {
+      "id": 4,
+      "start": 20.0,
+      "end": 28.5,
+      "text": "Along with that, the Texas GOP officially wants to oppose all efforts to classify carbon dioxide as a pollutant.",
+      "avg_logprob": -0.153818704750178,
+      "no_speech_prob": 0.05694813281297684
+    },
+    {
+      "id": 5,
+      "start": 28.5,
+      "end": 34.5,
+      "text": "Do not wait until the ocean is literally at your front door before you get involved in politics.",
+      "avg_logprob": -0.08126990929726631,
+      "no_speech_prob": 0.12150255590677261
+    },
+    {
+      "id": 6,
+      "start": 34.5,
+      "end": 36.5,
+      "text": "Our lives literally depend on it.",
+      "avg_logprob": -0.08126990929726631,
+      "no_speech_prob": 0.12150255590677261
+    }
+  ],
+  "transcript_full": "Just when you thought things couldn't get any worse, well, we all knew they were going to get worse, but let me tell you what's going on. The Supreme Court has put limits on the Environmental Protection Agency. So when I say Republicans want you dead, they want climate change to come, they want to take away all your rights, believe me. Along with that, the Texas GOP officially wants to oppose all efforts to classify carbon dioxide as a pollutant. Do not wait until the ocean is literally at your front door before you get involved in politics. Our lives literally depend on it.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

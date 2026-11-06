@@ -1,0 +1,100 @@
+{
+  "language": "en",
+  "language_probability": 0.9943622350692749,
+  "duration": 57.283,
+  "duration_after_vad": 57.6,
+  "segment_count": 11,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.2,
+      "text": "reasons you will love sustainable living. Starting from 5, just adopt one eco-friendly",
+      "avg_logprob": -0.0963046310144827,
+      "no_speech_prob": 0.16921453177928925
+    },
+    {
+      "id": 2,
+      "start": 5.2,
+      "end": 11.28,
+      "text": "habit and become a change maker, an eco-hero. Believe me, even one change makes a big difference.",
+      "avg_logprob": -0.0963046310144827,
+      "no_speech_prob": 0.16921453177928925
+    },
+    {
+      "id": 3,
+      "start": 11.28,
+      "end": 16.96,
+      "text": "At number 4, by living sustainably, save lots of money and gain financial freedom.",
+      "avg_logprob": -0.0963046310144827,
+      "no_speech_prob": 0.16921453177928925
+    },
+    {
+      "id": 4,
+      "start": 16.96,
+      "end": 22.72,
+      "text": "At number 3, by living sustainably, you can help us get back clean air, clean water and",
+      "avg_logprob": -0.0963046310144827,
+      "no_speech_prob": 0.16921453177928925
+    },
+    {
+      "id": 5,
+      "start": 22.72,
+      "end": 27.84,
+      "text": "clean surroundings. Tell me who doesn't want that? The second one is very important.",
+      "avg_logprob": -0.0963046310144827,
+      "no_speech_prob": 0.16921453177928925
+    },
+    {
+      "id": 6,
+      "start": 27.92,
+      "end": 32.56,
+      "text": "By living sustainably, you can help reverse the big problem of climate change which will",
+      "avg_logprob": -0.08805985160171986,
+      "no_speech_prob": 0.02599041722714901
+    },
+    {
+      "id": 7,
+      "start": 32.56,
+      "end": 38.32,
+      "text": "affect all of us. The first one and the best one experience amazing health benefits",
+      "avg_logprob": -0.08805985160171986,
+      "no_speech_prob": 0.02599041722714901
+    },
+    {
+      "id": 8,
+      "start": 38.32,
+      "end": 43.6,
+      "text": "with a sustainable lifestyle. Fewer hospital visits and so much energy to live life.",
+      "avg_logprob": -0.08805985160171986,
+      "no_speech_prob": 0.02599041722714901
+    },
+    {
+      "id": 9,
+      "start": 43.6,
+      "end": 49.52,
+      "text": "Sustainability is the new and most required trend. So hop on with me quickly, share with your",
+      "avg_logprob": -0.08805985160171986,
+      "no_speech_prob": 0.02599041722714901
+    },
+    {
+      "id": 10,
+      "start": 49.52,
+      "end": 55.68,
+      "text": "friends and family and let's make sustainable living viral in 2024. Wish you all a happy",
+      "avg_logprob": -0.08805985160171986,
+      "no_speech_prob": 0.02599041722714901
+    },
+    {
+      "id": 11,
+      "start": 55.68,
+      "end": 57.68,
+      "text": "and healthy new year.",
+      "avg_logprob": -0.6432698965072632,
+      "no_speech_prob": 0.5180017352104187
+    }
+  ],
+  "transcript_full": "reasons you will love sustainable living. Starting from 5, just adopt one eco-friendly habit and become a change maker, an eco-hero. Believe me, even one change makes a big difference. At number 4, by living sustainably, save lots of money and gain financial freedom. At number 3, by living sustainably, you can help us get back clean air, clean water and clean surroundings. Tell me who doesn't want that? The second one is very important. By living sustainably, you can help reverse the big problem of climate change which will affect all of us. The first one and the best one experience amazing health benefits with a sustainable lifestyle. Fewer hospital visits and so much energy to live life. Sustainability is the new and most required trend. So hop on with me quickly, share with your friends and family and let's make sustainable living viral in 2024. Wish you all a happy and healthy new year.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

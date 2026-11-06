@@ -1,0 +1,100 @@
+{
+  "language": "en",
+  "language_probability": 0.9925647974014282,
+  "duration": 38.539,
+  "duration_after_vad": 37.76,
+  "segment_count": 11,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.6,
+      "text": "If we can show that a method of grazing can help heal our soils and help get the carbon",
+      "avg_logprob": -0.12142117387585101,
+      "no_speech_prob": 0.10163596272468567
+    },
+    {
+      "id": 2,
+      "start": 6.6,
+      "end": 10.56,
+      "text": "out of the atmosphere where it's a problem right now and get it down in the soil where",
+      "avg_logprob": -0.12142117387585101,
+      "no_speech_prob": 0.10163596272468567
+    },
+    {
+      "id": 3,
+      "start": 10.56,
+      "end": 13.4,
+      "text": "it's a solution, it's a really big deal.",
+      "avg_logprob": -0.12142117387585101,
+      "no_speech_prob": 0.10163596272468567
+    },
+    {
+      "id": 4,
+      "start": 13.4,
+      "end": 17.84,
+      "text": "So we're here to do science and we're here to wonder if our science will have any effect",
+      "avg_logprob": -0.12142117387585101,
+      "no_speech_prob": 0.10163596272468567
+    },
+    {
+      "id": 5,
+      "start": 17.84,
+      "end": 19.64,
+      "text": "on the conventional farmers.",
+      "avg_logprob": -0.12142117387585101,
+      "no_speech_prob": 0.10163596272468567
+    },
+    {
+      "id": 6,
+      "start": 19.64,
+      "end": 23.36,
+      "text": "If we can find out that amp grazing will make the farmer more money because the",
+      "avg_logprob": -0.12142117387585101,
+      "no_speech_prob": 0.10163596272468567
+    },
+    {
+      "id": 7,
+      "start": 23.36,
+      "end": 27.96,
+      "text": "farmer is able to grow more food on the same land with the same rainfall, will",
+      "avg_logprob": -0.12142117387585101,
+      "no_speech_prob": 0.10163596272468567
+    },
+    {
+      "id": 8,
+      "start": 27.96,
+      "end": 34.0,
+      "text": "that information change the way the conventional farmers are grazing?",
+      "avg_logprob": -0.18519936808768442,
+      "no_speech_prob": 0.007268870249390602
+    },
+    {
+      "id": 9,
+      "start": 34.0,
+      "end": 35.84,
+      "text": "Will they change?",
+      "avg_logprob": -0.18519936808768442,
+      "no_speech_prob": 0.007268870249390602
+    },
+    {
+      "id": 10,
+      "start": 35.84,
+      "end": 37.0,
+      "text": "We don't know.",
+      "avg_logprob": -0.18519936808768442,
+      "no_speech_prob": 0.007268870249390602
+    },
+    {
+      "id": 11,
+      "start": 37.0,
+      "end": 37.76,
+      "text": "We have no idea.",
+      "avg_logprob": -0.18519936808768442,
+      "no_speech_prob": 0.007268870249390602
+    }
+  ],
+  "transcript_full": "If we can show that a method of grazing can help heal our soils and help get the carbon out of the atmosphere where it's a problem right now and get it down in the soil where it's a solution, it's a really big deal. So we're here to do science and we're here to wonder if our science will have any effect on the conventional farmers. If we can find out that amp grazing will make the farmer more money because the farmer is able to grow more food on the same land with the same rainfall, will that information change the way the conventional farmers are grazing? Will they change? We don't know. We have no idea.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

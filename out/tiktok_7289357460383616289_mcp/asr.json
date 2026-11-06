@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "language_probability": 0.717205286026001,
+  "duration": 134.16,
+  "duration_after_vad": 2.0,
+  "segment_count": 1,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.0,
+      "text": "You",
+      "avg_logprob": -1.0671665668487549,
+      "no_speech_prob": 0.5580122470855713
+    }
+  ],
+  "transcript_full": "You",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

@@ -1,0 +1,20 @@
+{
+  "language": "ko",
+  "language_probability": 0.8612709045410156,
+  "duration": 12.003,
+  "duration_after_vad": 0.9,
+  "segment_count": 1,
+  "segments": [
+    {
+      "id": 1,
+      "start": 8.75,
+      "end": 9.65,
+      "text": "불타오르네",
+      "avg_logprob": -0.3272944204509258,
+      "no_speech_prob": 0.558134138584137
+    }
+  ],
+  "transcript_full": "불타오르네",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

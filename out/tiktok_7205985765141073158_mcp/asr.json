@@ -1,0 +1,52 @@
+{
+  "language": "en",
+  "language_probability": 0.9236404895782471,
+  "duration": 20.9,
+  "duration_after_vad": 20.32,
+  "segment_count": 5,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.8,
+      "text": "thick coating of spines on it.",
+      "avg_logprob": -0.35403705799757546,
+      "no_speech_prob": 0.11402595043182373
+    },
+    {
+      "id": 2,
+      "start": 2.8,
+      "end": 6.96,
+      "text": "Sintu penguins spend most of their lives at sea.",
+      "avg_logprob": -0.35403705799757546,
+      "no_speech_prob": 0.11402595043182373
+    },
+    {
+      "id": 3,
+      "start": 6.96,
+      "end": 10.88,
+      "text": "This, it spends all its time up in the trees eating leaves.",
+      "avg_logprob": -0.35403705799757546,
+      "no_speech_prob": 0.11402595043182373
+    },
+    {
+      "id": 4,
+      "start": 10.88,
+      "end": 14.88,
+      "text": "Washing socks is some kind of circus trick for which",
+      "avg_logprob": -0.35403705799757546,
+      "no_speech_prob": 0.11402595043182373
+    },
+    {
+      "id": 5,
+      "start": 14.88,
+      "end": 20.32,
+      "text": "this extraordinary creature is half blind, half deaf,",
+      "avg_logprob": -0.35403705799757546,
+      "no_speech_prob": 0.11402595043182373
+    }
+  ],
+  "transcript_full": "thick coating of spines on it. Sintu penguins spend most of their lives at sea. This, it spends all its time up in the trees eating leaves. Washing socks is some kind of circus trick for which this extraordinary creature is half blind, half deaf,",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

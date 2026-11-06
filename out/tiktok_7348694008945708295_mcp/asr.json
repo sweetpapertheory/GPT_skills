@@ -1,0 +1,36 @@
+{
+  "language": "en",
+  "language_probability": 0.793316662311554,
+  "duration": 34.367,
+  "duration_after_vad": 30.98,
+  "segment_count": 3,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.38,
+      "end": 26.36,
+      "text": "I don't know what my one is, so we got to go like this, skills hen, we got a plant in Lombam village, you can find my beautiful plants here, this is Henry",
+      "avg_logprob": -0.6875104692674452,
+      "no_speech_prob": 0.33836111426353455
+    },
+    {
+      "id": 2,
+      "start": 26.36,
+      "end": 31.36,
+      "text": "that's the mango tree, is this? yeah that's the mango tree",
+      "avg_logprob": -0.6875104692674452,
+      "no_speech_prob": 0.33836111426353455
+    },
+    {
+      "id": 3,
+      "start": 31.36,
+      "end": 33.36,
+      "text": "this is my fruit",
+      "avg_logprob": -0.6526075090680804,
+      "no_speech_prob": 0.8307862281799316
+    }
+  ],
+  "transcript_full": "I don't know what my one is, so we got to go like this, skills hen, we got a plant in Lombam village, you can find my beautiful plants here, this is Henry that's the mango tree, is this? yeah that's the mango tree this is my fruit",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

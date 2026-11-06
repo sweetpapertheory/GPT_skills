@@ -1,0 +1,44 @@
+{
+  "language": "en",
+  "language_probability": 0.9950116872787476,
+  "duration": 11.367,
+  "duration_after_vad": 11.16,
+  "segment_count": 4,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.56,
+      "text": "Hey folks, I'm a doctor and not an expert on what's going on in Ukraine right now, but",
+      "avg_logprob": -0.16891976119950414,
+      "no_speech_prob": 0.042901068925857544
+    },
+    {
+      "id": 2,
+      "start": 3.56,
+      "end": 5.48,
+      "text": "I think we can all agree on this.",
+      "avg_logprob": -0.16891976119950414,
+      "no_speech_prob": 0.042901068925857544
+    },
+    {
+      "id": 3,
+      "start": 5.48,
+      "end": 9.8,
+      "text": "We've been waiting for our refund from 2020 and 2021, but now I think we officially need",
+      "avg_logprob": -0.16891976119950414,
+      "no_speech_prob": 0.042901068925857544
+    },
+    {
+      "id": 4,
+      "start": 9.8,
+      "end": 11.16,
+      "text": "our refund on 2022.",
+      "avg_logprob": -0.16891976119950414,
+      "no_speech_prob": 0.042901068925857544
+    }
+  ],
+  "transcript_full": "Hey folks, I'm a doctor and not an expert on what's going on in Ukraine right now, but I think we can all agree on this. We've been waiting for our refund from 2020 and 2021, but now I think we officially need our refund on 2022.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

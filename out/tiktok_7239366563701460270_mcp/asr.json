@@ -1,0 +1,380 @@
+{
+  "language": "en",
+  "language_probability": 0.9995222091674805,
+  "duration": 93.886,
+  "duration_after_vad": 78.93,
+  "segment_count": 46,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.08,
+      "end": 1.58,
+      "text": "Welcome to heaven.",
+      "avg_logprob": -0.21841962905538162,
+      "no_speech_prob": 0.035081230103969574
+    },
+    {
+      "id": 2,
+      "start": 1.58,
+      "end": 2.78,
+      "text": "Hey, you're pretty.",
+      "avg_logprob": -0.21841962905538162,
+      "no_speech_prob": 0.035081230103969574
+    },
+    {
+      "id": 3,
+      "start": 2.78,
+      "end": 4.08,
+      "text": "Thanks, you are too!",
+      "avg_logprob": -0.21841962905538162,
+      "no_speech_prob": 0.035081230103969574
+    },
+    {
+      "id": 4,
+      "start": 4.08,
+      "end": 5.08,
+      "text": "Thanks!",
+      "avg_logprob": -0.21841962905538162,
+      "no_speech_prob": 0.035081230103969574
+    },
+    {
+      "id": 5,
+      "start": 5.08,
+      "end": 6.58,
+      "text": "Cause of death?",
+      "avg_logprob": -0.21841962905538162,
+      "no_speech_prob": 0.035081230103969574
+    },
+    {
+      "id": 6,
+      "start": 6.58,
+      "end": 7.58,
+      "text": "Los Angeles.",
+      "avg_logprob": -0.21841962905538162,
+      "no_speech_prob": 0.035081230103969574
+    },
+    {
+      "id": 7,
+      "start": 7.58,
+      "end": 8.58,
+      "text": "Wait, let me guess.",
+      "avg_logprob": -0.21841962905538162,
+      "no_speech_prob": 0.035081230103969574
+    },
+    {
+      "id": 8,
+      "start": 8.58,
+      "end": 10.08,
+      "text": "Small line!",
+      "avg_logprob": -0.21841962905538162,
+      "no_speech_prob": 0.035081230103969574
+    },
+    {
+      "id": 9,
+      "start": 11.08,
+      "end": 12.08,
+      "text": "I'm your host, Hazel,",
+      "avg_logprob": -0.21841962905538162,
+      "no_speech_prob": 0.035081230103969574
+    },
+    {
+      "id": 10,
+      "start": 12.08,
+      "end": 14.08,
+      "text": "and you know I'm very chilling down the earth",
+      "avg_logprob": -0.21841962905538162,
+      "no_speech_prob": 0.035081230103969574
+    },
+    {
+      "id": 11,
+      "start": 14.08,
+      "end": 16.08,
+      "text": "because this show has a swear word in the title.",
+      "avg_logprob": -0.21841962905538162,
+      "no_speech_prob": 0.035081230103969574
+    },
+    {
+      "id": 12,
+      "start": 17.08,
+      "end": 19.58,
+      "text": "We're going to talk actual solutions to the climate crisis",
+      "avg_logprob": -0.21841962905538162,
+      "no_speech_prob": 0.035081230103969574
+    },
+    {
+      "id": 13,
+      "start": 19.58,
+      "end": 22.08,
+      "text": "and what we as a species can do about it.",
+      "avg_logprob": -0.21841962905538162,
+      "no_speech_prob": 0.035081230103969574
+    },
+    {
+      "id": 14,
+      "start": 22.08,
+      "end": 24.08,
+      "text": "Right now, when it comes to EV batteries,",
+      "avg_logprob": -0.21841962905538162,
+      "no_speech_prob": 0.035081230103969574
+    },
+    {
+      "id": 15,
+      "start": 24.08,
+      "end": 29.51,
+      "text": "we are recycling, approximately, none of them.",
+      "avg_logprob": -0.21841962905538162,
+      "no_speech_prob": 0.035081230103969574
+    },
+    {
+      "id": 16,
+      "start": 29.51,
+      "end": 31.51,
+      "text": "Did you know that two-thirds of our clothes",
+      "avg_logprob": -0.21841962905538162,
+      "no_speech_prob": 0.035081230103969574
+    },
+    {
+      "id": 17,
+      "start": 31.51,
+      "end": 33.01,
+      "text": "are literally made out of oil and gas?",
+      "avg_logprob": -0.15652773901820183,
+      "no_speech_prob": 0.005623052828013897
+    },
+    {
+      "id": 18,
+      "start": 33.01,
+      "end": 34.01,
+      "text": "Gross.",
+      "avg_logprob": -0.15652773901820183,
+      "no_speech_prob": 0.005623052828013897
+    },
+    {
+      "id": 19,
+      "start": 34.01,
+      "end": 35.01,
+      "text": "Or is it fabulous?",
+      "avg_logprob": -0.15652773901820183,
+      "no_speech_prob": 0.005623052828013897
+    },
+    {
+      "id": 20,
+      "start": 35.01,
+      "end": 36.01,
+      "text": "Bye.",
+      "avg_logprob": -0.15652773901820183,
+      "no_speech_prob": 0.005623052828013897
+    },
+    {
+      "id": 21,
+      "start": 36.01,
+      "end": 37.01,
+      "text": "Bless.",
+      "avg_logprob": -0.15652773901820183,
+      "no_speech_prob": 0.005623052828013897
+    },
+    {
+      "id": 22,
+      "start": 37.51,
+      "end": 39.01,
+      "text": "I've got one word for you",
+      "avg_logprob": -0.15652773901820183,
+      "no_speech_prob": 0.005623052828013897
+    },
+    {
+      "id": 23,
+      "start": 39.01,
+      "end": 40.51,
+      "text": "and it's just five words.",
+      "avg_logprob": -0.15652773901820183,
+      "no_speech_prob": 0.005623052828013897
+    },
+    {
+      "id": 24,
+      "start": 40.51,
+      "end": 43.01,
+      "text": "EV chargers in every denny's.",
+      "avg_logprob": -0.15652773901820183,
+      "no_speech_prob": 0.005623052828013897
+    },
+    {
+      "id": 25,
+      "start": 43.01,
+      "end": 44.51,
+      "text": "Look at that.",
+      "avg_logprob": -0.15652773901820183,
+      "no_speech_prob": 0.005623052828013897
+    },
+    {
+      "id": 26,
+      "start": 44.51,
+      "end": 46.01,
+      "text": "Stimulating the economy.",
+      "avg_logprob": -0.15652773901820183,
+      "no_speech_prob": 0.005623052828013897
+    },
+    {
+      "id": 27,
+      "start": 46.01,
+      "end": 47.51,
+      "text": "Creating jobs.",
+      "avg_logprob": -0.15652773901820183,
+      "no_speech_prob": 0.005623052828013897
+    },
+    {
+      "id": 28,
+      "start": 47.51,
+      "end": 49.51,
+      "text": "We've been fucking around way too long",
+      "avg_logprob": -0.15652773901820183,
+      "no_speech_prob": 0.005623052828013897
+    },
+    {
+      "id": 29,
+      "start": 49.51,
+      "end": 51.01,
+      "text": "and if we don't do car removal,",
+      "avg_logprob": -0.15652773901820183,
+      "no_speech_prob": 0.005623052828013897
+    },
+    {
+      "id": 30,
+      "start": 51.01,
+      "end": 52.51,
+      "text": "we're about to find out.",
+      "avg_logprob": -0.15652773901820183,
+      "no_speech_prob": 0.005623052828013897
+    },
+    {
+      "id": 31,
+      "start": 52.51,
+      "end": 53.51,
+      "text": "Fuck the otters.",
+      "avg_logprob": -0.15652773901820183,
+      "no_speech_prob": 0.005623052828013897
+    },
+    {
+      "id": 32,
+      "start": 54.51,
+      "end": 56.01,
+      "text": "Calm down.",
+      "avg_logprob": -0.15652773901820183,
+      "no_speech_prob": 0.005623052828013897
+    },
+    {
+      "id": 33,
+      "start": 57.01,
+      "end": 59.01,
+      "text": "This is how we fix bad land use",
+      "avg_logprob": -0.15652773901820183,
+      "no_speech_prob": 0.005623052828013897
+    },
+    {
+      "id": 34,
+      "start": 59.01,
+      "end": 61.51,
+      "text": "and miles of cement and cars and traffic.",
+      "avg_logprob": -0.15236672142456317,
+      "no_speech_prob": 0.0037936584558337927
+    },
+    {
+      "id": 35,
+      "start": 62.51,
+      "end": 65.51,
+      "text": "Does fossil fuel carbon capture work economically?",
+      "avg_logprob": -0.15236672142456317,
+      "no_speech_prob": 0.0037936584558337927
+    },
+    {
+      "id": 36,
+      "start": 65.51,
+      "end": 66.51,
+      "text": "No.",
+      "avg_logprob": -0.15236672142456317,
+      "no_speech_prob": 0.0037936584558337927
+    },
+    {
+      "id": 37,
+      "start": 66.51,
+      "end": 68.51,
+      "text": "But does it work technically?",
+      "avg_logprob": -0.15236672142456317,
+      "no_speech_prob": 0.0037936584558337927
+    },
+    {
+      "id": 38,
+      "start": 69.51,
+      "end": 70.51,
+      "text": "No.",
+      "avg_logprob": -0.15236672142456317,
+      "no_speech_prob": 0.0037936584558337927
+    },
+    {
+      "id": 39,
+      "start": 70.51,
+      "end": 73.01,
+      "text": "These are real problems with real solutions.",
+      "avg_logprob": -0.15236672142456317,
+      "no_speech_prob": 0.0037936584558337927
+    },
+    {
+      "id": 40,
+      "start": 73.01,
+      "end": 75.01,
+      "text": "Like paying a guy to be like,",
+      "avg_logprob": -0.15236672142456317,
+      "no_speech_prob": 0.0037936584558337927
+    },
+    {
+      "id": 41,
+      "start": 75.01,
+      "end": 76.01,
+      "text": "yeah, definitely.",
+      "avg_logprob": -0.15236672142456317,
+      "no_speech_prob": 0.0037936584558337927
+    },
+    {
+      "id": 42,
+      "start": 76.01,
+      "end": 77.51,
+      "text": "We'll plant some trees.",
+      "avg_logprob": -0.15236672142456317,
+      "no_speech_prob": 0.0037936584558337927
+    },
+    {
+      "id": 43,
+      "start": 77.51,
+      "end": 79.01,
+      "text": "Okay, don't do that.",
+      "avg_logprob": -0.15236672142456317,
+      "no_speech_prob": 0.0037936584558337927
+    },
+    {
+      "id": 44,
+      "start": 79.01,
+      "end": 80.51,
+      "text": "So let's cut through the BS and figure out",
+      "avg_logprob": -0.15236672142456317,
+      "no_speech_prob": 0.0037936584558337927
+    },
+    {
+      "id": 45,
+      "start": 80.51,
+      "end": 83.51,
+      "text": "how to end this extremely slow and boring apocalypse.",
+      "avg_logprob": -0.15236672142456317,
+      "no_speech_prob": 0.0037936584558337927
+    },
+    {
+      "id": 46,
+      "start": 83.51,
+      "end": 85.51,
+      "text": "Welcome to Un-Fucking the Planet.",
+      "avg_logprob": -0.15236672142456317,
+      "no_speech_prob": 0.0037936584558337927
+    }
+  ],
+  "transcript_full": "Welcome to heaven. Hey, you're pretty. Thanks, you are too! Thanks! Cause of death? Los Angeles. Wait, let me guess. Small line! I'm your host, Hazel, and you know I'm very chilling down the earth because this show has a swear word in the title. We're going to talk actual solutions to the climate crisis and what we as a species can do about it. Right now, when it comes to EV batteries, we are recycling, approximately, none of them. Did you know that two-thirds of our clothes are literally made out of oil and gas? Gross. Or is it fabulous? Bye. Bless. I've got one word for you and it's just five words. EV chargers in every denny's. Look at that. Stimulating the economy. Creating jobs. We've been fucking around way too long and if we don't do car removal, we're about to find out. Fuck the otters. Calm down. This is how we fix bad land use and miles of cement and cars and traffic. Does fossil fuel carbon capture work economically? No. But does it work technically? No. These are real problems with real solutions. Like paying a guy to be like, yeah, definitely. We'll plant some trees. Okay, don't do that. So let's cut through the BS and figure out how to end this extremely slow and boring apocalypse. Welcome to Un-Fucking the Planet.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

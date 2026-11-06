@@ -1,0 +1,380 @@
+{
+  "language": "en",
+  "language_probability": 0.891223669052124,
+  "duration": 167.467,
+  "duration_after_vad": 137.45,
+  "segment_count": 46,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.69,
+      "end": 4.69,
+      "text": "I've got my special shoes on, so it's safe for me to enter.",
+      "avg_logprob": -0.16994092442573758,
+      "no_speech_prob": 0.2773500382900238
+    },
+    {
+      "id": 2,
+      "start": 8.69,
+      "end": 13.69,
+      "text": "Jose Mora manages this and seven other CTG sites around the country.",
+      "avg_logprob": -0.16994092442573758,
+      "no_speech_prob": 0.2773500382900238
+    },
+    {
+      "id": 3,
+      "start": 14.69,
+      "end": 17.69,
+      "text": "Now Jose, they're very upright, the panels.",
+      "avg_logprob": -0.16994092442573758,
+      "no_speech_prob": 0.2773500382900238
+    },
+    {
+      "id": 4,
+      "start": 17.69,
+      "end": 21.69,
+      "text": "Is that, I mean, do they flatten out, do they follow the sun?",
+      "avg_logprob": -0.16994092442573758,
+      "no_speech_prob": 0.2773500382900238
+    },
+    {
+      "id": 5,
+      "start": 21.69,
+      "end": 23.69,
+      "text": "Is that why they're so upright at the moment?",
+      "avg_logprob": -0.16994092442573758,
+      "no_speech_prob": 0.2773500382900238
+    },
+    {
+      "id": 6,
+      "start": 23.69,
+      "end": 26.69,
+      "text": "Yes, when the sun is moving, the trackers follow the sun,",
+      "avg_logprob": -0.16994092442573758,
+      "no_speech_prob": 0.2773500382900238
+    },
+    {
+      "id": 7,
+      "start": 26.69,
+      "end": 29.69,
+      "text": "and it's always 19 degrees.",
+      "avg_logprob": -0.16994092442573758,
+      "no_speech_prob": 0.2773500382900238
+    },
+    {
+      "id": 8,
+      "start": 29.69,
+      "end": 31.69,
+      "text": "Yeah, and so it's automatic?",
+      "avg_logprob": -0.1625531388603094,
+      "no_speech_prob": 0.00708447489887476
+    },
+    {
+      "id": 9,
+      "start": 31.69,
+      "end": 33.69,
+      "text": "Automatic, yes.",
+      "avg_logprob": -0.1625531388603094,
+      "no_speech_prob": 0.00708447489887476
+    },
+    {
+      "id": 10,
+      "start": 33.69,
+      "end": 35.69,
+      "text": "It's moving, it's moving the tracker.",
+      "avg_logprob": -0.1625531388603094,
+      "no_speech_prob": 0.00708447489887476
+    },
+    {
+      "id": 11,
+      "start": 35.69,
+      "end": 36.69,
+      "text": "Okay.",
+      "avg_logprob": -0.1625531388603094,
+      "no_speech_prob": 0.00708447489887476
+    },
+    {
+      "id": 12,
+      "start": 36.69,
+      "end": 38.69,
+      "text": "Little by little, step by step.",
+      "avg_logprob": -0.1625531388603094,
+      "no_speech_prob": 0.00708447489887476
+    },
+    {
+      "id": 13,
+      "start": 39.69,
+      "end": 43.69,
+      "text": "A solar plant like this employs fewer people than an old fashioned",
+      "avg_logprob": -0.1625531388603094,
+      "no_speech_prob": 0.00708447489887476
+    },
+    {
+      "id": 14,
+      "start": 43.69,
+      "end": 45.69,
+      "text": "fossil fuel burning power station would.",
+      "avg_logprob": -0.1625531388603094,
+      "no_speech_prob": 0.00708447489887476
+    },
+    {
+      "id": 15,
+      "start": 45.69,
+      "end": 49.69,
+      "text": "But Jose understands times have changed.",
+      "avg_logprob": -0.1625531388603094,
+      "no_speech_prob": 0.00708447489887476
+    },
+    {
+      "id": 16,
+      "start": 49.69,
+      "end": 51.69,
+      "text": "Do people want to come and work here?",
+      "avg_logprob": -0.1625531388603094,
+      "no_speech_prob": 0.00708447489887476
+    },
+    {
+      "id": 17,
+      "start": 51.69,
+      "end": 54.69,
+      "text": "Because it's solar, you know, do they want to work for CTG?",
+      "avg_logprob": -0.1625531388603094,
+      "no_speech_prob": 0.00708447489887476
+    },
+    {
+      "id": 18,
+      "start": 54.69,
+      "end": 58.69,
+      "text": "Because it's solar and it's wind and it's helping, you know, with green energy.",
+      "avg_logprob": -0.1625531388603094,
+      "no_speech_prob": 0.00708447489887476
+    },
+    {
+      "id": 19,
+      "start": 58.69,
+      "end": 65.69,
+      "text": "Yes, well, we are pushing all the sectors, the wind and solar projects,",
+      "avg_logprob": -0.1653609797358513,
+      "no_speech_prob": 0.00740662170574069
+    },
+    {
+      "id": 20,
+      "start": 65.69,
+      "end": 69.69,
+      "text": "pushing to a good future for this planet.",
+      "avg_logprob": -0.1653609797358513,
+      "no_speech_prob": 0.00740662170574069
+    },
+    {
+      "id": 21,
+      "start": 69.69,
+      "end": 70.69,
+      "text": "Yeah.",
+      "avg_logprob": -0.1653609797358513,
+      "no_speech_prob": 0.00740662170574069
+    },
+    {
+      "id": 22,
+      "start": 70.69,
+      "end": 73.69,
+      "text": "So skilled worthwhile jobs, although when he visits,",
+      "avg_logprob": -0.1653609797358513,
+      "no_speech_prob": 0.00740662170574069
+    },
+    {
+      "id": 23,
+      "start": 73.69,
+      "end": 76.69,
+      "text": "Jose travels here from his home in Seville.",
+      "avg_logprob": -0.1653609797358513,
+      "no_speech_prob": 0.00740662170574069
+    },
+    {
+      "id": 24,
+      "start": 77.69,
+      "end": 79.69,
+      "text": "This is the control room.",
+      "avg_logprob": -0.1653609797358513,
+      "no_speech_prob": 0.00740662170574069
+    },
+    {
+      "id": 25,
+      "start": 79.69,
+      "end": 83.69,
+      "text": "We have the CCTV camera here in this part,",
+      "avg_logprob": -0.1653609797358513,
+      "no_speech_prob": 0.00740662170574069
+    },
+    {
+      "id": 26,
+      "start": 83.69,
+      "end": 85.69,
+      "text": "and another part we have the scanner.",
+      "avg_logprob": -0.1653609797358513,
+      "no_speech_prob": 0.00740662170574069
+    },
+    {
+      "id": 27,
+      "start": 85.69,
+      "end": 88.69,
+      "text": "And is it all local people that work here?",
+      "avg_logprob": -0.11402910690415989,
+      "no_speech_prob": 0.010262825526297092
+    },
+    {
+      "id": 28,
+      "start": 88.69,
+      "end": 91.69,
+      "text": "Yes, they are local, they're very close from here.",
+      "avg_logprob": -0.11402910690415989,
+      "no_speech_prob": 0.010262825526297092
+    },
+    {
+      "id": 29,
+      "start": 91.69,
+      "end": 95.69,
+      "text": "It's maybe 10 minutes or 15 minutes to get here.",
+      "avg_logprob": -0.11402910690415989,
+      "no_speech_prob": 0.010262825526297092
+    },
+    {
+      "id": 30,
+      "start": 95.69,
+      "end": 97.69,
+      "text": "But for you, how many hours?",
+      "avg_logprob": -0.11402910690415989,
+      "no_speech_prob": 0.010262825526297092
+    },
+    {
+      "id": 31,
+      "start": 97.69,
+      "end": 99.69,
+      "text": "Six hours.",
+      "avg_logprob": -0.11402910690415989,
+      "no_speech_prob": 0.010262825526297092
+    },
+    {
+      "id": 32,
+      "start": 99.69,
+      "end": 102.69,
+      "text": "If there's any problem, we need more.",
+      "avg_logprob": -0.11402910690415989,
+      "no_speech_prob": 0.010262825526297092
+    },
+    {
+      "id": 33,
+      "start": 102.69,
+      "end": 104.69,
+      "text": "You had a very fast car or a train.",
+      "avg_logprob": -0.11402910690415989,
+      "no_speech_prob": 0.010262825526297092
+    },
+    {
+      "id": 34,
+      "start": 104.69,
+      "end": 106.69,
+      "text": "Yes, yes.",
+      "avg_logprob": -0.11402910690415989,
+      "no_speech_prob": 0.010262825526297092
+    },
+    {
+      "id": 35,
+      "start": 106.69,
+      "end": 112.32,
+      "text": "Some renewable energy sites have been controversial in Spain",
+      "avg_logprob": -0.11402910690415989,
+      "no_speech_prob": 0.010262825526297092
+    },
+    {
+      "id": 36,
+      "start": 112.32,
+      "end": 115.32,
+      "text": "because of the way they use agricultural land.",
+      "avg_logprob": -0.11402910690415989,
+      "no_speech_prob": 0.010262825526297092
+    },
+    {
+      "id": 37,
+      "start": 115.32,
+      "end": 120.32,
+      "text": "So when the shepherd appeared, it was an opportunity to find out more.",
+      "avg_logprob": -0.13651614773030185,
+      "no_speech_prob": 0.009690303355455399
+    },
+    {
+      "id": 38,
+      "start": 121.32,
+      "end": 124.32,
+      "text": "Is he happy that he can graze his sheep on this land?",
+      "avg_logprob": -0.13651614773030185,
+      "no_speech_prob": 0.009690303355455399
+    },
+    {
+      "id": 39,
+      "start": 140.32,
+      "end": 145.14,
+      "text": "Well, that's the old ways, the ancient ways,",
+      "avg_logprob": -0.13651614773030185,
+      "no_speech_prob": 0.009690303355455399
+    },
+    {
+      "id": 40,
+      "start": 145.14,
+      "end": 148.14,
+      "text": "and the new technology, you know, working together.",
+      "avg_logprob": -0.16179830364642606,
+      "no_speech_prob": 0.3142800033092499
+    },
+    {
+      "id": 41,
+      "start": 148.14,
+      "end": 150.14,
+      "text": "Yes, yes.",
+      "avg_logprob": -0.16179830364642606,
+      "no_speech_prob": 0.3142800033092499
+    },
+    {
+      "id": 42,
+      "start": 150.14,
+      "end": 155.14,
+      "text": "It's amazing to mix the old technology",
+      "avg_logprob": -0.16179830364642606,
+      "no_speech_prob": 0.3142800033092499
+    },
+    {
+      "id": 43,
+      "start": 155.14,
+      "end": 157.14,
+      "text": "and the new one.",
+      "avg_logprob": -0.16179830364642606,
+      "no_speech_prob": 0.3142800033092499
+    },
+    {
+      "id": 44,
+      "start": 157.14,
+      "end": 158.14,
+      "text": "Yeah, yeah.",
+      "avg_logprob": -0.16179830364642606,
+      "no_speech_prob": 0.3142800033092499
+    },
+    {
+      "id": 45,
+      "start": 158.14,
+      "end": 160.14,
+      "text": "I've never heard sheep described as technology,",
+      "avg_logprob": -0.16179830364642606,
+      "no_speech_prob": 0.3142800033092499
+    },
+    {
+      "id": 46,
+      "start": 160.14,
+      "end": 162.14,
+      "text": "but yeah, why not?",
+      "avg_logprob": -0.16179830364642606,
+      "no_speech_prob": 0.3142800033092499
+    }
+  ],
+  "transcript_full": "I've got my special shoes on, so it's safe for me to enter. Jose Mora manages this and seven other CTG sites around the country. Now Jose, they're very upright, the panels. Is that, I mean, do they flatten out, do they follow the sun? Is that why they're so upright at the moment? Yes, when the sun is moving, the trackers follow the sun, and it's always 19 degrees. Yeah, and so it's automatic? Automatic, yes. It's moving, it's moving the tracker. Okay. Little by little, step by step. A solar plant like this employs fewer people than an old fashioned fossil fuel burning power station would. But Jose understands times have changed. Do people want to come and work here? Because it's solar, you know, do they want to work for CTG? Because it's solar and it's wind and it's helping, you know, with green energy. Yes, well, we are pushing all the sectors, the wind and solar projects, pushing to a good future for this planet. Yeah. So skilled worthwhile jobs, although when he visits, Jose travels here from his home in Seville. This is the control room. We have the CCTV camera here in this part, and another part we have the scanner. And is it all local people that work here? Yes, they are local, they're very close from here. It's maybe 10 minutes or 15 minutes to get here. But for you, how many hours? Six hours. If there's any problem, we need more. You had a very fast car or a train. Yes, yes. Some renewable energy sites have been controversial in Spain because of the way they use agricultural land. So when the shepherd appeared, it was an opportunity to find out more. Is he happy that he can graze his sheep on this land? Well, that's the old ways, the ancient ways, and the new technology, you know, working together. Yes, yes. It's amazing to mix the old technology and the new one. Yeah, yeah. I've never heard sheep described as technology, but yeah, why not?",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

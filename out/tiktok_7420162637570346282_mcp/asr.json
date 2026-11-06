@@ -1,0 +1,92 @@
+{
+  "language": "en",
+  "language_probability": 0.9992178678512573,
+  "duration": 43.443,
+  "duration_after_vad": 43.16,
+  "segment_count": 10,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.08,
+      "text": "I think what we're seeing, Robert, is, you know, this storm took a while to develop,",
+      "avg_logprob": -0.12469379723604236,
+      "no_speech_prob": 0.003141288412734866
+    },
+    {
+      "id": 2,
+      "start": 5.08,
+      "end": 9.08,
+      "text": "but once it did, it developed and intensified very rapidly.",
+      "avg_logprob": -0.12469379723604236,
+      "no_speech_prob": 0.003141288412734866
+    },
+    {
+      "id": 3,
+      "start": 9.08,
+      "end": 12.72,
+      "text": "And that's because of the warm waters in the Gulf.",
+      "avg_logprob": -0.12469379723604236,
+      "no_speech_prob": 0.003141288412734866
+    },
+    {
+      "id": 4,
+      "start": 12.72,
+      "end": 18.76,
+      "text": "And so it's creating more storms that are reaching this major category level than we've",
+      "avg_logprob": -0.12469379723604236,
+      "no_speech_prob": 0.003141288412734866
+    },
+    {
+      "id": 5,
+      "start": 18.76,
+      "end": 20.46,
+      "text": "seen in the past.",
+      "avg_logprob": -0.12469379723604236,
+      "no_speech_prob": 0.003141288412734866
+    },
+    {
+      "id": 6,
+      "start": 20.46,
+      "end": 24.8,
+      "text": "It's also creating greater amounts of storm surge in the coastal areas.",
+      "avg_logprob": -0.12469379723604236,
+      "no_speech_prob": 0.003141288412734866
+    },
+    {
+      "id": 7,
+      "start": 24.8,
+      "end": 29.16,
+      "text": "It's creating greater amounts of rainfall as it moves up north.",
+      "avg_logprob": -0.12469379723604236,
+      "no_speech_prob": 0.003141288412734866
+    },
+    {
+      "id": 8,
+      "start": 29.16,
+      "end": 34.4,
+      "text": "And so in the past, when we would look at damage from hurricanes, it was primarily wind damage",
+      "avg_logprob": -0.1375810376235417,
+      "no_speech_prob": 0.00038523823604919016
+    },
+    {
+      "id": 9,
+      "start": 34.4,
+      "end": 38.8,
+      "text": "with some water damage, but now we're seeing so much more water damage.",
+      "avg_logprob": -0.1375810376235417,
+      "no_speech_prob": 0.00038523823604919016
+    },
+    {
+      "id": 10,
+      "start": 38.8,
+      "end": 43.16,
+      "text": "And I think that is a result of the warm waters, which is a result of climate change.",
+      "avg_logprob": -0.1375810376235417,
+      "no_speech_prob": 0.00038523823604919016
+    }
+  ],
+  "transcript_full": "I think what we're seeing, Robert, is, you know, this storm took a while to develop, but once it did, it developed and intensified very rapidly. And that's because of the warm waters in the Gulf. And so it's creating more storms that are reaching this major category level than we've seen in the past. It's also creating greater amounts of storm surge in the coastal areas. It's creating greater amounts of rainfall as it moves up north. And so in the past, when we would look at damage from hurricanes, it was primarily wind damage with some water damage, but now we're seeing so much more water damage. And I think that is a result of the warm waters, which is a result of climate change.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

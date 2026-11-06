@@ -1,0 +1,36 @@
+{
+  "language": "en",
+  "language_probability": 0.43031376600265503,
+  "duration": 82.433,
+  "duration_after_vad": 77.43,
+  "segment_count": 3,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.08,
+      "end": 63.51,
+      "text": "Iau ko ko rame ngaau, men sii ri beiki, pura ke ko pura ke nko e etu nari naon nape",
+      "avg_logprob": -0.7126786772410075,
+      "no_speech_prob": 0.6869482398033142
+    },
+    {
+      "id": 2,
+      "start": 63.51,
+      "end": 75.51,
+      "text": "Rousi ko rake rousi ko rake mei merava, pana nori ko ake amenai ke raroa ko pura ke",
+      "avg_logprob": -0.7126786772410075,
+      "no_speech_prob": 0.6869482398033142
+    },
+    {
+      "id": 3,
+      "start": 75.51,
+      "end": 77.51,
+      "text": "e",
+      "avg_logprob": -0.8775902688503265,
+      "no_speech_prob": 0.9972506165504456
+    }
+  ],
+  "transcript_full": "Iau ko ko rame ngaau, men sii ri beiki, pura ke ko pura ke nko e etu nari naon nape Rousi ko rake rousi ko rake mei merava, pana nori ko ake amenai ke raroa ko pura ke e",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

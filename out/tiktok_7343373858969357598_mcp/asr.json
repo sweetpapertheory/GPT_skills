@@ -1,0 +1,28 @@
+{
+  "language": "en",
+  "language_probability": 0.9949585795402527,
+  "duration": 44.433,
+  "duration_after_vad": 7.92,
+  "segment_count": 2,
+  "segments": [
+    {
+      "id": 1,
+      "start": 5.42,
+      "end": 8.34,
+      "text": "Wow, look at this aminita.",
+      "avg_logprob": -0.46424283027648927,
+      "no_speech_prob": 0.008736124262213707
+    },
+    {
+      "id": 2,
+      "start": 8.34,
+      "end": 13.34,
+      "text": "Holy cow, so chunky, so fuzzy, beautiful.",
+      "avg_logprob": -0.46424283027648927,
+      "no_speech_prob": 0.008736124262213707
+    }
+  ],
+  "transcript_full": "Wow, look at this aminita. Holy cow, so chunky, so fuzzy, beautiful.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

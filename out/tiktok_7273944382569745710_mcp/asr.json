@@ -1,0 +1,164 @@
+{
+  "language": "en",
+  "language_probability": 0.9996613264083862,
+  "duration": 149.216,
+  "duration_after_vad": 139.98,
+  "segment_count": 19,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.96,
+      "text": "Birding is kind of like a video game. You're trying to catch this thing like Pokemon Go or",
+      "avg_logprob": -0.10920039238860306,
+      "no_speech_prob": 0.0014213020913302898
+    },
+    {
+      "id": 2,
+      "start": 4.96,
+      "end": 10.56,
+      "text": "something. It's faster than you are. It can fly. That's why it's so exciting when you finally see",
+      "avg_logprob": -0.10920039238860306,
+      "no_speech_prob": 0.0014213020913302898
+    },
+    {
+      "id": 3,
+      "start": 10.56,
+      "end": 20.74,
+      "text": "what you were trying to see. I'm actually new to birding. I'm not an expert, but I have learned",
+      "avg_logprob": -0.10920039238860306,
+      "no_speech_prob": 0.0014213020913302898
+    },
+    {
+      "id": 4,
+      "start": 20.74,
+      "end": 25.86,
+      "text": "a few things and I'm going to share my tips with you today. When you're birding, you actually",
+      "avg_logprob": -0.10920039238860306,
+      "no_speech_prob": 0.0014213020913302898
+    },
+    {
+      "id": 5,
+      "start": 25.94,
+      "end": 32.5,
+      "text": "don't need any equipment. You can just use your senses. You can listen. You can look. It's helpful",
+      "avg_logprob": -0.0745848496170605,
+      "no_speech_prob": 0.07651147991418839
+    },
+    {
+      "id": 6,
+      "start": 32.5,
+      "end": 40.18,
+      "text": "to have a book to help you identify species. And if you're really into it, you can get binoculars to",
+      "avg_logprob": -0.0745848496170605,
+      "no_speech_prob": 0.07651147991418839
+    },
+    {
+      "id": 7,
+      "start": 40.18,
+      "end": 44.9,
+      "text": "help you get a closer look, but you can just bird without those things actually. And if you're",
+      "avg_logprob": -0.0745848496170605,
+      "no_speech_prob": 0.07651147991418839
+    },
+    {
+      "id": 8,
+      "start": 45.54,
+      "end": 54.67,
+      "text": "outside looking at birds, then you're birding. I started birding during the pandemic as a way to",
+      "avg_logprob": -0.0745848496170605,
+      "no_speech_prob": 0.07651147991418839
+    },
+    {
+      "id": 9,
+      "start": 55.63,
+      "end": 68.86,
+      "text": "get outside more. And oh, did you see that? That was a cardinal. First I listen",
+      "avg_logprob": -0.1476131638305055,
+      "no_speech_prob": 0.002092085313051939
+    },
+    {
+      "id": 10,
+      "start": 70.62,
+      "end": 78.3,
+      "text": "and I try to see if I can recognize the sound that they're making. And then next I look. So",
+      "avg_logprob": -0.1476131638305055,
+      "no_speech_prob": 0.002092085313051939
+    },
+    {
+      "id": 11,
+      "start": 79.42,
+      "end": 85.26,
+      "text": "I look at the shape, the size, the color. Next I'll look at their behavior.",
+      "avg_logprob": -0.1476131638305055,
+      "no_speech_prob": 0.002092085313051939
+    },
+    {
+      "id": 12,
+      "start": 85.9,
+      "end": 93.98,
+      "text": "I think it was a Carolina Wren. In terms of birding etiquette, I think",
+      "avg_logprob": -0.16627977811373196,
+      "no_speech_prob": 0.00032509828452020884
+    },
+    {
+      "id": 13,
+      "start": 94.86,
+      "end": 101.82,
+      "text": "just being very quiet, walking slowly and softly, not to scare the birds is very important.",
+      "avg_logprob": -0.16627977811373196,
+      "no_speech_prob": 0.00032509828452020884
+    },
+    {
+      "id": 14,
+      "start": 104.67,
+      "end": 113.47,
+      "text": "I also enjoy taking photographs of birds. I feel like it's a way to get a closer",
+      "avg_logprob": -0.16627977811373196,
+      "no_speech_prob": 0.00032509828452020884
+    },
+    {
+      "id": 15,
+      "start": 113.47,
+      "end": 121.63,
+      "text": "look at them, make them be still for once. This is a woodpecker that was taken right here in Central",
+      "avg_logprob": -0.07022754289209843,
+      "no_speech_prob": 0.00020284470519982278
+    },
+    {
+      "id": 16,
+      "start": 121.63,
+      "end": 130.67,
+      "text": "Park. The most exciting thing that I've seen here was actually a young red-tailed hawk. I'm still",
+      "avg_logprob": -0.07022754289209843,
+      "no_speech_prob": 0.00020284470519982278
+    },
+    {
+      "id": 17,
+      "start": 130.67,
+      "end": 134.67,
+      "text": "learning what everything looks like, what all the birds look like, and also because so many",
+      "avg_logprob": -0.07022754289209843,
+      "no_speech_prob": 0.00020284470519982278
+    },
+    {
+      "id": 18,
+      "start": 134.67,
+      "end": 142.11,
+      "text": "birds look alike. When you do see something that you haven't seen before, the feeling of",
+      "avg_logprob": -0.07022754289209843,
+      "no_speech_prob": 0.00020284470519982278
+    },
+    {
+      "id": 19,
+      "start": 142.11,
+      "end": 148.91,
+      "text": "discovery that it's new to you is part of the high that keeps you going.",
+      "avg_logprob": -0.20265713036060334,
+      "no_speech_prob": 0.0009483859175816178
+    }
+  ],
+  "transcript_full": "Birding is kind of like a video game. You're trying to catch this thing like Pokemon Go or something. It's faster than you are. It can fly. That's why it's so exciting when you finally see what you were trying to see. I'm actually new to birding. I'm not an expert, but I have learned a few things and I'm going to share my tips with you today. When you're birding, you actually don't need any equipment. You can just use your senses. You can listen. You can look. It's helpful to have a book to help you identify species. And if you're really into it, you can get binoculars to help you get a closer look, but you can just bird without those things actually. And if you're outside looking at birds, then you're birding. I started birding during the pandemic as a way to get outside more. And oh, did you see that? That was a cardinal. First I listen and I try to see if I can recognize the sound that they're making. And then next I look. So I look at the shape, the size, the color. Next I'll look at their behavior. I think it was a Carolina Wren. In terms of birding etiquette, I think just being very quiet, walking slowly and softly, not to scare the birds is very important. I also enjoy taking photographs of birds. I feel like it's a way to get a closer look at them, make them be still for once. This is a woodpecker that was taken right here in Central Park. The most exciting thing that I've seen here was actually a young red-tailed hawk. I'm still learning what everything looks like, what all the birds look like, and also because so many birds look alike. When you do see something that you haven't seen before, the feeling of discovery that it's new to you is part of the high that keeps you going.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

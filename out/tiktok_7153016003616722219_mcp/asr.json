@@ -1,0 +1,236 @@
+{
+  "language": "en",
+  "language_probability": 0.9995043277740479,
+  "duration": 65.432,
+  "duration_after_vad": 65.56,
+  "segment_count": 28,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.04,
+      "text": "Science has been a huge support for me",
+      "avg_logprob": -0.09269836787285844,
+      "no_speech_prob": 0.005123516544699669
+    },
+    {
+      "id": 2,
+      "start": 3.04,
+      "end": 5.32,
+      "text": "to better understand the world around me",
+      "avg_logprob": -0.09269836787285844,
+      "no_speech_prob": 0.005123516544699669
+    },
+    {
+      "id": 3,
+      "start": 5.32,
+      "end": 8.04,
+      "text": "and help to improve societal benefits",
+      "avg_logprob": -0.09269836787285844,
+      "no_speech_prob": 0.005123516544699669
+    },
+    {
+      "id": 4,
+      "start": 8.04,
+      "end": 10.68,
+      "text": "with the key observations that we have at NASA.",
+      "avg_logprob": -0.09269836787285844,
+      "no_speech_prob": 0.005123516544699669
+    },
+    {
+      "id": 5,
+      "start": 10.68,
+      "end": 12.36,
+      "text": "I work with 1,400 people,",
+      "avg_logprob": -0.09269836787285844,
+      "no_speech_prob": 0.005123516544699669
+    },
+    {
+      "id": 6,
+      "start": 12.36,
+      "end": 14.8,
+      "text": "the largest group of our scientists in the world,",
+      "avg_logprob": -0.09269836787285844,
+      "no_speech_prob": 0.005123516544699669
+    },
+    {
+      "id": 7,
+      "start": 14.8,
+      "end": 18.24,
+      "text": "to better understand our interconnected system of science",
+      "avg_logprob": -0.09269836787285844,
+      "no_speech_prob": 0.005123516544699669
+    },
+    {
+      "id": 8,
+      "start": 18.24,
+      "end": 21.24,
+      "text": "from understanding how our climate has changed in the past",
+      "avg_logprob": -0.09269836787285844,
+      "no_speech_prob": 0.005123516544699669
+    },
+    {
+      "id": 9,
+      "start": 21.24,
+      "end": 23.68,
+      "text": "to looking at how it may change in the future.",
+      "avg_logprob": -0.09269836787285844,
+      "no_speech_prob": 0.005123516544699669
+    },
+    {
+      "id": 10,
+      "start": 23.68,
+      "end": 25.56,
+      "text": "Now in my career, I've been fortunate",
+      "avg_logprob": -0.09269836787285844,
+      "no_speech_prob": 0.005123516544699669
+    },
+    {
+      "id": 11,
+      "start": 25.56,
+      "end": 26.68,
+      "text": "to work with scientists",
+      "avg_logprob": -0.09269836787285844,
+      "no_speech_prob": 0.005123516544699669
+    },
+    {
+      "id": 12,
+      "start": 26.68,
+      "end": 29.4,
+      "text": "that identify those key science questions",
+      "avg_logprob": -0.09269836787285844,
+      "no_speech_prob": 0.005123516544699669
+    },
+    {
+      "id": 13,
+      "start": 29.4,
+      "end": 32.0,
+      "text": "to really move our understanding forward of our Earth,",
+      "avg_logprob": -0.09665203230981609,
+      "no_speech_prob": 0.00020466561545617878
+    },
+    {
+      "id": 14,
+      "start": 32.0,
+      "end": 33.68,
+      "text": "our complex systems,",
+      "avg_logprob": -0.09665203230981609,
+      "no_speech_prob": 0.00020466561545617878
+    },
+    {
+      "id": 15,
+      "start": 33.68,
+      "end": 36.8,
+      "text": "but also to understand how climate has changed in the past",
+      "avg_logprob": -0.09665203230981609,
+      "no_speech_prob": 0.00020466561545617878
+    },
+    {
+      "id": 16,
+      "start": 36.8,
+      "end": 39.0,
+      "text": "and model how it may change in the future.",
+      "avg_logprob": -0.09665203230981609,
+      "no_speech_prob": 0.00020466561545617878
+    },
+    {
+      "id": 17,
+      "start": 39.0,
+      "end": 40.36,
+      "text": "My name is Dahlia Kirschbaum",
+      "avg_logprob": -0.09665203230981609,
+      "no_speech_prob": 0.00020466561545617878
+    },
+    {
+      "id": 18,
+      "start": 40.36,
+      "end": 42.32,
+      "text": "and I am the Director of Earth Sciences",
+      "avg_logprob": -0.09665203230981609,
+      "no_speech_prob": 0.00020466561545617878
+    },
+    {
+      "id": 19,
+      "start": 42.32,
+      "end": 44.2,
+      "text": "at NASA's Goddard Space Flight Center,",
+      "avg_logprob": -0.09665203230981609,
+      "no_speech_prob": 0.00020466561545617878
+    },
+    {
+      "id": 20,
+      "start": 44.2,
+      "end": 45.64,
+      "text": "which is in Greenbelt, Maryland.",
+      "avg_logprob": -0.09665203230981609,
+      "no_speech_prob": 0.00020466561545617878
+    },
+    {
+      "id": 21,
+      "start": 45.64,
+      "end": 47.04,
+      "text": "Now as a woman in science,",
+      "avg_logprob": -0.09665203230981609,
+      "no_speech_prob": 0.00020466561545617878
+    },
+    {
+      "id": 22,
+      "start": 47.04,
+      "end": 49.48,
+      "text": "I've been fortunate to work with engineers",
+      "avg_logprob": -0.09665203230981609,
+      "no_speech_prob": 0.00020466561545617878
+    },
+    {
+      "id": 23,
+      "start": 49.48,
+      "end": 52.88,
+      "text": "to help build and launch those satellites",
+      "avg_logprob": -0.09665203230981609,
+      "no_speech_prob": 0.00020466561545617878
+    },
+    {
+      "id": 24,
+      "start": 52.88,
+      "end": 54.92,
+      "text": "to take those key observations",
+      "avg_logprob": -0.09665203230981609,
+      "no_speech_prob": 0.00020466561545617878
+    },
+    {
+      "id": 25,
+      "start": 54.92,
+      "end": 56.4,
+      "text": "and then work with the community",
+      "avg_logprob": -0.09665203230981609,
+      "no_speech_prob": 0.00020466561545617878
+    },
+    {
+      "id": 26,
+      "start": 56.4,
+      "end": 59.56,
+      "text": "to understand how we can apply those observations",
+      "avg_logprob": -0.13724418580532075,
+      "no_speech_prob": 0.04137822240591049
+    },
+    {
+      "id": 27,
+      "start": 59.56,
+      "end": 62.24,
+      "text": "to understand crop forecasting, for example,",
+      "avg_logprob": -0.13724418580532075,
+      "no_speech_prob": 0.04137822240591049
+    },
+    {
+      "id": 28,
+      "start": 62.24,
+      "end": 65.56,
+      "text": "or natural disasters or freshwater resources.",
+      "avg_logprob": -0.13724418580532075,
+      "no_speech_prob": 0.04137822240591049
+    }
+  ],
+  "transcript_full": "Science has been a huge support for me to better understand the world around me and help to improve societal benefits with the key observations that we have at NASA. I work with 1,400 people, the largest group of our scientists in the world, to better understand our interconnected system of science from understanding how our climate has changed in the past to looking at how it may change in the future. Now in my career, I've been fortunate to work with scientists that identify those key science questions to really move our understanding forward of our Earth, our complex systems, but also to understand how climate has changed in the past and model how it may change in the future. My name is Dahlia Kirschbaum and I am the Director of Earth Sciences at NASA's Goddard Space Flight Center, which is in Greenbelt, Maryland. Now as a woman in science, I've been fortunate to work with engineers to help build and launch those satellites to take those key observations and then work with the community to understand how we can apply those observations to understand crop forecasting, for example, or natural disasters or freshwater resources.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

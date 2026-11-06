@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "language_probability": 0.9958400726318359,
+  "duration": 16.833,
+  "duration_after_vad": 13.07,
+  "segment_count": 1,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.65,
+      "end": 14.72,
+      "text": "Well guys, this is Arizona it's October and that's snow yep cold day in hell they said",
+      "avg_logprob": -0.27644222715626593,
+      "no_speech_prob": 0.021463047713041306
+    }
+  ],
+  "transcript_full": "Well guys, this is Arizona it's October and that's snow yep cold day in hell they said",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

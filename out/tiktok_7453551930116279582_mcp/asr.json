@@ -1,0 +1,460 @@
+{
+  "language": "en",
+  "language_probability": 0.9993385672569275,
+  "duration": 161.933,
+  "duration_after_vad": 161.84,
+  "segment_count": 56,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.88,
+      "text": "Disney has now decided that climate change is too woke of a topic for them to tackle",
+      "avg_logprob": -0.11300046736715545,
+      "no_speech_prob": 0.020718656480312347
+    },
+    {
+      "id": 2,
+      "start": 3.88,
+      "end": 7.16,
+      "text": "and this is some of the most cowardly shit I have read in a minute.",
+      "avg_logprob": -0.11300046736715545,
+      "no_speech_prob": 0.020718656480312347
+    },
+    {
+      "id": 3,
+      "start": 7.16,
+      "end": 11.28,
+      "text": "Anytime somebody talks about the topic of climate change being woke or being inherently",
+      "avg_logprob": -0.11300046736715545,
+      "no_speech_prob": 0.020718656480312347
+    },
+    {
+      "id": 4,
+      "start": 11.28,
+      "end": 14.24,
+      "text": "liberal I always end up thinking of Game of Thrones.",
+      "avg_logprob": -0.11300046736715545,
+      "no_speech_prob": 0.020718656480312347
+    },
+    {
+      "id": 5,
+      "start": 14.24,
+      "end": 17.32,
+      "text": "The incredible things about Game of Thrones was the white walkers, the way they are",
+      "avg_logprob": -0.11300046736715545,
+      "no_speech_prob": 0.020718656480312347
+    },
+    {
+      "id": 6,
+      "start": 17.32,
+      "end": 19.36,
+      "text": "constantly looming as a threat.",
+      "avg_logprob": -0.11300046736715545,
+      "no_speech_prob": 0.020718656480312347
+    },
+    {
+      "id": 7,
+      "start": 19.36,
+      "end": 22.0,
+      "text": "They don't care if you're a Lannister, if you're a Stark.",
+      "avg_logprob": -0.11300046736715545,
+      "no_speech_prob": 0.020718656480312347
+    },
+    {
+      "id": 8,
+      "start": 22.0,
+      "end": 25.88,
+      "text": "They are a force of nature that will not stop until they have destroyed every single",
+      "avg_logprob": -0.11300046736715545,
+      "no_speech_prob": 0.020718656480312347
+    },
+    {
+      "id": 9,
+      "start": 25.88,
+      "end": 26.88,
+      "text": "thing in their way.",
+      "avg_logprob": -0.11300046736715545,
+      "no_speech_prob": 0.020718656480312347
+    },
+    {
+      "id": 10,
+      "start": 26.88,
+      "end": 30.92,
+      "text": "They are a threat to everybody and in that they are an excellent uniting force.",
+      "avg_logprob": -0.13156057286419368,
+      "no_speech_prob": 0.16818703711032867
+    },
+    {
+      "id": 11,
+      "start": 30.92,
+      "end": 31.92,
+      "text": "This is climate change.",
+      "avg_logprob": -0.13156057286419368,
+      "no_speech_prob": 0.16818703711032867
+    },
+    {
+      "id": 12,
+      "start": 31.92,
+      "end": 35.28,
+      "text": "It doesn't give a fuck if you're a conservative farmer in the middle of the country and you're",
+      "avg_logprob": -0.13156057286419368,
+      "no_speech_prob": 0.16818703711032867
+    },
+    {
+      "id": 13,
+      "start": 35.28,
+      "end": 36.28,
+      "text": "dealing with a drought.",
+      "avg_logprob": -0.13156057286419368,
+      "no_speech_prob": 0.16818703711032867
+    },
+    {
+      "id": 14,
+      "start": 36.28,
+      "end": 37.28,
+      "text": "It's hurting you financially.",
+      "avg_logprob": -0.13156057286419368,
+      "no_speech_prob": 0.16818703711032867
+    },
+    {
+      "id": 15,
+      "start": 37.28,
+      "end": 42.36,
+      "text": "It doesn't give a fuck if you're a liberal in California dealing with forest fires every",
+      "avg_logprob": -0.13156057286419368,
+      "no_speech_prob": 0.16818703711032867
+    },
+    {
+      "id": 16,
+      "start": 42.36,
+      "end": 46.6,
+      "text": "single hour of every single day literally burning down the world around you.",
+      "avg_logprob": -0.13156057286419368,
+      "no_speech_prob": 0.16818703711032867
+    },
+    {
+      "id": 17,
+      "start": 46.6,
+      "end": 50.2,
+      "text": "You would think environmentalism would be something that we can all get behind especially",
+      "avg_logprob": -0.13156057286419368,
+      "no_speech_prob": 0.16818703711032867
+    },
+    {
+      "id": 18,
+      "start": 50.2,
+      "end": 53.84,
+      "text": "because the Republican Party is not supposed to be the party of billionaires, right?",
+      "avg_logprob": -0.13156057286419368,
+      "no_speech_prob": 0.16818703711032867
+    },
+    {
+      "id": 19,
+      "start": 53.84,
+      "end": 56.6,
+      "text": "Not supposed to be the party of big corporations, right?",
+      "avg_logprob": -0.13156057286419368,
+      "no_speech_prob": 0.16818703711032867
+    },
+    {
+      "id": 20,
+      "start": 56.6,
+      "end": 60.4,
+      "text": "Not supposed to be the working man's party despite your representation now in the government",
+      "avg_logprob": -0.14218749868588185,
+      "no_speech_prob": 0.0849749818444252
+    },
+    {
+      "id": 21,
+      "start": 60.4,
+      "end": 62.12,
+      "text": "basically all being billionaires.",
+      "avg_logprob": -0.14218749868588185,
+      "no_speech_prob": 0.0849749818444252
+    },
+    {
+      "id": 22,
+      "start": 62.12,
+      "end": 65.84,
+      "text": "We should all care about the environment and protecting the environment for our kids.",
+      "avg_logprob": -0.14218749868588185,
+      "no_speech_prob": 0.0849749818444252
+    },
+    {
+      "id": 23,
+      "start": 65.84,
+      "end": 70.88,
+      "text": "That's why these themes are so easy to insert into pretty much any movie and make it work.",
+      "avg_logprob": -0.14218749868588185,
+      "no_speech_prob": 0.0849749818444252
+    },
+    {
+      "id": 24,
+      "start": 70.88,
+      "end": 74.72,
+      "text": "There were a lot of strong environmentalist themes this year in the Wild Robot, a movie",
+      "avg_logprob": -0.14218749868588185,
+      "no_speech_prob": 0.0849749818444252
+    },
+    {
+      "id": 25,
+      "start": 74.72,
+      "end": 75.72,
+      "text": "that was successful.",
+      "avg_logprob": -0.14218749868588185,
+      "no_speech_prob": 0.0849749818444252
+    },
+    {
+      "id": 26,
+      "start": 75.72,
+      "end": 78.0,
+      "text": "I think Frozen 2 is better than the original.",
+      "avg_logprob": -0.14218749868588185,
+      "no_speech_prob": 0.0849749818444252
+    },
+    {
+      "id": 27,
+      "start": 78.0,
+      "end": 81.92,
+      "text": "You might remember this made a billion and a half dollars, strong environmentalist",
+      "avg_logprob": -0.14218749868588185,
+      "no_speech_prob": 0.0849749818444252
+    },
+    {
+      "id": 28,
+      "start": 81.92,
+      "end": 82.92,
+      "text": "themes here.",
+      "avg_logprob": -0.14218749868588185,
+      "no_speech_prob": 0.0849749818444252
+    },
+    {
+      "id": 29,
+      "start": 82.92,
+      "end": 87.04,
+      "text": "There was a movie called Bambi that was basically labeled woke and like anti-American anti-hunter",
+      "avg_logprob": -0.186128024716635,
+      "no_speech_prob": 0.2965049743652344
+    },
+    {
+      "id": 30,
+      "start": 87.04,
+      "end": 88.68,
+      "text": "back in 1942.",
+      "avg_logprob": -0.186128024716635,
+      "no_speech_prob": 0.2965049743652344
+    },
+    {
+      "id": 31,
+      "start": 88.68,
+      "end": 90.52,
+      "text": "That's aged pretty well I would say.",
+      "avg_logprob": -0.186128024716635,
+      "no_speech_prob": 0.2965049743652344
+    },
+    {
+      "id": 32,
+      "start": 90.52,
+      "end": 94.84,
+      "text": "Movie called Wally that pretty much every single human being on earth seems to love,",
+      "avg_logprob": -0.186128024716635,
+      "no_speech_prob": 0.2965049743652344
+    },
+    {
+      "id": 33,
+      "start": 94.84,
+      "end": 95.84,
+      "text": "right?",
+      "avg_logprob": -0.186128024716635,
+      "no_speech_prob": 0.2965049743652344
+    },
+    {
+      "id": 34,
+      "start": 95.84,
+      "end": 96.84,
+      "text": "It was broke today.",
+      "avg_logprob": -0.186128024716635,
+      "no_speech_prob": 0.2965049743652344
+    },
+    {
+      "id": 35,
+      "start": 96.84,
+      "end": 100.0,
+      "text": "There's a movie called Hoppers coming out in 2026 with John Hamm for Pixar.",
+      "avg_logprob": -0.186128024716635,
+      "no_speech_prob": 0.2965049743652344
+    },
+    {
+      "id": 36,
+      "start": 100.0,
+      "end": 103.48,
+      "text": "It was to be focused on a human and beaver swapping bodies and basically fully",
+      "avg_logprob": -0.186128024716635,
+      "no_speech_prob": 0.2965049743652344
+    },
+    {
+      "id": 37,
+      "start": 103.48,
+      "end": 105.4,
+      "text": "centered on environmentalism.",
+      "avg_logprob": -0.186128024716635,
+      "no_speech_prob": 0.2965049743652344
+    },
+    {
+      "id": 38,
+      "start": 105.4,
+      "end": 108.56,
+      "text": "According to a Pixar artist in this article from The Hollywood Reporter, they were told",
+      "avg_logprob": -0.186128024716635,
+      "no_speech_prob": 0.2965049743652344
+    },
+    {
+      "id": 39,
+      "start": 108.56,
+      "end": 110.76,
+      "text": "to tone down the messaging of the film.",
+      "avg_logprob": -0.186128024716635,
+      "no_speech_prob": 0.2965049743652344
+    },
+    {
+      "id": 40,
+      "start": 110.76,
+      "end": 115.72,
+      "text": "They said, unfortunately when you have your whole film based around the importance of environmentalism,",
+      "avg_logprob": -0.15945979794919096,
+      "no_speech_prob": 0.7734204530715942
+    },
+    {
+      "id": 41,
+      "start": 115.72,
+      "end": 117.16,
+      "text": "you can't really walk that back.",
+      "avg_logprob": -0.15945979794919096,
+      "no_speech_prob": 0.7734204530715942
+    },
+    {
+      "id": 42,
+      "start": 117.16,
+      "end": 120.44,
+      "text": "The team struggled a lot to figure out what do we even do with this note.",
+      "avg_logprob": -0.15945979794919096,
+      "no_speech_prob": 0.7734204530715942
+    },
+    {
+      "id": 43,
+      "start": 120.44,
+      "end": 124.32,
+      "text": "What I'm assuming will happen is this movie will be butchered to shit and it will end",
+      "avg_logprob": -0.15945979794919096,
+      "no_speech_prob": 0.7734204530715942
+    },
+    {
+      "id": 44,
+      "start": 124.32,
+      "end": 125.8,
+      "text": "up being absolute garbage.",
+      "avg_logprob": -0.15945979794919096,
+      "no_speech_prob": 0.7734204530715942
+    },
+    {
+      "id": 45,
+      "start": 125.8,
+      "end": 129.88,
+      "text": "I said this before but I'll say it again, messaging is not the problem.",
+      "avg_logprob": -0.15945979794919096,
+      "no_speech_prob": 0.7734204530715942
+    },
+    {
+      "id": 46,
+      "start": 129.88,
+      "end": 134.84,
+      "text": "Plenty of movies have had strong messages a long time ago and been very successful.",
+      "avg_logprob": -0.15945979794919096,
+      "no_speech_prob": 0.7734204530715942
+    },
+    {
+      "id": 47,
+      "start": 134.84,
+      "end": 135.84,
+      "text": "Look at Mulan.",
+      "avg_logprob": -0.15945979794919096,
+      "no_speech_prob": 0.7734204530715942
+    },
+    {
+      "id": 48,
+      "start": 135.84,
+      "end": 137.24,
+      "text": "Look at the hunchback of Notre Dame.",
+      "avg_logprob": -0.15945979794919096,
+      "no_speech_prob": 0.7734204530715942
+    },
+    {
+      "id": 49,
+      "start": 137.24,
+      "end": 140.56,
+      "text": "Look at Zootopia, literally an entire film about racism.",
+      "avg_logprob": -0.15945979794919096,
+      "no_speech_prob": 0.7734204530715942
+    },
+    {
+      "id": 50,
+      "start": 140.56,
+      "end": 143.12,
+      "text": "The thing is, the movie is actually well written.",
+      "avg_logprob": -0.1637807045584527,
+      "no_speech_prob": 0.009543887339532375
+    },
+    {
+      "id": 51,
+      "start": 143.12,
+      "end": 144.36,
+      "text": "There's some thought put into it.",
+      "avg_logprob": -0.1637807045584527,
+      "no_speech_prob": 0.009543887339532375
+    },
+    {
+      "id": 52,
+      "start": 144.36,
+      "end": 148.48,
+      "text": "It's easier to just say, oh, let's just take out any kind of actual soul or message",
+      "avg_logprob": -0.1637807045584527,
+      "no_speech_prob": 0.009543887339532375
+    },
+    {
+      "id": 53,
+      "start": 148.48,
+      "end": 152.68,
+      "text": "than to say, maybe there's some fundamental flaws with our writing or the way we're",
+      "avg_logprob": -0.1637807045584527,
+      "no_speech_prob": 0.009543887339532375
+    },
+    {
+      "id": 54,
+      "start": 152.68,
+      "end": 153.68,
+      "text": "telling stories.",
+      "avg_logprob": -0.1637807045584527,
+      "no_speech_prob": 0.009543887339532375
+    },
+    {
+      "id": 55,
+      "start": 153.68,
+      "end": 158.0,
+      "text": "What he is just scapegoating and all hiding climate change references does in my opinion",
+      "avg_logprob": -0.1637807045584527,
+      "no_speech_prob": 0.009543887339532375
+    },
+    {
+      "id": 56,
+      "start": 158.0,
+      "end": 161.84,
+      "text": "is protect the big corporate interests that are making the fucking film.",
+      "avg_logprob": -0.1637807045584527,
+      "no_speech_prob": 0.009543887339532375
+    }
+  ],
+  "transcript_full": "Disney has now decided that climate change is too woke of a topic for them to tackle and this is some of the most cowardly shit I have read in a minute. Anytime somebody talks about the topic of climate change being woke or being inherently liberal I always end up thinking of Game of Thrones. The incredible things about Game of Thrones was the white walkers, the way they are constantly looming as a threat. They don't care if you're a Lannister, if you're a Stark. They are a force of nature that will not stop until they have destroyed every single thing in their way. They are a threat to everybody and in that they are an excellent uniting force. This is climate change. It doesn't give a fuck if you're a conservative farmer in the middle of the country and you're dealing with a drought. It's hurting you financially. It doesn't give a fuck if you're a liberal in California dealing with forest fires every single hour of every single day literally burning down the world around you. You would think environmentalism would be something that we can all get behind especially because the Republican Party is not supposed to be the party of billionaires, right? Not supposed to be the party of big corporations, right? Not supposed to be the working man's party despite your representation now in the government basically all being billionaires. We should all care about the environment and protecting the environment for our kids. That's why these themes are so easy to insert into pretty much any movie and make it work. There were a lot of strong environmentalist themes this year in the Wild Robot, a movie that was successful. I think Frozen 2 is better than the original. You might remember this made a billion and a half dollars, strong environmentalist themes here. There was a movie called Bambi that was basically labeled woke and like anti-American anti-hunter back in 1942. That's aged pretty well I would say. Movie called Wally that pretty much every single human being on earth seems to love, right? It was broke today. There's a movie called Hoppers coming out in 2026 with John Hamm for Pixar. It was to be focused on a human and beaver swapping bodies and basically fully centered on environmentalism. According to a Pixar artist in this article from The Hollywood Reporter, they were told to tone down the messaging of the film. They said, unfortunately when you have your whole film based around the importance of environmentalism, you can't really walk that back. The team struggled a lot to figure out what do we even do with this note. What I'm assuming will happen is this movie will be butchered to shit and it will end up being absolute garbage. I said this before but I'll say it again, messaging is not the problem. Plenty of movies have had strong messages a long time ago and been very successful. Look at Mulan. Look at the hunchback of Notre Dame. Look at Zootopia, literally an entire film about racism. The thing is, the movie is actually well written. There's some thought put into it. It's easier to just say, oh, let's just take out any kind of actual soul or message than to say, maybe there's some fundamental flaws with our writing or the way we're telling stories. What he is just scapegoating and all hiding climate change references does in my opinion is protect the big corporate interests that are making the fucking film.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

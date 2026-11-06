@@ -1,0 +1,276 @@
+{
+  "language": "en",
+  "language_probability": 0.9980621933937073,
+  "duration": 169.5,
+  "duration_after_vad": 165.44,
+  "segment_count": 33,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.64,
+      "text": "Well, folks, remember when Matt Getz and Marjorie Taylor-Green held pretend hearings about the",
+      "avg_logprob": -0.2278822669147575,
+      "no_speech_prob": 0.06741619110107422
+    },
+    {
+      "id": 2,
+      "start": 4.64,
+      "end": 10.0,
+      "text": "J6 insurrection? You know, with their fake gavel and faux outrage designed to fool stupid people",
+      "avg_logprob": -0.2278822669147575,
+      "no_speech_prob": 0.06741619110107422
+    },
+    {
+      "id": 3,
+      "start": 10.0,
+      "end": 14.88,
+      "text": "that they were a real J6 committee? Yeah. Republicans really like to make believe, don't they?",
+      "avg_logprob": -0.2278822669147575,
+      "no_speech_prob": 0.06741619110107422
+    },
+    {
+      "id": 4,
+      "start": 14.88,
+      "end": 19.12,
+      "text": "Well, Ronnie Waspooch's DeSantis wants in on the game and his shtick is to make",
+      "avg_logprob": -0.2278822669147575,
+      "no_speech_prob": 0.06741619110107422
+    },
+    {
+      "id": 5,
+      "start": 19.12,
+      "end": 24.32,
+      "text": "believe climate change doesn't exist. Poof! It's gone. Science schmiens.",
+      "avg_logprob": -0.2278822669147575,
+      "no_speech_prob": 0.06741619110107422
+    },
+    {
+      "id": 6,
+      "start": 24.32,
+      "end": 27.36,
+      "text": "Well, the story is DeSmarmy recently signed a bill into law that",
+      "avg_logprob": -0.2278822669147575,
+      "no_speech_prob": 0.06741619110107422
+    },
+    {
+      "id": 7,
+      "start": 27.36,
+      "end": 32.32,
+      "text": "deletes the term climate change from Florida state laws. Sorry, Mother Nature. Florida's not",
+      "avg_logprob": -0.09290633644118454,
+      "no_speech_prob": 0.06734658032655716
+    },
+    {
+      "id": 8,
+      "start": 32.32,
+      "end": 37.12,
+      "text": "picking up what you're putting down anymore. As summed up in a New York Times report, the new law",
+      "avg_logprob": -0.09290633644118454,
+      "no_speech_prob": 0.06734658032655716
+    },
+    {
+      "id": 9,
+      "start": 37.12,
+      "end": 41.6,
+      "text": "ends a requirement that the state must consider climate change when crafting energy policy,",
+      "avg_logprob": -0.09290633644118454,
+      "no_speech_prob": 0.06734658032655716
+    },
+    {
+      "id": 10,
+      "start": 41.6,
+      "end": 46.72,
+      "text": "repeals state grant programs that encourage energy conservation and renewable energy,",
+      "avg_logprob": -0.09290633644118454,
+      "no_speech_prob": 0.06734658032655716
+    },
+    {
+      "id": 11,
+      "start": 46.72,
+      "end": 51.76,
+      "text": "deletes requirements that state agencies use climate-friendly products and purchase fuel-efficient",
+      "avg_logprob": -0.09290633644118454,
+      "no_speech_prob": 0.06734658032655716
+    },
+    {
+      "id": 12,
+      "start": 51.76,
+      "end": 57.92,
+      "text": "vehicles, and weakens safeguards on gas pipelines. It also bans offshore wind farms in Florida state",
+      "avg_logprob": -0.07905953120784599,
+      "no_speech_prob": 0.36533430218696594
+    },
+    {
+      "id": 13,
+      "start": 57.92,
+      "end": 62.48,
+      "text": "waters, which aren't even a thing in Florida because of low wind speed and severe hurricanes,",
+      "avg_logprob": -0.07905953120784599,
+      "no_speech_prob": 0.36533430218696594
+    },
+    {
+      "id": 14,
+      "start": 62.48,
+      "end": 68.0,
+      "text": "but Magus don't know that. They think DeSmarmy saved them from woke wind power. DeSmarmy says,",
+      "avg_logprob": -0.07905953120784599,
+      "no_speech_prob": 0.36533430218696594
+    },
+    {
+      "id": 15,
+      "start": 68.0,
+      "end": 73.12,
+      "text": "the bill will keep windmills off our beaches, gas in our tanks, and China out of our state.",
+      "avg_logprob": -0.07905953120784599,
+      "no_speech_prob": 0.36533430218696594
+    },
+    {
+      "id": 16,
+      "start": 73.12,
+      "end": 78.0,
+      "text": "We're restoring sanity in our approach to energy and rejecting the agenda of the radical",
+      "avg_logprob": -0.07905953120784599,
+      "no_speech_prob": 0.36533430218696594
+    },
+    {
+      "id": 17,
+      "start": 78.0,
+      "end": 83.92,
+      "text": "green zealots. Oh, wasp boots, what a man. The handmaidens are swooning. Apparently DeSmarmy",
+      "avg_logprob": -0.09414645018322128,
+      "no_speech_prob": 0.2884994447231293
+    },
+    {
+      "id": 18,
+      "start": 83.92,
+      "end": 89.2,
+      "text": "thinks if you starve a flood, tornado, or hurricane of attention, it ceases to exist. And of course,",
+      "avg_logprob": -0.09414645018322128,
+      "no_speech_prob": 0.2884994447231293
+    },
+    {
+      "id": 19,
+      "start": 89.2,
+      "end": 94.56,
+      "text": "we all know DeSmarmy is good at the don't say game. You know, don't say gay, don't say COVID,",
+      "avg_logprob": -0.09414645018322128,
+      "no_speech_prob": 0.2884994447231293
+    },
+    {
+      "id": 20,
+      "start": 94.56,
+      "end": 98.64,
+      "text": "don't say abortion, don't say drag queen, don't say trans, don't say library books,",
+      "avg_logprob": -0.09414645018322128,
+      "no_speech_prob": 0.2884994447231293
+    },
+    {
+      "id": 21,
+      "start": 98.64,
+      "end": 103.6,
+      "text": "don't say DEI, don't say black history, don't say gun restrictions, don't say Disney,",
+      "avg_logprob": -0.09414645018322128,
+      "no_speech_prob": 0.2884994447231293
+    },
+    {
+      "id": 22,
+      "start": 103.6,
+      "end": 109.04,
+      "text": "don't say democracy, don't say lab grown meat, and as of July 1st, don't say climate change.",
+      "avg_logprob": -0.07890562314474792,
+      "no_speech_prob": 0.010853476822376251
+    },
+    {
+      "id": 23,
+      "start": 110.08,
+      "end": 114.32,
+      "text": "The only little wrinkled in wasp boot strategy is that the weather gods have not gotten the memo",
+      "avg_logprob": -0.07890562314474792,
+      "no_speech_prob": 0.010853476822376251
+    },
+    {
+      "id": 24,
+      "start": 114.32,
+      "end": 119.04,
+      "text": "to stop wreaking havoc on the Sunshine State. In fact, last year was the hottest in Florida",
+      "avg_logprob": -0.07890562314474792,
+      "no_speech_prob": 0.010853476822376251
+    },
+    {
+      "id": 25,
+      "start": 119.04,
+      "end": 124.32,
+      "text": "since 1895. You may remember the waters off the coast of Florida reached 90 degrees during",
+      "avg_logprob": -0.07890562314474792,
+      "no_speech_prob": 0.010853476822376251
+    },
+    {
+      "id": 26,
+      "start": 124.32,
+      "end": 129.28,
+      "text": "the height of summer and all kinds of marine life boiled to death. Hurricane Adalia cost",
+      "avg_logprob": -0.07890562314474792,
+      "no_speech_prob": 0.010853476822376251
+    },
+    {
+      "id": 27,
+      "start": 129.28,
+      "end": 135.92,
+      "text": "$3.6 billion in damage last August and the year before that, Hurricane Ian killed 140 Floridians",
+      "avg_logprob": -0.1274866935453917,
+      "no_speech_prob": 0.131278857588768
+    },
+    {
+      "id": 28,
+      "start": 135.92,
+      "end": 142.8,
+      "text": "and caused $109.5 billion in damages, which apparently was the costliest hurricane in history.",
+      "avg_logprob": -0.1274866935453917,
+      "no_speech_prob": 0.131278857588768
+    },
+    {
+      "id": 29,
+      "start": 143.6,
+      "end": 148.32,
+      "text": "But that was just because Ronnie Woossi White Boots hadn't yet banned the mention of climate",
+      "avg_logprob": -0.1274866935453917,
+      "no_speech_prob": 0.131278857588768
+    },
+    {
+      "id": 30,
+      "start": 148.32,
+      "end": 154.0,
+      "text": "change. Now that he has, Florida's only gonna have gentle showers and soft breezes from now on.",
+      "avg_logprob": -0.1274866935453917,
+      "no_speech_prob": 0.131278857588768
+    },
+    {
+      "id": 31,
+      "start": 154.96,
+      "end": 159.52,
+      "text": "Well folks, I guess our best bet is to follow Ronnie Woossi White Boots lead",
+      "avg_logprob": -0.1549802266937845,
+      "no_speech_prob": 0.5510907173156738
+    },
+    {
+      "id": 32,
+      "start": 159.52,
+      "end": 164.72,
+      "text": "and just pretend that he doesn't exist and maybe one day we'll wake up and poof, he'll be gone.",
+      "avg_logprob": -0.1549802266937845,
+      "no_speech_prob": 0.5510907173156738
+    },
+    {
+      "id": 33,
+      "start": 165.76,
+      "end": 169.28,
+      "text": "While Ronnie Woossi White Boots have the day that you deserve, dude.",
+      "avg_logprob": -0.1549802266937845,
+      "no_speech_prob": 0.5510907173156738
+    }
+  ],
+  "transcript_full": "Well, folks, remember when Matt Getz and Marjorie Taylor-Green held pretend hearings about the J6 insurrection? You know, with their fake gavel and faux outrage designed to fool stupid people that they were a real J6 committee? Yeah. Republicans really like to make believe, don't they? Well, Ronnie Waspooch's DeSantis wants in on the game and his shtick is to make believe climate change doesn't exist. Poof! It's gone. Science schmiens. Well, the story is DeSmarmy recently signed a bill into law that deletes the term climate change from Florida state laws. Sorry, Mother Nature. Florida's not picking up what you're putting down anymore. As summed up in a New York Times report, the new law ends a requirement that the state must consider climate change when crafting energy policy, repeals state grant programs that encourage energy conservation and renewable energy, deletes requirements that state agencies use climate-friendly products and purchase fuel-efficient vehicles, and weakens safeguards on gas pipelines. It also bans offshore wind farms in Florida state waters, which aren't even a thing in Florida because of low wind speed and severe hurricanes, but Magus don't know that. They think DeSmarmy saved them from woke wind power. DeSmarmy says, the bill will keep windmills off our beaches, gas in our tanks, and China out of our state. We're restoring sanity in our approach to energy and rejecting the agenda of the radical green zealots. Oh, wasp boots, what a man. The handmaidens are swooning. Apparently DeSmarmy thinks if you starve a flood, tornado, or hurricane of attention, it ceases to exist. And of course, we all know DeSmarmy is good at the don't say game. You know, don't say gay, don't say COVID, don't say abortion, don't say drag queen, don't say trans, don't say library books, don't say DEI, don't say black history, don't say gun restrictions, don't say Disney, don't say democracy, don't say lab grown meat, and as of July 1st, don't say climate change. The only little wrinkled in wasp boot strategy is that the weather gods have not gotten the memo to stop wreaking havoc on the Sunshine State. In fact, last year was the hottest in Florida since 1895. You may remember the waters off the coast of Florida reached 90 degrees during the height of summer and all kinds of marine life boiled to death. Hurricane Adalia cost $3.6 billion in damage last August and the year before that, Hurricane Ian killed 140 Floridians and caused $109.5 billion in damages, which apparently was the costliest hurricane in history. But that was just because Ronnie Woossi White Boots hadn't yet banned the mention of climate change. Now that he has, Florida's only gonna have gentle showers and soft breezes from now on. Well folks, I guess our best bet is to follow Ronnie Woossi White Boots lead and just pretend that he doesn't exist and maybe one day we'll wake up and poof, he'll be gone. While Ronnie Woossi White Boots have the day that you deserve, dude.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

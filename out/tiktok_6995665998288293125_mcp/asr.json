@@ -1,0 +1,84 @@
+{
+  "language": "en",
+  "language_probability": 0.9970845580101013,
+  "duration": 53.931,
+  "duration_after_vad": 59.28,
+  "segment_count": 9,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.88,
+      "text": "This is Governor Gretchen Whitmer. I'm here on the ground today to survey the damage caused by yet",
+      "avg_logprob": -0.08943025001855655,
+      "no_speech_prob": 0.09007178992033005
+    },
+    {
+      "id": 2,
+      "start": 4.88,
+      "end": 10.16,
+      "text": "another extreme weather event that hit overnight. So many Michiganers have only started to recover",
+      "avg_logprob": -0.08943025001855655,
+      "no_speech_prob": 0.09007178992033005
+    },
+    {
+      "id": 3,
+      "start": 10.16,
+      "end": 16.0,
+      "text": "from the flooding a few weeks ago and now we find ourselves here again and it's understandable",
+      "avg_logprob": -0.08943025001855655,
+      "no_speech_prob": 0.09007178992033005
+    },
+    {
+      "id": 4,
+      "start": 16.0,
+      "end": 23.2,
+      "text": "to be upset. This is an incredibly challenging time. I know because I have water in my basement too",
+      "avg_logprob": -0.08943025001855655,
+      "no_speech_prob": 0.09007178992033005
+    },
+    {
+      "id": 5,
+      "start": 23.2,
+      "end": 29.12,
+      "text": "and these extreme weather events are continuing in an alarming pace, barely allowing us to",
+      "avg_logprob": -0.08943025001855655,
+      "no_speech_prob": 0.09007178992033005
+    },
+    {
+      "id": 6,
+      "start": 29.12,
+      "end": 35.12,
+      "text": "recover before striking again, which is why it's so critical that we fix our infrastructure so that",
+      "avg_logprob": -0.0809941819456757,
+      "no_speech_prob": 0.0017538709798827767
+    },
+    {
+      "id": 7,
+      "start": 35.12,
+      "end": 42.72,
+      "text": "it's resilient as we combat climate change and I promise we will invest in and build infrastructure",
+      "avg_logprob": -0.0809941819456757,
+      "no_speech_prob": 0.0017538709798827767
+    },
+    {
+      "id": 8,
+      "start": 42.72,
+      "end": 49.28,
+      "text": "that lasts and stands up to these extreme weather events. I know times are difficult",
+      "avg_logprob": -0.0809941819456757,
+      "no_speech_prob": 0.0017538709798827767
+    },
+    {
+      "id": 9,
+      "start": 49.28,
+      "end": 59.28,
+      "text": "but Michiganders are tough. We will get through this together.",
+      "avg_logprob": -0.3511854340048397,
+      "no_speech_prob": 0.09829526394605637
+    }
+  ],
+  "transcript_full": "This is Governor Gretchen Whitmer. I'm here on the ground today to survey the damage caused by yet another extreme weather event that hit overnight. So many Michiganers have only started to recover from the flooding a few weeks ago and now we find ourselves here again and it's understandable to be upset. This is an incredibly challenging time. I know because I have water in my basement too and these extreme weather events are continuing in an alarming pace, barely allowing us to recover before striking again, which is why it's so critical that we fix our infrastructure so that it's resilient as we combat climate change and I promise we will invest in and build infrastructure that lasts and stands up to these extreme weather events. I know times are difficult but Michiganders are tough. We will get through this together.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

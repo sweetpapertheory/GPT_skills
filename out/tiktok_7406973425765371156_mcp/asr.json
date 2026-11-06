@@ -1,0 +1,196 @@
+{
+  "language": "en",
+  "language_probability": 0.9982426166534424,
+  "duration": 115.402,
+  "duration_after_vad": 112.88,
+  "segment_count": 23,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.72,
+      "text": "Senator Jared Renick just quit the Liberal Party. There are some days where nothing happens and then",
+      "avg_logprob": -0.11577942747284066,
+      "no_speech_prob": 0.02659674920141697
+    },
+    {
+      "id": 2,
+      "start": 4.72,
+      "end": 8.8,
+      "text": "days when everything happens. Let me tell you what I've been hearing and what I know about.",
+      "avg_logprob": -0.11577942747284066,
+      "no_speech_prob": 0.02659674920141697
+    },
+    {
+      "id": 3,
+      "start": 9.76,
+      "end": 14.8,
+      "text": "Senator Renick narrowly lost pre-selection by only three votes to party treasurer Stuart Fraser",
+      "avg_logprob": -0.11577942747284066,
+      "no_speech_prob": 0.02659674920141697
+    },
+    {
+      "id": 4,
+      "start": 14.8,
+      "end": 19.68,
+      "text": "for the third spot on the LNP Senate ticket. So on Monday he's going to apply with the",
+      "avg_logprob": -0.11577942747284066,
+      "no_speech_prob": 0.02659674920141697
+    },
+    {
+      "id": 5,
+      "start": 19.68,
+      "end": 24.88,
+      "text": "Australian Electoral Commission to establish his Jared Renick People First Party. Jared is 53",
+      "avg_logprob": -0.11577942747284066,
+      "no_speech_prob": 0.02659674920141697
+    },
+    {
+      "id": 6,
+      "start": 24.88,
+      "end": 29.44,
+      "text": "years old so he's going to run as an independent at the next election on five key economic",
+      "avg_logprob": -0.11577942747284066,
+      "no_speech_prob": 0.02659674920141697
+    },
+    {
+      "id": 7,
+      "start": 29.44,
+      "end": 36.0,
+      "text": "strategies. The People's First policy is including increasing the tax-free threshold to $40,000,",
+      "avg_logprob": -0.102931619258154,
+      "no_speech_prob": 0.004958071745932102
+    },
+    {
+      "id": 8,
+      "start": 36.0,
+      "end": 40.56,
+      "text": "ending renewable subsidies and abolishing renewables on agricultural land and waterways,",
+      "avg_logprob": -0.102931619258154,
+      "no_speech_prob": 0.004958071745932102
+    },
+    {
+      "id": 9,
+      "start": 40.56,
+      "end": 46.0,
+      "text": "making superannuation voluntary and re-establishing a People's Bank and Government Insurance Office.",
+      "avg_logprob": -0.102931619258154,
+      "no_speech_prob": 0.004958071745932102
+    },
+    {
+      "id": 10,
+      "start": 46.64,
+      "end": 50.48,
+      "text": "Renick, who maintains a close relationship with Opposition Leader Peter Dutton,",
+      "avg_logprob": -0.102931619258154,
+      "no_speech_prob": 0.004958071745932102
+    },
+    {
+      "id": 11,
+      "start": 50.48,
+      "end": 55.28,
+      "text": "despite his recent pre-selection fight with the LNP, said he has decided to fight for",
+      "avg_logprob": -0.102931619258154,
+      "no_speech_prob": 0.004958071745932102
+    },
+    {
+      "id": 12,
+      "start": 55.28,
+      "end": 60.24,
+      "text": "the Australian people as an independent senator. Renick believes that government overreach is",
+      "avg_logprob": -0.0787215366792143,
+      "no_speech_prob": 0.021015500649809837
+    },
+    {
+      "id": 13,
+      "start": 60.24,
+      "end": 65.52,
+      "text": "killing individual responsibility, aspiration and entrepreneurship in Australia. Governments need",
+      "avg_logprob": -0.0787215366792143,
+      "no_speech_prob": 0.021015500649809837
+    },
+    {
+      "id": 14,
+      "start": 65.52,
+      "end": 70.24,
+      "text": "to get back to service delivery and essential services and standing up for Australians who try",
+      "avg_logprob": -0.0787215366792143,
+      "no_speech_prob": 0.021015500649809837
+    },
+    {
+      "id": 15,
+      "start": 70.24,
+      "end": 75.92,
+      "text": "to stand up for themselves. Renick believes that government interference has been destructive",
+      "avg_logprob": -0.0787215366792143,
+      "no_speech_prob": 0.021015500649809837
+    },
+    {
+      "id": 16,
+      "start": 75.92,
+      "end": 80.8,
+      "text": "of the Australian economic advantages that we have. Renick believes that we can create a",
+      "avg_logprob": -0.0787215366792143,
+      "no_speech_prob": 0.021015500649809837
+    },
+    {
+      "id": 17,
+      "start": 80.8,
+      "end": 86.08,
+      "text": "prosperous and more abundant future for Australia if we all get out of the way and let business do",
+      "avg_logprob": -0.07146601338644286,
+      "no_speech_prob": 0.09457399696111679
+    },
+    {
+      "id": 18,
+      "start": 86.08,
+      "end": 90.56,
+      "text": "what business needs to do, supporting people who need support and getting on with the job.",
+      "avg_logprob": -0.07146601338644286,
+      "no_speech_prob": 0.09457399696111679
+    },
+    {
+      "id": 19,
+      "start": 91.2,
+      "end": 97.36,
+      "text": "And you're about to see a lot more of Jared Renick's People First Party logo, I imagine.",
+      "avg_logprob": -0.07146601338644286,
+      "no_speech_prob": 0.09457399696111679
+    },
+    {
+      "id": 20,
+      "start": 97.36,
+      "end": 101.52,
+      "text": "If you want to know more about Senator Jared Renick, you can jump on the link in my bio",
+      "avg_logprob": -0.07146601338644286,
+      "no_speech_prob": 0.09457399696111679
+    },
+    {
+      "id": 21,
+      "start": 101.52,
+      "end": 106.56,
+      "text": "and you can jump on my YouTube channel and you'll see my full hour and a half interview",
+      "avg_logprob": -0.07146601338644286,
+      "no_speech_prob": 0.09457399696111679
+    },
+    {
+      "id": 22,
+      "start": 106.56,
+      "end": 111.52,
+      "text": "with the good senator himself and you can make up your own mind about his intentions for Australia.",
+      "avg_logprob": -0.14118998920595324,
+      "no_speech_prob": 0.4625099003314972
+    },
+    {
+      "id": 23,
+      "start": 111.52,
+      "end": 115.12,
+      "text": "Personally, I reckon he's got your best interests at heart.",
+      "avg_logprob": -0.14118998920595324,
+      "no_speech_prob": 0.4625099003314972
+    }
+  ],
+  "transcript_full": "Senator Jared Renick just quit the Liberal Party. There are some days where nothing happens and then days when everything happens. Let me tell you what I've been hearing and what I know about. Senator Renick narrowly lost pre-selection by only three votes to party treasurer Stuart Fraser for the third spot on the LNP Senate ticket. So on Monday he's going to apply with the Australian Electoral Commission to establish his Jared Renick People First Party. Jared is 53 years old so he's going to run as an independent at the next election on five key economic strategies. The People's First policy is including increasing the tax-free threshold to $40,000, ending renewable subsidies and abolishing renewables on agricultural land and waterways, making superannuation voluntary and re-establishing a People's Bank and Government Insurance Office. Renick, who maintains a close relationship with Opposition Leader Peter Dutton, despite his recent pre-selection fight with the LNP, said he has decided to fight for the Australian people as an independent senator. Renick believes that government overreach is killing individual responsibility, aspiration and entrepreneurship in Australia. Governments need to get back to service delivery and essential services and standing up for Australians who try to stand up for themselves. Renick believes that government interference has been destructive of the Australian economic advantages that we have. Renick believes that we can create a prosperous and more abundant future for Australia if we all get out of the way and let business do what business needs to do, supporting people who need support and getting on with the job. And you're about to see a lot more of Jared Renick's People First Party logo, I imagine. If you want to know more about Senator Jared Renick, you can jump on the link in my bio and you can jump on my YouTube channel and you'll see my full hour and a half interview with the good senator himself and you can make up your own mind about his intentions for Australia. Personally, I reckon he's got your best interests at heart.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

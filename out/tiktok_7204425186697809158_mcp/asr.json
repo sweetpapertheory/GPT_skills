@@ -1,0 +1,60 @@
+{
+  "language": "en",
+  "language_probability": 0.9979561567306519,
+  "duration": 20.5,
+  "duration_after_vad": 20.44,
+  "segment_count": 6,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.8,
+      "text": "You know how yesterday I told you we had an unusually warm winter?",
+      "avg_logprob": -0.1925563874344031,
+      "no_speech_prob": 0.006420084275305271
+    },
+    {
+      "id": 2,
+      "start": 2.8,
+      "end": 6.16,
+      "text": "Well, today it's snow, but that doesn't mean my point is invalid.",
+      "avg_logprob": -0.1925563874344031,
+      "no_speech_prob": 0.006420084275305271
+    },
+    {
+      "id": 3,
+      "start": 6.16,
+      "end": 10.84,
+      "text": "It's been the weirdest, warmest, and probably shortest winter that I remember.",
+      "avg_logprob": -0.1925563874344031,
+      "no_speech_prob": 0.006420084275305271
+    },
+    {
+      "id": 4,
+      "start": 10.84,
+      "end": 15.68,
+      "text": "My observation is subjective, but what isn't is that the little snow has resulted in unusually",
+      "avg_logprob": -0.1925563874344031,
+      "no_speech_prob": 0.006420084275305271
+    },
+    {
+      "id": 5,
+      "start": 15.68,
+      "end": 16.86,
+      "text": "low water levels.",
+      "avg_logprob": -0.1925563874344031,
+      "no_speech_prob": 0.006420084275305271
+    },
+    {
+      "id": 6,
+      "start": 16.86,
+      "end": 20.44,
+      "text": "This will particularly affect agriculture and energy production this summer.",
+      "avg_logprob": -0.1925563874344031,
+      "no_speech_prob": 0.006420084275305271
+    }
+  ],
+  "transcript_full": "You know how yesterday I told you we had an unusually warm winter? Well, today it's snow, but that doesn't mean my point is invalid. It's been the weirdest, warmest, and probably shortest winter that I remember. My observation is subjective, but what isn't is that the little snow has resulted in unusually low water levels. This will particularly affect agriculture and energy production this summer.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

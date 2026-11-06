@@ -1,0 +1,116 @@
+{
+  "language": "en",
+  "language_probability": 0.427767813205719,
+  "duration": 58.884,
+  "duration_after_vad": 39.8,
+  "segment_count": 13,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.85,
+      "end": 3.95,
+      "text": "I and you, we can make a change.",
+      "avg_logprob": -0.4171650791631162,
+      "no_speech_prob": 0.38831740617752075
+    },
+    {
+      "id": 2,
+      "start": 3.95,
+      "end": 9.55,
+      "text": "Let's unite and fight against climate change.",
+      "avg_logprob": -0.4171650791631162,
+      "no_speech_prob": 0.38831740617752075
+    },
+    {
+      "id": 3,
+      "start": 9.55,
+      "end": 11.75,
+      "text": "And press Africa, Mr. Mazan.",
+      "avg_logprob": -0.4171650791631162,
+      "no_speech_prob": 0.38831740617752075
+    },
+    {
+      "id": 4,
+      "start": 11.75,
+      "end": 13.75,
+      "text": "They say we are the future.",
+      "avg_logprob": -0.4171650791631162,
+      "no_speech_prob": 0.38831740617752075
+    },
+    {
+      "id": 5,
+      "start": 13.75,
+      "end": 17.15,
+      "text": "So we have to change the future for a new beat.",
+      "avg_logprob": -0.4171650791631162,
+      "no_speech_prob": 0.38831740617752075
+    },
+    {
+      "id": 6,
+      "start": 17.15,
+      "end": 19.25,
+      "text": "There is no planet beat.",
+      "avg_logprob": -0.4171650791631162,
+      "no_speech_prob": 0.38831740617752075
+    },
+    {
+      "id": 7,
+      "start": 19.25,
+      "end": 22.35,
+      "text": "Our planet is facing a future challenge.",
+      "avg_logprob": -0.4171650791631162,
+      "no_speech_prob": 0.38831740617752075
+    },
+    {
+      "id": 8,
+      "start": 22.35,
+      "end": 25.45,
+      "text": "And our transition is to shape the world",
+      "avg_logprob": -0.4171650791631162,
+      "no_speech_prob": 0.38831740617752075
+    },
+    {
+      "id": 9,
+      "start": 25.45,
+      "end": 27.95,
+      "text": "where we will inherit tomorrow.",
+      "avg_logprob": -0.4171650791631162,
+      "no_speech_prob": 0.38831740617752075
+    },
+    {
+      "id": 10,
+      "start": 27.95,
+      "end": 30.15,
+      "text": "Climate change affects us all.",
+      "avg_logprob": -0.4171650791631162,
+      "no_speech_prob": 0.38831740617752075
+    },
+    {
+      "id": 11,
+      "start": 30.25,
+      "end": 33.25,
+      "text": "So we have to stand up and pick out change.",
+      "avg_logprob": -0.4952495854075362,
+      "no_speech_prob": 0.3046059310436249
+    },
+    {
+      "id": 12,
+      "start": 33.25,
+      "end": 37.75,
+      "text": "It's when I want to create a better, better future.",
+      "avg_logprob": -0.4952495854075362,
+      "no_speech_prob": 0.3046059310436249
+    },
+    {
+      "id": 13,
+      "start": 37.75,
+      "end": 40.75,
+      "text": "Turn the whole language and stand up for tomorrow.",
+      "avg_logprob": -0.4952495854075362,
+      "no_speech_prob": 0.3046059310436249
+    }
+  ],
+  "transcript_full": "I and you, we can make a change. Let's unite and fight against climate change. And press Africa, Mr. Mazan. They say we are the future. So we have to change the future for a new beat. There is no planet beat. Our planet is facing a future challenge. And our transition is to shape the world where we will inherit tomorrow. Climate change affects us all. So we have to stand up and pick out change. It's when I want to create a better, better future. Turn the whole language and stand up for tomorrow.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

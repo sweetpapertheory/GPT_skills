@@ -1,0 +1,116 @@
+{
+  "language": "en",
+  "language_probability": 0.9987038373947144,
+  "duration": 52.173,
+  "duration_after_vad": 51.0,
+  "segment_count": 13,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.11,
+      "end": 2.11,
+      "text": "What is carbon capture?",
+      "avg_logprob": -0.11119002797480287,
+      "no_speech_prob": 0.023136738687753677
+    },
+    {
+      "id": 2,
+      "start": 2.11,
+      "end": 7.11,
+      "text": "You probably already know that carbon dioxide or CO2 is bad for the environment.",
+      "avg_logprob": -0.11119002797480287,
+      "no_speech_prob": 0.023136738687753677
+    },
+    {
+      "id": 3,
+      "start": 7.11,
+      "end": 9.11,
+      "text": "It's one of the main causes of climate change.",
+      "avg_logprob": -0.11119002797480287,
+      "no_speech_prob": 0.023136738687753677
+    },
+    {
+      "id": 4,
+      "start": 9.11,
+      "end": 15.11,
+      "text": "Carbon capture is a way to capture the CO2 from factories or power plants before it gets into the atmosphere.",
+      "avg_logprob": -0.11119002797480287,
+      "no_speech_prob": 0.023136738687753677
+    },
+    {
+      "id": 5,
+      "start": 15.11,
+      "end": 17.11,
+      "text": "The process has three stages.",
+      "avg_logprob": -0.11119002797480287,
+      "no_speech_prob": 0.023136738687753677
+    },
+    {
+      "id": 6,
+      "start": 17.11,
+      "end": 19.11,
+      "text": "First, the capture itself.",
+      "avg_logprob": -0.11119002797480287,
+      "no_speech_prob": 0.023136738687753677
+    },
+    {
+      "id": 7,
+      "start": 19.11,
+      "end": 21.11,
+      "text": "The most common method is called postcombustion.",
+      "avg_logprob": -0.11119002797480287,
+      "no_speech_prob": 0.023136738687753677
+    },
+    {
+      "id": 8,
+      "start": 21.11,
+      "end": 27.11,
+      "text": "As the CO2 comes out of the chimney, it goes through equipment which separates it from other gases.",
+      "avg_logprob": -0.11119002797480287,
+      "no_speech_prob": 0.023136738687753677
+    },
+    {
+      "id": 9,
+      "start": 27.11,
+      "end": 32.11,
+      "text": "Next, that captured gas is compressed into a liquid and pipes deep underground.",
+      "avg_logprob": -0.07069597719237208,
+      "no_speech_prob": 0.0021893270313739777
+    },
+    {
+      "id": 10,
+      "start": 32.11,
+      "end": 37.11,
+      "text": "Once it's there, it gets trapped by the rock layer above and can't get back into the environment.",
+      "avg_logprob": -0.07069597719237208,
+      "no_speech_prob": 0.0021893270313739777
+    },
+    {
+      "id": 11,
+      "start": 37.11,
+      "end": 42.11,
+      "text": "Scientists say carbon capture is one of the most important ways to tackle climate change.",
+      "avg_logprob": -0.07069597719237208,
+      "no_speech_prob": 0.0021893270313739777
+    },
+    {
+      "id": 12,
+      "start": 42.11,
+      "end": 45.11,
+      "text": "But technology needs to be scaled up faster.",
+      "avg_logprob": -0.07069597719237208,
+      "no_speech_prob": 0.0021893270313739777
+    },
+    {
+      "id": 13,
+      "start": 45.11,
+      "end": 51.11,
+      "text": "And it's a very expensive process, which is one of the reasons it's not widely used at the moment.",
+      "avg_logprob": -0.07069597719237208,
+      "no_speech_prob": 0.0021893270313739777
+    }
+  ],
+  "transcript_full": "What is carbon capture? You probably already know that carbon dioxide or CO2 is bad for the environment. It's one of the main causes of climate change. Carbon capture is a way to capture the CO2 from factories or power plants before it gets into the atmosphere. The process has three stages. First, the capture itself. The most common method is called postcombustion. As the CO2 comes out of the chimney, it goes through equipment which separates it from other gases. Next, that captured gas is compressed into a liquid and pipes deep underground. Once it's there, it gets trapped by the rock layer above and can't get back into the environment. Scientists say carbon capture is one of the most important ways to tackle climate change. But technology needs to be scaled up faster. And it's a very expensive process, which is one of the reasons it's not widely used at the moment.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

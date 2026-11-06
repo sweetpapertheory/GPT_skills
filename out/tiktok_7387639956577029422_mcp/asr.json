@@ -1,0 +1,148 @@
+{
+  "language": "en",
+  "language_probability": 0.9993610978126526,
+  "duration": 60.494,
+  "duration_after_vad": 60.36,
+  "segment_count": 17,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.2,
+      "text": "Yup, this is now happening as a global fever causing internal bleeding has a high fatality",
+      "avg_logprob": -0.1520823852883445,
+      "no_speech_prob": 0.02072177827358246
+    },
+    {
+      "id": 2,
+      "start": 5.2,
+      "end": 8.04,
+      "text": "rate and is spreading rapidly to millions.",
+      "avg_logprob": -0.1520823852883445,
+      "no_speech_prob": 0.02072177827358246
+    },
+    {
+      "id": 3,
+      "start": 8.04,
+      "end": 10.84,
+      "text": "And people are getting this from just going outside.",
+      "avg_logprob": -0.1520823852883445,
+      "no_speech_prob": 0.02072177827358246
+    },
+    {
+      "id": 4,
+      "start": 10.84,
+      "end": 15.28,
+      "text": "People were terrified after the CDC's haunting warning over several new cases of a deadly",
+      "avg_logprob": -0.1520823852883445,
+      "no_speech_prob": 0.02072177827358246
+    },
+    {
+      "id": 5,
+      "start": 15.28,
+      "end": 20.52,
+      "text": "painful fever that is spread through mosquito bites spreading fast globally and has made",
+      "avg_logprob": -0.1520823852883445,
+      "no_speech_prob": 0.02072177827358246
+    },
+    {
+      "id": 6,
+      "start": 20.52,
+      "end": 22.12,
+      "text": "its way to the US.",
+      "avg_logprob": -0.1520823852883445,
+      "no_speech_prob": 0.02072177827358246
+    },
+    {
+      "id": 7,
+      "start": 22.12,
+      "end": 26.44,
+      "text": "According to nurses' labs, it is so deadly that if you get it and leave it untreated",
+      "avg_logprob": -0.1520823852883445,
+      "no_speech_prob": 0.02072177827358246
+    },
+    {
+      "id": 8,
+      "start": 26.44,
+      "end": 31.72,
+      "text": "you only have a shocking 50-50 chance of surviving and in many extreme cases if left untreated",
+      "avg_logprob": -0.16575896703317516,
+      "no_speech_prob": 0.04619786515831947
+    },
+    {
+      "id": 9,
+      "start": 31.72,
+      "end": 35.24,
+      "text": "it can result in heart failure, internal bleeding and liver swelling.",
+      "avg_logprob": -0.16575896703317516,
+      "no_speech_prob": 0.04619786515831947
+    },
+    {
+      "id": 10,
+      "start": 35.24,
+      "end": 39.52,
+      "text": "With horrifying symptoms like fever, joint pain, headache and swollen glands, all of",
+      "avg_logprob": -0.16575896703317516,
+      "no_speech_prob": 0.04619786515831947
+    },
+    {
+      "id": 11,
+      "start": 39.52,
+      "end": 43.16,
+      "text": "it could be fatal and you need to go to the ER immediately.",
+      "avg_logprob": -0.16575896703317516,
+      "no_speech_prob": 0.04619786515831947
+    },
+    {
+      "id": 12,
+      "start": 43.16,
+      "end": 46.32,
+      "text": "Global cases are currently up double from the entirety of last year and it's only",
+      "avg_logprob": -0.16575896703317516,
+      "no_speech_prob": 0.04619786515831947
+    },
+    {
+      "id": 13,
+      "start": 46.32,
+      "end": 48.04,
+      "text": "July of this year.",
+      "avg_logprob": -0.16575896703317516,
+      "no_speech_prob": 0.04619786515831947
+    },
+    {
+      "id": 14,
+      "start": 48.04,
+      "end": 52.68,
+      "text": "Now to an urgent health warning after officials say two cases of dengue fever reported in",
+      "avg_logprob": -0.16575896703317516,
+      "no_speech_prob": 0.04619786515831947
+    },
+    {
+      "id": 15,
+      "start": 52.68,
+      "end": 53.68,
+      "text": "the US.",
+      "avg_logprob": -0.16575896703317516,
+      "no_speech_prob": 0.04619786515831947
+    },
+    {
+      "id": 16,
+      "start": 53.68,
+      "end": 58.64,
+      "text": "A dengue fever if treated there is a whopping 99% chance of survival so get tested and make",
+      "avg_logprob": -0.3530876671566683,
+      "no_speech_prob": 0.9498540759086609
+    },
+    {
+      "id": 17,
+      "start": 58.64,
+      "end": 60.36,
+      "text": "sure you wear your bug spray this summer.",
+      "avg_logprob": -0.3530876671566683,
+      "no_speech_prob": 0.9498540759086609
+    }
+  ],
+  "transcript_full": "Yup, this is now happening as a global fever causing internal bleeding has a high fatality rate and is spreading rapidly to millions. And people are getting this from just going outside. People were terrified after the CDC's haunting warning over several new cases of a deadly painful fever that is spread through mosquito bites spreading fast globally and has made its way to the US. According to nurses' labs, it is so deadly that if you get it and leave it untreated you only have a shocking 50-50 chance of surviving and in many extreme cases if left untreated it can result in heart failure, internal bleeding and liver swelling. With horrifying symptoms like fever, joint pain, headache and swollen glands, all of it could be fatal and you need to go to the ER immediately. Global cases are currently up double from the entirety of last year and it's only July of this year. Now to an urgent health warning after officials say two cases of dengue fever reported in the US. A dengue fever if treated there is a whopping 99% chance of survival so get tested and make sure you wear your bug spray this summer.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

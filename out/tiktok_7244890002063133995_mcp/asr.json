@@ -1,0 +1,284 @@
+{
+  "language": "en",
+  "language_probability": 0.9951812624931335,
+  "duration": 86.867,
+  "duration_after_vad": 86.52,
+  "segment_count": 34,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.0,
+      "text": "As I was brushing my teeth this morning, the Spirit just told me to talk to y'all.",
+      "avg_logprob": -0.20592743772509936,
+      "no_speech_prob": 0.20782242715358734
+    },
+    {
+      "id": 2,
+      "start": 6.0,
+      "end": 9.94,
+      "text": "Literally, as I was brushing my teeth, God told me to remind y'all about the people who thought",
+      "avg_logprob": -0.20592743772509936,
+      "no_speech_prob": 0.20782242715358734
+    },
+    {
+      "id": 3,
+      "start": 9.94,
+      "end": 14.24,
+      "text": "that Noah was crazy when he instructed Noah to tell the people that he was going to flood",
+      "avg_logprob": -0.20592743772509936,
+      "no_speech_prob": 0.20782242715358734
+    },
+    {
+      "id": 4,
+      "start": 14.24,
+      "end": 15.24,
+      "text": "the earth.",
+      "avg_logprob": -0.20592743772509936,
+      "no_speech_prob": 0.20782242715358734
+    },
+    {
+      "id": 5,
+      "start": 15.24,
+      "end": 18.28,
+      "text": "He told me to tell y'all this because it's a lot of y'all that don't believe that we",
+      "avg_logprob": -0.20592743772509936,
+      "no_speech_prob": 0.20782242715358734
+    },
+    {
+      "id": 6,
+      "start": 18.28,
+      "end": 19.28,
+      "text": "in our last days.",
+      "avg_logprob": -0.20592743772509936,
+      "no_speech_prob": 0.20782242715358734
+    },
+    {
+      "id": 7,
+      "start": 19.28,
+      "end": 22.96,
+      "text": "Also, this week, God has been beating in my head, read the Bible, read the Bible,",
+      "avg_logprob": -0.20592743772509936,
+      "no_speech_prob": 0.20782242715358734
+    },
+    {
+      "id": 8,
+      "start": 22.96,
+      "end": 23.96,
+      "text": "read the Bible.",
+      "avg_logprob": -0.20592743772509936,
+      "no_speech_prob": 0.20782242715358734
+    },
+    {
+      "id": 9,
+      "start": 23.96,
+      "end": 26.48,
+      "text": "So last night, I began to read Revelation.",
+      "avg_logprob": -0.20592743772509936,
+      "no_speech_prob": 0.20782242715358734
+    },
+    {
+      "id": 10,
+      "start": 26.48,
+      "end": 30.44,
+      "text": "I'm sure that a lot of us know, you know, some of the things that happen in Revelation.",
+      "avg_logprob": -0.18628080397344834,
+      "no_speech_prob": 0.015313567593693733
+    },
+    {
+      "id": 11,
+      "start": 30.44,
+      "end": 33.84,
+      "text": "But y'all, this wrath that God has been seeing y'all, y'all need to be saved, y'all need",
+      "avg_logprob": -0.18628080397344834,
+      "no_speech_prob": 0.015313567593693733
+    },
+    {
+      "id": 12,
+      "start": 33.84,
+      "end": 35.32,
+      "text": "to repent, y'all need to be ready.",
+      "avg_logprob": -0.18628080397344834,
+      "no_speech_prob": 0.015313567593693733
+    },
+    {
+      "id": 13,
+      "start": 35.32,
+      "end": 39.84,
+      "text": "I want y'all to know and to truly believe in your heart that God is real.",
+      "avg_logprob": -0.18628080397344834,
+      "no_speech_prob": 0.015313567593693733
+    },
+    {
+      "id": 14,
+      "start": 39.84,
+      "end": 40.84,
+      "text": "His promises are real.",
+      "avg_logprob": -0.18628080397344834,
+      "no_speech_prob": 0.015313567593693733
+    },
+    {
+      "id": 15,
+      "start": 40.84,
+      "end": 41.84,
+      "text": "His wrath is real.",
+      "avg_logprob": -0.18628080397344834,
+      "no_speech_prob": 0.015313567593693733
+    },
+    {
+      "id": 16,
+      "start": 41.84,
+      "end": 42.84,
+      "text": "His spirit is real.",
+      "avg_logprob": -0.18628080397344834,
+      "no_speech_prob": 0.015313567593693733
+    },
+    {
+      "id": 17,
+      "start": 42.84,
+      "end": 47.76,
+      "text": "Revelation says that in the last days, people will long for death, but it will",
+      "avg_logprob": -0.18628080397344834,
+      "no_speech_prob": 0.015313567593693733
+    },
+    {
+      "id": 18,
+      "start": 47.76,
+      "end": 49.92,
+      "text": "not find them because y'all gonna feel this wrath of God.",
+      "avg_logprob": -0.18628080397344834,
+      "no_speech_prob": 0.015313567593693733
+    },
+    {
+      "id": 19,
+      "start": 49.92,
+      "end": 54.28,
+      "text": "It's not too late to repent, it's not too late to believe in Jesus Christ, but",
+      "avg_logprob": -0.18628080397344834,
+      "no_speech_prob": 0.015313567593693733
+    },
+    {
+      "id": 20,
+      "start": 54.28,
+      "end": 55.28,
+      "text": "y'all need to get on it.",
+      "avg_logprob": -0.18628080397344834,
+      "no_speech_prob": 0.015313567593693733
+    },
+    {
+      "id": 21,
+      "start": 55.28,
+      "end": 58.84,
+      "text": "The problem with our people nowadays is that we feel like we have so much time and that's",
+      "avg_logprob": -0.21093262322977477,
+      "no_speech_prob": 0.04677065834403038
+    },
+    {
+      "id": 22,
+      "start": 58.84,
+      "end": 61.92,
+      "text": "even before the last days were really upon us.",
+      "avg_logprob": -0.21093262322977477,
+      "no_speech_prob": 0.04677065834403038
+    },
+    {
+      "id": 23,
+      "start": 61.92,
+      "end": 65.76,
+      "text": "Right now, we all just looking crazy, trying to warn y'all, but y'all gonna be crying",
+      "avg_logprob": -0.21093262322977477,
+      "no_speech_prob": 0.04677065834403038
+    },
+    {
+      "id": 24,
+      "start": 65.76,
+      "end": 66.76,
+      "text": "out to the Lord and it's gonna be too late.",
+      "avg_logprob": -0.21093262322977477,
+      "no_speech_prob": 0.04677065834403038
+    },
+    {
+      "id": 25,
+      "start": 66.76,
+      "end": 69.84,
+      "text": "And then the Bible says it's still gonna be people that don't believe when He does",
+      "avg_logprob": -0.21093262322977477,
+      "no_speech_prob": 0.04677065834403038
+    },
+    {
+      "id": 26,
+      "start": 69.84,
+      "end": 70.84,
+      "text": "come.",
+      "avg_logprob": -0.21093262322977477,
+      "no_speech_prob": 0.04677065834403038
+    },
+    {
+      "id": 27,
+      "start": 70.84,
+      "end": 73.48,
+      "text": "It's still going to be people that choose to not repent of their sins even after",
+      "avg_logprob": -0.21093262322977477,
+      "no_speech_prob": 0.04677065834403038
+    },
+    {
+      "id": 28,
+      "start": 73.48,
+      "end": 74.48,
+      "text": "He has already shown Himself.",
+      "avg_logprob": -0.21093262322977477,
+      "no_speech_prob": 0.04677065834403038
+    },
+    {
+      "id": 29,
+      "start": 74.48,
+      "end": 77.4,
+      "text": "So don't be one of them people, y'all call me crazy, y'all call me delusional,",
+      "avg_logprob": -0.21093262322977477,
+      "no_speech_prob": 0.04677065834403038
+    },
+    {
+      "id": 30,
+      "start": 77.4,
+      "end": 78.4,
+      "text": "whatever you want to.",
+      "avg_logprob": -0.21093262322977477,
+      "no_speech_prob": 0.04677065834403038
+    },
+    {
+      "id": 31,
+      "start": 78.4,
+      "end": 82.04,
+      "text": "But if you think that 12,000 fish was washed upon the shore, all dead for",
+      "avg_logprob": -0.21093262322977477,
+      "no_speech_prob": 0.04677065834403038
+    },
+    {
+      "id": 32,
+      "start": 82.04,
+      "end": 85.0,
+      "text": "no reason, and y'all don't think the famine, y'all don't think it's starting.",
+      "avg_logprob": -0.21093262322977477,
+      "no_speech_prob": 0.04677065834403038
+    },
+    {
+      "id": 33,
+      "start": 85.0,
+      "end": 86.0,
+      "text": "You're the one that's crazy.",
+      "avg_logprob": -0.5311690498800838,
+      "no_speech_prob": 0.9679588079452515
+    },
+    {
+      "id": 34,
+      "start": 86.0,
+      "end": 86.52,
+      "text": "God bless you.",
+      "avg_logprob": -0.5311690498800838,
+      "no_speech_prob": 0.9679588079452515
+    }
+  ],
+  "transcript_full": "As I was brushing my teeth this morning, the Spirit just told me to talk to y'all. Literally, as I was brushing my teeth, God told me to remind y'all about the people who thought that Noah was crazy when he instructed Noah to tell the people that he was going to flood the earth. He told me to tell y'all this because it's a lot of y'all that don't believe that we in our last days. Also, this week, God has been beating in my head, read the Bible, read the Bible, read the Bible. So last night, I began to read Revelation. I'm sure that a lot of us know, you know, some of the things that happen in Revelation. But y'all, this wrath that God has been seeing y'all, y'all need to be saved, y'all need to repent, y'all need to be ready. I want y'all to know and to truly believe in your heart that God is real. His promises are real. His wrath is real. His spirit is real. Revelation says that in the last days, people will long for death, but it will not find them because y'all gonna feel this wrath of God. It's not too late to repent, it's not too late to believe in Jesus Christ, but y'all need to get on it. The problem with our people nowadays is that we feel like we have so much time and that's even before the last days were really upon us. Right now, we all just looking crazy, trying to warn y'all, but y'all gonna be crying out to the Lord and it's gonna be too late. And then the Bible says it's still gonna be people that don't believe when He does come. It's still going to be people that choose to not repent of their sins even after He has already shown Himself. So don't be one of them people, y'all call me crazy, y'all call me delusional, whatever you want to. But if you think that 12,000 fish was washed upon the shore, all dead for no reason, and y'all don't think the famine, y'all don't think it's starting. You're the one that's crazy. God bless you.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

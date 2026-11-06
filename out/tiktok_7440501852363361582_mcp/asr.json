@@ -1,0 +1,76 @@
+{
+  "language": "en",
+  "language_probability": 0.5328233242034912,
+  "duration": 25.006,
+  "duration_after_vad": 20.5,
+  "segment_count": 8,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.1,
+      "end": 6.6,
+      "text": "It's not shit, but it won't cease to be popular",
+      "avg_logprob": -0.5073607436248234,
+      "no_speech_prob": 0.7241084575653076
+    },
+    {
+      "id": 2,
+      "start": 6.6,
+      "end": 8.6,
+      "text": "That's her dream to be popular",
+      "avg_logprob": -0.5073607436248234,
+      "no_speech_prob": 0.7241084575653076
+    },
+    {
+      "id": 3,
+      "start": 8.6,
+      "end": 11.6,
+      "text": "Kill anyone and to be popular",
+      "avg_logprob": -0.5073607436248234,
+      "no_speech_prob": 0.7241084575653076
+    },
+    {
+      "id": 4,
+      "start": 11.6,
+      "end": 13.6,
+      "text": "Tell that soul to be popular",
+      "avg_logprob": -0.5073607436248234,
+      "no_speech_prob": 0.7241084575653076
+    },
+    {
+      "id": 5,
+      "start": 13.6,
+      "end": 15.6,
+      "text": "Kill anyone and to be popular",
+      "avg_logprob": -0.27176663369843457,
+      "no_speech_prob": 0.9219854474067688
+    },
+    {
+      "id": 6,
+      "start": 15.6,
+      "end": 18.6,
+      "text": "Kill anyone and to be popular",
+      "avg_logprob": -0.27176663369843457,
+      "no_speech_prob": 0.9219854474067688
+    },
+    {
+      "id": 7,
+      "start": 18.6,
+      "end": 20.6,
+      "text": "Tell that soul to be popular",
+      "avg_logprob": -0.27176663369843457,
+      "no_speech_prob": 0.9219854474067688
+    },
+    {
+      "id": 8,
+      "start": 20.6,
+      "end": 22.6,
+      "text": "Tell that soul to be popular",
+      "avg_logprob": -0.27176663369843457,
+      "no_speech_prob": 0.9219854474067688
+    }
+  ],
+  "transcript_full": "It's not shit, but it won't cease to be popular That's her dream to be popular Kill anyone and to be popular Tell that soul to be popular Kill anyone and to be popular Kill anyone and to be popular Tell that soul to be popular Tell that soul to be popular",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

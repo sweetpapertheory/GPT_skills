@@ -1,0 +1,172 @@
+{
+  "language": "en",
+  "language_probability": 0.9984843134880066,
+  "duration": 59.067,
+  "duration_after_vad": 58.0,
+  "segment_count": 20,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.21,
+      "end": 2.61,
+      "text": "Hi, I'm a secondary school science teacher and these are real questions that I send to me.",
+      "avg_logprob": -0.20990573622596762,
+      "no_speech_prob": 0.0753801092505455
+    },
+    {
+      "id": 2,
+      "start": 2.61,
+      "end": 4.21,
+      "text": "If you have a question you want me to answer, there's a link in my bio.",
+      "avg_logprob": -0.20990573622596762,
+      "no_speech_prob": 0.0753801092505455
+    },
+    {
+      "id": 3,
+      "start": 4.21,
+      "end": 7.09,
+      "text": "However, before emailing me, please watch my other TikToks, make sure I've answered your question already.",
+      "avg_logprob": -0.20990573622596762,
+      "no_speech_prob": 0.0753801092505455
+    },
+    {
+      "id": 4,
+      "start": 7.09,
+      "end": 9.25,
+      "text": "Also, I have a YouTube channel now, check it out if you want to.",
+      "avg_logprob": -0.20990573622596762,
+      "no_speech_prob": 0.0753801092505455
+    },
+    {
+      "id": 5,
+      "start": 9.25,
+      "end": 10.93,
+      "text": "How can we hear planets?",
+      "avg_logprob": -0.20990573622596762,
+      "no_speech_prob": 0.0753801092505455
+    },
+    {
+      "id": 6,
+      "start": 10.93,
+      "end": 15.41,
+      "text": "They are really loud, as it turns out, and we can hear them using special satellites.",
+      "avg_logprob": -0.20990573622596762,
+      "no_speech_prob": 0.0753801092505455
+    },
+    {
+      "id": 7,
+      "start": 15.41,
+      "end": 16.85,
+      "text": "How does the universe expand?",
+      "avg_logprob": -0.20990573622596762,
+      "no_speech_prob": 0.0753801092505455
+    },
+    {
+      "id": 8,
+      "start": 16.85,
+      "end": 19.49,
+      "text": "I...uh...uh...uh...",
+      "avg_logprob": -0.20990573622596762,
+      "no_speech_prob": 0.0753801092505455
+    },
+    {
+      "id": 9,
+      "start": 19.49,
+      "end": 23.17,
+      "text": "As far as I'm aware, nobody knows, but it is expanding all the time in every direction.",
+      "avg_logprob": -0.20990573622596762,
+      "no_speech_prob": 0.0753801092505455
+    },
+    {
+      "id": 10,
+      "start": 23.17,
+      "end": 24.13,
+      "text": "No edge!",
+      "avg_logprob": -0.20990573622596762,
+      "no_speech_prob": 0.0753801092505455
+    },
+    {
+      "id": 11,
+      "start": 24.13,
+      "end": 25.01,
+      "text": "Hankering.",
+      "avg_logprob": -0.20990573622596762,
+      "no_speech_prob": 0.0753801092505455
+    },
+    {
+      "id": 12,
+      "start": 25.01,
+      "end": 27.41,
+      "text": "And what would happen if humans stopped eating meat?",
+      "avg_logprob": -0.20990573622596762,
+      "no_speech_prob": 0.0753801092505455
+    },
+    {
+      "id": 13,
+      "start": 27.41,
+      "end": 29.57,
+      "text": "Well, uh, it kind of depends.",
+      "avg_logprob": -0.20990573622596762,
+      "no_speech_prob": 0.0753801092505455
+    },
+    {
+      "id": 14,
+      "start": 29.97,
+      "end": 34.77,
+      "text": "Meat, right now, as we produce it with factory farming, is not particularly good for us,",
+      "avg_logprob": -0.21166764250765108,
+      "no_speech_prob": 0.0032408118713647127
+    },
+    {
+      "id": 15,
+      "start": 34.77,
+      "end": 37.81,
+      "text": "because it's full of cortisol and antibiotics, and that results in antibiotic resistance,",
+      "avg_logprob": -0.21166764250765108,
+      "no_speech_prob": 0.0032408118713647127
+    },
+    {
+      "id": 16,
+      "start": 37.81,
+      "end": 41.09,
+      "text": "and hormones grow...it's a whole, kind of, not great thing.",
+      "avg_logprob": -0.21166764250765108,
+      "no_speech_prob": 0.0032408118713647127
+    },
+    {
+      "id": 17,
+      "start": 41.09,
+      "end": 46.13,
+      "text": "But if you're eating meat the way the Inuit hunt and prepare meat, it's pretty good for you.",
+      "avg_logprob": -0.21166764250765108,
+      "no_speech_prob": 0.0032408118713647127
+    },
+    {
+      "id": 18,
+      "start": 46.13,
+      "end": 53.01,
+      "text": "So, uh, on the whole, if Western countries started, uh, stopped eating meat in the, like, mass-produced way,",
+      "avg_logprob": -0.21166764250765108,
+      "no_speech_prob": 0.0032408118713647127
+    },
+    {
+      "id": 19,
+      "start": 53.01,
+      "end": 55.97,
+      "text": "it'd be really good for climate change, the planet, and our overall health,",
+      "avg_logprob": -0.21166764250765108,
+      "no_speech_prob": 0.0032408118713647127
+    },
+    {
+      "id": 20,
+      "start": 55.97,
+      "end": 58.61,
+      "text": "but obviously not everyone's circumstance is the same.",
+      "avg_logprob": -0.21166764250765108,
+      "no_speech_prob": 0.0032408118713647127
+    }
+  ],
+  "transcript_full": "Hi, I'm a secondary school science teacher and these are real questions that I send to me. If you have a question you want me to answer, there's a link in my bio. However, before emailing me, please watch my other TikToks, make sure I've answered your question already. Also, I have a YouTube channel now, check it out if you want to. How can we hear planets? They are really loud, as it turns out, and we can hear them using special satellites. How does the universe expand? I...uh...uh...uh... As far as I'm aware, nobody knows, but it is expanding all the time in every direction. No edge! Hankering. And what would happen if humans stopped eating meat? Well, uh, it kind of depends. Meat, right now, as we produce it with factory farming, is not particularly good for us, because it's full of cortisol and antibiotics, and that results in antibiotic resistance, and hormones grow...it's a whole, kind of, not great thing. But if you're eating meat the way the Inuit hunt and prepare meat, it's pretty good for you. So, uh, on the whole, if Western countries started, uh, stopped eating meat in the, like, mass-produced way, it'd be really good for climate change, the planet, and our overall health, but obviously not everyone's circumstance is the same.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

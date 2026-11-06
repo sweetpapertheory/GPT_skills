@@ -1,0 +1,284 @@
+{
+  "language": "en",
+  "language_probability": 0.9986898303031921,
+  "duration": 103.633,
+  "duration_after_vad": 103.54,
+  "segment_count": 34,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.76,
+      "text": "I had to learn the hard way that traveling internationally can really mess your body up.",
+      "avg_logprob": -0.21717534281990744,
+      "no_speech_prob": 0.016925547271966934
+    },
+    {
+      "id": 2,
+      "start": 3.76,
+      "end": 8.36,
+      "text": "So here's what I do to kind of protect against feeling like crap while I'm traveling.",
+      "avg_logprob": -0.21717534281990744,
+      "no_speech_prob": 0.016925547271966934
+    },
+    {
+      "id": 3,
+      "start": 8.36,
+      "end": 12.96,
+      "text": "Just in general, but especially for the flight, I use a really good refreshing spray for my",
+      "avg_logprob": -0.21717534281990744,
+      "no_speech_prob": 0.016925547271966934
+    },
+    {
+      "id": 4,
+      "start": 12.96,
+      "end": 14.72,
+      "text": "face so it doesn't get all dried out.",
+      "avg_logprob": -0.21717534281990744,
+      "no_speech_prob": 0.016925547271966934
+    },
+    {
+      "id": 5,
+      "start": 14.72,
+      "end": 17.6,
+      "text": "This one is the Clinique Moisture Surge Face Spray.",
+      "avg_logprob": -0.21717534281990744,
+      "no_speech_prob": 0.016925547271966934
+    },
+    {
+      "id": 6,
+      "start": 17.6,
+      "end": 21.16,
+      "text": "I also bring some good ol' lysine for lips so the lips don't get all dry and cracked",
+      "avg_logprob": -0.21717534281990744,
+      "no_speech_prob": 0.016925547271966934
+    },
+    {
+      "id": 7,
+      "start": 21.16,
+      "end": 22.16,
+      "text": "and chapped.",
+      "avg_logprob": -0.21717534281990744,
+      "no_speech_prob": 0.016925547271966934
+    },
+    {
+      "id": 8,
+      "start": 22.16,
+      "end": 24.68,
+      "text": "Even if you don't have a cough and any cough season, bring cough drops.",
+      "avg_logprob": -0.21717534281990744,
+      "no_speech_prob": 0.016925547271966934
+    },
+    {
+      "id": 9,
+      "start": 24.68,
+      "end": 29.86,
+      "text": "Again, lot of it is to keep your throat moist.",
+      "avg_logprob": -0.21717534281990744,
+      "no_speech_prob": 0.016925547271966934
+    },
+    {
+      "id": 10,
+      "start": 29.86,
+      "end": 33.98,
+      "text": "So that you don't get a dry throat, especially being on a flight for a long time or even just",
+      "avg_logprob": -0.24054636823780395,
+      "no_speech_prob": 0.018473835662007332
+    },
+    {
+      "id": 11,
+      "start": 33.98,
+      "end": 36.98,
+      "text": "like we're in Egypt right now and it's so dry here, cough drops.",
+      "avg_logprob": -0.24054636823780395,
+      "no_speech_prob": 0.018473835662007332
+    },
+    {
+      "id": 12,
+      "start": 36.98,
+      "end": 40.74,
+      "text": "Good ol' airborne, take these baby before, during and after your trip.",
+      "avg_logprob": -0.24054636823780395,
+      "no_speech_prob": 0.018473835662007332
+    },
+    {
+      "id": 13,
+      "start": 40.74,
+      "end": 44.42,
+      "text": "A lot of people tend to have digestive issues when they're traveling.",
+      "avg_logprob": -0.24054636823780395,
+      "no_speech_prob": 0.018473835662007332
+    },
+    {
+      "id": 14,
+      "start": 44.42,
+      "end": 47.34,
+      "text": "Either one extreme or the other, eating bad food, walking some lunch, not walking",
+      "avg_logprob": -0.24054636823780395,
+      "no_speech_prob": 0.018473835662007332
+    },
+    {
+      "id": 15,
+      "start": 47.34,
+      "end": 49.14,
+      "text": "enough, not hydrating enough, etc.",
+      "avg_logprob": -0.24054636823780395,
+      "no_speech_prob": 0.018473835662007332
+    },
+    {
+      "id": 16,
+      "start": 49.14,
+      "end": 52.7,
+      "text": "So bring you a little pep-toe and the Charcoal Capsules, especially if you eat",
+      "avg_logprob": -0.24054636823780395,
+      "no_speech_prob": 0.018473835662007332
+    },
+    {
+      "id": 17,
+      "start": 52.7,
+      "end": 55.86,
+      "text": "something bad or you drink too much, these are clutched.",
+      "avg_logprob": -0.24054636823780395,
+      "no_speech_prob": 0.018473835662007332
+    },
+    {
+      "id": 18,
+      "start": 55.86,
+      "end": 59.54,
+      "text": "Now as a girl, I like to make sure that my urinary health is really on track all",
+      "avg_logprob": -0.24054636823780395,
+      "no_speech_prob": 0.018473835662007332
+    },
+    {
+      "id": 19,
+      "start": 59.54,
+      "end": 60.54,
+      "text": "the time.",
+      "avg_logprob": -0.3259723247533821,
+      "no_speech_prob": 0.08055055141448975
+    },
+    {
+      "id": 20,
+      "start": 60.54,
+      "end": 63.74,
+      "text": "But when I'm traveling, you know, if I don't drink enough water or whatever, I",
+      "avg_logprob": -0.3259723247533821,
+      "no_speech_prob": 0.08055055141448975
+    },
+    {
+      "id": 21,
+      "start": 63.74,
+      "end": 64.74,
+      "text": "can't break those.",
+      "avg_logprob": -0.3259723247533821,
+      "no_speech_prob": 0.08055055141448975
+    },
+    {
+      "id": 22,
+      "start": 64.74,
+      "end": 70.02,
+      "text": "Liquid IV to stay hydrated, hella, hand, sanitizer, I have like five minutes.",
+      "avg_logprob": -0.3259723247533821,
+      "no_speech_prob": 0.08055055141448975
+    },
+    {
+      "id": 23,
+      "start": 70.02,
+      "end": 76.34,
+      "text": "This might be a little extra, but I personally, personally, do like a little first aid kid",
+      "avg_logprob": -0.3259723247533821,
+      "no_speech_prob": 0.08055055141448975
+    },
+    {
+      "id": 24,
+      "start": 76.34,
+      "end": 78.98,
+      "text": "that has like Band-Aids, Anesthetic Whites, like all that stuff.",
+      "avg_logprob": -0.3259723247533821,
+      "no_speech_prob": 0.08055055141448975
+    },
+    {
+      "id": 25,
+      "start": 78.98,
+      "end": 81.42,
+      "text": "It might be extra, but sometimes it's necessary.",
+      "avg_logprob": -0.3259723247533821,
+      "no_speech_prob": 0.08055055141448975
+    },
+    {
+      "id": 26,
+      "start": 81.42,
+      "end": 84.1,
+      "text": "Of course, your pain reliever of choice is always a good deal, whether it's",
+      "avg_logprob": -0.3259723247533821,
+      "no_speech_prob": 0.08055055141448975
+    },
+    {
+      "id": 27,
+      "start": 84.1,
+      "end": 85.1,
+      "text": "Tylenol, ibuprofen, Advil.",
+      "avg_logprob": -0.3259723247533821,
+      "no_speech_prob": 0.08055055141448975
+    },
+    {
+      "id": 28,
+      "start": 85.1,
+      "end": 89.42,
+      "text": "Just because I don't trust like buying it places or just taking it from anyone,",
+      "avg_logprob": -0.3259723247533821,
+      "no_speech_prob": 0.08055055141448975
+    },
+    {
+      "id": 29,
+      "start": 89.5,
+      "end": 92.82,
+      "text": "I have a pill and then they pull out a pill bottle like 17 different kinds of pills.",
+      "avg_logprob": -0.3157503025399314,
+      "no_speech_prob": 0.0592644177377224
+    },
+    {
+      "id": 30,
+      "start": 92.82,
+      "end": 93.82,
+      "text": "Like, are you sure?",
+      "avg_logprob": -0.3157503025399314,
+      "no_speech_prob": 0.0592644177377224
+    },
+    {
+      "id": 31,
+      "start": 93.82,
+      "end": 97.62,
+      "text": "Now just because of where I'm traveling, I also brought some stalemates, which are",
+      "avg_logprob": -0.3157503025399314,
+      "no_speech_prob": 0.0592644177377224
+    },
+    {
+      "id": 32,
+      "start": 97.62,
+      "end": 98.62,
+      "text": "just little wet wipes.",
+      "avg_logprob": -0.3157503025399314,
+      "no_speech_prob": 0.0592644177377224
+    },
+    {
+      "id": 33,
+      "start": 98.62,
+      "end": 102.02,
+      "text": "Trust me, one little baggie full of those items and really make a difference in",
+      "avg_logprob": -0.3157503025399314,
+      "no_speech_prob": 0.0592644177377224
+    },
+    {
+      "id": 34,
+      "start": 102.02,
+      "end": 103.62,
+      "text": "whether or not you feel like crap on your trip.",
+      "avg_logprob": -0.3157503025399314,
+      "no_speech_prob": 0.0592644177377224
+    }
+  ],
+  "transcript_full": "I had to learn the hard way that traveling internationally can really mess your body up. So here's what I do to kind of protect against feeling like crap while I'm traveling. Just in general, but especially for the flight, I use a really good refreshing spray for my face so it doesn't get all dried out. This one is the Clinique Moisture Surge Face Spray. I also bring some good ol' lysine for lips so the lips don't get all dry and cracked and chapped. Even if you don't have a cough and any cough season, bring cough drops. Again, lot of it is to keep your throat moist. So that you don't get a dry throat, especially being on a flight for a long time or even just like we're in Egypt right now and it's so dry here, cough drops. Good ol' airborne, take these baby before, during and after your trip. A lot of people tend to have digestive issues when they're traveling. Either one extreme or the other, eating bad food, walking some lunch, not walking enough, not hydrating enough, etc. So bring you a little pep-toe and the Charcoal Capsules, especially if you eat something bad or you drink too much, these are clutched. Now as a girl, I like to make sure that my urinary health is really on track all the time. But when I'm traveling, you know, if I don't drink enough water or whatever, I can't break those. Liquid IV to stay hydrated, hella, hand, sanitizer, I have like five minutes. This might be a little extra, but I personally, personally, do like a little first aid kid that has like Band-Aids, Anesthetic Whites, like all that stuff. It might be extra, but sometimes it's necessary. Of course, your pain reliever of choice is always a good deal, whether it's Tylenol, ibuprofen, Advil. Just because I don't trust like buying it places or just taking it from anyone, I have a pill and then they pull out a pill bottle like 17 different kinds of pills. Like, are you sure? Now just because of where I'm traveling, I also brought some stalemates, which are just little wet wipes. Trust me, one little baggie full of those items and really make a difference in whether or not you feel like crap on your trip.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

@@ -1,0 +1,220 @@
+{
+  "language": "en",
+  "language_probability": 0.9552780389785767,
+  "duration": 37.804,
+  "duration_after_vad": 35.0,
+  "segment_count": 26,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.5,
+      "text": "I'm peaceful. You're hurting me.",
+      "avg_logprob": -0.349497320811923,
+      "no_speech_prob": 0.3670389652252197
+    },
+    {
+      "id": 2,
+      "start": 1.5,
+      "end": 2.0,
+      "text": "Here.",
+      "avg_logprob": -0.349497320811923,
+      "no_speech_prob": 0.3670389652252197
+    },
+    {
+      "id": 3,
+      "start": 2.0,
+      "end": 3.5,
+      "text": "What's his neck?",
+      "avg_logprob": -0.349497320811923,
+      "no_speech_prob": 0.3670389652252197
+    },
+    {
+      "id": 4,
+      "start": 3.5,
+      "end": 4.0,
+      "text": "No.",
+      "avg_logprob": -0.349497320811923,
+      "no_speech_prob": 0.3670389652252197
+    },
+    {
+      "id": 5,
+      "start": 4.0,
+      "end": 5.0,
+      "text": "I got it.",
+      "avg_logprob": -0.349497320811923,
+      "no_speech_prob": 0.3670389652252197
+    },
+    {
+      "id": 6,
+      "start": 5.0,
+      "end": 6.5,
+      "text": "Please, make sure you go in.",
+      "avg_logprob": -0.349497320811923,
+      "no_speech_prob": 0.3670389652252197
+    },
+    {
+      "id": 7,
+      "start": 6.5,
+      "end": 7.0,
+      "text": "Yep.",
+      "avg_logprob": -0.349497320811923,
+      "no_speech_prob": 0.3670389652252197
+    },
+    {
+      "id": 8,
+      "start": 7.0,
+      "end": 7.5,
+      "text": "Yep.",
+      "avg_logprob": -0.349497320811923,
+      "no_speech_prob": 0.3670389652252197
+    },
+    {
+      "id": 9,
+      "start": 7.5,
+      "end": 8.0,
+      "text": "You did it.",
+      "avg_logprob": -0.349497320811923,
+      "no_speech_prob": 0.3670389652252197
+    },
+    {
+      "id": 10,
+      "start": 8.0,
+      "end": 9.5,
+      "text": "Off fossil finance, bed.",
+      "avg_logprob": -0.349497320811923,
+      "no_speech_prob": 0.3670389652252197
+    },
+    {
+      "id": 11,
+      "start": 9.5,
+      "end": 11.0,
+      "text": "Off fossil finance.",
+      "avg_logprob": -0.349497320811923,
+      "no_speech_prob": 0.3670389652252197
+    },
+    {
+      "id": 12,
+      "start": 11.0,
+      "end": 13.0,
+      "text": "Off fossil finance, bed.",
+      "avg_logprob": -0.349497320811923,
+      "no_speech_prob": 0.3670389652252197
+    },
+    {
+      "id": 13,
+      "start": 13.0,
+      "end": 14.0,
+      "text": "Off fossil finance.",
+      "avg_logprob": -0.349497320811923,
+      "no_speech_prob": 0.3670389652252197
+    },
+    {
+      "id": 14,
+      "start": 14.0,
+      "end": 15.5,
+      "text": "Off fossil finance, bed.",
+      "avg_logprob": -0.349497320811923,
+      "no_speech_prob": 0.3670389652252197
+    },
+    {
+      "id": 15,
+      "start": 15.5,
+      "end": 17.0,
+      "text": "Off fossil finance.",
+      "avg_logprob": -0.349497320811923,
+      "no_speech_prob": 0.3670389652252197
+    },
+    {
+      "id": 16,
+      "start": 17.0,
+      "end": 19.0,
+      "text": "We need one for one.",
+      "avg_logprob": -0.349497320811923,
+      "no_speech_prob": 0.3670389652252197
+    },
+    {
+      "id": 17,
+      "start": 19.0,
+      "end": 20.5,
+      "text": "We need one for one.",
+      "avg_logprob": -0.349497320811923,
+      "no_speech_prob": 0.3670389652252197
+    },
+    {
+      "id": 18,
+      "start": 20.5,
+      "end": 22.5,
+      "text": "And fossil finance.",
+      "avg_logprob": -0.349497320811923,
+      "no_speech_prob": 0.3670389652252197
+    },
+    {
+      "id": 19,
+      "start": 22.5,
+      "end": 24.5,
+      "text": "And fossil finance, bed.",
+      "avg_logprob": -0.349497320811923,
+      "no_speech_prob": 0.3670389652252197
+    },
+    {
+      "id": 20,
+      "start": 24.5,
+      "end": 26.0,
+      "text": "And fossil finance.",
+      "avg_logprob": -0.349497320811923,
+      "no_speech_prob": 0.3670389652252197
+    },
+    {
+      "id": 21,
+      "start": 26.0,
+      "end": 27.0,
+      "text": "I have to touch him like that.",
+      "avg_logprob": -0.349497320811923,
+      "no_speech_prob": 0.3670389652252197
+    },
+    {
+      "id": 22,
+      "start": 27.0,
+      "end": 27.5,
+      "text": "Why are you?",
+      "avg_logprob": -0.349497320811923,
+      "no_speech_prob": 0.3670389652252197
+    },
+    {
+      "id": 23,
+      "start": 27.5,
+      "end": 29.0,
+      "text": "I got aggressive. I'm not hurting you.",
+      "avg_logprob": -0.349497320811923,
+      "no_speech_prob": 0.3670389652252197
+    },
+    {
+      "id": 24,
+      "start": 29.0,
+      "end": 30.0,
+      "text": "You can't aggressive.",
+      "avg_logprob": -0.2760540825479171,
+      "no_speech_prob": 0.08619822561740875
+    },
+    {
+      "id": 25,
+      "start": 30.0,
+      "end": 33.0,
+      "text": "No, I'm not. I'm just explaining what I'm here for.",
+      "avg_logprob": -0.2760540825479171,
+      "no_speech_prob": 0.08619822561740875
+    },
+    {
+      "id": 26,
+      "start": 33.0,
+      "end": 35.0,
+      "text": "We need one for one.",
+      "avg_logprob": -0.2760540825479171,
+      "no_speech_prob": 0.08619822561740875
+    }
+  ],
+  "transcript_full": "I'm peaceful. You're hurting me. Here. What's his neck? No. I got it. Please, make sure you go in. Yep. Yep. You did it. Off fossil finance, bed. Off fossil finance. Off fossil finance, bed. Off fossil finance. Off fossil finance, bed. Off fossil finance. We need one for one. We need one for one. And fossil finance. And fossil finance, bed. And fossil finance. I have to touch him like that. Why are you? I got aggressive. I'm not hurting you. You can't aggressive. No, I'm not. I'm just explaining what I'm here for. We need one for one.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

@@ -1,0 +1,212 @@
+{
+  "language": "en",
+  "language_probability": 0.9957055449485779,
+  "duration": 88.881,
+  "duration_after_vad": 89.0,
+  "segment_count": 25,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.0,
+      "text": "I worked for USDA for 11 years. I was doing everything right.",
+      "avg_logprob": -0.18120650017615592,
+      "no_speech_prob": 0.07022783160209656
+    },
+    {
+      "id": 2,
+      "start": 4.0,
+      "end": 9.0,
+      "text": "Then we started asking kind of the wrong questions, guided by farmers.",
+      "avg_logprob": -0.18120650017615592,
+      "no_speech_prob": 0.07022783160209656
+    },
+    {
+      "id": 3,
+      "start": 9.0,
+      "end": 11.0,
+      "text": "Like you, we changed our research.",
+      "avg_logprob": -0.18120650017615592,
+      "no_speech_prob": 0.07022783160209656
+    },
+    {
+      "id": 4,
+      "start": 11.0,
+      "end": 15.0,
+      "text": "We said that you guys are doing the future of agriculture",
+      "avg_logprob": -0.18120650017615592,
+      "no_speech_prob": 0.07022783160209656
+    },
+    {
+      "id": 5,
+      "start": 15.0,
+      "end": 19.0,
+      "text": "and we need to be investing our science in that.",
+      "avg_logprob": -0.18120650017615592,
+      "no_speech_prob": 0.07022783160209656
+    },
+    {
+      "id": 6,
+      "start": 19.0,
+      "end": 24.0,
+      "text": "And then we also started asking questions about the pesticides killing the bees.",
+      "avg_logprob": -0.18120650017615592,
+      "no_speech_prob": 0.07022783160209656
+    },
+    {
+      "id": 7,
+      "start": 24.0,
+      "end": 27.0,
+      "text": "Oh, right. The NEO, whatever it's called.",
+      "avg_logprob": -0.18120650017615592,
+      "no_speech_prob": 0.07022783160209656
+    },
+    {
+      "id": 8,
+      "start": 27.0,
+      "end": 29.0,
+      "text": "Neonicotinoids. Right.",
+      "avg_logprob": -0.1576107878770147,
+      "no_speech_prob": 0.0019133840687572956
+    },
+    {
+      "id": 9,
+      "start": 29.0,
+      "end": 34.0,
+      "text": "And RNAi, which is a new genetic form of pesticide that they've got.",
+      "avg_logprob": -0.1576107878770147,
+      "no_speech_prob": 0.0019133840687572956
+    },
+    {
+      "id": 10,
+      "start": 34.0,
+      "end": 39.0,
+      "text": "One thing led to another and I kind of went from hitting the golden child",
+      "avg_logprob": -0.1576107878770147,
+      "no_speech_prob": 0.0019133840687572956
+    },
+    {
+      "id": 11,
+      "start": 39.0,
+      "end": 42.0,
+      "text": "within USDA to being pariah.",
+      "avg_logprob": -0.1576107878770147,
+      "no_speech_prob": 0.0019133840687572956
+    },
+    {
+      "id": 12,
+      "start": 42.0,
+      "end": 48.0,
+      "text": "There is a pushback from high levels within the Department of Agriculture",
+      "avg_logprob": -0.1576107878770147,
+      "no_speech_prob": 0.0019133840687572956
+    },
+    {
+      "id": 13,
+      "start": 48.0,
+      "end": 50.0,
+      "text": "that I need to be silenced.",
+      "avg_logprob": -0.1576107878770147,
+      "no_speech_prob": 0.0019133840687572956
+    },
+    {
+      "id": 14,
+      "start": 50.0,
+      "end": 56.0,
+      "text": "There is resistance to questioning billions of dollars in profits every year.",
+      "avg_logprob": -0.1576107878770147,
+      "no_speech_prob": 0.0019133840687572956
+    },
+    {
+      "id": 15,
+      "start": 56.0,
+      "end": 60.0,
+      "text": "So, I quit. Do you worry about bugs?",
+      "avg_logprob": -0.1606477599639397,
+      "no_speech_prob": 0.007393145002424717
+    },
+    {
+      "id": 16,
+      "start": 60.0,
+      "end": 62.0,
+      "text": "No, I don't worry about bugs.",
+      "avg_logprob": -0.1606477599639397,
+      "no_speech_prob": 0.007393145002424717
+    },
+    {
+      "id": 17,
+      "start": 62.0,
+      "end": 66.0,
+      "text": "That's right. You don't have to when you're farming this way. That's the thing.",
+      "avg_logprob": -0.1606477599639397,
+      "no_speech_prob": 0.007393145002424717
+    },
+    {
+      "id": 18,
+      "start": 66.0,
+      "end": 69.0,
+      "text": "It might be a potato beetle or a kissing cousin of it.",
+      "avg_logprob": -0.1606477599639397,
+      "no_speech_prob": 0.007393145002424717
+    },
+    {
+      "id": 19,
+      "start": 69.0,
+      "end": 71.0,
+      "text": "Is that a scourge?",
+      "avg_logprob": -0.1606477599639397,
+      "no_speech_prob": 0.007393145002424717
+    },
+    {
+      "id": 20,
+      "start": 71.0,
+      "end": 75.0,
+      "text": "Well, you know, I mean, right now it's eating one of your solinaceous weeds out here.",
+      "avg_logprob": -0.1606477599639397,
+      "no_speech_prob": 0.007393145002424717
+    },
+    {
+      "id": 21,
+      "start": 75.0,
+      "end": 77.0,
+      "text": "What's a solinaceous weed?",
+      "avg_logprob": -0.1606477599639397,
+      "no_speech_prob": 0.007393145002424717
+    },
+    {
+      "id": 22,
+      "start": 77.0,
+      "end": 79.0,
+      "text": "This one there?",
+      "avg_logprob": -0.1606477599639397,
+      "no_speech_prob": 0.007393145002424717
+    },
+    {
+      "id": 23,
+      "start": 79.0,
+      "end": 82.0,
+      "text": "Oh, yeah. That horse mare. We want to get rid of that anyway.",
+      "avg_logprob": -0.1606477599639397,
+      "no_speech_prob": 0.007393145002424717
+    },
+    {
+      "id": 24,
+      "start": 82.0,
+      "end": 85.0,
+      "text": "That's a real pain in the ass. I'd rather have that little beetle.",
+      "avg_logprob": -0.1606477599639397,
+      "no_speech_prob": 0.007393145002424717
+    },
+    {
+      "id": 25,
+      "start": 85.0,
+      "end": 89.0,
+      "text": "There you go. Well, that's a functioning ecosystem right there.",
+      "avg_logprob": -0.09190149868235868,
+      "no_speech_prob": 0.2228318452835083
+    }
+  ],
+  "transcript_full": "I worked for USDA for 11 years. I was doing everything right. Then we started asking kind of the wrong questions, guided by farmers. Like you, we changed our research. We said that you guys are doing the future of agriculture and we need to be investing our science in that. And then we also started asking questions about the pesticides killing the bees. Oh, right. The NEO, whatever it's called. Neonicotinoids. Right. And RNAi, which is a new genetic form of pesticide that they've got. One thing led to another and I kind of went from hitting the golden child within USDA to being pariah. There is a pushback from high levels within the Department of Agriculture that I need to be silenced. There is resistance to questioning billions of dollars in profits every year. So, I quit. Do you worry about bugs? No, I don't worry about bugs. That's right. You don't have to when you're farming this way. That's the thing. It might be a potato beetle or a kissing cousin of it. Is that a scourge? Well, you know, I mean, right now it's eating one of your solinaceous weeds out here. What's a solinaceous weed? This one there? Oh, yeah. That horse mare. We want to get rid of that anyway. That's a real pain in the ass. I'd rather have that little beetle. There you go. Well, that's a functioning ecosystem right there.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

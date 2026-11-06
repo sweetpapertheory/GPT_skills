@@ -1,0 +1,108 @@
+{
+  "language": "en",
+  "language_probability": 0.98143470287323,
+  "duration": 81.79,
+  "duration_after_vad": 81.0,
+  "segment_count": 12,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.37,
+      "end": 4.37,
+      "text": "Have you ever wondered about the cruelty of global media?",
+      "avg_logprob": -0.1953951840276842,
+      "no_speech_prob": 0.058665934950113297
+    },
+    {
+      "id": 2,
+      "start": 4.37,
+      "end": 12.37,
+      "text": "It always keeps me puzzled that why sometimes the date of a celebrity star, the color of their vehicle,",
+      "avg_logprob": -0.1953951840276842,
+      "no_speech_prob": 0.058665934950113297
+    },
+    {
+      "id": 3,
+      "start": 12.37,
+      "end": 20.37,
+      "text": "or changing their names from X to Y is more important and gets more coverage than Kate's dying from hunger.",
+      "avg_logprob": -0.1953951840276842,
+      "no_speech_prob": 0.058665934950113297
+    },
+    {
+      "id": 4,
+      "start": 20.37,
+      "end": 25.37,
+      "text": "Honestly, I was happy with the rise of social media.",
+      "avg_logprob": -0.1953951840276842,
+      "no_speech_prob": 0.058665934950113297
+    },
+    {
+      "id": 5,
+      "start": 25.37,
+      "end": 34.37,
+      "text": "I thought things might change as now we have the means to make people across the globe aware of the biggest issues of our time.",
+      "avg_logprob": -0.09526812814284062,
+      "no_speech_prob": 0.05591518431901932
+    },
+    {
+      "id": 6,
+      "start": 34.37,
+      "end": 44.37,
+      "text": "But unfortunately, we see that most of the social media is also felt with pranks, silly challenges and trash content",
+      "avg_logprob": -0.09526812814284062,
+      "no_speech_prob": 0.05591518431901932
+    },
+    {
+      "id": 7,
+      "start": 44.37,
+      "end": 49.37,
+      "text": "that get more attention than a child drowned in the ocean.",
+      "avg_logprob": -0.09526812814284062,
+      "no_speech_prob": 0.05591518431901932
+    },
+    {
+      "id": 8,
+      "start": 49.37,
+      "end": 54.37,
+      "text": "Just think about it for a moment. Why humanity has a different price?",
+      "avg_logprob": -0.12884614049498713,
+      "no_speech_prob": 0.029265237972140312
+    },
+    {
+      "id": 9,
+      "start": 54.37,
+      "end": 58.37,
+      "text": "And what has happened to this generation?",
+      "avg_logprob": -0.12884614049498713,
+      "no_speech_prob": 0.029265237972140312
+    },
+    {
+      "id": 10,
+      "start": 58.37,
+      "end": 64.37,
+      "text": "Don't get me wrong. I'm not saying that having fan is not important.",
+      "avg_logprob": -0.12884614049498713,
+      "no_speech_prob": 0.029265237972140312
+    },
+    {
+      "id": 11,
+      "start": 64.37,
+      "end": 72.37,
+      "text": "This generation doesn't care about anything or the media is always obsessed with celebrity news.",
+      "avg_logprob": -0.12884614049498713,
+      "no_speech_prob": 0.029265237972140312
+    },
+    {
+      "id": 12,
+      "start": 72.37,
+      "end": 81.37,
+      "text": "I'm just attempting to convey that this is not enough to address the pressing challenges of our time.",
+      "avg_logprob": -0.08417921480925186,
+      "no_speech_prob": 0.572036862373352
+    }
+  ],
+  "transcript_full": "Have you ever wondered about the cruelty of global media? It always keeps me puzzled that why sometimes the date of a celebrity star, the color of their vehicle, or changing their names from X to Y is more important and gets more coverage than Kate's dying from hunger. Honestly, I was happy with the rise of social media. I thought things might change as now we have the means to make people across the globe aware of the biggest issues of our time. But unfortunately, we see that most of the social media is also felt with pranks, silly challenges and trash content that get more attention than a child drowned in the ocean. Just think about it for a moment. Why humanity has a different price? And what has happened to this generation? Don't get me wrong. I'm not saying that having fan is not important. This generation doesn't care about anything or the media is always obsessed with celebrity news. I'm just attempting to convey that this is not enough to address the pressing challenges of our time.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

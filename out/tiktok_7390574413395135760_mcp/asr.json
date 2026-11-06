@@ -1,0 +1,452 @@
+{
+  "language": "es",
+  "language_probability": 0.6542606949806213,
+  "duration": 352.2,
+  "duration_after_vad": 350.3,
+  "segment_count": 55,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.24,
+      "end": 8.84,
+      "text": "Majestades, autoridades, señoras y señores, buenas noches, bona nit, aquí, desde el corazón",
+      "avg_logprob": -0.16412871520893246,
+      "no_speech_prob": 0.4559879004955292
+    },
+    {
+      "id": 2,
+      "start": 8.84,
+      "end": 14.28,
+      "text": "de la Costa Brava en Girona, un lugar donde la innovación y la belleza se dan la mano",
+      "avg_logprob": -0.16412871520893246,
+      "no_speech_prob": 0.4559879004955292
+    },
+    {
+      "id": 3,
+      "start": 14.28,
+      "end": 23.05,
+      "text": "para que todos disfrutemos. Me gustaría compartir con todos vosotros una historia. Os adelanto",
+      "avg_logprob": -0.16412871520893246,
+      "no_speech_prob": 0.4559879004955292
+    },
+    {
+      "id": 4,
+      "start": 23.05,
+      "end": 29.01,
+      "text": "que no es larga y termina bien. En esta historia de personas excepcionales hay viajes,",
+      "avg_logprob": -0.16412871520893246,
+      "no_speech_prob": 0.4559879004955292
+    },
+    {
+      "id": 5,
+      "start": 29.01,
+      "end": 35.33,
+      "text": "emociones, determinación y mucho empeño en que las cosas funcionen. Hay promesas, heroínas",
+      "avg_logprob": -0.1663267770065711,
+      "no_speech_prob": 0.06960219144821167
+    },
+    {
+      "id": 6,
+      "start": 35.33,
+      "end": 43.93,
+      "text": "y héroes, lágrimas e ilusiones. Por haber ahí esta plantitas. Una que se llama Arabidopsistaliana,",
+      "avg_logprob": -0.1663267770065711,
+      "no_speech_prob": 0.06960219144821167
+    },
+    {
+      "id": 7,
+      "start": 43.93,
+      "end": 49.33,
+      "text": "por ejemplo, muelas utiliza porque tienen una gran variabilidad genética que podría",
+      "avg_logprob": -0.1663267770065711,
+      "no_speech_prob": 0.06960219144821167
+    },
+    {
+      "id": 8,
+      "start": 49.33,
+      "end": 55.21,
+      "text": "ayudar a mejorar la adaptación al cambio climático. Él siempre dice que es un biólogo",
+      "avg_logprob": -0.1663267770065711,
+      "no_speech_prob": 0.06960219144821167
+    },
+    {
+      "id": 9,
+      "start": 55.21,
+      "end": 61.33,
+      "text": "evolutivo de bota, bata y tecla. Y desde la universidad de Berkeley se asoma el mundo",
+      "avg_logprob": -0.2463128820200947,
+      "no_speech_prob": 0.1456131935119629
+    },
+    {
+      "id": 10,
+      "start": 61.33,
+      "end": 69.44,
+      "text": "en su muy lab para pensar global y actuar local. En eso se asamble la Susana, que va a",
+      "avg_logprob": -0.2463128820200947,
+      "no_speech_prob": 0.1456131935119629
+    },
+    {
+      "id": 11,
+      "start": 69.44,
+      "end": 74.98,
+      "text": "tornar a Guatemala después de haberlo estudiado todo en ingeniería química y nanotecnología",
+      "avg_logprob": -0.2463128820200947,
+      "no_speech_prob": 0.1456131935119629
+    },
+    {
+      "id": 12,
+      "start": 74.98,
+      "end": 79.82,
+      "text": "y va a decidir donar suport a las nenas y las donas indígenas por tal que tengan",
+      "avg_logprob": -0.2463128820200947,
+      "no_speech_prob": 0.1456131935119629
+    },
+    {
+      "id": 13,
+      "start": 79.82,
+      "end": 87.74,
+      "text": "conectividad y energía. Y hacerlo en las seves lenguas mayas. En 14 años va a rebre la primera",
+      "avg_logprob": -0.35000092453426784,
+      "no_speech_prob": 0.9142449498176575
+    },
+    {
+      "id": 14,
+      "start": 87.74,
+      "end": 94.42,
+      "text": "beca que después van a ser muchas más. Y a la misma edad, en los 15 años, la victoria",
+      "avg_logprob": -0.35000092453426784,
+      "no_speech_prob": 0.9142449498176575
+    },
+    {
+      "id": 15,
+      "start": 94.42,
+      "end": 100.98,
+      "text": "va a pujar a un escenario profesional y desde las horas no ha tornado a sortir de un set.",
+      "avg_logprob": -0.35000092453426784,
+      "no_speech_prob": 0.9142449498176575
+    },
+    {
+      "id": 16,
+      "start": 100.98,
+      "end": 106.62,
+      "text": "La sema manera de sentir el oficio, el respeto por la interpretación, le servecen a hoy,",
+      "avg_logprob": -0.35000092453426784,
+      "no_speech_prob": 0.9142449498176575
+    },
+    {
+      "id": 17,
+      "start": 106.62,
+      "end": 114.46,
+      "text": "15 años después, para no prender seriosamente a sí misma. Agraí el suéctil y gaudí del doligús",
+      "avg_logprob": -0.3771068465362475,
+      "no_speech_prob": 0.3988984525203705
+    },
+    {
+      "id": 18,
+      "start": 114.46,
+      "end": 121.61,
+      "text": "de que las abusiones pasen por su cos como la creadora que es. Continúa de gira para el",
+      "avg_logprob": -0.3771068465362475,
+      "no_speech_prob": 0.3988984525203705
+    },
+    {
+      "id": 19,
+      "start": 121.61,
+      "end": 128.09,
+      "text": "nuestro país con un monólogo, prima facie, que parla de violencia sexual contra la dona",
+      "avg_logprob": -0.3771068465362475,
+      "no_speech_prob": 0.3988984525203705
+    },
+    {
+      "id": 20,
+      "start": 128.09,
+      "end": 131.49,
+      "text": "y deja muchas preguntas al aire y algunas certezas rotundas.",
+      "avg_logprob": -0.3771068465362475,
+      "no_speech_prob": 0.3988984525203705
+    },
+    {
+      "id": 21,
+      "start": 132.49,
+      "end": 138.69,
+      "text": "B. Andaniel es que ni al 15, ni al 18 tenía las cosas claras, ni tan solo después de haber",
+      "avg_logprob": -0.2504656224880578,
+      "no_speech_prob": 0.09355250000953674
+    },
+    {
+      "id": 22,
+      "start": 138.69,
+      "end": 145.33,
+      "text": "iniciado arquitectura, pero va a comenzar como ella explica, a surtida el test y va a descubrir",
+      "avg_logprob": -0.2504656224880578,
+      "no_speech_prob": 0.09355250000953674
+    },
+    {
+      "id": 23,
+      "start": 145.33,
+      "end": 153.01,
+      "text": "que el cambio social només asmó a ritmo de confianza. Este artesano social cree alianzas",
+      "avg_logprob": -0.2504656224880578,
+      "no_speech_prob": 0.09355250000953674
+    },
+    {
+      "id": 24,
+      "start": 153.01,
+      "end": 158.69,
+      "text": "entre el sector público, el privado, la academia y el tercer sector y los barrios,",
+      "avg_logprob": -0.2504656224880578,
+      "no_speech_prob": 0.09355250000953674
+    },
+    {
+      "id": 25,
+      "start": 158.69,
+      "end": 165.57,
+      "text": "sus comunidades, para vencer la precariedad urbana en el primer mundo, aquí, en España",
+      "avg_logprob": -0.1324265886027858,
+      "no_speech_prob": 0.09213297814130783
+    },
+    {
+      "id": 26,
+      "start": 165.57,
+      "end": 172.61,
+      "text": "y en Francia. Lo de Antonio también tiene que ver con cambios, lo explica así, antes de",
+      "avg_logprob": -0.1324265886027858,
+      "no_speech_prob": 0.09213297814130783
+    },
+    {
+      "id": 27,
+      "start": 172.61,
+      "end": 179.21,
+      "text": "exigir, cambia tú y cambia ya. Es arquitecto como Daniel y descubrió que no hay mayor pobreza",
+      "avg_logprob": -0.1324265886027858,
+      "no_speech_prob": 0.09213297814130783
+    },
+    {
+      "id": 28,
+      "start": 179.21,
+      "end": 185.77,
+      "text": "material que no tener agua potable para beber, para lavarse, para vivir. Por eso construye",
+      "avg_logprob": -0.1324265886027858,
+      "no_speech_prob": 0.09213297814130783
+    },
+    {
+      "id": 29,
+      "start": 185.89,
+      "end": 191.57,
+      "text": "pozos, tanques de almacenamiento, infraestructuras de sanamiento en países donde no tienen acceso",
+      "avg_logprob": -0.13360653367153433,
+      "no_speech_prob": 0.03145672380924225
+    },
+    {
+      "id": 30,
+      "start": 191.57,
+      "end": 199.01,
+      "text": "a agua limpia. Vende agua aquí para regalarles el agua de la vida allí. Resulta desalentador",
+      "avg_logprob": -0.13360653367153433,
+      "no_speech_prob": 0.03145672380924225
+    },
+    {
+      "id": 31,
+      "start": 199.01,
+      "end": 205.49,
+      "text": "que hoy hay aún 700 millones de personas sin acceso a agua potable. Y lo de Yarivid con",
+      "avg_logprob": -0.13360653367153433,
+      "no_speech_prob": 0.03145672380924225
+    },
+    {
+      "id": 32,
+      "start": 205.49,
+      "end": 209.45,
+      "text": "la recuperación de metales de alto valor de las baterías de los móviles y de los",
+      "avg_logprob": -0.13360653367153433,
+      "no_speech_prob": 0.03145672380924225
+    },
+    {
+      "id": 33,
+      "start": 209.45,
+      "end": 213.41,
+      "text": "coches eléctricos es casi increíble. Le mandamos un beso hoy a Yarivid que",
+      "avg_logprob": -0.13360653367153433,
+      "no_speech_prob": 0.03145672380924225
+    },
+    {
+      "id": 34,
+      "start": 213.45,
+      "end": 218.89,
+      "text": "no ha podido acompañarnos. Los metales los devuelve a la cadena de producción sostenible",
+      "avg_logprob": -0.20413260378183856,
+      "no_speech_prob": 0.06801950931549072
+    },
+    {
+      "id": 35,
+      "start": 218.89,
+      "end": 223.25,
+      "text": "y aún tiene tiempo para ir por las escuelas de América Latina para despertar vocaciones",
+      "avg_logprob": -0.20413260378183856,
+      "no_speech_prob": 0.06801950931549072
+    },
+    {
+      "id": 36,
+      "start": 223.25,
+      "end": 230.01,
+      "text": "científicas y contar con mucho rigor a los pequeños que es eso de la economía circular.",
+      "avg_logprob": -0.20413260378183856,
+      "no_speech_prob": 0.06801950931549072
+    },
+    {
+      "id": 37,
+      "start": 230.01,
+      "end": 236.25,
+      "text": "Las historias de la Susana, la Antonio, la Victoria, a Moisés, la Yarivid y a Daniel",
+      "avg_logprob": -0.20413260378183856,
+      "no_speech_prob": 0.06801950931549072
+    },
+    {
+      "id": 38,
+      "start": 236.25,
+      "end": 242.33,
+      "text": "tenan diversas cosas en común, a mesas de exit y de la ronda totals 30 años, cuando",
+      "avg_logprob": -0.20413260378183856,
+      "no_speech_prob": 0.06801950931549072
+    },
+    {
+      "id": 39,
+      "start": 242.37,
+      "end": 248.81,
+      "text": "se sentían incapazos, ignorantes o petits, van a encontrar una referencia a la cual agafarse",
+      "avg_logprob": -0.2777687474241797,
+      "no_speech_prob": 0.05089859664440155
+    },
+    {
+      "id": 40,
+      "start": 248.81,
+      "end": 256.81,
+      "text": "perseguían debat, van a entender que no podían avanzar sols, van a pensar de forma diferente,",
+      "avg_logprob": -0.2777687474241797,
+      "no_speech_prob": 0.05089859664440155
+    },
+    {
+      "id": 41,
+      "start": 256.81,
+      "end": 263.41,
+      "text": "van a asumir riscos, van a donar un nuevo sentido a estas palabras sostenible, accesible",
+      "avg_logprob": -0.2777687474241797,
+      "no_speech_prob": 0.05089859664440155
+    },
+    {
+      "id": 42,
+      "start": 263.41,
+      "end": 272.88,
+      "text": "e inclusiva. Van a descubrir en qué eran bons y aún podían aportar. Desde la cultura",
+      "avg_logprob": -0.2777687474241797,
+      "no_speech_prob": 0.05089859664440155
+    },
+    {
+      "id": 43,
+      "start": 272.92,
+      "end": 278.32,
+      "text": "y al ser imprescindible a poder transformador, desde la ciencia y la vocación para resolver",
+      "avg_logprob": -0.27632615708897257,
+      "no_speech_prob": 0.08591966331005096
+    },
+    {
+      "id": 44,
+      "start": 278.32,
+      "end": 285.44,
+      "text": "problemas, y ahora son ellos los referentes de la meva generación. Acabemos de escoltarlos",
+      "avg_logprob": -0.27632615708897257,
+      "no_speech_prob": 0.08591966331005096
+    },
+    {
+      "id": 45,
+      "start": 285.44,
+      "end": 291.48,
+      "text": "y me impresiona toda la cadena aportada con sus testimonies. Usa miro y os agradejo",
+      "avg_logprob": -0.27632615708897257,
+      "no_speech_prob": 0.08591966331005096
+    },
+    {
+      "id": 46,
+      "start": 291.48,
+      "end": 299.18,
+      "text": "todo el café y companseo. Yo tenía tres años cuando mis padres impulsaron esta",
+      "avg_logprob": -0.27632615708897257,
+      "no_speech_prob": 0.08591966331005096
+    },
+    {
+      "id": 47,
+      "start": 299.18,
+      "end": 304.5,
+      "text": "fundación con el apoyo de muchas empresas e instituciones que creyeron en este proyecto",
+      "avg_logprob": -0.27632615708897257,
+      "no_speech_prob": 0.08591966331005096
+    },
+    {
+      "id": 48,
+      "start": 304.54,
+      "end": 312.06,
+      "text": "y que hoy, 15 años después, crece con fortaleza, determinación y resultados. El impacto de",
+      "avg_logprob": -0.12840081264778058,
+      "no_speech_prob": 0.01590355858206749
+    },
+    {
+      "id": 49,
+      "start": 312.06,
+      "end": 317.14,
+      "text": "su actividad es evidente en miles de jóvenes a los que la fundación acompaña para mejorar",
+      "avg_logprob": -0.12840081264778058,
+      "no_speech_prob": 0.01590355858206749
+    },
+    {
+      "id": 50,
+      "start": 317.14,
+      "end": 324.14,
+      "text": "su formación, encontrar su talento, ampliar su mirada, con apoyos reales de atención",
+      "avg_logprob": -0.12840081264778058,
+      "no_speech_prob": 0.01590355858206749
+    },
+    {
+      "id": 51,
+      "start": 324.14,
+      "end": 331.38,
+      "text": "a la educación y salud mental, con propósito, con la utilidad demostrada. Gracias a todos,",
+      "avg_logprob": -0.12840081264778058,
+      "no_speech_prob": 0.01590355858206749
+    },
+    {
+      "id": 52,
+      "start": 331.5,
+      "end": 336.94,
+      "text": "gracias a todo el equipo, gracias a la generosidad de tantas personas que logran que cada año y",
+      "avg_logprob": -0.17023148360075774,
+      "no_speech_prob": 0.09487326443195343
+    },
+    {
+      "id": 53,
+      "start": 336.94,
+      "end": 343.94,
+      "text": "en esta ceremonia los jóvenes sintamos un nuevo impulso. Pensemos largo y miramos alto,",
+      "avg_logprob": -0.17023148360075774,
+      "no_speech_prob": 0.09487326443195343
+    },
+    {
+      "id": 54,
+      "start": 343.94,
+      "end": 350.94,
+      "text": "sin parar de vista la realidad, pero con esperanza y energía para seguir esforzándonos en mejorarlo.",
+      "avg_logprob": -0.17023148360075774,
+      "no_speech_prob": 0.09487326443195343
+    },
+    {
+      "id": 55,
+      "start": 350.94,
+      "end": 351.94,
+      "text": "Muchas gracias.",
+      "avg_logprob": -0.17023148360075774,
+      "no_speech_prob": 0.09487326443195343
+    }
+  ],
+  "transcript_full": "Majestades, autoridades, señoras y señores, buenas noches, bona nit, aquí, desde el corazón de la Costa Brava en Girona, un lugar donde la innovación y la belleza se dan la mano para que todos disfrutemos. Me gustaría compartir con todos vosotros una historia. Os adelanto que no es larga y termina bien. En esta historia de personas excepcionales hay viajes, emociones, determinación y mucho empeño en que las cosas funcionen. Hay promesas, heroínas y héroes, lágrimas e ilusiones. Por haber ahí esta plantitas. Una que se llama Arabidopsistaliana, por ejemplo, muelas utiliza porque tienen una gran variabilidad genética que podría ayudar a mejorar la adaptación al cambio climático. Él siempre dice que es un biólogo evolutivo de bota, bata y tecla. Y desde la universidad de Berkeley se asoma el mundo en su muy lab para pensar global y actuar local. En eso se asamble la Susana, que va a tornar a Guatemala después de haberlo estudiado todo en ingeniería química y nanotecnología y va a decidir donar suport a las nenas y las donas indígenas por tal que tengan conectividad y energía. Y hacerlo en las seves lenguas mayas. En 14 años va a rebre la primera beca que después van a ser muchas más. Y a la misma edad, en los 15 años, la victoria va a pujar a un escenario profesional y desde las horas no ha tornado a sortir de un set. La sema manera de sentir el oficio, el respeto por la interpretación, le servecen a hoy, 15 años después, para no prender seriosamente a sí misma. Agraí el suéctil y gaudí del doligús de que las abusiones pasen por su cos como la creadora que es. Continúa de gira para el nuestro país con un monólogo, prima facie, que parla de violencia sexual contra la dona y deja muchas preguntas al aire y algunas certezas rotundas. B. Andaniel es que ni al 15, ni al 18 tenía las cosas claras, ni tan solo después de haber iniciado arquitectura, pero va a comenzar como ella explica, a surtida el test y va a descubrir que el cambio social només asmó a ritmo de confianza. Este artesano social cree alianzas entre el sector público, el privado, la academia y el tercer sector y los barrios, sus comunidades, para vencer la precariedad urbana en el primer mundo, aquí, en España y en Francia. Lo de Antonio también tiene que ver con cambios, lo explica así, antes de exigir, cambia tú y cambia ya. Es arquitecto como Daniel y descubrió que no hay mayor pobreza material que no tener agua potable para beber, para lavarse, para vivir. Por eso construye pozos, tanques de almacenamiento, infraestructuras de sanamiento en países donde no tienen acceso a agua limpia. Vende agua aquí para regalarles el agua de la vida allí. Resulta desalentador que hoy hay aún 700 millones de personas sin acceso a agua potable. Y lo de Yarivid con la recuperación de metales de alto valor de las baterías de los móviles y de los coches eléctricos es casi increíble. Le mandamos un beso hoy a Yarivid que no ha podido acompañarnos. Los metales los devuelve a la cadena de producción sostenible y aún tiene tiempo para ir por las escuelas de América Latina para despertar vocaciones científicas y contar con mucho rigor a los pequeños que es eso de la economía circular. Las historias de la Susana, la Antonio, la Victoria, a Moisés, la Yarivid y a Daniel tenan diversas cosas en común, a mesas de exit y de la ronda totals 30 años, cuando se sentían incapazos, ignorantes o petits, van a encontrar una referencia a la cual agafarse perseguían debat, van a entender que no podían avanzar sols, van a pensar de forma diferente, van a asumir riscos, van a donar un nuevo sentido a estas palabras sostenible, accesible e inclusiva. Van a descubrir en qué eran bons y aún podían aportar. Desde la cultura y al ser imprescindible a poder transformador, desde la ciencia y la vocación para resolver problemas, y ahora son ellos los referentes de la meva generación. Acabemos de escoltarlos y me impresiona toda la cadena aportada con sus testimonies. Usa miro y os agradejo todo el café y companseo. Yo tenía tres años cuando mis padres impulsaron esta fundación con el apoyo de muchas empresas e instituciones que creyeron en este proyecto y que hoy, 15 años después, crece con fortaleza, determinación y resultados. El impacto de su actividad es evidente en miles de jóvenes a los que la fundación acompaña para mejorar su formación, encontrar su talento, ampliar su mirada, con apoyos reales de atención a la educación y salud mental, con propósito, con la utilidad demostrada. Gracias a todos, gracias a todo el equipo, gracias a la generosidad de tantas personas que logran que cada año y en esta ceremonia los jóvenes sintamos un nuevo impulso. Pensemos largo y miramos alto, sin parar de vista la realidad, pero con esperanza y energía para seguir esforzándonos en mejorarlo. Muchas gracias.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

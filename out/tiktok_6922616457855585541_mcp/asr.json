@@ -1,0 +1,36 @@
+{
+  "language": "en",
+  "language_probability": 0.993611752986908,
+  "duration": 13.833,
+  "duration_after_vad": 13.6,
+  "segment_count": 3,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.84,
+      "text": "President Biden signed several executive orders today dealing with climate change.",
+      "avg_logprob": -0.14053288468143396,
+      "no_speech_prob": 0.027461348101496696
+    },
+    {
+      "id": 2,
+      "start": 3.84,
+      "end": 7.44,
+      "text": "Among them, we're establishing climate change as a national security priority",
+      "avg_logprob": -0.14053288468143396,
+      "no_speech_prob": 0.027461348101496696
+    },
+    {
+      "id": 3,
+      "start": 7.44,
+      "end": 13.6,
+      "text": "conserving 30% of federal land and oceans by 2030 and cancelling new oil and gas leases on public lands.",
+      "avg_logprob": -0.14053288468143396,
+      "no_speech_prob": 0.027461348101496696
+    }
+  ],
+  "transcript_full": "President Biden signed several executive orders today dealing with climate change. Among them, we're establishing climate change as a national security priority conserving 30% of federal land and oceans by 2030 and cancelling new oil and gas leases on public lands.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "language_probability": 0.7859655618667603,
+  "duration": 13.067,
+  "duration_after_vad": 2.0,
+  "segment_count": 1,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.0,
+      "text": "Well, I hope someday",
+      "avg_logprob": -0.8463229313492775,
+      "no_speech_prob": 0.2822946012020111
+    }
+  ],
+  "transcript_full": "Well, I hope someday",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

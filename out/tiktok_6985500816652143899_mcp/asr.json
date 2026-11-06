@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "language_probability": 0.8453708291053772,
+  "duration": 5.499,
+  "duration_after_vad": 2.0,
+  "segment_count": 1,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.14,
+      "end": 2.14,
+      "text": "Absolutely not.",
+      "avg_logprob": -0.5719866851965586,
+      "no_speech_prob": 0.04823960363864899
+    }
+  ],
+  "transcript_full": "Absolutely not.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

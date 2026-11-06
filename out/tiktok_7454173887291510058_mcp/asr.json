@@ -1,0 +1,60 @@
+{
+  "language": "en",
+  "language_probability": 0.9861911535263062,
+  "duration": 35.409,
+  "duration_after_vad": 35.0,
+  "segment_count": 6,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 8.0,
+      "text": "You know, I've had a wonderful life, I've had thousands of friends and I've had an exciting and adventurous and gratifying existence.",
+      "avg_logprob": -0.15296283457428217,
+      "no_speech_prob": 0.17867451906204224
+    },
+    {
+      "id": 2,
+      "start": 8.0,
+      "end": 14.0,
+      "text": "At 100 years old, U.S. President Jimmy Carter was the longest-lived former president in America's history.",
+      "avg_logprob": -0.15296283457428217,
+      "no_speech_prob": 0.17867451906204224
+    },
+    {
+      "id": 3,
+      "start": 14.0,
+      "end": 18.0,
+      "text": "His son Chip announced his death yesterday after spending his final years in hospice care.",
+      "avg_logprob": -0.15296283457428217,
+      "no_speech_prob": 0.17867451906204224
+    },
+    {
+      "id": 4,
+      "start": 18.0,
+      "end": 27.0,
+      "text": "The peanut farmer turned president served one term in the White House and dedicated his life in charity making the Navy veteran one of the most beloved figures in American politics.",
+      "avg_logprob": -0.15296283457428217,
+      "no_speech_prob": 0.17867451906204224
+    },
+    {
+      "id": 5,
+      "start": 27.0,
+      "end": 30.0,
+      "text": "Jimmy Carter lived a life measured not by words but by his deeds.",
+      "avg_logprob": -0.09220248193312915,
+      "no_speech_prob": 0.5905497074127197
+    },
+    {
+      "id": 6,
+      "start": 30.0,
+      "end": 35.0,
+      "text": "Jimmy Carter was just as courageous in his battle against cancer as he was in everything in his life.",
+      "avg_logprob": -0.09220248193312915,
+      "no_speech_prob": 0.5905497074127197
+    }
+  ],
+  "transcript_full": "You know, I've had a wonderful life, I've had thousands of friends and I've had an exciting and adventurous and gratifying existence. At 100 years old, U.S. President Jimmy Carter was the longest-lived former president in America's history. His son Chip announced his death yesterday after spending his final years in hospice care. The peanut farmer turned president served one term in the White House and dedicated his life in charity making the Navy veteran one of the most beloved figures in American politics. Jimmy Carter lived a life measured not by words but by his deeds. Jimmy Carter was just as courageous in his battle against cancer as he was in everything in his life.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

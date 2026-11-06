@@ -1,0 +1,76 @@
+{
+  "language": "en",
+  "language_probability": 0.9988172054290771,
+  "duration": 30.045,
+  "duration_after_vad": 28.64,
+  "segment_count": 8,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.05,
+      "end": 5.01,
+      "text": "If Organic Valley Farms can keep 500 million pounds of toxic chemicals off the earth, then",
+      "avg_logprob": -0.22324789954921392,
+      "no_speech_prob": 0.003975046798586845
+    },
+    {
+      "id": 2,
+      "start": 5.01,
+      "end": 7.89,
+      "text": "you can spread butter and hot pesticides.",
+      "avg_logprob": -0.22324789954921392,
+      "no_speech_prob": 0.003975046798586845
+    },
+    {
+      "id": 3,
+      "start": 7.89,
+      "end": 12.85,
+      "text": "On average, if Organic Valley can produce 24% less emissions than the average conventional",
+      "avg_logprob": -0.22324789954921392,
+      "no_speech_prob": 0.003975046798586845
+    },
+    {
+      "id": 4,
+      "start": 12.85,
+      "end": 16.21,
+      "text": "dairy, then you can melt cheese and hot glaciers.",
+      "avg_logprob": -0.22324789954921392,
+      "no_speech_prob": 0.003975046798586845
+    },
+    {
+      "id": 5,
+      "start": 16.21,
+      "end": 20.49,
+      "text": "If Organic Valley can complete 1,000 carbon insetting projects in the next five years,",
+      "avg_logprob": -0.22324789954921392,
+      "no_speech_prob": 0.003975046798586845
+    },
+    {
+      "id": 6,
+      "start": 20.49,
+      "end": 23.45,
+      "text": "then you can feel great about drinking our milk.",
+      "avg_logprob": -0.22324789954921392,
+      "no_speech_prob": 0.003975046798586845
+    },
+    {
+      "id": 7,
+      "start": 23.45,
+      "end": 26.89,
+      "text": "If Organic Valley Farmers are protecting where your food comes from, then we can",
+      "avg_logprob": -0.22324789954921392,
+      "no_speech_prob": 0.003975046798586845
+    },
+    {
+      "id": 8,
+      "start": 26.89,
+      "end": 28.69,
+      "text": "all dream big and farm small.",
+      "avg_logprob": -0.22324789954921392,
+      "no_speech_prob": 0.003975046798586845
+    }
+  ],
+  "transcript_full": "If Organic Valley Farms can keep 500 million pounds of toxic chemicals off the earth, then you can spread butter and hot pesticides. On average, if Organic Valley can produce 24% less emissions than the average conventional dairy, then you can melt cheese and hot glaciers. If Organic Valley can complete 1,000 carbon insetting projects in the next five years, then you can feel great about drinking our milk. If Organic Valley Farmers are protecting where your food comes from, then we can all dream big and farm small.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

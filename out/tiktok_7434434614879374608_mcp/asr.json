@@ -1,0 +1,92 @@
+{
+  "language": "en",
+  "language_probability": 1,
+  "duration": 60.967,
+  "duration_after_vad": 60.6,
+  "segment_count": 10,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.08,
+      "end": 5.48,
+      "text": "US president who's just been elected it seems Donald Trump last time around the",
+      "avg_logprob": -0.26161052712372374,
+      "no_speech_prob": 0.5358068346977234
+    },
+    {
+      "id": 2,
+      "start": 5.48,
+      "end": 9.26,
+      "text": "US-China relationship caused a lot of problems for countries like Singapore",
+      "avg_logprob": -0.26161052712372374,
+      "no_speech_prob": 0.5358068346977234
+    },
+    {
+      "id": 3,
+      "start": 9.26,
+      "end": 13.04,
+      "text": "Malaysia and some opportunities as well how do you assess that and how are you",
+      "avg_logprob": -0.26161052712372374,
+      "no_speech_prob": 0.5358068346977234
+    },
+    {
+      "id": 4,
+      "start": 13.04,
+      "end": 18.96,
+      "text": "preparing to challenge against that? I think our position is clear you know you",
+      "avg_logprob": -0.26161052712372374,
+      "no_speech_prob": 0.5358068346977234
+    },
+    {
+      "id": 5,
+      "start": 18.96,
+      "end": 25.24,
+      "text": "have to see trans policies when he was president the first administration now",
+      "avg_logprob": -0.26161052712372374,
+      "no_speech_prob": 0.5358068346977234
+    },
+    {
+      "id": 6,
+      "start": 25.24,
+      "end": 31.0,
+      "text": "is the incoming administration after less of four years so a lot of things",
+      "avg_logprob": -0.17400695966637653,
+      "no_speech_prob": 0.0420556515455246
+    },
+    {
+      "id": 7,
+      "start": 31.0,
+      "end": 39.4,
+      "text": "happening within four years perhaps I just I believe that I'm sure US will try",
+      "avg_logprob": -0.17400695966637653,
+      "no_speech_prob": 0.0420556515455246
+    },
+    {
+      "id": 8,
+      "start": 39.4,
+      "end": 44.68,
+      "text": "to align with the global issues we are facing in terms of climate change",
+      "avg_logprob": -0.17400695966637653,
+      "no_speech_prob": 0.0420556515455246
+    },
+    {
+      "id": 9,
+      "start": 44.68,
+      "end": 53.96,
+      "text": "particularly climate change we see what will happen next few months I think it's",
+      "avg_logprob": -0.17400695966637653,
+      "no_speech_prob": 0.0420556515455246
+    },
+    {
+      "id": 10,
+      "start": 53.96,
+      "end": 60.68,
+      "text": "quite premature at the moment to determine what is the policy of Trump at the moment",
+      "avg_logprob": -0.2921988336663497,
+      "no_speech_prob": 0.04097777232527733
+    }
+  ],
+  "transcript_full": "US president who's just been elected it seems Donald Trump last time around the US-China relationship caused a lot of problems for countries like Singapore Malaysia and some opportunities as well how do you assess that and how are you preparing to challenge against that? I think our position is clear you know you have to see trans policies when he was president the first administration now is the incoming administration after less of four years so a lot of things happening within four years perhaps I just I believe that I'm sure US will try to align with the global issues we are facing in terms of climate change particularly climate change we see what will happen next few months I think it's quite premature at the moment to determine what is the policy of Trump at the moment",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

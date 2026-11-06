@@ -1,0 +1,16 @@
+pts_time=2.533330
+pts_time=4.100000
+pts_time=5.366670
+pts_time=6.400000
+pts_time=8.066670
+pts_time=9.400000
+pts_time=10.833300
+pts_time=11.900000
+pts_time=12.933300
+pts_time=14.266700
+pts_time=15.133300
+pts_time=16.833300
+pts_time=18.300000
+pts_time=20.800000
+pts_time=21.700000
+pts_time=23.333300

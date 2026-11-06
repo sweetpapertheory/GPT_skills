@@ -1,0 +1,124 @@
+{
+  "language": "en",
+  "language_probability": 0.9987855553627014,
+  "duration": 59.726,
+  "duration_after_vad": 58.68,
+  "segment_count": 14,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.52,
+      "text": "Did you know that we can use frogs to predict the future of an ecosystem?",
+      "avg_logprob": -0.15134952031075954,
+      "no_speech_prob": 0.02176543138921261
+    },
+    {
+      "id": 2,
+      "start": 4.52,
+      "end": 9.6,
+      "text": "This is Chef, the Grey Tree Frog, and like all frogs, he's an amphibian.",
+      "avg_logprob": -0.15134952031075954,
+      "no_speech_prob": 0.02176543138921261
+    },
+    {
+      "id": 3,
+      "start": 9.6,
+      "end": 14.28,
+      "text": "Amphibians are amazing because they are what scientists refer to as indicator species.",
+      "avg_logprob": -0.15134952031075954,
+      "no_speech_prob": 0.02176543138921261
+    },
+    {
+      "id": 4,
+      "start": 14.28,
+      "end": 19.08,
+      "text": "By studying the size and health of an indicator species' population, scientists are able",
+      "avg_logprob": -0.15134952031075954,
+      "no_speech_prob": 0.02176543138921261
+    },
+    {
+      "id": 5,
+      "start": 19.08,
+      "end": 22.24,
+      "text": "to assess the overall well-being of an ecosystem.",
+      "avg_logprob": -0.15134952031075954,
+      "no_speech_prob": 0.02176543138921261
+    },
+    {
+      "id": 6,
+      "start": 22.24,
+      "end": 25.2,
+      "text": "What makes amphibians good biological indicators?",
+      "avg_logprob": -0.15134952031075954,
+      "no_speech_prob": 0.02176543138921261
+    },
+    {
+      "id": 7,
+      "start": 25.2,
+      "end": 30.56,
+      "text": "Amphibians have very sensitive, permeable skin that absorbs water to drink and air to breathe.",
+      "avg_logprob": -0.09151050629823104,
+      "no_speech_prob": 0.059884004294872284
+    },
+    {
+      "id": 8,
+      "start": 30.56,
+      "end": 36.24,
+      "text": "This helps amphibians like Chef thrive in aquatic environments like swamps and ponds, but also",
+      "avg_logprob": -0.09151050629823104,
+      "no_speech_prob": 0.059884004294872284
+    },
+    {
+      "id": 9,
+      "start": 36.24,
+      "end": 38.96,
+      "text": "makes them very sensitive to changes in their environment.",
+      "avg_logprob": -0.09151050629823104,
+      "no_speech_prob": 0.059884004294872284
+    },
+    {
+      "id": 10,
+      "start": 38.96,
+      "end": 43.2,
+      "text": "So when there's a change in water quality due to pollutants, or a change in temperature",
+      "avg_logprob": -0.09151050629823104,
+      "no_speech_prob": 0.059884004294872284
+    },
+    {
+      "id": 11,
+      "start": 43.2,
+      "end": 47.64,
+      "text": "due to climate change, amphibian populations can be significantly affected.",
+      "avg_logprob": -0.09151050629823104,
+      "no_speech_prob": 0.059884004294872284
+    },
+    {
+      "id": 12,
+      "start": 47.64,
+      "end": 52.52,
+      "text": "By studying these species, we can make insights as to how an environment is changing.",
+      "avg_logprob": -0.09151050629823104,
+      "no_speech_prob": 0.059884004294872284
+    },
+    {
+      "id": 13,
+      "start": 52.52,
+      "end": 57.16,
+      "text": "So we can adjust our human behavior to maintain a healthy and balanced ecosystem.",
+      "avg_logprob": -0.22777828794938546,
+      "no_speech_prob": 0.06468285620212555
+    },
+    {
+      "id": 14,
+      "start": 57.16,
+      "end": 58.68,
+      "text": "He's just a little guy.",
+      "avg_logprob": -0.22777828794938546,
+      "no_speech_prob": 0.06468285620212555
+    }
+  ],
+  "transcript_full": "Did you know that we can use frogs to predict the future of an ecosystem? This is Chef, the Grey Tree Frog, and like all frogs, he's an amphibian. Amphibians are amazing because they are what scientists refer to as indicator species. By studying the size and health of an indicator species' population, scientists are able to assess the overall well-being of an ecosystem. What makes amphibians good biological indicators? Amphibians have very sensitive, permeable skin that absorbs water to drink and air to breathe. This helps amphibians like Chef thrive in aquatic environments like swamps and ponds, but also makes them very sensitive to changes in their environment. So when there's a change in water quality due to pollutants, or a change in temperature due to climate change, amphibian populations can be significantly affected. By studying these species, we can make insights as to how an environment is changing. So we can adjust our human behavior to maintain a healthy and balanced ecosystem. He's just a little guy.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

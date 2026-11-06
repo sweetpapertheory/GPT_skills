@@ -1,0 +1,92 @@
+{
+  "language": "en",
+  "language_probability": 0.9997932314872742,
+  "duration": 43.067,
+  "duration_after_vad": 42.8,
+  "segment_count": 10,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.84,
+      "text": "Here's this week's Good Climate News. A federal judge has ruled that a county in",
+      "avg_logprob": -0.08806548962573044,
+      "no_speech_prob": 0.0035722923930734396
+    },
+    {
+      "id": 2,
+      "start": 3.84,
+      "end": 7.44,
+      "text": "Northwest Oregon can move forward with their lawsuit against the fossil fuel industry for",
+      "avg_logprob": -0.08806548962573044,
+      "no_speech_prob": 0.0035722923930734396
+    },
+    {
+      "id": 3,
+      "start": 7.44,
+      "end": 12.64,
+      "text": "a climate change-induced heat wave that killed 69 people there in 2021. Marathon Oil is being",
+      "avg_logprob": -0.08806548962573044,
+      "no_speech_prob": 0.0035722923930734396
+    },
+    {
+      "id": 4,
+      "start": 12.64,
+      "end": 17.76,
+      "text": "forced to pay a record-breaking $241 million for violating the Clean Air Act at their",
+      "avg_logprob": -0.08806548962573044,
+      "no_speech_prob": 0.0035722923930734396
+    },
+    {
+      "id": 5,
+      "start": 17.76,
+      "end": 22.32,
+      "text": "oil and gas facilities on an Indian Reservation in North Dakota. Wind power generated more",
+      "avg_logprob": -0.08806548962573044,
+      "no_speech_prob": 0.0035722923930734396
+    },
+    {
+      "id": 6,
+      "start": 22.32,
+      "end": 26.32,
+      "text": "energy than coal did this past spring in the United States despite recent setbacks with",
+      "avg_logprob": -0.08806548962573044,
+      "no_speech_prob": 0.0035722923930734396
+    },
+    {
+      "id": 7,
+      "start": 26.32,
+      "end": 30.72,
+      "text": "offshore wind projects. And Minnesota's right to repair law has officially gone into effect,",
+      "avg_logprob": -0.09794522484143575,
+      "no_speech_prob": 0.04249290004372597
+    },
+    {
+      "id": 8,
+      "start": 30.72,
+      "end": 34.72,
+      "text": "which will require manufacturers to allow their products to be easily repaired.",
+      "avg_logprob": -0.09794522484143575,
+      "no_speech_prob": 0.04249290004372597
+    },
+    {
+      "id": 9,
+      "start": 34.72,
+      "end": 37.84,
+      "text": "None of this would have been possible if activists gave up when things got tough,",
+      "avg_logprob": -0.09794522484143575,
+      "no_speech_prob": 0.04249290004372597
+    },
+    {
+      "id": 10,
+      "start": 37.84,
+      "end": 42.8,
+      "text": "so don't let yourself give in because a better future is absolutely possible if we continue the fight.",
+      "avg_logprob": -0.09794522484143575,
+      "no_speech_prob": 0.04249290004372597
+    }
+  ],
+  "transcript_full": "Here's this week's Good Climate News. A federal judge has ruled that a county in Northwest Oregon can move forward with their lawsuit against the fossil fuel industry for a climate change-induced heat wave that killed 69 people there in 2021. Marathon Oil is being forced to pay a record-breaking $241 million for violating the Clean Air Act at their oil and gas facilities on an Indian Reservation in North Dakota. Wind power generated more energy than coal did this past spring in the United States despite recent setbacks with offshore wind projects. And Minnesota's right to repair law has officially gone into effect, which will require manufacturers to allow their products to be easily repaired. None of this would have been possible if activists gave up when things got tough, so don't let yourself give in because a better future is absolutely possible if we continue the fight.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

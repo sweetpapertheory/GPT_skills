@@ -1,0 +1,252 @@
+{
+  "language": "en",
+  "language_probability": 0.9999110698699951,
+  "duration": 46.1,
+  "duration_after_vad": 46.04,
+  "segment_count": 30,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.92,
+      "text": "Hey, look at this graph.",
+      "avg_logprob": -0.12760798223534522,
+      "no_speech_prob": 0.0005614332039840519
+    },
+    {
+      "id": 2,
+      "start": 0.92,
+      "end": 2.56,
+      "text": "Sorry, that was really gross.",
+      "avg_logprob": -0.12760798223534522,
+      "no_speech_prob": 0.0005614332039840519
+    },
+    {
+      "id": 3,
+      "start": 2.56,
+      "end": 3.64,
+      "text": "But seriously.",
+      "avg_logprob": -0.12760798223534522,
+      "no_speech_prob": 0.0005614332039840519
+    },
+    {
+      "id": 4,
+      "start": 3.64,
+      "end": 5.64,
+      "text": "Look at this graph.",
+      "avg_logprob": -0.12760798223534522,
+      "no_speech_prob": 0.0005614332039840519
+    },
+    {
+      "id": 5,
+      "start": 5.64,
+      "end": 7.32,
+      "text": "This is a graph of climate denial on Twitter",
+      "avg_logprob": -0.12760798223534522,
+      "no_speech_prob": 0.0005614332039840519
+    },
+    {
+      "id": 6,
+      "start": 7.32,
+      "end": 10.04,
+      "text": "from December, 2021 to February, 2023.",
+      "avg_logprob": -0.12760798223534522,
+      "no_speech_prob": 0.0005614332039840519
+    },
+    {
+      "id": 7,
+      "start": 10.04,
+      "end": 12.0,
+      "text": "The blue is the total number of tweets",
+      "avg_logprob": -0.12760798223534522,
+      "no_speech_prob": 0.0005614332039840519
+    },
+    {
+      "id": 8,
+      "start": 12.0,
+      "end": 14.0,
+      "text": "and the orange is the average amount of engagement",
+      "avg_logprob": -0.12760798223534522,
+      "no_speech_prob": 0.0005614332039840519
+    },
+    {
+      "id": 9,
+      "start": 14.0,
+      "end": 14.82,
+      "text": "that they're getting.",
+      "avg_logprob": -0.12760798223534522,
+      "no_speech_prob": 0.0005614332039840519
+    },
+    {
+      "id": 10,
+      "start": 14.82,
+      "end": 15.66,
+      "text": "You're smart.",
+      "avg_logprob": -0.12760798223534522,
+      "no_speech_prob": 0.0005614332039840519
+    },
+    {
+      "id": 11,
+      "start": 15.66,
+      "end": 16.5,
+      "text": "You can read a bar graph.",
+      "avg_logprob": -0.12760798223534522,
+      "no_speech_prob": 0.0005614332039840519
+    },
+    {
+      "id": 12,
+      "start": 16.5,
+      "end": 18.8,
+      "text": "You can tell that it's increasing, but why?",
+      "avg_logprob": -0.12760798223534522,
+      "no_speech_prob": 0.0005614332039840519
+    },
+    {
+      "id": 13,
+      "start": 18.8,
+      "end": 21.24,
+      "text": "Why did climate change denying tweets more than triple",
+      "avg_logprob": -0.12760798223534522,
+      "no_speech_prob": 0.0005614332039840519
+    },
+    {
+      "id": 14,
+      "start": 21.24,
+      "end": 22.76,
+      "text": "starting in July of last year?",
+      "avg_logprob": -0.12760798223534522,
+      "no_speech_prob": 0.0005614332039840519
+    },
+    {
+      "id": 15,
+      "start": 22.76,
+      "end": 23.84,
+      "text": "The researchers I spoke to",
+      "avg_logprob": -0.12760798223534522,
+      "no_speech_prob": 0.0005614332039840519
+    },
+    {
+      "id": 16,
+      "start": 23.84,
+      "end": 25.44,
+      "text": "had two possible explanations.",
+      "avg_logprob": -0.12760798223534522,
+      "no_speech_prob": 0.0005614332039840519
+    },
+    {
+      "id": 17,
+      "start": 25.44,
+      "end": 26.44,
+      "text": "So that big first spike,",
+      "avg_logprob": -0.12760798223534522,
+      "no_speech_prob": 0.0005614332039840519
+    },
+    {
+      "id": 18,
+      "start": 26.44,
+      "end": 28.2,
+      "text": "that's right before the Inflation Reduction Act",
+      "avg_logprob": -0.12760798223534522,
+      "no_speech_prob": 0.0005614332039840519
+    },
+    {
+      "id": 19,
+      "start": 28.2,
+      "end": 29.12,
+      "text": "passed last summer.",
+      "avg_logprob": -0.12760798223534522,
+      "no_speech_prob": 0.0005614332039840519
+    },
+    {
+      "id": 20,
+      "start": 29.12,
+      "end": 30.34,
+      "text": "So there was an increase in tweets",
+      "avg_logprob": -0.18456354406144884,
+      "no_speech_prob": 0.0012332756305113435
+    },
+    {
+      "id": 21,
+      "start": 30.34,
+      "end": 31.84,
+      "text": "pushing back against the IRA",
+      "avg_logprob": -0.18456354406144884,
+      "no_speech_prob": 0.0012332756305113435
+    },
+    {
+      "id": 22,
+      "start": 31.84,
+      "end": 33.44,
+      "text": "by saying that climate change isn't real.",
+      "avg_logprob": -0.18456354406144884,
+      "no_speech_prob": 0.0012332756305113435
+    },
+    {
+      "id": 23,
+      "start": 33.44,
+      "end": 34.88,
+      "text": "And then right here in October,",
+      "avg_logprob": -0.18456354406144884,
+      "no_speech_prob": 0.0012332756305113435
+    },
+    {
+      "id": 24,
+      "start": 34.88,
+      "end": 36.28,
+      "text": "our Lord and Savior Elon Musk,",
+      "avg_logprob": -0.18456354406144884,
+      "no_speech_prob": 0.0012332756305113435
+    },
+    {
+      "id": 25,
+      "start": 36.28,
+      "end": 37.36,
+      "text": "how would be thy name,",
+      "avg_logprob": -0.18456354406144884,
+      "no_speech_prob": 0.0012332756305113435
+    },
+    {
+      "id": 26,
+      "start": 37.36,
+      "end": 39.42,
+      "text": "takes over Twitter and reportedly reduces",
+      "avg_logprob": -0.18456354406144884,
+      "no_speech_prob": 0.0012332756305113435
+    },
+    {
+      "id": 27,
+      "start": 39.42,
+      "end": 41.14,
+      "text": "moderation of climate denial content.",
+      "avg_logprob": -0.18456354406144884,
+      "no_speech_prob": 0.0012332756305113435
+    },
+    {
+      "id": 28,
+      "start": 41.14,
+      "end": 42.24,
+      "text": "So if you feel like you've been seeing",
+      "avg_logprob": -0.18456354406144884,
+      "no_speech_prob": 0.0012332756305113435
+    },
+    {
+      "id": 29,
+      "start": 42.24,
+      "end": 44.08,
+      "text": "more climate denying bullshit than usual,",
+      "avg_logprob": -0.18456354406144884,
+      "no_speech_prob": 0.0012332756305113435
+    },
+    {
+      "id": 30,
+      "start": 44.08,
+      "end": 46.04,
+      "text": "it might be because you are.",
+      "avg_logprob": -0.18456354406144884,
+      "no_speech_prob": 0.0012332756305113435
+    }
+  ],
+  "transcript_full": "Hey, look at this graph. Sorry, that was really gross. But seriously. Look at this graph. This is a graph of climate denial on Twitter from December, 2021 to February, 2023. The blue is the total number of tweets and the orange is the average amount of engagement that they're getting. You're smart. You can read a bar graph. You can tell that it's increasing, but why? Why did climate change denying tweets more than triple starting in July of last year? The researchers I spoke to had two possible explanations. So that big first spike, that's right before the Inflation Reduction Act passed last summer. So there was an increase in tweets pushing back against the IRA by saying that climate change isn't real. And then right here in October, our Lord and Savior Elon Musk, how would be thy name, takes over Twitter and reportedly reduces moderation of climate denial content. So if you feel like you've been seeing more climate denying bullshit than usual, it might be because you are.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

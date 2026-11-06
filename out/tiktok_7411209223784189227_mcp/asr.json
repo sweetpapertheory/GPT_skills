@@ -1,0 +1,420 @@
+{
+  "language": "en",
+  "language_probability": 0.9995423555374146,
+  "duration": 121.167,
+  "duration_after_vad": 114.48,
+  "segment_count": 51,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.56,
+      "text": "My name is Kai Rizdal.",
+      "avg_logprob": -0.20364975556731224,
+      "no_speech_prob": 0.012881290167570114
+    },
+    {
+      "id": 2,
+      "start": 1.56,
+      "end": 4.2,
+      "text": "I'm the host and senior editor at Marketplace.",
+      "avg_logprob": -0.20364975556731224,
+      "no_speech_prob": 0.012881290167570114
+    },
+    {
+      "id": 3,
+      "start": 4.2,
+      "end": 5.52,
+      "text": "And before that?",
+      "avg_logprob": -0.20364975556731224,
+      "no_speech_prob": 0.012881290167570114
+    },
+    {
+      "id": 4,
+      "start": 5.52,
+      "end": 6.68,
+      "text": "How far back are we going?",
+      "avg_logprob": -0.20364975556731224,
+      "no_speech_prob": 0.012881290167570114
+    },
+    {
+      "id": 5,
+      "start": 6.68,
+      "end": 7.76,
+      "text": "To the 80s.",
+      "avg_logprob": -0.20364975556731224,
+      "no_speech_prob": 0.012881290167570114
+    },
+    {
+      "id": 6,
+      "start": 9.16,
+      "end": 12.68,
+      "text": "So I spent eight years in the United States Navy",
+      "avg_logprob": -0.20364975556731224,
+      "no_speech_prob": 0.012881290167570114
+    },
+    {
+      "id": 7,
+      "start": 12.68,
+      "end": 15.24,
+      "text": "flying and then on staff duty at the Pentagon.",
+      "avg_logprob": -0.20364975556731224,
+      "no_speech_prob": 0.012881290167570114
+    },
+    {
+      "id": 8,
+      "start": 15.24,
+      "end": 17.12,
+      "text": "What did you think that you would be fighting",
+      "avg_logprob": -0.20364975556731224,
+      "no_speech_prob": 0.012881290167570114
+    },
+    {
+      "id": 9,
+      "start": 17.12,
+      "end": 18.68,
+      "text": "or protecting?",
+      "avg_logprob": -0.20364975556731224,
+      "no_speech_prob": 0.012881290167570114
+    },
+    {
+      "id": 10,
+      "start": 18.68,
+      "end": 20.76,
+      "text": "So remember, this was 86.",
+      "avg_logprob": -0.20364975556731224,
+      "no_speech_prob": 0.012881290167570114
+    },
+    {
+      "id": 11,
+      "start": 20.76,
+      "end": 24.96,
+      "text": "Mr. Gorbachev, tear down this wall.",
+      "avg_logprob": -0.20364975556731224,
+      "no_speech_prob": 0.012881290167570114
+    },
+    {
+      "id": 12,
+      "start": 26.0,
+      "end": 28.24,
+      "text": "Ronald Reagan was in the White House.",
+      "avg_logprob": -0.20364975556731224,
+      "no_speech_prob": 0.012881290167570114
+    },
+    {
+      "id": 13,
+      "start": 28.24,
+      "end": 30.36,
+      "text": "It was the evil empire and the Cold War",
+      "avg_logprob": -0.11773413408434752,
+      "no_speech_prob": 0.0015632277354598045
+    },
+    {
+      "id": 14,
+      "start": 30.36,
+      "end": 32.28,
+      "text": "on Gorbachev and all of that.",
+      "avg_logprob": -0.11773413408434752,
+      "no_speech_prob": 0.0015632277354598045
+    },
+    {
+      "id": 15,
+      "start": 32.28,
+      "end": 33.76,
+      "text": "And that's what we were training for.",
+      "avg_logprob": -0.11773413408434752,
+      "no_speech_prob": 0.0015632277354598045
+    },
+    {
+      "id": 16,
+      "start": 33.76,
+      "end": 36.24,
+      "text": "Today, though, there's another threat out there.",
+      "avg_logprob": -0.11773413408434752,
+      "no_speech_prob": 0.0015632277354598045
+    },
+    {
+      "id": 17,
+      "start": 36.24,
+      "end": 38.4,
+      "text": "This could be the warmest year on record.",
+      "avg_logprob": -0.11773413408434752,
+      "no_speech_prob": 0.0015632277354598045
+    },
+    {
+      "id": 18,
+      "start": 38.4,
+      "end": 39.48,
+      "text": "Climate change is here.",
+      "avg_logprob": -0.11773413408434752,
+      "no_speech_prob": 0.0015632277354598045
+    },
+    {
+      "id": 19,
+      "start": 39.48,
+      "end": 43.04,
+      "text": "Temperatures here are warming faster than anywhere on Earth.",
+      "avg_logprob": -0.11773413408434752,
+      "no_speech_prob": 0.0015632277354598045
+    },
+    {
+      "id": 20,
+      "start": 43.04,
+      "end": 45.84,
+      "text": "Climate change is on fast forward.",
+      "avg_logprob": -0.11773413408434752,
+      "no_speech_prob": 0.0015632277354598045
+    },
+    {
+      "id": 21,
+      "start": 45.84,
+      "end": 48.52,
+      "text": "The American military belches out more greenhouse gases",
+      "avg_logprob": -0.11773413408434752,
+      "no_speech_prob": 0.0015632277354598045
+    },
+    {
+      "id": 22,
+      "start": 48.52,
+      "end": 52.12,
+      "text": "than any other institution in the world.",
+      "avg_logprob": -0.11773413408434752,
+      "no_speech_prob": 0.0015632277354598045
+    },
+    {
+      "id": 23,
+      "start": 52.12,
+      "end": 55.04,
+      "text": "The Pentagon has known about and has been funding studies",
+      "avg_logprob": -0.11773413408434752,
+      "no_speech_prob": 0.0015632277354598045
+    },
+    {
+      "id": 24,
+      "start": 55.04,
+      "end": 58.0,
+      "text": "on climate change since the 1950s",
+      "avg_logprob": -0.11773413408434752,
+      "no_speech_prob": 0.0015632277354598045
+    },
+    {
+      "id": 25,
+      "start": 58.0,
+      "end": 60.4,
+      "text": "and now it's on the front lines",
+      "avg_logprob": -0.2120512148253938,
+      "no_speech_prob": 0.00013619137462228537
+    },
+    {
+      "id": 26,
+      "start": 60.4,
+      "end": 64.08,
+      "text": "of dealing with the threat of a rapidly warming planet.",
+      "avg_logprob": -0.2120512148253938,
+      "no_speech_prob": 0.00013619137462228537
+    },
+    {
+      "id": 27,
+      "start": 64.08,
+      "end": 66.32,
+      "text": "This season, on How We Survive,",
+      "avg_logprob": -0.2120512148253938,
+      "no_speech_prob": 0.00013619137462228537
+    },
+    {
+      "id": 28,
+      "start": 66.32,
+      "end": 69.52,
+      "text": "the institution that shaped me, the American military,",
+      "avg_logprob": -0.2120512148253938,
+      "no_speech_prob": 0.00013619137462228537
+    },
+    {
+      "id": 29,
+      "start": 69.52,
+      "end": 71.88,
+      "text": "and how it might shape our climate future.",
+      "avg_logprob": -0.2120512148253938,
+      "no_speech_prob": 0.00013619137462228537
+    },
+    {
+      "id": 30,
+      "start": 73.12,
+      "end": 74.84,
+      "text": "We'll go to some far away places.",
+      "avg_logprob": -0.2120512148253938,
+      "no_speech_prob": 0.00013619137462228537
+    },
+    {
+      "id": 31,
+      "start": 75.96,
+      "end": 77.12,
+      "text": "Oh my God.",
+      "avg_logprob": -0.2120512148253938,
+      "no_speech_prob": 0.00013619137462228537
+    },
+    {
+      "id": 32,
+      "start": 78.56,
+      "end": 79.72,
+      "text": "It's a little windy out here.",
+      "avg_logprob": -0.2120512148253938,
+      "no_speech_prob": 0.00013619137462228537
+    },
+    {
+      "id": 33,
+      "start": 79.72,
+      "end": 80.72,
+      "text": "Just a little.",
+      "avg_logprob": -0.2120512148253938,
+      "no_speech_prob": 0.00013619137462228537
+    },
+    {
+      "id": 34,
+      "start": 80.72,
+      "end": 84.16,
+      "text": "So here we are literally on the edge of the Arctic Ocean.",
+      "avg_logprob": -0.2120512148253938,
+      "no_speech_prob": 0.00013619137462228537
+    },
+    {
+      "id": 35,
+      "start": 84.16,
+      "end": 86.8,
+      "text": "Places where climate change will profoundly affect",
+      "avg_logprob": -0.2120512148253938,
+      "no_speech_prob": 0.00013619137462228537
+    },
+    {
+      "id": 36,
+      "start": 86.8,
+      "end": 88.56,
+      "text": "the way U.S. forces operate.",
+      "avg_logprob": -0.11275799667581599,
+      "no_speech_prob": 0.0008257589070126414
+    },
+    {
+      "id": 37,
+      "start": 88.56,
+      "end": 90.8,
+      "text": "We'll look at the human toll of decades",
+      "avg_logprob": -0.11275799667581599,
+      "no_speech_prob": 0.0008257589070126414
+    },
+    {
+      "id": 38,
+      "start": 90.8,
+      "end": 93.28,
+      "text": "of American national security policy.",
+      "avg_logprob": -0.11275799667581599,
+      "no_speech_prob": 0.0008257589070126414
+    },
+    {
+      "id": 39,
+      "start": 93.28,
+      "end": 95.32,
+      "text": "We'll visit a state-of-the-art Navy facility",
+      "avg_logprob": -0.11275799667581599,
+      "no_speech_prob": 0.0008257589070126414
+    },
+    {
+      "id": 40,
+      "start": 95.32,
+      "end": 97.08,
+      "text": "We're in the Warfighter Performance Lab",
+      "avg_logprob": -0.11275799667581599,
+      "no_speech_prob": 0.0008257589070126414
+    },
+    {
+      "id": 41,
+      "start": 97.08,
+      "end": 98.72,
+      "text": "where I become the lab rat.",
+      "avg_logprob": -0.11275799667581599,
+      "no_speech_prob": 0.0008257589070126414
+    },
+    {
+      "id": 42,
+      "start": 98.72,
+      "end": 101.12,
+      "text": "We're gonna drop it from 110 degrees Fahrenheit",
+      "avg_logprob": -0.11275799667581599,
+      "no_speech_prob": 0.0008257589070126414
+    },
+    {
+      "id": 43,
+      "start": 101.12,
+      "end": 103.52,
+      "text": "down to 34 degrees Fahrenheit.",
+      "avg_logprob": -0.11275799667581599,
+      "no_speech_prob": 0.0008257589070126414
+    },
+    {
+      "id": 44,
+      "start": 103.52,
+      "end": 105.2,
+      "text": "Oh, shit.",
+      "avg_logprob": -0.11275799667581599,
+      "no_speech_prob": 0.0008257589070126414
+    },
+    {
+      "id": 45,
+      "start": 105.2,
+      "end": 106.6,
+      "text": "I can feel my muscles tensing.",
+      "avg_logprob": -0.11275799667581599,
+      "no_speech_prob": 0.0008257589070126414
+    },
+    {
+      "id": 46,
+      "start": 106.6,
+      "end": 108.64,
+      "text": "And we'll learn what climate change means",
+      "avg_logprob": -0.11275799667581599,
+      "no_speech_prob": 0.0008257589070126414
+    },
+    {
+      "id": 47,
+      "start": 108.64,
+      "end": 111.92,
+      "text": "and is going to mean for national security.",
+      "avg_logprob": -0.11275799667581599,
+      "no_speech_prob": 0.0008257589070126414
+    },
+    {
+      "id": 48,
+      "start": 111.92,
+      "end": 114.28,
+      "text": "Climate change meets national security",
+      "avg_logprob": -0.11275799667581599,
+      "no_speech_prob": 0.0008257589070126414
+    },
+    {
+      "id": 49,
+      "start": 114.28,
+      "end": 116.68,
+      "text": "on season six of How We Survive.",
+      "avg_logprob": -0.11275799667581599,
+      "no_speech_prob": 0.0008257589070126414
+    },
+    {
+      "id": 50,
+      "start": 116.72,
+      "end": 118.8,
+      "text": "Coming out September 11th.",
+      "avg_logprob": -0.28844235340754193,
+      "no_speech_prob": 0.026583002880215645
+    },
+    {
+      "id": 51,
+      "start": 118.8,
+      "end": 120.76,
+      "text": "Listen where you get your podcasts.",
+      "avg_logprob": -0.28844235340754193,
+      "no_speech_prob": 0.026583002880215645
+    }
+  ],
+  "transcript_full": "My name is Kai Rizdal. I'm the host and senior editor at Marketplace. And before that? How far back are we going? To the 80s. So I spent eight years in the United States Navy flying and then on staff duty at the Pentagon. What did you think that you would be fighting or protecting? So remember, this was 86. Mr. Gorbachev, tear down this wall. Ronald Reagan was in the White House. It was the evil empire and the Cold War on Gorbachev and all of that. And that's what we were training for. Today, though, there's another threat out there. This could be the warmest year on record. Climate change is here. Temperatures here are warming faster than anywhere on Earth. Climate change is on fast forward. The American military belches out more greenhouse gases than any other institution in the world. The Pentagon has known about and has been funding studies on climate change since the 1950s and now it's on the front lines of dealing with the threat of a rapidly warming planet. This season, on How We Survive, the institution that shaped me, the American military, and how it might shape our climate future. We'll go to some far away places. Oh my God. It's a little windy out here. Just a little. So here we are literally on the edge of the Arctic Ocean. Places where climate change will profoundly affect the way U.S. forces operate. We'll look at the human toll of decades of American national security policy. We'll visit a state-of-the-art Navy facility We're in the Warfighter Performance Lab where I become the lab rat. We're gonna drop it from 110 degrees Fahrenheit down to 34 degrees Fahrenheit. Oh, shit. I can feel my muscles tensing. And we'll learn what climate change means and is going to mean for national security. Climate change meets national security on season six of How We Survive. Coming out September 11th. Listen where you get your podcasts.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

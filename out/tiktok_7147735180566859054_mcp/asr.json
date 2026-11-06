@@ -1,0 +1,268 @@
+{
+  "language": "en",
+  "language_probability": 0.9991672039031982,
+  "duration": 80.247,
+  "duration_after_vad": 80.14,
+  "segment_count": 32,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Big oil lied to America and the world for 40 years.",
+      "avg_logprob": -0.14067606288090087,
+      "no_speech_prob": 0.012069722637534142
+    },
+    {
+      "id": 2,
+      "start": 4.0,
+      "end": 8.26,
+      "text": "We discovered documents, not just about how they have misled",
+      "avg_logprob": -0.14067606288090087,
+      "no_speech_prob": 0.012069722637534142
+    },
+    {
+      "id": 3,
+      "start": 8.26,
+      "end": 11.5,
+      "text": "the American public for the last 40 years,",
+      "avg_logprob": -0.14067606288090087,
+      "no_speech_prob": 0.012069722637534142
+    },
+    {
+      "id": 4,
+      "start": 11.5,
+      "end": 15.3,
+      "text": "saying that burning fossil fuel doesn't cause climate change,",
+      "avg_logprob": -0.14067606288090087,
+      "no_speech_prob": 0.012069722637534142
+    },
+    {
+      "id": 5,
+      "start": 15.3,
+      "end": 19.14,
+      "text": "but how they continue to mislead the American public.",
+      "avg_logprob": -0.14067606288090087,
+      "no_speech_prob": 0.012069722637534142
+    },
+    {
+      "id": 6,
+      "start": 19.14,
+      "end": 21.3,
+      "text": "California Democratic Representative Ro Khanna",
+      "avg_logprob": -0.14067606288090087,
+      "no_speech_prob": 0.012069722637534142
+    },
+    {
+      "id": 7,
+      "start": 21.3,
+      "end": 22.82,
+      "text": "chairs the Environmental Subcommittee",
+      "avg_logprob": -0.14067606288090087,
+      "no_speech_prob": 0.012069722637534142
+    },
+    {
+      "id": 8,
+      "start": 22.82,
+      "end": 25.06,
+      "text": "of the House Committee on Oversight and Reform.",
+      "avg_logprob": -0.14067606288090087,
+      "no_speech_prob": 0.012069722637534142
+    },
+    {
+      "id": 9,
+      "start": 25.06,
+      "end": 26.46,
+      "text": "The committee recently held a hearing",
+      "avg_logprob": -0.14067606288090087,
+      "no_speech_prob": 0.012069722637534142
+    },
+    {
+      "id": 10,
+      "start": 26.46,
+      "end": 28.58,
+      "text": "on the initial revelations from an investigation",
+      "avg_logprob": -0.14067606288090087,
+      "no_speech_prob": 0.012069722637534142
+    },
+    {
+      "id": 11,
+      "start": 28.58,
+      "end": 30.48,
+      "text": "into the fossil fuel industry's campaign",
+      "avg_logprob": -0.1698582787066698,
+      "no_speech_prob": 0.0012109411181882024
+    },
+    {
+      "id": 12,
+      "start": 30.48,
+      "end": 32.74,
+      "text": "to mislead the American public about its role",
+      "avg_logprob": -0.1698582787066698,
+      "no_speech_prob": 0.0012109411181882024
+    },
+    {
+      "id": 13,
+      "start": 32.74,
+      "end": 33.82,
+      "text": "in the climate crisis.",
+      "avg_logprob": -0.1698582787066698,
+      "no_speech_prob": 0.0012109411181882024
+    },
+    {
+      "id": 14,
+      "start": 33.82,
+      "end": 36.26,
+      "text": "We have documents where executives",
+      "avg_logprob": -0.1698582787066698,
+      "no_speech_prob": 0.0012109411181882024
+    },
+    {
+      "id": 15,
+      "start": 36.26,
+      "end": 38.7,
+      "text": "are making fun of the heat waves,",
+      "avg_logprob": -0.1698582787066698,
+      "no_speech_prob": 0.0012109411181882024
+    },
+    {
+      "id": 16,
+      "start": 38.7,
+      "end": 41.42,
+      "text": "saying, oh, they're going to drink a hot toad",
+      "avg_logprob": -0.1698582787066698,
+      "no_speech_prob": 0.0012109411181882024
+    },
+    {
+      "id": 17,
+      "start": 41.42,
+      "end": 44.18,
+      "text": "to the fact that some places in my state",
+      "avg_logprob": -0.1698582787066698,
+      "no_speech_prob": 0.0012109411181882024
+    },
+    {
+      "id": 18,
+      "start": 44.18,
+      "end": 48.38,
+      "text": "have 100 or 110, 120 degree temperature.",
+      "avg_logprob": -0.1698582787066698,
+      "no_speech_prob": 0.0012109411181882024
+    },
+    {
+      "id": 19,
+      "start": 48.38,
+      "end": 50.7,
+      "text": "Khanna says that big oil has an ethics problem",
+      "avg_logprob": -0.1698582787066698,
+      "no_speech_prob": 0.0012109411181882024
+    },
+    {
+      "id": 20,
+      "start": 50.7,
+      "end": 52.18,
+      "text": "and that the industry's greenwashing",
+      "avg_logprob": -0.1698582787066698,
+      "no_speech_prob": 0.0012109411181882024
+    },
+    {
+      "id": 21,
+      "start": 52.18,
+      "end": 54.7,
+      "text": "comes down to one simple thing, greed.",
+      "avg_logprob": -0.1698582787066698,
+      "no_speech_prob": 0.0012109411181882024
+    },
+    {
+      "id": 22,
+      "start": 54.7,
+      "end": 57.3,
+      "text": "So they're fleecing the American public.",
+      "avg_logprob": -0.1698582787066698,
+      "no_speech_prob": 0.0012109411181882024
+    },
+    {
+      "id": 23,
+      "start": 57.34,
+      "end": 58.98,
+      "text": "They're making these record profits",
+      "avg_logprob": -0.10622186831065587,
+      "no_speech_prob": 0.0004586696159094572
+    },
+    {
+      "id": 24,
+      "start": 58.98,
+      "end": 61.82,
+      "text": "and that is just what makes it so frustrating",
+      "avg_logprob": -0.10622186831065587,
+      "no_speech_prob": 0.0004586696159094572
+    },
+    {
+      "id": 25,
+      "start": 61.82,
+      "end": 65.42,
+      "text": "how much of a stranglehold they have on our politics",
+      "avg_logprob": -0.10622186831065587,
+      "no_speech_prob": 0.0004586696159094572
+    },
+    {
+      "id": 26,
+      "start": 65.42,
+      "end": 66.74,
+      "text": "because of dark money.",
+      "avg_logprob": -0.10622186831065587,
+      "no_speech_prob": 0.0004586696159094572
+    },
+    {
+      "id": 27,
+      "start": 66.74,
+      "end": 69.02,
+      "text": "Khanna said more hearings are scheduled for October.",
+      "avg_logprob": -0.10622186831065587,
+      "no_speech_prob": 0.0004586696159094572
+    },
+    {
+      "id": 28,
+      "start": 69.02,
+      "end": 71.02,
+      "text": "And my hope is that the American public",
+      "avg_logprob": -0.10622186831065587,
+      "no_speech_prob": 0.0004586696159094572
+    },
+    {
+      "id": 29,
+      "start": 71.02,
+      "end": 74.3,
+      "text": "really will realize what these companies have done",
+      "avg_logprob": -0.10622186831065587,
+      "no_speech_prob": 0.0004586696159094572
+    },
+    {
+      "id": 30,
+      "start": 74.3,
+      "end": 77.22,
+      "text": "and continue to do and that they'll be held accountable.",
+      "avg_logprob": -0.10622186831065587,
+      "no_speech_prob": 0.0004586696159094572
+    },
+    {
+      "id": 31,
+      "start": 77.22,
+      "end": 79.1,
+      "text": "You can read more about what the committee found",
+      "avg_logprob": -0.10622186831065587,
+      "no_speech_prob": 0.0004586696159094572
+    },
+    {
+      "id": 32,
+      "start": 79.1,
+      "end": 80.18,
+      "text": "at the link below.",
+      "avg_logprob": -0.10622186831065587,
+      "no_speech_prob": 0.0004586696159094572
+    }
+  ],
+  "transcript_full": "Big oil lied to America and the world for 40 years. We discovered documents, not just about how they have misled the American public for the last 40 years, saying that burning fossil fuel doesn't cause climate change, but how they continue to mislead the American public. California Democratic Representative Ro Khanna chairs the Environmental Subcommittee of the House Committee on Oversight and Reform. The committee recently held a hearing on the initial revelations from an investigation into the fossil fuel industry's campaign to mislead the American public about its role in the climate crisis. We have documents where executives are making fun of the heat waves, saying, oh, they're going to drink a hot toad to the fact that some places in my state have 100 or 110, 120 degree temperature. Khanna says that big oil has an ethics problem and that the industry's greenwashing comes down to one simple thing, greed. So they're fleecing the American public. They're making these record profits and that is just what makes it so frustrating how much of a stranglehold they have on our politics because of dark money. Khanna said more hearings are scheduled for October. And my hope is that the American public really will realize what these companies have done and continue to do and that they'll be held accountable. You can read more about what the committee found at the link below.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

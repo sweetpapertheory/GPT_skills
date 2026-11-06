@@ -1,0 +1,132 @@
+{
+  "language": "mi",
+  "language_probability": 0.8446400165557861,
+  "duration": 55.083,
+  "duration_after_vad": 53.64,
+  "segment_count": 15,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.72,
+      "end": 3.22,
+      "text": "I've lived in Auckland for 10 years now.",
+      "avg_logprob": -0.1905327229499817,
+      "no_speech_prob": 0.03170755133032799
+    },
+    {
+      "id": 2,
+      "start": 3.22,
+      "end": 8.72,
+      "text": "My assessment is that this city contains the most diverse range of New Zealanders",
+      "avg_logprob": -0.1905327229499817,
+      "no_speech_prob": 0.03170755133032799
+    },
+    {
+      "id": 3,
+      "start": 8.72,
+      "end": 11.22,
+      "text": "who cannot afford to live in Auckland.",
+      "avg_logprob": -0.1905327229499817,
+      "no_speech_prob": 0.03170755133032799
+    },
+    {
+      "id": 4,
+      "start": 11.22,
+      "end": 16.2,
+      "text": "The closest I'm ever going to get to home ownership",
+      "avg_logprob": -0.1905327229499817,
+      "no_speech_prob": 0.03170755133032799
+    },
+    {
+      "id": 5,
+      "start": 16.2,
+      "end": 20.2,
+      "text": "is finding a landlord who lets me put a nail in the wall.",
+      "avg_logprob": -0.1905327229499817,
+      "no_speech_prob": 0.03170755133032799
+    },
+    {
+      "id": 6,
+      "start": 20.2,
+      "end": 22.2,
+      "text": "That's the key we dream.",
+      "avg_logprob": -0.1905327229499817,
+      "no_speech_prob": 0.03170755133032799
+    },
+    {
+      "id": 7,
+      "start": 22.2,
+      "end": 24.2,
+      "text": "All my friends are in the same boat.",
+      "avg_logprob": -0.1905327229499817,
+      "no_speech_prob": 0.03170755133032799
+    },
+    {
+      "id": 8,
+      "start": 24.2,
+      "end": 26.7,
+      "text": "We're in our 30s, we can't even afford to have kids.",
+      "avg_logprob": -0.1905327229499817,
+      "no_speech_prob": 0.03170755133032799
+    },
+    {
+      "id": 9,
+      "start": 26.7,
+      "end": 32.02,
+      "text": "At this point we're just fucking for warmth.",
+      "avg_logprob": -0.1905327229499817,
+      "no_speech_prob": 0.03170755133032799
+    },
+    {
+      "id": 10,
+      "start": 32.02,
+      "end": 34.02,
+      "text": "Quietly.",
+      "avg_logprob": -0.1905327229499817,
+      "no_speech_prob": 0.03170755133032799
+    },
+    {
+      "id": 11,
+      "start": 34.02,
+      "end": 38.02,
+      "text": "So we don't wake our four other flatmates.",
+      "avg_logprob": -0.20120011714466832,
+      "no_speech_prob": 0.0017295322613790631
+    },
+    {
+      "id": 12,
+      "start": 38.02,
+      "end": 43.02,
+      "text": "And an uninsulated Greyland bungalow from the 1930s.",
+      "avg_logprob": -0.20120011714466832,
+      "no_speech_prob": 0.0017295322613790631
+    },
+    {
+      "id": 13,
+      "start": 43.02,
+      "end": 47.02,
+      "text": "That is worth $1.7 million.",
+      "avg_logprob": -0.20120011714466832,
+      "no_speech_prob": 0.0017295322613790631
+    },
+    {
+      "id": 14,
+      "start": 47.02,
+      "end": 51.36,
+      "text": "It is a hollow house, sir.",
+      "avg_logprob": -0.20120011714466832,
+      "no_speech_prob": 0.0017295322613790631
+    },
+    {
+      "id": 15,
+      "start": 51.36,
+      "end": 54.36,
+      "text": "My God.",
+      "avg_logprob": -0.20120011714466832,
+      "no_speech_prob": 0.0017295322613790631
+    }
+  ],
+  "transcript_full": "I've lived in Auckland for 10 years now. My assessment is that this city contains the most diverse range of New Zealanders who cannot afford to live in Auckland. The closest I'm ever going to get to home ownership is finding a landlord who lets me put a nail in the wall. That's the key we dream. All my friends are in the same boat. We're in our 30s, we can't even afford to have kids. At this point we're just fucking for warmth. Quietly. So we don't wake our four other flatmates. And an uninsulated Greyland bungalow from the 1930s. That is worth $1.7 million. It is a hollow house, sir. My God.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

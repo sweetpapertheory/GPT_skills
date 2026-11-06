@@ -1,0 +1,36 @@
+{
+  "language": "en",
+  "language_probability": 0.9948825836181641,
+  "duration": 6.933,
+  "duration_after_vad": 6.0,
+  "segment_count": 3,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.0,
+      "text": "But you guys know what genre of music sucks?",
+      "avg_logprob": -0.565493194953255,
+      "no_speech_prob": 0.01785372570157051
+    },
+    {
+      "id": 2,
+      "start": 4.0,
+      "end": 5.0,
+      "text": "Swag rock.",
+      "avg_logprob": -0.565493194953255,
+      "no_speech_prob": 0.01785372570157051
+    },
+    {
+      "id": 3,
+      "start": 5.0,
+      "end": 6.0,
+      "text": "Oh!",
+      "avg_logprob": -0.565493194953255,
+      "no_speech_prob": 0.01785372570157051
+    }
+  ],
+  "transcript_full": "But you guys know what genre of music sucks? Swag rock. Oh!",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

@@ -1,0 +1,180 @@
+{
+  "language": "en",
+  "language_probability": 0.9465667605400085,
+  "duration": 65.548,
+  "duration_after_vad": 63.44,
+  "segment_count": 21,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.68,
+      "end": 5.68,
+      "text": "It's a beautiful day here at Buckingham Palace",
+      "avg_logprob": -0.21940948492602297,
+      "no_speech_prob": 0.2977144718170166
+    },
+    {
+      "id": 2,
+      "start": 5.68,
+      "end": 10.68,
+      "text": "and I can tell you that King Charles is actually here today.",
+      "avg_logprob": -0.21940948492602297,
+      "no_speech_prob": 0.2977144718170166
+    },
+    {
+      "id": 3,
+      "start": 10.68,
+      "end": 12.68,
+      "text": "How can you tell that?",
+      "avg_logprob": -0.21940948492602297,
+      "no_speech_prob": 0.2977144718170166
+    },
+    {
+      "id": 4,
+      "start": 12.68,
+      "end": 14.68,
+      "text": "Two things.",
+      "avg_logprob": -0.21940948492602297,
+      "no_speech_prob": 0.2977144718170166
+    },
+    {
+      "id": 5,
+      "start": 14.68,
+      "end": 19.68,
+      "text": "Firstly, there are two sets of guards out today",
+      "avg_logprob": -0.21940948492602297,
+      "no_speech_prob": 0.2977144718170166
+    },
+    {
+      "id": 6,
+      "start": 19.68,
+      "end": 23.68,
+      "text": "wearing their winter chinics rather than the red ones,",
+      "avg_logprob": -0.21940948492602297,
+      "no_speech_prob": 0.2977144718170166
+    },
+    {
+      "id": 7,
+      "start": 23.68,
+      "end": 24.68,
+      "text": "but two sets.",
+      "avg_logprob": -0.21940948492602297,
+      "no_speech_prob": 0.2977144718170166
+    },
+    {
+      "id": 8,
+      "start": 24.68,
+      "end": 26.68,
+      "text": "So two sets here in both empty boxes,",
+      "avg_logprob": -0.21940948492602297,
+      "no_speech_prob": 0.2977144718170166
+    },
+    {
+      "id": 9,
+      "start": 26.68,
+      "end": 28.68,
+      "text": "that means the Royal Family are in.",
+      "avg_logprob": -0.21940948492602297,
+      "no_speech_prob": 0.2977144718170166
+    },
+    {
+      "id": 10,
+      "start": 28.68,
+      "end": 31.68,
+      "text": "Secondly, the Thaig on top of Buckingham Palace.",
+      "avg_logprob": -0.12241912386932616,
+      "no_speech_prob": 0.0042837136425077915
+    },
+    {
+      "id": 11,
+      "start": 31.68,
+      "end": 35.68,
+      "text": "This is the Royal Standard and not the Union Thaig.",
+      "avg_logprob": -0.12241912386932616,
+      "no_speech_prob": 0.0042837136425077915
+    },
+    {
+      "id": 12,
+      "start": 35.68,
+      "end": 40.68,
+      "text": "This was incorporated following the death of Princess Diana in 1997.",
+      "avg_logprob": -0.12241912386932616,
+      "no_speech_prob": 0.0042837136425077915
+    },
+    {
+      "id": 13,
+      "start": 40.68,
+      "end": 44.68,
+      "text": "Before then, the Union Thaig would be put here all the time.",
+      "avg_logprob": -0.12241912386932616,
+      "no_speech_prob": 0.0042837136425077915
+    },
+    {
+      "id": 14,
+      "start": 44.68,
+      "end": 46.68,
+      "text": "After then, they make a distinction",
+      "avg_logprob": -0.12241912386932616,
+      "no_speech_prob": 0.0042837136425077915
+    },
+    {
+      "id": 15,
+      "start": 46.68,
+      "end": 48.68,
+      "text": "because they were such a kerfuffle",
+      "avg_logprob": -0.12241912386932616,
+      "no_speech_prob": 0.0042837136425077915
+    },
+    {
+      "id": 16,
+      "start": 48.68,
+      "end": 51.68,
+      "text": "about whether to commemorate Diana's death or not",
+      "avg_logprob": -0.12241912386932616,
+      "no_speech_prob": 0.0042837136425077915
+    },
+    {
+      "id": 17,
+      "start": 51.68,
+      "end": 56.12,
+      "text": "and Tony Blair got involved.",
+      "avg_logprob": -0.12241912386932616,
+      "no_speech_prob": 0.0042837136425077915
+    },
+    {
+      "id": 18,
+      "start": 56.12,
+      "end": 58.12,
+      "text": "But anyway, if this Thaig is up here,",
+      "avg_logprob": -0.12241912386932616,
+      "no_speech_prob": 0.0042837136425077915
+    },
+    {
+      "id": 19,
+      "start": 58.12,
+      "end": 61.12,
+      "text": "it means that the monarch is in residence,",
+      "avg_logprob": -0.08892883456522419,
+      "no_speech_prob": 0.013179706409573555
+    },
+    {
+      "id": 20,
+      "start": 61.12,
+      "end": 63.12,
+      "text": "which doesn't happen that often.",
+      "avg_logprob": -0.08892883456522419,
+      "no_speech_prob": 0.013179706409573555
+    },
+    {
+      "id": 21,
+      "start": 63.12,
+      "end": 65.12,
+      "text": "It's not really their favourite palace.",
+      "avg_logprob": -0.08892883456522419,
+      "no_speech_prob": 0.013179706409573555
+    }
+  ],
+  "transcript_full": "It's a beautiful day here at Buckingham Palace and I can tell you that King Charles is actually here today. How can you tell that? Two things. Firstly, there are two sets of guards out today wearing their winter chinics rather than the red ones, but two sets. So two sets here in both empty boxes, that means the Royal Family are in. Secondly, the Thaig on top of Buckingham Palace. This is the Royal Standard and not the Union Thaig. This was incorporated following the death of Princess Diana in 1997. Before then, the Union Thaig would be put here all the time. After then, they make a distinction because they were such a kerfuffle about whether to commemorate Diana's death or not and Tony Blair got involved. But anyway, if this Thaig is up here, it means that the monarch is in residence, which doesn't happen that often. It's not really their favourite palace.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

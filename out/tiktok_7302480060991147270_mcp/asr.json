@@ -1,0 +1,484 @@
+{
+  "language": "en",
+  "language_probability": 0.5130162835121155,
+  "duration": 96.2,
+  "duration_after_vad": 91.3,
+  "segment_count": 59,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.0,
+      "end": 4.0,
+      "text": "Hi, how are you guys doing?",
+      "avg_logprob": -0.40477568857573176,
+      "no_speech_prob": 0.29270580410957336
+    },
+    {
+      "id": 2,
+      "start": 4.0,
+      "end": 6.0,
+      "text": "So we went to Helsinki a long time ago",
+      "avg_logprob": -0.40477568857573176,
+      "no_speech_prob": 0.29270580410957336
+    },
+    {
+      "id": 3,
+      "start": 6.0,
+      "end": 7.0,
+      "text": "It's been a long time",
+      "avg_logprob": -0.40477568857573176,
+      "no_speech_prob": 0.29270580410957336
+    },
+    {
+      "id": 4,
+      "start": 7.0,
+      "end": 9.0,
+      "text": "Hey, Nisthani, Nisthani",
+      "avg_logprob": -0.40477568857573176,
+      "no_speech_prob": 0.29270580410957336
+    },
+    {
+      "id": 5,
+      "start": 9.0,
+      "end": 11.0,
+      "text": "Have you heard about climate change?",
+      "avg_logprob": -0.40477568857573176,
+      "no_speech_prob": 0.29270580410957336
+    },
+    {
+      "id": 6,
+      "start": 11.0,
+      "end": 13.0,
+      "text": "It's all about global warming and extreme weather",
+      "avg_logprob": -0.40477568857573176,
+      "no_speech_prob": 0.29270580410957336
+    },
+    {
+      "id": 7,
+      "start": 13.0,
+      "end": 14.0,
+      "text": "like we're having right now",
+      "avg_logprob": -0.40477568857573176,
+      "no_speech_prob": 0.29270580410957336
+    },
+    {
+      "id": 8,
+      "start": 14.0,
+      "end": 17.0,
+      "text": "Hey, I haven't heard about climate change yet",
+      "avg_logprob": -0.40477568857573176,
+      "no_speech_prob": 0.29270580410957336
+    },
+    {
+      "id": 9,
+      "start": 17.0,
+      "end": 19.0,
+      "text": "My concern is that I'm not going to sink",
+      "avg_logprob": -0.40477568857573176,
+      "no_speech_prob": 0.29270580410957336
+    },
+    {
+      "id": 10,
+      "start": 19.0,
+      "end": 21.0,
+      "text": "after 50 years of climate change",
+      "avg_logprob": -0.40477568857573176,
+      "no_speech_prob": 0.29270580410957336
+    },
+    {
+      "id": 11,
+      "start": 21.0,
+      "end": 23.0,
+      "text": "What are you telling me about climate change?",
+      "avg_logprob": -0.40477568857573176,
+      "no_speech_prob": 0.29270580410957336
+    },
+    {
+      "id": 12,
+      "start": 23.0,
+      "end": 25.0,
+      "text": "No, it's real",
+      "avg_logprob": -0.40477568857573176,
+      "no_speech_prob": 0.29270580410957336
+    },
+    {
+      "id": 13,
+      "start": 25.0,
+      "end": 26.0,
+      "text": "Temperature is rising",
+      "avg_logprob": -0.40477568857573176,
+      "no_speech_prob": 0.29270580410957336
+    },
+    {
+      "id": 14,
+      "start": 26.0,
+      "end": 28.0,
+      "text": "Climate change is driven by human activities",
+      "avg_logprob": -0.40477568857573176,
+      "no_speech_prob": 0.29270580410957336
+    },
+    {
+      "id": 15,
+      "start": 28.0,
+      "end": 31.0,
+      "text": "like burning fossil fuels, amongst other things",
+      "avg_logprob": -0.40477568857573176,
+      "no_speech_prob": 0.29270580410957336
+    },
+    {
+      "id": 16,
+      "start": 31.0,
+      "end": 33.0,
+      "text": "and causing problems like the heat wave",
+      "avg_logprob": -0.2490798174195988,
+      "no_speech_prob": 0.027275746688246727
+    },
+    {
+      "id": 17,
+      "start": 33.0,
+      "end": 34.0,
+      "text": "that we're having right now",
+      "avg_logprob": -0.2490798174195988,
+      "no_speech_prob": 0.027275746688246727
+    },
+    {
+      "id": 18,
+      "start": 34.0,
+      "end": 35.0,
+      "text": "Droughts and flooding",
+      "avg_logprob": -0.2490798174195988,
+      "no_speech_prob": 0.027275746688246727
+    },
+    {
+      "id": 19,
+      "start": 35.0,
+      "end": 37.0,
+      "text": "It's actually a major reason",
+      "avg_logprob": -0.2490798174195988,
+      "no_speech_prob": 0.027275746688246727
+    },
+    {
+      "id": 20,
+      "start": 37.0,
+      "end": 38.0,
+      "text": "why the food is so expensive food",
+      "avg_logprob": -0.2490798174195988,
+      "no_speech_prob": 0.027275746688246727
+    },
+    {
+      "id": 21,
+      "start": 38.0,
+      "end": 40.0,
+      "text": "Okay, guys, I know",
+      "avg_logprob": -0.2490798174195988,
+      "no_speech_prob": 0.027275746688246727
+    },
+    {
+      "id": 22,
+      "start": 40.0,
+      "end": 41.0,
+      "text": "and it's fine",
+      "avg_logprob": -0.2490798174195988,
+      "no_speech_prob": 0.027275746688246727
+    },
+    {
+      "id": 23,
+      "start": 41.0,
+      "end": 42.0,
+      "text": "But I'm very tired",
+      "avg_logprob": -0.2490798174195988,
+      "no_speech_prob": 0.027275746688246727
+    },
+    {
+      "id": 24,
+      "start": 42.0,
+      "end": 43.0,
+      "text": "And those government people",
+      "avg_logprob": -0.2490798174195988,
+      "no_speech_prob": 0.027275746688246727
+    },
+    {
+      "id": 25,
+      "start": 43.0,
+      "end": 44.0,
+      "text": "are my privileges",
+      "avg_logprob": -0.2490798174195988,
+      "no_speech_prob": 0.027275746688246727
+    },
+    {
+      "id": 26,
+      "start": 44.0,
+      "end": 45.0,
+      "text": "the one causing the damage",
+      "avg_logprob": -0.2490798174195988,
+      "no_speech_prob": 0.027275746688246727
+    },
+    {
+      "id": 27,
+      "start": 45.0,
+      "end": 47.0,
+      "text": "No, actually, you're right",
+      "avg_logprob": -0.2490798174195988,
+      "no_speech_prob": 0.027275746688246727
+    },
+    {
+      "id": 28,
+      "start": 47.0,
+      "end": 49.0,
+      "text": "Some of them contribute to the problem",
+      "avg_logprob": -0.2490798174195988,
+      "no_speech_prob": 0.027275746688246727
+    },
+    {
+      "id": 29,
+      "start": 49.0,
+      "end": 51.0,
+      "text": "but this is why we need to raise awareness",
+      "avg_logprob": -0.2490798174195988,
+      "no_speech_prob": 0.027275746688246727
+    },
+    {
+      "id": 30,
+      "start": 51.0,
+      "end": 52.0,
+      "text": "and hold them accountable",
+      "avg_logprob": -0.2490798174195988,
+      "no_speech_prob": 0.027275746688246727
+    },
+    {
+      "id": 31,
+      "start": 52.0,
+      "end": 54.0,
+      "text": "But also, we have a role to play",
+      "avg_logprob": -0.2490798174195988,
+      "no_speech_prob": 0.027275746688246727
+    },
+    {
+      "id": 32,
+      "start": 54.0,
+      "end": 56.0,
+      "text": "in our southern saving the planet",
+      "avg_logprob": -0.2490798174195988,
+      "no_speech_prob": 0.027275746688246727
+    },
+    {
+      "id": 33,
+      "start": 56.0,
+      "end": 57.0,
+      "text": "Me and you",
+      "avg_logprob": -0.2490798174195988,
+      "no_speech_prob": 0.027275746688246727
+    },
+    {
+      "id": 34,
+      "start": 57.0,
+      "end": 58.0,
+      "text": "Me and you?",
+      "avg_logprob": -0.2490798174195988,
+      "no_speech_prob": 0.027275746688246727
+    },
+    {
+      "id": 35,
+      "start": 58.0,
+      "end": 60.0,
+      "text": "No, we can't not fire you",
+      "avg_logprob": -0.2490798174195988,
+      "no_speech_prob": 0.027275746688246727
+    },
+    {
+      "id": 36,
+      "start": 60.0,
+      "end": 62.0,
+      "text": "because you'll be suffering as well",
+      "avg_logprob": -0.21700737769143624,
+      "no_speech_prob": 0.018034785985946655
+    },
+    {
+      "id": 37,
+      "start": 62.0,
+      "end": 63.0,
+      "text": "in the future, Nathandi",
+      "avg_logprob": -0.21700737769143624,
+      "no_speech_prob": 0.018034785985946655
+    },
+    {
+      "id": 38,
+      "start": 63.0,
+      "end": 65.0,
+      "text": "In fact, not in the future, right now",
+      "avg_logprob": -0.21700737769143624,
+      "no_speech_prob": 0.018034785985946655
+    },
+    {
+      "id": 39,
+      "start": 65.0,
+      "end": 66.0,
+      "text": "you can see this abnormal heat",
+      "avg_logprob": -0.21700737769143624,
+      "no_speech_prob": 0.018034785985946655
+    },
+    {
+      "id": 40,
+      "start": 66.0,
+      "end": 67.0,
+      "text": "that we're suffering from",
+      "avg_logprob": -0.21700737769143624,
+      "no_speech_prob": 0.018034785985946655
+    },
+    {
+      "id": 41,
+      "start": 67.0,
+      "end": 68.0,
+      "text": "Yeah, Nett",
+      "avg_logprob": -0.21700737769143624,
+      "no_speech_prob": 0.018034785985946655
+    },
+    {
+      "id": 42,
+      "start": 68.0,
+      "end": 69.0,
+      "text": "and you've got a point",
+      "avg_logprob": -0.21700737769143624,
+      "no_speech_prob": 0.018034785985946655
+    },
+    {
+      "id": 43,
+      "start": 69.0,
+      "end": 70.0,
+      "text": "Yes, she's going to start",
+      "avg_logprob": -0.21700737769143624,
+      "no_speech_prob": 0.018034785985946655
+    },
+    {
+      "id": 44,
+      "start": 70.0,
+      "end": 71.0,
+      "text": "time to show me how to live",
+      "avg_logprob": -0.21700737769143624,
+      "no_speech_prob": 0.018034785985946655
+    },
+    {
+      "id": 45,
+      "start": 71.0,
+      "end": 72.0,
+      "text": "Exactly",
+      "avg_logprob": -0.21700737769143624,
+      "no_speech_prob": 0.018034785985946655
+    },
+    {
+      "id": 46,
+      "start": 72.0,
+      "end": 73.0,
+      "text": "Okay, look",
+      "avg_logprob": -0.21700737769143624,
+      "no_speech_prob": 0.018034785985946655
+    },
+    {
+      "id": 47,
+      "start": 73.0,
+      "end": 74.0,
+      "text": "Just take this pamphlet, Nett",
+      "avg_logprob": -0.21700737769143624,
+      "no_speech_prob": 0.018034785985946655
+    },
+    {
+      "id": 48,
+      "start": 74.0,
+      "end": 76.0,
+      "text": "and read it when you have time",
+      "avg_logprob": -0.21700737769143624,
+      "no_speech_prob": 0.018034785985946655
+    },
+    {
+      "id": 49,
+      "start": 76.0,
+      "end": 77.0,
+      "text": "just learn about climate change",
+      "avg_logprob": -0.21700737769143624,
+      "no_speech_prob": 0.018034785985946655
+    },
+    {
+      "id": 50,
+      "start": 77.0,
+      "end": 78.0,
+      "text": "and then you'll realize",
+      "avg_logprob": -0.21700737769143624,
+      "no_speech_prob": 0.018034785985946655
+    },
+    {
+      "id": 51,
+      "start": 78.0,
+      "end": 79.0,
+      "text": "we're in trouble",
+      "avg_logprob": -0.21700737769143624,
+      "no_speech_prob": 0.018034785985946655
+    },
+    {
+      "id": 52,
+      "start": 79.0,
+      "end": 80.0,
+      "text": "and we have to act right now",
+      "avg_logprob": -0.21700737769143624,
+      "no_speech_prob": 0.018034785985946655
+    },
+    {
+      "id": 53,
+      "start": 80.0,
+      "end": 81.0,
+      "text": "before it's too late",
+      "avg_logprob": -0.21700737769143624,
+      "no_speech_prob": 0.018034785985946655
+    },
+    {
+      "id": 54,
+      "start": 81.0,
+      "end": 85.3,
+      "text": "Breaking news",
+      "avg_logprob": -0.21700737769143624,
+      "no_speech_prob": 0.018034785985946655
+    },
+    {
+      "id": 55,
+      "start": 85.3,
+      "end": 86.3,
+      "text": "A catastrophic flood",
+      "avg_logprob": -0.21700737769143624,
+      "no_speech_prob": 0.018034785985946655
+    },
+    {
+      "id": 56,
+      "start": 86.3,
+      "end": 88.3,
+      "text": "has swept through Guazulu, Natal",
+      "avg_logprob": -0.21700737769143624,
+      "no_speech_prob": 0.018034785985946655
+    },
+    {
+      "id": 57,
+      "start": 88.3,
+      "end": 90.3,
+      "text": "for the third time this year",
+      "avg_logprob": -0.21700737769143624,
+      "no_speech_prob": 0.018034785985946655
+    },
+    {
+      "id": 58,
+      "start": 90.3,
+      "end": 92.3,
+      "text": "Maybe we'll end the climate change",
+      "avg_logprob": -0.6347241438925266,
+      "no_speech_prob": 0.6360708475112915
+    },
+    {
+      "id": 59,
+      "start": 92.3,
+      "end": 93.3,
+      "text": "soon, right?",
+      "avg_logprob": -0.6347241438925266,
+      "no_speech_prob": 0.6360708475112915
+    }
+  ],
+  "transcript_full": "Hi, how are you guys doing? So we went to Helsinki a long time ago It's been a long time Hey, Nisthani, Nisthani Have you heard about climate change? It's all about global warming and extreme weather like we're having right now Hey, I haven't heard about climate change yet My concern is that I'm not going to sink after 50 years of climate change What are you telling me about climate change? No, it's real Temperature is rising Climate change is driven by human activities like burning fossil fuels, amongst other things and causing problems like the heat wave that we're having right now Droughts and flooding It's actually a major reason why the food is so expensive food Okay, guys, I know and it's fine But I'm very tired And those government people are my privileges the one causing the damage No, actually, you're right Some of them contribute to the problem but this is why we need to raise awareness and hold them accountable But also, we have a role to play in our southern saving the planet Me and you Me and you? No, we can't not fire you because you'll be suffering as well in the future, Nathandi In fact, not in the future, right now you can see this abnormal heat that we're suffering from Yeah, Nett and you've got a point Yes, she's going to start time to show me how to live Exactly Okay, look Just take this pamphlet, Nett and read it when you have time just learn about climate change and then you'll realize we're in trouble and we have to act right now before it's too late Breaking news A catastrophic flood has swept through Guazulu, Natal for the third time this year Maybe we'll end the climate change soon, right?",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

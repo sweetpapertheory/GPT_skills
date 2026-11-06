@@ -1,0 +1,100 @@
+{
+  "language": "en",
+  "language_probability": 0.9935557246208191,
+  "duration": 45.412,
+  "duration_after_vad": 45.22,
+  "segment_count": 11,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.52,
+      "text": "You have a better chance of being struck by lightning than hitting a whale with your boat.",
+      "avg_logprob": -0.20069054727968963,
+      "no_speech_prob": 0.10045124590396881
+    },
+    {
+      "id": 2,
+      "start": 5.52,
+      "end": 11.16,
+      "text": "There has only been, listen to this, one such whale killed off the coast of South Carolina",
+      "avg_logprob": -0.20069054727968963,
+      "no_speech_prob": 0.10045124590396881
+    },
+    {
+      "id": 3,
+      "start": 11.16,
+      "end": 15.92,
+      "text": "in the last 50 years, but on the other hand their windmills are causing whales to die",
+      "avg_logprob": -0.20069054727968963,
+      "no_speech_prob": 0.10045124590396881
+    },
+    {
+      "id": 4,
+      "start": 15.92,
+      "end": 18.0,
+      "text": "in numbers never seen before.",
+      "avg_logprob": -0.20069054727968963,
+      "no_speech_prob": 0.10045124590396881
+    },
+    {
+      "id": 5,
+      "start": 18.0,
+      "end": 19.36,
+      "text": "Nobody does anything about that.",
+      "avg_logprob": -0.20069054727968963,
+      "no_speech_prob": 0.10045124590396881
+    },
+    {
+      "id": 6,
+      "start": 19.36,
+      "end": 31.02,
+      "text": "They're washing up and show.",
+      "avg_logprob": -0.20069054727968963,
+      "no_speech_prob": 0.10045124590396881
+    },
+    {
+      "id": 7,
+      "start": 31.02,
+      "end": 34.34,
+      "text": "I saw it this weekend, three of them came up.",
+      "avg_logprob": -0.20069054727968963,
+      "no_speech_prob": 0.10045124590396881
+    },
+    {
+      "id": 8,
+      "start": 34.34,
+      "end": 35.58,
+      "text": "You wouldn't see it once a year.",
+      "avg_logprob": -0.20069054727968963,
+      "no_speech_prob": 0.10045124590396881
+    },
+    {
+      "id": 9,
+      "start": 35.58,
+      "end": 38.42,
+      "text": "And now they're coming up on a weekly basis.",
+      "avg_logprob": -0.2305280346084725,
+      "no_speech_prob": 0.32906374335289
+    },
+    {
+      "id": 10,
+      "start": 38.42,
+      "end": 40.98,
+      "text": "The windmills are driving them crazy.",
+      "avg_logprob": -0.2305280346084725,
+      "no_speech_prob": 0.32906374335289
+    },
+    {
+      "id": 11,
+      "start": 40.98,
+      "end": 45.22,
+      "text": "They're driving, they're driving the whales, I think a little baddie.",
+      "avg_logprob": -0.2305280346084725,
+      "no_speech_prob": 0.32906374335289
+    }
+  ],
+  "transcript_full": "You have a better chance of being struck by lightning than hitting a whale with your boat. There has only been, listen to this, one such whale killed off the coast of South Carolina in the last 50 years, but on the other hand their windmills are causing whales to die in numbers never seen before. Nobody does anything about that. They're washing up and show. I saw it this weekend, three of them came up. You wouldn't see it once a year. And now they're coming up on a weekly basis. The windmills are driving them crazy. They're driving, they're driving the whales, I think a little baddie.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

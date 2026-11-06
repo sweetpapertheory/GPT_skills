@@ -1,0 +1,52 @@
+{
+  "language": "ar",
+  "language_probability": 0.2626417279243469,
+  "duration": 19.5,
+  "duration_after_vad": 16.5,
+  "segment_count": 5,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.34,
+      "end": 3.84,
+      "text": "وديها زهر لميكا ورباني",
+      "avg_logprob": -0.7438894394371245,
+      "no_speech_prob": 0.8666223287582397
+    },
+    {
+      "id": 2,
+      "start": 3.84,
+      "end": 7.84,
+      "text": "ماريك الملكة الله ودافاني",
+      "avg_logprob": -0.7438894394371245,
+      "no_speech_prob": 0.8666223287582397
+    },
+    {
+      "id": 3,
+      "start": 7.84,
+      "end": 11.54,
+      "text": "تين ببايا برينا درداني",
+      "avg_logprob": -0.7438894394371245,
+      "no_speech_prob": 0.8666223287582397
+    },
+    {
+      "id": 4,
+      "start": 13.97,
+      "end": 15.57,
+      "text": "ونظاماني",
+      "avg_logprob": -0.7438894394371245,
+      "no_speech_prob": 0.8666223287582397
+    },
+    {
+      "id": 5,
+      "start": 15.57,
+      "end": 19.27,
+      "text": "بيتا بنتر ليا كوم تتابا",
+      "avg_logprob": -0.7438894394371245,
+      "no_speech_prob": 0.8666223287582397
+    }
+  ],
+  "transcript_full": "وديها زهر لميكا ورباني ماريك الملكة الله ودافاني تين ببايا برينا درداني ونظاماني بيتا بنتر ليا كوم تتابا",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

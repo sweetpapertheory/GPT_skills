@@ -1,0 +1,108 @@
+{
+  "language": "en",
+  "language_probability": 0.9982267022132874,
+  "duration": 55.967,
+  "duration_after_vad": 55.88,
+  "segment_count": 12,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.24,
+      "text": "This is a short but important follow-up to a post that I did about warming taking place in the ocean",
+      "avg_logprob": -0.19297710035601232,
+      "no_speech_prob": 0.11176595836877823
+    },
+    {
+      "id": 2,
+      "start": 4.24,
+      "end": 7.8,
+      "text": "ahead of an anticipated El Nino starting later this year.",
+      "avg_logprob": -0.19297710035601232,
+      "no_speech_prob": 0.11176595836877823
+    },
+    {
+      "id": 3,
+      "start": 7.8,
+      "end": 12.32,
+      "text": "Apparently measurements this month are literally off the charts, alarming scientists.",
+      "avg_logprob": -0.19297710035601232,
+      "no_speech_prob": 0.11176595836877823
+    },
+    {
+      "id": 4,
+      "start": 12.32,
+      "end": 18.44,
+      "text": "This article from the BBC talks about how this month in April, the global sea surface hit a new record high temperature.",
+      "avg_logprob": -0.19297710035601232,
+      "no_speech_prob": 0.11176595836877823
+    },
+    {
+      "id": 5,
+      "start": 18.44,
+      "end": 24.76,
+      "text": "It has never warmed this much this quickly, and apparently scientists don't fully understand why this has happened.",
+      "avg_logprob": -0.19297710035601232,
+      "no_speech_prob": 0.11176595836877823
+    },
+    {
+      "id": 6,
+      "start": 24.76,
+      "end": 26.68,
+      "text": "This is from Dr. Robert Rhodes, Twitter account.",
+      "avg_logprob": -0.19297710035601232,
+      "no_speech_prob": 0.11176595836877823
+    },
+    {
+      "id": 7,
+      "start": 26.68,
+      "end": 31.36,
+      "text": "He says, this is getting ridiculous. OISST provides a real-time daily index of ocean surface temperature",
+      "avg_logprob": -0.16793617876111597,
+      "no_speech_prob": 0.05450530722737312
+    },
+    {
+      "id": 8,
+      "start": 31.36,
+      "end": 37.04,
+      "text": "for the last month that has been continuously reading higher than in any previous year and still shows no sign of settling.",
+      "avg_logprob": -0.16793617876111597,
+      "no_speech_prob": 0.05450530722737312
+    },
+    {
+      "id": 9,
+      "start": 37.04,
+      "end": 38.96,
+      "text": "Here's a close-up of what he's referring to.",
+      "avg_logprob": -0.16793617876111597,
+      "no_speech_prob": 0.05450530722737312
+    },
+    {
+      "id": 10,
+      "start": 38.96,
+      "end": 44.88,
+      "text": "The BBC article says that several scientists contacted for the story were reluctant to go on the record about the implications.",
+      "avg_logprob": -0.16793617876111597,
+      "no_speech_prob": 0.05450530722737312
+    },
+    {
+      "id": 11,
+      "start": 44.88,
+      "end": 48.48,
+      "text": "One spoke of being extremely worried and completely stressed.",
+      "avg_logprob": -0.16793617876111597,
+      "no_speech_prob": 0.05450530722737312
+    },
+    {
+      "id": 12,
+      "start": 48.48,
+      "end": 55.88,
+      "text": "I've been convinced for a long time that as a species, politically, we need to drop what we're doing and focus on the challenges of climate change and global warming.",
+      "avg_logprob": -0.16793617876111597,
+      "no_speech_prob": 0.05450530722737312
+    }
+  ],
+  "transcript_full": "This is a short but important follow-up to a post that I did about warming taking place in the ocean ahead of an anticipated El Nino starting later this year. Apparently measurements this month are literally off the charts, alarming scientists. This article from the BBC talks about how this month in April, the global sea surface hit a new record high temperature. It has never warmed this much this quickly, and apparently scientists don't fully understand why this has happened. This is from Dr. Robert Rhodes, Twitter account. He says, this is getting ridiculous. OISST provides a real-time daily index of ocean surface temperature for the last month that has been continuously reading higher than in any previous year and still shows no sign of settling. Here's a close-up of what he's referring to. The BBC article says that several scientists contacted for the story were reluctant to go on the record about the implications. One spoke of being extremely worried and completely stressed. I've been convinced for a long time that as a species, politically, we need to drop what we're doing and focus on the challenges of climate change and global warming.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

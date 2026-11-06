@@ -1,0 +1,188 @@
+{
+  "language": "en",
+  "language_probability": 0.998683750629425,
+  "duration": 55.083,
+  "duration_after_vad": 54.68,
+  "segment_count": 22,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.76,
+      "text": "Someone in the comments sent me this article with a perspective I hadn't thought about",
+      "avg_logprob": -0.13691301177065057,
+      "no_speech_prob": 0.022872064262628555
+    },
+    {
+      "id": 2,
+      "start": 2.76,
+      "end": 3.76,
+      "text": "enough until now.",
+      "avg_logprob": -0.13691301177065057,
+      "no_speech_prob": 0.022872064262628555
+    },
+    {
+      "id": 3,
+      "start": 3.76,
+      "end": 6.84,
+      "text": "We know fossil fuel companies have been funding disinfo and climate change for decades the",
+      "avg_logprob": -0.13691301177065057,
+      "no_speech_prob": 0.022872064262628555
+    },
+    {
+      "id": 4,
+      "start": 6.84,
+      "end": 10.08,
+      "text": "same way tobacco companies sowed confusion on cigarettes and cancer.",
+      "avg_logprob": -0.13691301177065057,
+      "no_speech_prob": 0.022872064262628555
+    },
+    {
+      "id": 5,
+      "start": 10.08,
+      "end": 11.08,
+      "text": "But that's obvious.",
+      "avg_logprob": -0.13691301177065057,
+      "no_speech_prob": 0.022872064262628555
+    },
+    {
+      "id": 6,
+      "start": 11.08,
+      "end": 12.08,
+      "text": "It's the profit incentive.",
+      "avg_logprob": -0.13691301177065057,
+      "no_speech_prob": 0.022872064262628555
+    },
+    {
+      "id": 7,
+      "start": 12.08,
+      "end": 14.42,
+      "text": "They want a slow regulation to make more money while they can.",
+      "avg_logprob": -0.13691301177065057,
+      "no_speech_prob": 0.022872064262628555
+    },
+    {
+      "id": 8,
+      "start": 14.42,
+      "end": 17.24,
+      "text": "But what isn't talked about enough in what this article is about is how far right",
+      "avg_logprob": -0.13691301177065057,
+      "no_speech_prob": 0.022872064262628555
+    },
+    {
+      "id": 9,
+      "start": 17.24,
+      "end": 19.48,
+      "text": "politicians thrive on catastrophe.",
+      "avg_logprob": -0.13691301177065057,
+      "no_speech_prob": 0.022872064262628555
+    },
+    {
+      "id": 10,
+      "start": 19.48,
+      "end": 23.2,
+      "text": "So they're exacerbating the climate emergency by spreading misinformation and when they're",
+      "avg_logprob": -0.13691301177065057,
+      "no_speech_prob": 0.022872064262628555
+    },
+    {
+      "id": 11,
+      "start": 23.2,
+      "end": 26.16,
+      "text": "in power cutting regulation and slashing environmental programs.",
+      "avg_logprob": -0.13691301177065057,
+      "no_speech_prob": 0.022872064262628555
+    },
+    {
+      "id": 12,
+      "start": 26.16,
+      "end": 29.28,
+      "text": "And it's a win-win for them because in the short run they get a ton of campaign",
+      "avg_logprob": -0.13691301177065057,
+      "no_speech_prob": 0.022872064262628555
+    },
+    {
+      "id": 13,
+      "start": 29.28,
+      "end": 30.48,
+      "text": "funding and attention.",
+      "avg_logprob": -0.15009641647338867,
+      "no_speech_prob": 0.10165169090032578
+    },
+    {
+      "id": 14,
+      "start": 30.48,
+      "end": 33.48,
+      "text": "And in the long run they're creating the perfect conditions for fascism.",
+      "avg_logprob": -0.15009641647338867,
+      "no_speech_prob": 0.10165169090032578
+    },
+    {
+      "id": 15,
+      "start": 33.48,
+      "end": 36.44,
+      "text": "Like natural disasters they can capitalize on the season where power.",
+      "avg_logprob": -0.15009641647338867,
+      "no_speech_prob": 0.10165169090032578
+    },
+    {
+      "id": 16,
+      "start": 36.44,
+      "end": 39.92,
+      "text": "Waves of climate refugees they can scapegoat and blame for economic problems.",
+      "avg_logprob": -0.15009641647338867,
+      "no_speech_prob": 0.10165169090032578
+    },
+    {
+      "id": 17,
+      "start": 39.92,
+      "end": 43.48,
+      "text": "And dwindling resources that leads to a divided population that's easier to manipulate.",
+      "avg_logprob": -0.15009641647338867,
+      "no_speech_prob": 0.10165169090032578
+    },
+    {
+      "id": 18,
+      "start": 43.48,
+      "end": 46.04,
+      "text": "I'll have to make a whole video about this one day because it's at the intersection",
+      "avg_logprob": -0.15009641647338867,
+      "no_speech_prob": 0.10165169090032578
+    },
+    {
+      "id": 19,
+      "start": 46.04,
+      "end": 47.48,
+      "text": "of all the topics I want to cover.",
+      "avg_logprob": -0.15009641647338867,
+      "no_speech_prob": 0.10165169090032578
+    },
+    {
+      "id": 20,
+      "start": 47.48,
+      "end": 49.96,
+      "text": "It won't be right now but if you want to help that happen in the future follow",
+      "avg_logprob": -0.15009641647338867,
+      "no_speech_prob": 0.10165169090032578
+    },
+    {
+      "id": 21,
+      "start": 49.96,
+      "end": 54.12,
+      "text": "me on YouTube and subscribe to my patreon patreon.com slash barely informed.",
+      "avg_logprob": -0.15009641647338867,
+      "no_speech_prob": 0.10165169090032578
+    },
+    {
+      "id": 22,
+      "start": 54.12,
+      "end": 54.68,
+      "text": "And follow for more.",
+      "avg_logprob": -0.15009641647338867,
+      "no_speech_prob": 0.10165169090032578
+    }
+  ],
+  "transcript_full": "Someone in the comments sent me this article with a perspective I hadn't thought about enough until now. We know fossil fuel companies have been funding disinfo and climate change for decades the same way tobacco companies sowed confusion on cigarettes and cancer. But that's obvious. It's the profit incentive. They want a slow regulation to make more money while they can. But what isn't talked about enough in what this article is about is how far right politicians thrive on catastrophe. So they're exacerbating the climate emergency by spreading misinformation and when they're in power cutting regulation and slashing environmental programs. And it's a win-win for them because in the short run they get a ton of campaign funding and attention. And in the long run they're creating the perfect conditions for fascism. Like natural disasters they can capitalize on the season where power. Waves of climate refugees they can scapegoat and blame for economic problems. And dwindling resources that leads to a divided population that's easier to manipulate. I'll have to make a whole video about this one day because it's at the intersection of all the topics I want to cover. It won't be right now but if you want to help that happen in the future follow me on YouTube and subscribe to my patreon patreon.com slash barely informed. And follow for more.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

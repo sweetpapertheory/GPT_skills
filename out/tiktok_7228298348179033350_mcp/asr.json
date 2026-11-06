@@ -1,0 +1,68 @@
+{
+  "language": "en",
+  "language_probability": 0.9555001258850098,
+  "duration": 8.333,
+  "duration_after_vad": 8.78,
+  "segment_count": 7,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.04,
+      "text": "You seen me tonight?",
+      "avg_logprob": -0.4031590700149536,
+      "no_speech_prob": 0.15442998707294464
+    },
+    {
+      "id": 2,
+      "start": 1.04,
+      "end": 4.14,
+      "text": "I'm done talking, Tommy.",
+      "avg_logprob": -0.4031590700149536,
+      "no_speech_prob": 0.15442998707294464
+    },
+    {
+      "id": 3,
+      "start": 4.14,
+      "end": 5.22,
+      "text": "You done talking?",
+      "avg_logprob": -0.4031590700149536,
+      "no_speech_prob": 0.15442998707294464
+    },
+    {
+      "id": 4,
+      "start": 5.22,
+      "end": 6.26,
+      "text": "Mm-hmm.",
+      "avg_logprob": -0.4031590700149536,
+      "no_speech_prob": 0.15442998707294464
+    },
+    {
+      "id": 5,
+      "start": 6.26,
+      "end": 7.1,
+      "text": "Me too.",
+      "avg_logprob": -0.4031590700149536,
+      "no_speech_prob": 0.15442998707294464
+    },
+    {
+      "id": 6,
+      "start": 7.1,
+      "end": 7.94,
+      "text": "All right.",
+      "avg_logprob": -0.4031590700149536,
+      "no_speech_prob": 0.15442998707294464
+    },
+    {
+      "id": 7,
+      "start": 7.94,
+      "end": 8.78,
+      "text": "Check, please.",
+      "avg_logprob": -0.4031590700149536,
+      "no_speech_prob": 0.15442998707294464
+    }
+  ],
+  "transcript_full": "You seen me tonight? I'm done talking, Tommy. You done talking? Mm-hmm. Me too. All right. Check, please.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

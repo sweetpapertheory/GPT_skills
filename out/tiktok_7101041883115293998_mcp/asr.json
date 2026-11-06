@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "language_probability": 0.8831753730773926,
+  "duration": 15.0,
+  "duration_after_vad": 1.0,
+  "segment_count": 1,
+  "segments": [
+    {
+      "id": 1,
+      "start": 14.06,
+      "end": 15.06,
+      "text": "Earth Got Thee",
+      "avg_logprob": -0.8316595724650792,
+      "no_speech_prob": 0.6895838975906372
+    }
+  ],
+  "transcript_full": "Earth Got Thee",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

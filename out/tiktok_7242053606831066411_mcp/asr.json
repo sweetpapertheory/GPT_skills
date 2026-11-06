@@ -1,0 +1,100 @@
+{
+  "language": "en",
+  "language_probability": 0.9900836944580078,
+  "duration": 55.833,
+  "duration_after_vad": 55.32,
+  "segment_count": 11,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.96,
+      "text": "These Canadian wildfires are truly unprecedented, and we cannot ignore that climate change continues",
+      "avg_logprob": -0.1688176761438817,
+      "no_speech_prob": 0.02629900723695755
+    },
+    {
+      "id": 2,
+      "start": 7.96,
+      "end": 12.04,
+      "text": "to make these disasters worse.",
+      "avg_logprob": -0.1688176761438817,
+      "no_speech_prob": 0.02629900723695755
+    },
+    {
+      "id": 3,
+      "start": 12.04,
+      "end": 19.08,
+      "text": "Warmer temperatures and severe droughts mean forests burn faster, burn hotter, and burn",
+      "avg_logprob": -0.1688176761438817,
+      "no_speech_prob": 0.02629900723695755
+    },
+    {
+      "id": 4,
+      "start": 19.08,
+      "end": 20.32,
+      "text": "bigger.",
+      "avg_logprob": -0.1688176761438817,
+      "no_speech_prob": 0.02629900723695755
+    },
+    {
+      "id": 5,
+      "start": 20.32,
+      "end": 26.48,
+      "text": "And the warming is happening at a faster pace in countries with higher latitudes.",
+      "avg_logprob": -0.1688176761438817,
+      "no_speech_prob": 0.02629900723695755
+    },
+    {
+      "id": 6,
+      "start": 26.48,
+      "end": 29.64,
+      "text": "None of this, none of this is coincidence.",
+      "avg_logprob": -0.1688176761438817,
+      "no_speech_prob": 0.02629900723695755
+    },
+    {
+      "id": 7,
+      "start": 29.64,
+      "end": 36.0,
+      "text": "This smoke and fog over New York and the rest of the Northeast is a warning from nature that",
+      "avg_logprob": -0.12183442840012171,
+      "no_speech_prob": 0.00818735919892788
+    },
+    {
+      "id": 8,
+      "start": 36.0,
+      "end": 42.24,
+      "text": "we have a lot of work to do to reverse the destruction of climate change.",
+      "avg_logprob": -0.12183442840012171,
+      "no_speech_prob": 0.00818735919892788
+    },
+    {
+      "id": 9,
+      "start": 42.24,
+      "end": 46.8,
+      "text": "Every time we see a wildfire in Canada or in the West, or a monstrous hurricane in the",
+      "avg_logprob": -0.12183442840012171,
+      "no_speech_prob": 0.00818735919892788
+    },
+    {
+      "id": 10,
+      "start": 46.8,
+      "end": 53.2,
+      "text": "southeast, or a blizzard in Texas, it's a reminder that time is short to reverse the",
+      "avg_logprob": -0.12183442840012171,
+      "no_speech_prob": 0.00818735919892788
+    },
+    {
+      "id": 11,
+      "start": 53.2,
+      "end": 55.32,
+      "text": "impacts of a warming planet.",
+      "avg_logprob": -0.12183442840012171,
+      "no_speech_prob": 0.00818735919892788
+    }
+  ],
+  "transcript_full": "These Canadian wildfires are truly unprecedented, and we cannot ignore that climate change continues to make these disasters worse. Warmer temperatures and severe droughts mean forests burn faster, burn hotter, and burn bigger. And the warming is happening at a faster pace in countries with higher latitudes. None of this, none of this is coincidence. This smoke and fog over New York and the rest of the Northeast is a warning from nature that we have a lot of work to do to reverse the destruction of climate change. Every time we see a wildfire in Canada or in the West, or a monstrous hurricane in the southeast, or a blizzard in Texas, it's a reminder that time is short to reverse the impacts of a warming planet.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

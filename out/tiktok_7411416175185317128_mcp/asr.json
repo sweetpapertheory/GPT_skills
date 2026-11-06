@@ -1,0 +1,44 @@
+{
+  "language": "en",
+  "language_probability": 0.9984740614891052,
+  "duration": 25.984,
+  "duration_after_vad": 26.0,
+  "segment_count": 4,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.08,
+      "end": 7.08,
+      "text": "Beef and lamb would come off the menu in favour of proteins like kangaroo if the Climate Change Authority had its way.",
+      "avg_logprob": -0.09936235487168911,
+      "no_speech_prob": 0.0035670751240104437
+    },
+    {
+      "id": 2,
+      "start": 7.08,
+      "end": 15.08,
+      "text": "The government agency has suggested the diet change to Anthony Albanese, saying a reduction in consumption of red meat would lower greenhouse gas emissions.",
+      "avg_logprob": -0.09936235487168911,
+      "no_speech_prob": 0.0035670751240104437
+    },
+    {
+      "id": 3,
+      "start": 15.08,
+      "end": 19.08,
+      "text": "It considers it a key way of decarbonising our agriculture industry.",
+      "avg_logprob": -0.09936235487168911,
+      "no_speech_prob": 0.0035670751240104437
+    },
+    {
+      "id": 4,
+      "start": 19.08,
+      "end": 26.08,
+      "text": "The National Farmers Federation strongly disagrees, while the energy minister Chris Bowen says he won't be telling us what to eat.",
+      "avg_logprob": -0.09936235487168911,
+      "no_speech_prob": 0.0035670751240104437
+    }
+  ],
+  "transcript_full": "Beef and lamb would come off the menu in favour of proteins like kangaroo if the Climate Change Authority had its way. The government agency has suggested the diet change to Anthony Albanese, saying a reduction in consumption of red meat would lower greenhouse gas emissions. It considers it a key way of decarbonising our agriculture industry. The National Farmers Federation strongly disagrees, while the energy minister Chris Bowen says he won't be telling us what to eat.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

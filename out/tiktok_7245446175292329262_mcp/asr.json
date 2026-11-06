@@ -1,0 +1,172 @@
+{
+  "language": "en",
+  "language_probability": 0.9477927088737488,
+  "duration": 100.583,
+  "duration_after_vad": 98.33,
+  "segment_count": 20,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.62,
+      "end": 5.25,
+      "text": "What's going on?",
+      "avg_logprob": -0.2854167235569215,
+      "no_speech_prob": 0.4777345359325409
+    },
+    {
+      "id": 2,
+      "start": 5.25,
+      "end": 7.25,
+      "text": "What's going on?",
+      "avg_logprob": -0.2854167235569215,
+      "no_speech_prob": 0.4777345359325409
+    },
+    {
+      "id": 3,
+      "start": 7.25,
+      "end": 9.25,
+      "text": "I know what panic! Listen to me!",
+      "avg_logprob": -0.2854167235569215,
+      "no_speech_prob": 0.4777345359325409
+    },
+    {
+      "id": 4,
+      "start": 9.25,
+      "end": 10.25,
+      "text": "Stay calm!",
+      "avg_logprob": -0.2854167235569215,
+      "no_speech_prob": 0.4777345359325409
+    },
+    {
+      "id": 5,
+      "start": 10.25,
+      "end": 13.25,
+      "text": "Loose circles! Loose circles! Loose circles!",
+      "avg_logprob": -0.2854167235569215,
+      "no_speech_prob": 0.4777345359325409
+    },
+    {
+      "id": 6,
+      "start": 13.25,
+      "end": 14.25,
+      "text": "Shower hits!",
+      "avg_logprob": -0.2854167235569215,
+      "no_speech_prob": 0.4777345359325409
+    },
+    {
+      "id": 7,
+      "start": 14.25,
+      "end": 15.25,
+      "text": "Shower hits?",
+      "avg_logprob": -0.2854167235569215,
+      "no_speech_prob": 0.4777345359325409
+    },
+    {
+      "id": 8,
+      "start": 15.25,
+      "end": 17.25,
+      "text": "She's right! Go! Fucking go!",
+      "avg_logprob": -0.2854167235569215,
+      "no_speech_prob": 0.4777345359325409
+    },
+    {
+      "id": 9,
+      "start": 17.25,
+      "end": 20.25,
+      "text": "Hey, hang up! I'll drop you the fucking door!",
+      "avg_logprob": -0.2854167235569215,
+      "no_speech_prob": 0.4777345359325409
+    },
+    {
+      "id": 10,
+      "start": 20.25,
+      "end": 71.95,
+      "text": "Congratulations on completing your first task.",
+      "avg_logprob": -0.2854167235569215,
+      "no_speech_prob": 0.4777345359325409
+    },
+    {
+      "id": 11,
+      "start": 71.95,
+      "end": 73.95,
+      "text": "Charlie, Roxy, well done.",
+      "avg_logprob": -0.2854167235569215,
+      "no_speech_prob": 0.4777345359325409
+    },
+    {
+      "id": 12,
+      "start": 73.95,
+      "end": 75.95,
+      "text": "For those of you who are still confused,",
+      "avg_logprob": -0.2854167235569215,
+      "no_speech_prob": 0.4777345359325409
+    },
+    {
+      "id": 13,
+      "start": 75.95,
+      "end": 78.95,
+      "text": "if you can get a breathing tube round a u-bend of a toilet,",
+      "avg_logprob": -0.2854167235569215,
+      "no_speech_prob": 0.4777345359325409
+    },
+    {
+      "id": 14,
+      "start": 78.95,
+      "end": 80.95,
+      "text": "you have an unlimited air supply.",
+      "avg_logprob": -0.2854167235569215,
+      "no_speech_prob": 0.4777345359325409
+    },
+    {
+      "id": 15,
+      "start": 80.95,
+      "end": 82.95,
+      "text": "No physics worth remembering.",
+      "avg_logprob": -0.15545947616358838,
+      "no_speech_prob": 0.024706264957785606
+    },
+    {
+      "id": 16,
+      "start": 82.95,
+      "end": 85.95,
+      "text": "Eggsy, well done for spotting that was a two-way mirror.",
+      "avg_logprob": -0.15545947616358838,
+      "no_speech_prob": 0.024706264957785606
+    },
+    {
+      "id": 17,
+      "start": 85.95,
+      "end": 87.95,
+      "text": "It's probably seen enough of them.",
+      "avg_logprob": -0.15545947616358838,
+      "no_speech_prob": 0.024706264957785606
+    },
+    {
+      "id": 18,
+      "start": 87.95,
+      "end": 90.95,
+      "text": "Yeah, you can all wipe those smirks off your faces.",
+      "avg_logprob": -0.15545947616358838,
+      "no_speech_prob": 0.024706264957785606
+    },
+    {
+      "id": 19,
+      "start": 90.95,
+      "end": 94.95,
+      "text": "Because as far as I'm concerned, every single one of you has failed.",
+      "avg_logprob": -0.15545947616358838,
+      "no_speech_prob": 0.024706264957785606
+    },
+    {
+      "id": 20,
+      "start": 94.95,
+      "end": 98.95,
+      "text": "You all forgot the most important thing. Teamwork.",
+      "avg_logprob": -0.15545947616358838,
+      "no_speech_prob": 0.024706264957785606
+    }
+  ],
+  "transcript_full": "What's going on? What's going on? I know what panic! Listen to me! Stay calm! Loose circles! Loose circles! Loose circles! Shower hits! Shower hits? She's right! Go! Fucking go! Hey, hang up! I'll drop you the fucking door! Congratulations on completing your first task. Charlie, Roxy, well done. For those of you who are still confused, if you can get a breathing tube round a u-bend of a toilet, you have an unlimited air supply. No physics worth remembering. Eggsy, well done for spotting that was a two-way mirror. It's probably seen enough of them. Yeah, you can all wipe those smirks off your faces. Because as far as I'm concerned, every single one of you has failed. You all forgot the most important thing. Teamwork.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

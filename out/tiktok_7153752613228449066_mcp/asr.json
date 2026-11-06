@@ -1,0 +1,44 @@
+{
+  "language": "en",
+  "language_probability": 0.998645007610321,
+  "duration": 18.467,
+  "duration_after_vad": 18.3,
+  "segment_count": 4,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.08,
+      "end": 5.28,
+      "text": "This might be controversial, but the reason for climate change is the climate changes.",
+      "avg_logprob": -0.24439325194427933,
+      "no_speech_prob": 0.0019260268891230226
+    },
+    {
+      "id": 2,
+      "start": 5.28,
+      "end": 8.98,
+      "text": "It always has, it always will, it even changes on other planets.",
+      "avg_logprob": -0.24439325194427933,
+      "no_speech_prob": 0.0019260268891230226
+    },
+    {
+      "id": 3,
+      "start": 8.98,
+      "end": 17.18,
+      "text": "The real problem is the world leaders playing God modifying the weather, creating hurricanes, droughts, all sorts of shit.",
+      "avg_logprob": -0.24439325194427933,
+      "no_speech_prob": 0.0019260268891230226
+    },
+    {
+      "id": 4,
+      "start": 17.18,
+      "end": 18.38,
+      "text": "That is the problem.",
+      "avg_logprob": -0.24439325194427933,
+      "no_speech_prob": 0.0019260268891230226
+    }
+  ],
+  "transcript_full": "This might be controversial, but the reason for climate change is the climate changes. It always has, it always will, it even changes on other planets. The real problem is the world leaders playing God modifying the weather, creating hurricanes, droughts, all sorts of shit. That is the problem.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

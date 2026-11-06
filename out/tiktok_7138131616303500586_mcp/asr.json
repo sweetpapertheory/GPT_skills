@@ -1,0 +1,92 @@
+{
+  "language": "en",
+  "language_probability": 0.9990783929824829,
+  "duration": 56.6,
+  "duration_after_vad": 56.32,
+  "segment_count": 10,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.04,
+      "text": "I think this is such a strange comment because ultimately you're doing two things.",
+      "avg_logprob": -0.07756065499658386,
+      "no_speech_prob": 0.015289201401174068
+    },
+    {
+      "id": 2,
+      "start": 5.04,
+      "end": 11.6,
+      "text": "One, you're putting the onus on small individuals who run businesses when it comes to environmental",
+      "avg_logprob": -0.07756065499658386,
+      "no_speech_prob": 0.015289201401174068
+    },
+    {
+      "id": 3,
+      "start": 11.6,
+      "end": 18.0,
+      "text": "protection and preservation instead of putting that onus on major corporations who are actually",
+      "avg_logprob": -0.07756065499658386,
+      "no_speech_prob": 0.015289201401174068
+    },
+    {
+      "id": 4,
+      "start": 18.0,
+      "end": 22.72,
+      "text": "the people that we should be blaming for all of the environmental damage because I promise you that",
+      "avg_logprob": -0.07756065499658386,
+      "no_speech_prob": 0.015289201401174068
+    },
+    {
+      "id": 5,
+      "start": 22.72,
+      "end": 27.76,
+      "text": "small businesses are not the ones contributing to climate change. But the second thing is",
+      "avg_logprob": -0.07756065499658386,
+      "no_speech_prob": 0.015289201401174068
+    },
+    {
+      "id": 6,
+      "start": 27.84,
+      "end": 34.8,
+      "text": "you're also assuming that other kinds of artists outside of those who use resin are not using supplies",
+      "avg_logprob": -0.06005427647720684,
+      "no_speech_prob": 0.159000426530838
+    },
+    {
+      "id": 7,
+      "start": 34.8,
+      "end": 41.44,
+      "text": "or mediums that can harm the environment, which is just blatantly incorrect. Have you ever supported",
+      "avg_logprob": -0.06005427647720684,
+      "no_speech_prob": 0.159000426530838
+    },
+    {
+      "id": 8,
+      "start": 41.44,
+      "end": 46.96,
+      "text": "an acrylic artist? Acrylic paint contains plastic. Oil painters are using literal toxic",
+      "avg_logprob": -0.06005427647720684,
+      "no_speech_prob": 0.159000426530838
+    },
+    {
+      "id": 9,
+      "start": 46.96,
+      "end": 52.4,
+      "text": "waste in their art. There is no way to produce art without producing some kind of pollution",
+      "avg_logprob": -0.06005427647720684,
+      "no_speech_prob": 0.159000426530838
+    },
+    {
+      "id": 10,
+      "start": 52.4,
+      "end": 56.4,
+      "text": "just as no individual under the confines of capitalism can be entirely ethical.",
+      "avg_logprob": -0.06005427647720684,
+      "no_speech_prob": 0.159000426530838
+    }
+  ],
+  "transcript_full": "I think this is such a strange comment because ultimately you're doing two things. One, you're putting the onus on small individuals who run businesses when it comes to environmental protection and preservation instead of putting that onus on major corporations who are actually the people that we should be blaming for all of the environmental damage because I promise you that small businesses are not the ones contributing to climate change. But the second thing is you're also assuming that other kinds of artists outside of those who use resin are not using supplies or mediums that can harm the environment, which is just blatantly incorrect. Have you ever supported an acrylic artist? Acrylic paint contains plastic. Oil painters are using literal toxic waste in their art. There is no way to produce art without producing some kind of pollution just as no individual under the confines of capitalism can be entirely ethical.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

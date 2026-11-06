@@ -1,0 +1,156 @@
+{
+  "language": "en",
+  "language_probability": 0.9773331880569458,
+  "duration": 50.117,
+  "duration_after_vad": 50.08,
+  "segment_count": 18,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.34,
+      "text": "And the thing is that the song is not about, like, the devil and the hell and shit.",
+      "avg_logprob": -0.2122245922575902,
+      "no_speech_prob": 0.2780396044254303
+    },
+    {
+      "id": 2,
+      "start": 5.34,
+      "end": 9.0,
+      "text": "It's literally, like, it's basically metaphors for, like, global warming and for climate",
+      "avg_logprob": -0.2122245922575902,
+      "no_speech_prob": 0.2780396044254303
+    },
+    {
+      "id": 3,
+      "start": 9.0,
+      "end": 10.54,
+      "text": "change and stuff.",
+      "avg_logprob": -0.2122245922575902,
+      "no_speech_prob": 0.2780396044254303
+    },
+    {
+      "id": 4,
+      "start": 10.54,
+      "end": 15.6,
+      "text": "And I think if you don't look into it, you'll just think, like, it's about fucking hell",
+      "avg_logprob": -0.2122245922575902,
+      "no_speech_prob": 0.2780396044254303
+    },
+    {
+      "id": 5,
+      "start": 15.6,
+      "end": 16.6,
+      "text": "and stuff.",
+      "avg_logprob": -0.2122245922575902,
+      "no_speech_prob": 0.2780396044254303
+    },
+    {
+      "id": 6,
+      "start": 16.6,
+      "end": 18.6,
+      "text": "But realistically, it's about the world we're living in right now.",
+      "avg_logprob": -0.2122245922575902,
+      "no_speech_prob": 0.2780396044254303
+    },
+    {
+      "id": 7,
+      "start": 18.6,
+      "end": 23.64,
+      "text": "Speaking of the global climate strike, how did you get involved?",
+      "avg_logprob": -0.2122245922575902,
+      "no_speech_prob": 0.2780396044254303
+    },
+    {
+      "id": 8,
+      "start": 23.64,
+      "end": 28.48,
+      "text": "I mean, I don't know if I even got involved, I just want to be involved.",
+      "avg_logprob": -0.2122245922575902,
+      "no_speech_prob": 0.2780396044254303
+    },
+    {
+      "id": 9,
+      "start": 28.48,
+      "end": 33.2,
+      "text": "I just think, like, there isn't that much time, to be honest with you.",
+      "avg_logprob": -0.1717300050179748,
+      "no_speech_prob": 0.06129385903477669
+    },
+    {
+      "id": 10,
+      "start": 33.2,
+      "end": 36.16,
+      "text": "And I feel like, do we want to die or do we want to live?",
+      "avg_logprob": -0.1717300050179748,
+      "no_speech_prob": 0.06129385903477669
+    },
+    {
+      "id": 11,
+      "start": 36.16,
+      "end": 37.16,
+      "text": "You know?",
+      "avg_logprob": -0.1717300050179748,
+      "no_speech_prob": 0.06129385903477669
+    },
+    {
+      "id": 12,
+      "start": 37.16,
+      "end": 38.16,
+      "text": "Like, do you want to live, though?",
+      "avg_logprob": -0.1717300050179748,
+      "no_speech_prob": 0.06129385903477669
+    },
+    {
+      "id": 13,
+      "start": 38.16,
+      "end": 39.16,
+      "text": "Like, yes, right?",
+      "avg_logprob": -0.1717300050179748,
+      "no_speech_prob": 0.06129385903477669
+    },
+    {
+      "id": 14,
+      "start": 39.16,
+      "end": 40.16,
+      "text": "We all want to live.",
+      "avg_logprob": -0.1717300050179748,
+      "no_speech_prob": 0.06129385903477669
+    },
+    {
+      "id": 15,
+      "start": 40.16,
+      "end": 43.84,
+      "text": "And we want, you know, our children to live and their children to live.",
+      "avg_logprob": -0.1717300050179748,
+      "no_speech_prob": 0.06129385903477669
+    },
+    {
+      "id": 16,
+      "start": 43.84,
+      "end": 45.8,
+      "text": "And there's a lot of things you can do.",
+      "avg_logprob": -0.1717300050179748,
+      "no_speech_prob": 0.06129385903477669
+    },
+    {
+      "id": 17,
+      "start": 45.8,
+      "end": 49.2,
+      "text": "I mean, for me, I, you know, I don't use a lot of plastic.",
+      "avg_logprob": -0.1717300050179748,
+      "no_speech_prob": 0.06129385903477669
+    },
+    {
+      "id": 18,
+      "start": 49.2,
+      "end": 50.08,
+      "text": "I don't eat meat.",
+      "avg_logprob": -0.1717300050179748,
+      "no_speech_prob": 0.06129385903477669
+    }
+  ],
+  "transcript_full": "And the thing is that the song is not about, like, the devil and the hell and shit. It's literally, like, it's basically metaphors for, like, global warming and for climate change and stuff. And I think if you don't look into it, you'll just think, like, it's about fucking hell and stuff. But realistically, it's about the world we're living in right now. Speaking of the global climate strike, how did you get involved? I mean, I don't know if I even got involved, I just want to be involved. I just think, like, there isn't that much time, to be honest with you. And I feel like, do we want to die or do we want to live? You know? Like, do you want to live, though? Like, yes, right? We all want to live. And we want, you know, our children to live and their children to live. And there's a lot of things you can do. I mean, for me, I, you know, I don't use a lot of plastic. I don't eat meat.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

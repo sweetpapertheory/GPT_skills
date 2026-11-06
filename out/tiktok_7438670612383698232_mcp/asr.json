@@ -1,0 +1,116 @@
+{
+  "language": "en",
+  "language_probability": 0.9652689695358276,
+  "duration": 107.05,
+  "duration_after_vad": 100.32,
+  "segment_count": 13,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 9.04,
+      "text": "But let me just take you quickly to rank a small town on the border of South Sudan and Sudan.",
+      "avg_logprob": -0.16957915972356927,
+      "no_speech_prob": 0.03164983540773392
+    },
+    {
+      "id": 2,
+      "start": 9.04,
+      "end": 14.0,
+      "text": "And I was there a few months ago. It was quite a hard-penshing experience for me.",
+      "avg_logprob": -0.16957915972356927,
+      "no_speech_prob": 0.03164983540773392
+    },
+    {
+      "id": 3,
+      "start": 14.64,
+      "end": 23.2,
+      "text": "Every 15-20 minutes, there would be at least 30 refugees and returnees from Sudan coming to",
+      "avg_logprob": -0.16957915972356927,
+      "no_speech_prob": 0.03164983540773392
+    },
+    {
+      "id": 4,
+      "start": 23.2,
+      "end": 33.84,
+      "text": "South Sudan. But what was both very sadly surprising for me was the fact that they were not just escaping",
+      "avg_logprob": -0.22028035383958083,
+      "no_speech_prob": 0.016776597127318382
+    },
+    {
+      "id": 5,
+      "start": 35.04,
+      "end": 45.28,
+      "text": "they were actually also climate. Just last year almost 400,000 people from Sudan have moved to",
+      "avg_logprob": -0.22028035383958083,
+      "no_speech_prob": 0.016776597127318382
+    },
+    {
+      "id": 6,
+      "start": 45.28,
+      "end": 50.96,
+      "text": "South Sudan who are climate refugees essentially because of the plants. That's the level of",
+      "avg_logprob": -0.22028035383958083,
+      "no_speech_prob": 0.016776597127318382
+    },
+    {
+      "id": 7,
+      "start": 51.92,
+      "end": 59.84,
+      "text": "actual climate impact that we are seeing. We released a report earlier on the refugee day",
+      "avg_logprob": -0.14118238886197407,
+      "no_speech_prob": 0.002257978543639183
+    },
+    {
+      "id": 8,
+      "start": 60.64,
+      "end": 67.12,
+      "text": "and that report tells us that there were 8 million times people were displaced for their homes",
+      "avg_logprob": -0.14118238886197407,
+      "no_speech_prob": 0.002257978543639183
+    },
+    {
+      "id": 9,
+      "start": 68.0,
+      "end": 78.48,
+      "text": "again because of water-related disasters. And this is almost a 1-20 percent increase",
+      "avg_logprob": -0.14118238886197407,
+      "no_speech_prob": 0.002257978543639183
+    },
+    {
+      "id": 10,
+      "start": 79.04,
+      "end": 83.84,
+      "text": "from the previous report. Let me again give you another data point to this year.",
+      "avg_logprob": -0.16151848728909637,
+      "no_speech_prob": 0.003461484331637621
+    },
+    {
+      "id": 11,
+      "start": 85.36,
+      "end": 94.56,
+      "text": "In the 10 most affected climate countries, we have seen a number of displacement go from 3.5",
+      "avg_logprob": -0.16151848728909637,
+      "no_speech_prob": 0.003461484331637621
+    },
+    {
+      "id": 12,
+      "start": 94.56,
+      "end": 104.64,
+      "text": "million in 2030 to now 7.9 million in 2020. So what you're seeing is a very devastating",
+      "avg_logprob": -0.16151848728909637,
+      "no_speech_prob": 0.003461484331637621
+    },
+    {
+      "id": 13,
+      "start": 104.64,
+      "end": 106.88,
+      "text": "alarming situation.",
+      "avg_logprob": -0.7108036677042643,
+      "no_speech_prob": 0.2886776924133301
+    }
+  ],
+  "transcript_full": "But let me just take you quickly to rank a small town on the border of South Sudan and Sudan. And I was there a few months ago. It was quite a hard-penshing experience for me. Every 15-20 minutes, there would be at least 30 refugees and returnees from Sudan coming to South Sudan. But what was both very sadly surprising for me was the fact that they were not just escaping they were actually also climate. Just last year almost 400,000 people from Sudan have moved to South Sudan who are climate refugees essentially because of the plants. That's the level of actual climate impact that we are seeing. We released a report earlier on the refugee day and that report tells us that there were 8 million times people were displaced for their homes again because of water-related disasters. And this is almost a 1-20 percent increase from the previous report. Let me again give you another data point to this year. In the 10 most affected climate countries, we have seen a number of displacement go from 3.5 million in 2030 to now 7.9 million in 2020. So what you're seeing is a very devastating alarming situation.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

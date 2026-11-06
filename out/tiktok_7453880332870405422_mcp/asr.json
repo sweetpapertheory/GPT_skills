@@ -1,0 +1,124 @@
+{
+  "language": "en",
+  "language_probability": 0.9995546936988831,
+  "duration": 70.31,
+  "duration_after_vad": 67.57,
+  "segment_count": 14,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.24,
+      "end": 10.45,
+      "text": "Top board games of 2024 coming in at number four. We've got daybreak. This is a cooperative little ditty and it's just",
+      "avg_logprob": -0.20755677558481694,
+      "no_speech_prob": 0.03685295581817627
+    },
+    {
+      "id": 2,
+      "start": 12.05,
+      "end": 17.97,
+      "text": "We're all playing as leaders of nations working together to try and slow down the effects of global warming before it gets too hot",
+      "avg_logprob": -0.20755677558481694,
+      "no_speech_prob": 0.03685295581817627
+    },
+    {
+      "id": 3,
+      "start": 17.97,
+      "end": 20.93,
+      "text": "Cabin emissions. We don't want them get them out of here",
+      "avg_logprob": -0.20755677558481694,
+      "no_speech_prob": 0.03685295581817627
+    },
+    {
+      "id": 4,
+      "start": 20.93,
+      "end": 24.77,
+      "text": "Got this fat deck of cards to work with here to build out our engine",
+      "avg_logprob": -0.20755677558481694,
+      "no_speech_prob": 0.03685295581817627
+    },
+    {
+      "id": 5,
+      "start": 24.77,
+      "end": 31.73,
+      "text": "We're enacting policies at building infrastructure like windmills to turn dirty energy into clean energy and just planting a damn tree to",
+      "avg_logprob": -0.20755677558481694,
+      "no_speech_prob": 0.03685295581817627
+    },
+    {
+      "id": 6,
+      "start": 31.73,
+      "end": 34.69,
+      "text": "Counteract all of this carbon. That's just having its way with us",
+      "avg_logprob": -0.19163109629011865,
+      "no_speech_prob": 0.012076359242200851
+    },
+    {
+      "id": 7,
+      "start": 34.69,
+      "end": 39.73,
+      "text": "But because this shit is hard any carbon you have left over at the end of the rounds going right into that thermometer",
+      "avg_logprob": -0.19163109629011865,
+      "no_speech_prob": 0.012076359242200851
+    },
+    {
+      "id": 8,
+      "start": 39.73,
+      "end": 44.77,
+      "text": "And it's getting hot. You roll that environment. I see what natural disaster happens next",
+      "avg_logprob": -0.19163109629011865,
+      "no_speech_prob": 0.012076359242200851
+    },
+    {
+      "id": 9,
+      "start": 44.77,
+      "end": 48.53,
+      "text": "Crises start rolling in at a rapid rate and we just need to protect our people",
+      "avg_logprob": -0.19163109629011865,
+      "no_speech_prob": 0.012076359242200851
+    },
+    {
+      "id": 10,
+      "start": 48.53,
+      "end": 52.53,
+      "text": "We want global emissions hitting that zero baby. That's for the W. Yes",
+      "avg_logprob": -0.19163109629011865,
+      "no_speech_prob": 0.012076359242200851
+    },
+    {
+      "id": 11,
+      "start": 52.53,
+      "end": 53.73,
+      "text": "The theme can be kind of heavy",
+      "avg_logprob": -0.19163109629011865,
+      "no_speech_prob": 0.012076359242200851
+    },
+    {
+      "id": 12,
+      "start": 53.73,
+      "end": 59.73,
+      "text": "But they have done such an incredible job creating this experience that accurately portrays our climate crisis and educates you",
+      "avg_logprob": -0.19163109629011865,
+      "no_speech_prob": 0.012076359242200851
+    },
+    {
+      "id": 13,
+      "start": 59.97,
+      "end": 63.25,
+      "text": "While still making a game. That's fun. It feels weird to say",
+      "avg_logprob": -0.10793570724005501,
+      "no_speech_prob": 0.031247150152921677
+    },
+    {
+      "id": 14,
+      "start": 63.25,
+      "end": 69.65,
+      "text": "But I want to play this over and over and over again because the puzzle of it is so damn good. It's a thing of beauty",
+      "avg_logprob": -0.10793570724005501,
+      "no_speech_prob": 0.031247150152921677
+    }
+  ],
+  "transcript_full": "Top board games of 2024 coming in at number four. We've got daybreak. This is a cooperative little ditty and it's just We're all playing as leaders of nations working together to try and slow down the effects of global warming before it gets too hot Cabin emissions. We don't want them get them out of here Got this fat deck of cards to work with here to build out our engine We're enacting policies at building infrastructure like windmills to turn dirty energy into clean energy and just planting a damn tree to Counteract all of this carbon. That's just having its way with us But because this shit is hard any carbon you have left over at the end of the rounds going right into that thermometer And it's getting hot. You roll that environment. I see what natural disaster happens next Crises start rolling in at a rapid rate and we just need to protect our people We want global emissions hitting that zero baby. That's for the W. Yes The theme can be kind of heavy But they have done such an incredible job creating this experience that accurately portrays our climate crisis and educates you While still making a game. That's fun. It feels weird to say But I want to play this over and over and over again because the puzzle of it is so damn good. It's a thing of beauty",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

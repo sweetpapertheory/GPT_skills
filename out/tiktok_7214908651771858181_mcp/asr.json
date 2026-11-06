@@ -1,0 +1,60 @@
+{
+  "language": "en",
+  "language_probability": 0.9586393237113953,
+  "duration": 22.545,
+  "duration_after_vad": 22.4,
+  "segment_count": 6,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.76,
+      "text": "I got some free trees from the Woodland Trust who are currently giving away thousands of trees",
+      "avg_logprob": -0.09991337791742648,
+      "no_speech_prob": 0.009734258987009525
+    },
+    {
+      "id": 2,
+      "start": 3.76,
+      "end": 7.52,
+      "text": "for households in Wales. Check their website if you live elsewhere in the UK as they have some",
+      "avg_logprob": -0.09991337791742648,
+      "no_speech_prob": 0.009734258987009525
+    },
+    {
+      "id": 3,
+      "start": 7.52,
+      "end": 11.2,
+      "text": "other schemes too. They send you surprise trees and I couldn't believe I got Rowan and Hazel",
+      "avg_logprob": -0.09991337791742648,
+      "no_speech_prob": 0.009734258987009525
+    },
+    {
+      "id": 4,
+      "start": 11.2,
+      "end": 14.88,
+      "text": "because that's the names of my nephew and niece. I decided to plant mine around the edges of",
+      "avg_logprob": -0.09991337791742648,
+      "no_speech_prob": 0.009734258987009525
+    },
+    {
+      "id": 5,
+      "start": 14.88,
+      "end": 18.4,
+      "text": "the garden to add to the trees that are already there to create more of a hedge.",
+      "avg_logprob": -0.09991337791742648,
+      "no_speech_prob": 0.009734258987009525
+    },
+    {
+      "id": 6,
+      "start": 18.4,
+      "end": 22.4,
+      "text": "All I did was dug a hole, put the tree in it, filled it back in and firmed it down with my foot.",
+      "avg_logprob": -0.09991337791742648,
+      "no_speech_prob": 0.009734258987009525
+    }
+  ],
+  "transcript_full": "I got some free trees from the Woodland Trust who are currently giving away thousands of trees for households in Wales. Check their website if you live elsewhere in the UK as they have some other schemes too. They send you surprise trees and I couldn't believe I got Rowan and Hazel because that's the names of my nephew and niece. I decided to plant mine around the edges of the garden to add to the trees that are already there to create more of a hedge. All I did was dug a hole, put the tree in it, filled it back in and firmed it down with my foot.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

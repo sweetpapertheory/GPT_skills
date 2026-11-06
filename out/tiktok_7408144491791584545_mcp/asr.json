@@ -1,0 +1,236 @@
+{
+  "language": "en",
+  "language_probability": 0.8934448957443237,
+  "duration": 108.591,
+  "duration_after_vad": 87.96,
+  "segment_count": 28,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.05,
+      "end": 7.05,
+      "text": "Mr. Stammer has been snivelling in Germany with the EU leaders and I've been listening to him.",
+      "avg_logprob": -0.27892013390858966,
+      "no_speech_prob": 0.0236434917896986
+    },
+    {
+      "id": 2,
+      "start": 7.93,
+      "end": 9.93,
+      "text": "What he was saying is that",
+      "avg_logprob": -0.27892013390858966,
+      "no_speech_prob": 0.0236434917896986
+    },
+    {
+      "id": 3,
+      "start": 11.01,
+      "end": 16.33,
+      "text": "climate change is one of the driving factors behind the illegal immigration.",
+      "avg_logprob": -0.27892013390858966,
+      "no_speech_prob": 0.0236434917896986
+    },
+    {
+      "id": 4,
+      "start": 17.45,
+      "end": 19.21,
+      "text": "Climate change.",
+      "avg_logprob": -0.27892013390858966,
+      "no_speech_prob": 0.0236434917896986
+    },
+    {
+      "id": 5,
+      "start": 19.21,
+      "end": 22.77,
+      "text": "So, they're not necessarily fleeing war-torn countries.",
+      "avg_logprob": -0.27892013390858966,
+      "no_speech_prob": 0.0236434917896986
+    },
+    {
+      "id": 6,
+      "start": 24.13,
+      "end": 26.13,
+      "text": "It's climate change.",
+      "avg_logprob": -0.27892013390858966,
+      "no_speech_prob": 0.0236434917896986
+    },
+    {
+      "id": 7,
+      "start": 26.45,
+      "end": 29.01,
+      "text": "Have you ever heard so much bullshit in all of your life?",
+      "avg_logprob": -0.27892013390858966,
+      "no_speech_prob": 0.0236434917896986
+    },
+    {
+      "id": 8,
+      "start": 29.81,
+      "end": 31.81,
+      "text": "So this now means",
+      "avg_logprob": -0.3356044507688946,
+      "no_speech_prob": 0.004968635272234678
+    },
+    {
+      "id": 9,
+      "start": 32.29,
+      "end": 35.33,
+      "text": "that we're all probably going to get taxed more",
+      "avg_logprob": -0.3356044507688946,
+      "no_speech_prob": 0.004968635272234678
+    },
+    {
+      "id": 10,
+      "start": 35.97,
+      "end": 40.97,
+      "text": "for cars, things like that, because we've got to bring the CO2 levels down",
+      "avg_logprob": -0.3356044507688946,
+      "no_speech_prob": 0.004968635272234678
+    },
+    {
+      "id": 11,
+      "start": 41.69,
+      "end": 43.69,
+      "text": "to stop climate change,",
+      "avg_logprob": -0.3356044507688946,
+      "no_speech_prob": 0.004968635272234678
+    },
+    {
+      "id": 12,
+      "start": 44.01,
+      "end": 46.01,
+      "text": "to stop illegal immigration.",
+      "avg_logprob": -0.3356044507688946,
+      "no_speech_prob": 0.004968635272234678
+    },
+    {
+      "id": 13,
+      "start": 46.93,
+      "end": 48.93,
+      "text": "It just sounds like a money grab to me.",
+      "avg_logprob": -0.3356044507688946,
+      "no_speech_prob": 0.004968635272234678
+    },
+    {
+      "id": 14,
+      "start": 49.53,
+      "end": 52.53,
+      "text": "And I've never heard such a",
+      "avg_logprob": -0.3356044507688946,
+      "no_speech_prob": 0.004968635272234678
+    },
+    {
+      "id": 15,
+      "start": 53.01,
+      "end": 55.65,
+      "text": "arse-licking snivelling sycophant",
+      "avg_logprob": -0.3356044507688946,
+      "no_speech_prob": 0.004968635272234678
+    },
+    {
+      "id": 16,
+      "start": 56.29,
+      "end": 58.93,
+      "text": "in all of my life than his opening speech.",
+      "avg_logprob": -0.21869411613001968,
+      "no_speech_prob": 0.017894186079502106
+    },
+    {
+      "id": 17,
+      "start": 59.37,
+      "end": 64.65,
+      "text": "It was almost as though he's trying to get everyone to get back into the European Union",
+      "avg_logprob": -0.21869411613001968,
+      "no_speech_prob": 0.017894186079502106
+    },
+    {
+      "id": 18,
+      "start": 64.93,
+      "end": 66.93,
+      "text": "and all his cronies on board.",
+      "avg_logprob": -0.21869411613001968,
+      "no_speech_prob": 0.017894186079502106
+    },
+    {
+      "id": 19,
+      "start": 67.37,
+      "end": 70.49,
+      "text": "But have you ever heard so much bullshit in all of your life?",
+      "avg_logprob": -0.21869411613001968,
+      "no_speech_prob": 0.017894186079502106
+    },
+    {
+      "id": 20,
+      "start": 71.41,
+      "end": 73.41,
+      "text": "Climate change.",
+      "avg_logprob": -0.21869411613001968,
+      "no_speech_prob": 0.017894186079502106
+    },
+    {
+      "id": 21,
+      "start": 73.81,
+      "end": 79.05,
+      "text": "As I'm sat here on the 28th of August and it's fucking about 19 degrees.",
+      "avg_logprob": -0.21869411613001968,
+      "no_speech_prob": 0.017894186079502106
+    },
+    {
+      "id": 22,
+      "start": 80.05,
+      "end": 82.85,
+      "text": "It's not very hot here, but climate change",
+      "avg_logprob": -0.21869411613001968,
+      "no_speech_prob": 0.017894186079502106
+    },
+    {
+      "id": 23,
+      "start": 83.85,
+      "end": 86.85,
+      "text": "is responsible for the migration crisis.",
+      "avg_logprob": -0.12989745501961028,
+      "no_speech_prob": 0.0053710732609033585
+    },
+    {
+      "id": 24,
+      "start": 87.85,
+      "end": 92.85,
+      "text": "Whether that was illegal or just the sheer amount of people wanting to move,",
+      "avg_logprob": -0.12989745501961028,
+      "no_speech_prob": 0.0053710732609033585
+    },
+    {
+      "id": 25,
+      "start": 93.85,
+      "end": 94.85,
+      "text": "it's climate change.",
+      "avg_logprob": -0.12989745501961028,
+      "no_speech_prob": 0.0053710732609033585
+    },
+    {
+      "id": 26,
+      "start": 95.85,
+      "end": 99.85,
+      "text": "It's your little car, it's your Ford Fiesta 1.1.",
+      "avg_logprob": -0.12989745501961028,
+      "no_speech_prob": 0.0053710732609033585
+    },
+    {
+      "id": 27,
+      "start": 100.85,
+      "end": 104.85,
+      "text": "It's the fact that you have the audacity to put your heating on in the winter.",
+      "avg_logprob": -0.12989745501961028,
+      "no_speech_prob": 0.0053710732609033585
+    },
+    {
+      "id": 28,
+      "start": 105.85,
+      "end": 107.85,
+      "text": "Sounds like a load of bullshit to me.",
+      "avg_logprob": -0.12989745501961028,
+      "no_speech_prob": 0.0053710732609033585
+    }
+  ],
+  "transcript_full": "Mr. Stammer has been snivelling in Germany with the EU leaders and I've been listening to him. What he was saying is that climate change is one of the driving factors behind the illegal immigration. Climate change. So, they're not necessarily fleeing war-torn countries. It's climate change. Have you ever heard so much bullshit in all of your life? So this now means that we're all probably going to get taxed more for cars, things like that, because we've got to bring the CO2 levels down to stop climate change, to stop illegal immigration. It just sounds like a money grab to me. And I've never heard such a arse-licking snivelling sycophant in all of my life than his opening speech. It was almost as though he's trying to get everyone to get back into the European Union and all his cronies on board. But have you ever heard so much bullshit in all of your life? Climate change. As I'm sat here on the 28th of August and it's fucking about 19 degrees. It's not very hot here, but climate change is responsible for the migration crisis. Whether that was illegal or just the sheer amount of people wanting to move, it's climate change. It's your little car, it's your Ford Fiesta 1.1. It's the fact that you have the audacity to put your heating on in the winter. Sounds like a load of bullshit to me.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

@@ -1,0 +1,236 @@
+{
+  "language": "en",
+  "language_probability": 0.5207130908966064,
+  "duration": 112.8,
+  "duration_after_vad": 109.2,
+  "segment_count": 28,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.92,
+      "text": "The leader of the Liberal Democrat Party, and as you see in the natural environment, New",
+      "avg_logprob": -0.45266555484972504,
+      "no_speech_prob": 0.34958401322364807
+    },
+    {
+      "id": 2,
+      "start": 7.92,
+      "end": 13.72,
+      "text": "Hallians playing football. We will help with that whilst you can watch free football on",
+      "avg_logprob": -0.45266555484972504,
+      "no_speech_prob": 0.34958401322364807
+    },
+    {
+      "id": 3,
+      "start": 13.72,
+      "end": 15.08,
+      "text": "every channel.",
+      "avg_logprob": -0.45266555484972504,
+      "no_speech_prob": 0.34958401322364807
+    },
+    {
+      "id": 4,
+      "start": 15.08,
+      "end": 27.06,
+      "text": "I'm going to live down, I'm going to live down.",
+      "avg_logprob": -0.45266555484972504,
+      "no_speech_prob": 0.34958401322364807
+    },
+    {
+      "id": 5,
+      "start": 27.06,
+      "end": 36.81,
+      "text": "Here we're going into the Health and Wellbeing Centre at Newhall School to talk to the",
+      "avg_logprob": -0.45266555484972504,
+      "no_speech_prob": 0.34958401322364807
+    },
+    {
+      "id": 6,
+      "start": 36.81,
+      "end": 39.81,
+      "text": "counselling lady about her opinions on Liberal Democrats.",
+      "avg_logprob": -0.45266555484972504,
+      "no_speech_prob": 0.34958401322364807
+    },
+    {
+      "id": 7,
+      "start": 39.81,
+      "end": 45.81,
+      "text": "So the Liberal Democrats are hoping to increase funding for kids mental health and to increase",
+      "avg_logprob": -0.13095011845940635,
+      "no_speech_prob": 0.16723108291625977
+    },
+    {
+      "id": 8,
+      "start": 45.81,
+      "end": 50.81,
+      "text": "and speed up cancer treatments along with increasing the amount of GPs.",
+      "avg_logprob": -0.13095011845940635,
+      "no_speech_prob": 0.16723108291625977
+    },
+    {
+      "id": 9,
+      "start": 50.81,
+      "end": 53.81,
+      "text": "I heard that the Lib Dems are legalising marijuana.",
+      "avg_logprob": -0.13095011845940635,
+      "no_speech_prob": 0.16723108291625977
+    },
+    {
+      "id": 10,
+      "start": 53.81,
+      "end": 55.81,
+      "text": "Why do you think it's beneficial to our country?",
+      "avg_logprob": -0.13095011845940635,
+      "no_speech_prob": 0.16723108291625977
+    },
+    {
+      "id": 11,
+      "start": 55.81,
+      "end": 59.81,
+      "text": "I think this is beneficial because it's proven to be non-harmful towards people.",
+      "avg_logprob": -0.13095011845940635,
+      "no_speech_prob": 0.16723108291625977
+    },
+    {
+      "id": 12,
+      "start": 59.81,
+      "end": 63.81,
+      "text": "It reduces crime rates, gangs and it's also a stress relief.",
+      "avg_logprob": -0.13095011845940635,
+      "no_speech_prob": 0.16723108291625977
+    },
+    {
+      "id": 13,
+      "start": 63.81,
+      "end": 66.81,
+      "text": "Why do you think it's beneficial under 18s like us to have free transport services",
+      "avg_logprob": -0.13095011845940635,
+      "no_speech_prob": 0.16723108291625977
+    },
+    {
+      "id": 14,
+      "start": 66.81,
+      "end": 68.81,
+      "text": "like buses and trains?",
+      "avg_logprob": -0.13095011845940635,
+      "no_speech_prob": 0.16723108291625977
+    },
+    {
+      "id": 15,
+      "start": 68.81,
+      "end": 72.81,
+      "text": "Personally, as an under 18, I spend so much of my own money on train tickets going into",
+      "avg_logprob": -0.1022882145932979,
+      "no_speech_prob": 0.02829056605696678
+    },
+    {
+      "id": 16,
+      "start": 72.81,
+      "end": 76.81,
+      "text": "London. This is made even worse because when you turn 15, your class is an adult.",
+      "avg_logprob": -0.1022882145932979,
+      "no_speech_prob": 0.02829056605696678
+    },
+    {
+      "id": 17,
+      "start": 76.81,
+      "end": 79.81,
+      "text": "Therefore, I think it should be made free for all under 18s.",
+      "avg_logprob": -0.1022882145932979,
+      "no_speech_prob": 0.02829056605696678
+    },
+    {
+      "id": 18,
+      "start": 79.81,
+      "end": 80.81,
+      "text": "I agree.",
+      "avg_logprob": -0.1022882145932979,
+      "no_speech_prob": 0.02829056605696678
+    },
+    {
+      "id": 19,
+      "start": 80.81,
+      "end": 84.76,
+      "text": "What are you voting for in the next election?",
+      "avg_logprob": -0.1022882145932979,
+      "no_speech_prob": 0.02829056605696678
+    },
+    {
+      "id": 20,
+      "start": 84.76,
+      "end": 85.76,
+      "text": "Thank you.",
+      "avg_logprob": -0.1022882145932979,
+      "no_speech_prob": 0.02829056605696678
+    },
+    {
+      "id": 21,
+      "start": 85.76,
+      "end": 87.76,
+      "text": "That's great, thank you.",
+      "avg_logprob": -0.1022882145932979,
+      "no_speech_prob": 0.02829056605696678
+    },
+    {
+      "id": 22,
+      "start": 87.76,
+      "end": 91.76,
+      "text": "Minimum wage for under 18s is currently £6.50 but the Lib Dems will rate this",
+      "avg_logprob": -0.1022882145932979,
+      "no_speech_prob": 0.02829056605696678
+    },
+    {
+      "id": 23,
+      "start": 91.76,
+      "end": 93.76,
+      "text": "to £8.50.",
+      "avg_logprob": -0.1022882145932979,
+      "no_speech_prob": 0.02829056605696678
+    },
+    {
+      "id": 24,
+      "start": 93.76,
+      "end": 97.76,
+      "text": "The Lib Dems are the only party that won't tax electric cars like these.",
+      "avg_logprob": -0.1022882145932979,
+      "no_speech_prob": 0.02829056605696678
+    },
+    {
+      "id": 25,
+      "start": 97.76,
+      "end": 100.76,
+      "text": "This means it will be cheaper for you to buy them and will help save our planet,",
+      "avg_logprob": -0.08791675215417688,
+      "no_speech_prob": 0.3825756013393402
+    },
+    {
+      "id": 26,
+      "start": 100.76,
+      "end": 104.2,
+      "text": "reaching net zero carbon sooner.",
+      "avg_logprob": -0.08791675215417688,
+      "no_speech_prob": 0.3825756013393402
+    },
+    {
+      "id": 27,
+      "start": 104.2,
+      "end": 107.2,
+      "text": "One of our main policies is to help animals like these and to save our planet",
+      "avg_logprob": -0.08791675215417688,
+      "no_speech_prob": 0.3825756013393402
+    },
+    {
+      "id": 28,
+      "start": 107.2,
+      "end": 109.2,
+      "text": "by planting lots of trees.",
+      "avg_logprob": -0.08791675215417688,
+      "no_speech_prob": 0.3825756013393402
+    }
+  ],
+  "transcript_full": "The leader of the Liberal Democrat Party, and as you see in the natural environment, New Hallians playing football. We will help with that whilst you can watch free football on every channel. I'm going to live down, I'm going to live down. Here we're going into the Health and Wellbeing Centre at Newhall School to talk to the counselling lady about her opinions on Liberal Democrats. So the Liberal Democrats are hoping to increase funding for kids mental health and to increase and speed up cancer treatments along with increasing the amount of GPs. I heard that the Lib Dems are legalising marijuana. Why do you think it's beneficial to our country? I think this is beneficial because it's proven to be non-harmful towards people. It reduces crime rates, gangs and it's also a stress relief. Why do you think it's beneficial under 18s like us to have free transport services like buses and trains? Personally, as an under 18, I spend so much of my own money on train tickets going into London. This is made even worse because when you turn 15, your class is an adult. Therefore, I think it should be made free for all under 18s. I agree. What are you voting for in the next election? Thank you. That's great, thank you. Minimum wage for under 18s is currently £6.50 but the Lib Dems will rate this to £8.50. The Lib Dems are the only party that won't tax electric cars like these. This means it will be cheaper for you to buy them and will help save our planet, reaching net zero carbon sooner. One of our main policies is to help animals like these and to save our planet by planting lots of trees.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

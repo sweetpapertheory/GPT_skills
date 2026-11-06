@@ -1,0 +1,140 @@
+{
+  "language": "en",
+  "language_probability": 0.9981815814971924,
+  "duration": 67.733,
+  "duration_after_vad": 67.36,
+  "segment_count": 16,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.08,
+      "end": 3.92,
+      "text": "The climate crisis is a psychological issue too, let me explain.",
+      "avg_logprob": -0.15194840135827528,
+      "no_speech_prob": 0.0050982339307665825
+    },
+    {
+      "id": 2,
+      "start": 3.92,
+      "end": 8.08,
+      "text": "According to researchers in psychology and environmental science, climate change is not",
+      "avg_logprob": -0.15194840135827528,
+      "no_speech_prob": 0.0050982339307665825
+    },
+    {
+      "id": 3,
+      "start": 8.08,
+      "end": 11.68,
+      "text": "just an environmental issue. It's a big deal for our mental health too.",
+      "avg_logprob": -0.15194840135827528,
+      "no_speech_prob": 0.0050982339307665825
+    },
+    {
+      "id": 4,
+      "start": 11.68,
+      "end": 16.4,
+      "text": "And our increasingly interconnected world, we're constantly being bombarded by climate",
+      "avg_logprob": -0.15194840135827528,
+      "no_speech_prob": 0.0050982339307665825
+    },
+    {
+      "id": 5,
+      "start": 16.4,
+      "end": 21.36,
+      "text": "change news and updates. These relentless notifications trigger strong emotions,",
+      "avg_logprob": -0.15194840135827528,
+      "no_speech_prob": 0.0050982339307665825
+    },
+    {
+      "id": 6,
+      "start": 21.36,
+      "end": 24.8,
+      "text": "frustration, despair, and sometimes even hope and empowerment.",
+      "avg_logprob": -0.15194840135827528,
+      "no_speech_prob": 0.0050982339307665825
+    },
+    {
+      "id": 7,
+      "start": 24.8,
+      "end": 29.44,
+      "text": "One thing is for certain, the climate crisis is unforgiving. Studies show that the emotional",
+      "avg_logprob": -0.15194840135827528,
+      "no_speech_prob": 0.0050982339307665825
+    },
+    {
+      "id": 8,
+      "start": 29.44,
+      "end": 34.16,
+      "text": "tool of climate change can cause echo anxiety and feelings of helplessness.",
+      "avg_logprob": -0.09371239212479922,
+      "no_speech_prob": 0.005415717139840126
+    },
+    {
+      "id": 9,
+      "start": 34.16,
+      "end": 37.68,
+      "text": "So, we must take the time to understand and process these emotions",
+      "avg_logprob": -0.09371239212479922,
+      "no_speech_prob": 0.005415717139840126
+    },
+    {
+      "id": 10,
+      "start": 37.68,
+      "end": 43.28,
+      "text": "for our mental well-being. One way to manage our feelings is by using the climate emotions wheel.",
+      "avg_logprob": -0.09371239212479922,
+      "no_speech_prob": 0.005415717139840126
+    },
+    {
+      "id": 11,
+      "start": 43.28,
+      "end": 46.96,
+      "text": "It helps us pinpoint and express our climate-related emotions,",
+      "avg_logprob": -0.09371239212479922,
+      "no_speech_prob": 0.005415717139840126
+    },
+    {
+      "id": 12,
+      "start": 46.96,
+      "end": 51.84,
+      "text": "spreading them into four categories. Anger, positivity, fear, and sadness.",
+      "avg_logprob": -0.09371239212479922,
+      "no_speech_prob": 0.005415717139840126
+    },
+    {
+      "id": 13,
+      "start": 51.84,
+      "end": 55.92,
+      "text": "By talking and handling these complex climate-related emotions,",
+      "avg_logprob": -0.09371239212479922,
+      "no_speech_prob": 0.005415717139840126
+    },
+    {
+      "id": 14,
+      "start": 55.92,
+      "end": 60.48,
+      "text": "we can turn that helplessness into action. Let's build a supportive community",
+      "avg_logprob": -0.17408182277627612,
+      "no_speech_prob": 0.005364945624023676
+    },
+    {
+      "id": 15,
+      "start": 60.48,
+      "end": 64.0,
+      "text": "where we share our experiences and coping mechanisms.",
+      "avg_logprob": -0.17408182277627612,
+      "no_speech_prob": 0.005364945624023676
+    },
+    {
+      "id": 16,
+      "start": 64.0,
+      "end": 67.44,
+      "text": "We're in this together. Follow us to grow and influence our future.",
+      "avg_logprob": -0.17408182277627612,
+      "no_speech_prob": 0.005364945624023676
+    }
+  ],
+  "transcript_full": "The climate crisis is a psychological issue too, let me explain. According to researchers in psychology and environmental science, climate change is not just an environmental issue. It's a big deal for our mental health too. And our increasingly interconnected world, we're constantly being bombarded by climate change news and updates. These relentless notifications trigger strong emotions, frustration, despair, and sometimes even hope and empowerment. One thing is for certain, the climate crisis is unforgiving. Studies show that the emotional tool of climate change can cause echo anxiety and feelings of helplessness. So, we must take the time to understand and process these emotions for our mental well-being. One way to manage our feelings is by using the climate emotions wheel. It helps us pinpoint and express our climate-related emotions, spreading them into four categories. Anger, positivity, fear, and sadness. By talking and handling these complex climate-related emotions, we can turn that helplessness into action. Let's build a supportive community where we share our experiences and coping mechanisms. We're in this together. Follow us to grow and influence our future.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

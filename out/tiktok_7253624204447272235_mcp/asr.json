@@ -1,0 +1,164 @@
+{
+  "language": "en",
+  "language_probability": 0.9991415739059448,
+  "duration": 163.861,
+  "duration_after_vad": 151.39,
+  "segment_count": 19,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.01,
+      "end": 12.27,
+      "text": "I got a new toy. This is called a lomi. They did send this to me without any agreement or anything.",
+      "avg_logprob": -0.12552091508235746,
+      "no_speech_prob": 0.038364049047231674
+    },
+    {
+      "id": 2,
+      "start": 12.27,
+      "end": 20.35,
+      "text": "It's not an ad but it was gifted. Should I read the instructions? This says it is activated",
+      "avg_logprob": -0.12552091508235746,
+      "no_speech_prob": 0.038364049047231674
+    },
+    {
+      "id": 3,
+      "start": 20.35,
+      "end": 33.86,
+      "text": "charcoal. I think it might go in here. This is the bucket for your food scraps. You put your",
+      "avg_logprob": -0.12552091508235746,
+      "no_speech_prob": 0.038364049047231674
+    },
+    {
+      "id": 4,
+      "start": 33.86,
+      "end": 38.34,
+      "text": "food waste in the bucket then you put the bucket back in and you turn it on. Do's and don'ts,",
+      "avg_logprob": -0.12552091508235746,
+      "no_speech_prob": 0.038364049047231674
+    },
+    {
+      "id": 5,
+      "start": 38.34,
+      "end": 47.22,
+      "text": "fruits and vegetables, food leftovers, meat scraps, soft bones like from fish, eggs, shrimp,",
+      "avg_logprob": -0.09358541435987047,
+      "no_speech_prob": 0.05627482756972313
+    },
+    {
+      "id": 6,
+      "start": 47.22,
+      "end": 53.14,
+      "text": "coffee filters, grounds, and tea bags. Starches, bread, potato pasta, dairy. Do not put any hard",
+      "avg_logprob": -0.09358541435987047,
+      "no_speech_prob": 0.05627482756972313
+    },
+    {
+      "id": 7,
+      "start": 53.14,
+      "end": 58.34,
+      "text": "bones in it. Beef, chicken, pork, and lamb. You got to watch the oils with the grease and liquids.",
+      "avg_logprob": -0.09358541435987047,
+      "no_speech_prob": 0.05627482756972313
+    },
+    {
+      "id": 8,
+      "start": 58.34,
+      "end": 64.1,
+      "text": "Don't put pits like avocados and peaches. I keep mine just to food waste and it does say",
+      "avg_logprob": -0.09358541435987047,
+      "no_speech_prob": 0.05627482756972313
+    },
+    {
+      "id": 9,
+      "start": 64.1,
+      "end": 70.58,
+      "text": "you can put these bags or other like papers and things but there are three settings and the one",
+      "avg_logprob": -0.08957331572644046,
+      "no_speech_prob": 0.08495146781206131
+    },
+    {
+      "id": 10,
+      "start": 70.58,
+      "end": 77.94,
+      "text": "that says is best for the garden which I'm interested in says not to put these plastic bags in. I made",
+      "avg_logprob": -0.08957331572644046,
+      "no_speech_prob": 0.08495146781206131
+    },
+    {
+      "id": 11,
+      "start": 77.94,
+      "end": 83.86,
+      "text": "a video about all the waste that my kids generate so we're going to start with that. Cereal. Well",
+      "avg_logprob": -0.08957331572644046,
+      "no_speech_prob": 0.08495146781206131
+    },
+    {
+      "id": 12,
+      "start": 84.5,
+      "end": 88.5,
+      "text": "that's it. It's going to take us a few days to fill this up. I want to store this in here",
+      "avg_logprob": -0.08957331572644046,
+      "no_speech_prob": 0.08495146781206131
+    },
+    {
+      "id": 13,
+      "start": 88.5,
+      "end": 92.18,
+      "text": "because there's no lid for the food scraps. I don't know if you would put your food",
+      "avg_logprob": -0.08957331572644046,
+      "no_speech_prob": 0.08495146781206131
+    },
+    {
+      "id": 14,
+      "start": 92.26,
+      "end": 99.06,
+      "text": "scraps in something else and then transfer them into here or what but this is pretty big. I mean",
+      "avg_logprob": -0.0978607829002773,
+      "no_speech_prob": 0.0029075504280626774
+    },
+    {
+      "id": 15,
+      "start": 99.78,
+      "end": 107.94,
+      "text": "my kitchen's really small. I'm not sure where I'm going to put it. That works for me. I'll see if",
+      "avg_logprob": -0.0978607829002773,
+      "no_speech_prob": 0.0029075504280626774
+    },
+    {
+      "id": 16,
+      "start": 107.94,
+      "end": 116.26,
+      "text": "I can run it right there too. It's pretty cute. Okay it's full because sadly I found some lettuce",
+      "avg_logprob": -0.0978607829002773,
+      "no_speech_prob": 0.0029075504280626774
+    },
+    {
+      "id": 17,
+      "start": 116.26,
+      "end": 132.05,
+      "text": "that we'd forgotten about so let's try the loamy. Okay it just started. It's making a",
+      "avg_logprob": -0.0978607829002773,
+      "no_speech_prob": 0.0029075504280626774
+    },
+    {
+      "id": 18,
+      "start": 132.05,
+      "end": 149.92,
+      "text": "whirring sound but not very loud. It's really crispy and it smells so good. I guess it just",
+      "avg_logprob": -0.1264367356068558,
+      "no_speech_prob": 0.0008306389208883047
+    },
+    {
+      "id": 19,
+      "start": 149.92,
+      "end": 153.84,
+      "text": "smells like coffee but look how much it reduced.",
+      "avg_logprob": -0.1264367356068558,
+      "no_speech_prob": 0.0008306389208883047
+    }
+  ],
+  "transcript_full": "I got a new toy. This is called a lomi. They did send this to me without any agreement or anything. It's not an ad but it was gifted. Should I read the instructions? This says it is activated charcoal. I think it might go in here. This is the bucket for your food scraps. You put your food waste in the bucket then you put the bucket back in and you turn it on. Do's and don'ts, fruits and vegetables, food leftovers, meat scraps, soft bones like from fish, eggs, shrimp, coffee filters, grounds, and tea bags. Starches, bread, potato pasta, dairy. Do not put any hard bones in it. Beef, chicken, pork, and lamb. You got to watch the oils with the grease and liquids. Don't put pits like avocados and peaches. I keep mine just to food waste and it does say you can put these bags or other like papers and things but there are three settings and the one that says is best for the garden which I'm interested in says not to put these plastic bags in. I made a video about all the waste that my kids generate so we're going to start with that. Cereal. Well that's it. It's going to take us a few days to fill this up. I want to store this in here because there's no lid for the food scraps. I don't know if you would put your food scraps in something else and then transfer them into here or what but this is pretty big. I mean my kitchen's really small. I'm not sure where I'm going to put it. That works for me. I'll see if I can run it right there too. It's pretty cute. Okay it's full because sadly I found some lettuce that we'd forgotten about so let's try the loamy. Okay it just started. It's making a whirring sound but not very loud. It's really crispy and it smells so good. I guess it just smells like coffee but look how much it reduced.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

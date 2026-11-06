@@ -1,0 +1,84 @@
+{
+  "language": "en",
+  "language_probability": 0.997055172920227,
+  "duration": 38.5,
+  "duration_after_vad": 38.32,
+  "segment_count": 9,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.0,
+      "text": "I really had no idea what K-Dogs were, but the fact that Wagamamas introduced some vegan",
+      "avg_logprob": -0.18545087060984775,
+      "no_speech_prob": 0.02099766582250595
+    },
+    {
+      "id": 2,
+      "start": 4.0,
+      "end": 8.24,
+      "text": "ones to their menu meant I needed to go find out, so it's basically a plant-based corn dog",
+      "avg_logprob": -0.18545087060984775,
+      "no_speech_prob": 0.02099766582250595
+    },
+    {
+      "id": 3,
+      "start": 8.24,
+      "end": 13.6,
+      "text": "and then it's coated in this like lovely crispy noodle crumb, which is just so nice and satisfying",
+      "avg_logprob": -0.18545087060984775,
+      "no_speech_prob": 0.02099766582250595
+    },
+    {
+      "id": 4,
+      "start": 13.6,
+      "end": 17.36,
+      "text": "and crunchy to bite through. And it came with like Sriracha and vegan mayo as well. Yeah,",
+      "avg_logprob": -0.18545087060984775,
+      "no_speech_prob": 0.02099766582250595
+    },
+    {
+      "id": 5,
+      "start": 17.36,
+      "end": 21.12,
+      "text": "this is a really fun vegan option, I'm really happy. Wagamamas is basically a vegan restaurant",
+      "avg_logprob": -0.18545087060984775,
+      "no_speech_prob": 0.02099766582250595
+    },
+    {
+      "id": 6,
+      "start": 21.12,
+      "end": 24.48,
+      "text": "these days I swear. Well no, only halfway there, but that's still pretty good. Yeah,",
+      "avg_logprob": -0.18545087060984775,
+      "no_speech_prob": 0.02099766582250595
+    },
+    {
+      "id": 7,
+      "start": 24.48,
+      "end": 29.36,
+      "text": "about half the menu is actually plant-based. I also tried out the new Roti and Razokatsu,",
+      "avg_logprob": -0.18545087060984775,
+      "no_speech_prob": 0.02099766582250595
+    },
+    {
+      "id": 8,
+      "start": 29.36,
+      "end": 33.6,
+      "text": "this comes with like Asian flatbread and it's basically carbs in a dip, which is always an",
+      "avg_logprob": -0.1719645227616032,
+      "no_speech_prob": 0.004918118938803673
+    },
+    {
+      "id": 9,
+      "start": 33.6,
+      "end": 38.32,
+      "text": "iconic duo, but it definitely was a bit heavy for just me, it would be a really good shower though.",
+      "avg_logprob": -0.1719645227616032,
+      "no_speech_prob": 0.004918118938803673
+    }
+  ],
+  "transcript_full": "I really had no idea what K-Dogs were, but the fact that Wagamamas introduced some vegan ones to their menu meant I needed to go find out, so it's basically a plant-based corn dog and then it's coated in this like lovely crispy noodle crumb, which is just so nice and satisfying and crunchy to bite through. And it came with like Sriracha and vegan mayo as well. Yeah, this is a really fun vegan option, I'm really happy. Wagamamas is basically a vegan restaurant these days I swear. Well no, only halfway there, but that's still pretty good. Yeah, about half the menu is actually plant-based. I also tried out the new Roti and Razokatsu, this comes with like Asian flatbread and it's basically carbs in a dip, which is always an iconic duo, but it definitely was a bit heavy for just me, it would be a really good shower though.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

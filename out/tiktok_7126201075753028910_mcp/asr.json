@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "language_probability": 0.8420441746711731,
+  "duration": 13.396,
+  "duration_after_vad": 6.5,
+  "segment_count": 1,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.69,
+      "end": 7.19,
+      "text": "Been talkin' bout the way things change",
+      "avg_logprob": -0.4880690032785589,
+      "no_speech_prob": 0.17766334116458893
+    }
+  ],
+  "transcript_full": "Been talkin' bout the way things change",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

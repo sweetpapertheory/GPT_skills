@@ -1,0 +1,116 @@
+{
+  "language": "en",
+  "language_probability": 0.734460711479187,
+  "duration": 36.4,
+  "duration_after_vad": 36.0,
+  "segment_count": 13,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Are you going to be inspiring your teammates with any little green things this weekend?",
+      "avg_logprob": -0.18238546938266395,
+      "no_speech_prob": 0.13611260056495667
+    },
+    {
+      "id": 2,
+      "start": 4.0,
+      "end": 6.0,
+      "text": "Anything you're going to try and challenge them to do?",
+      "avg_logprob": -0.18238546938266395,
+      "no_speech_prob": 0.13611260056495667
+    },
+    {
+      "id": 3,
+      "start": 6.0,
+      "end": 10.0,
+      "text": "To be fair, we're actually quite good at Caitlyn Ford's thing.",
+      "avg_logprob": -0.18238546938266395,
+      "no_speech_prob": 0.13611260056495667
+    },
+    {
+      "id": 4,
+      "start": 10.0,
+      "end": 12.0,
+      "text": "She picks up litter, which is pretty cool.",
+      "avg_logprob": -0.18238546938266395,
+      "no_speech_prob": 0.13611260056495667
+    },
+    {
+      "id": 5,
+      "start": 12.0,
+      "end": 14.0,
+      "text": "Really? Like, where does she go and do it?",
+      "avg_logprob": -0.18238546938266395,
+      "no_speech_prob": 0.13611260056495667
+    },
+    {
+      "id": 6,
+      "start": 14.0,
+      "end": 16.0,
+      "text": "I think just around St Almond's or where she lives.",
+      "avg_logprob": -0.18238546938266395,
+      "no_speech_prob": 0.13611260056495667
+    },
+    {
+      "id": 7,
+      "start": 16.0,
+      "end": 21.0,
+      "text": "Oh, are you going to be doing a climate change TikTok on your next post?",
+      "avg_logprob": -0.18238546938266395,
+      "no_speech_prob": 0.13611260056495667
+    },
+    {
+      "id": 8,
+      "start": 21.0,
+      "end": 23.0,
+      "text": "What should be the sound for it?",
+      "avg_logprob": -0.18238546938266395,
+      "no_speech_prob": 0.13611260056495667
+    },
+    {
+      "id": 9,
+      "start": 23.0,
+      "end": 26.0,
+      "text": "Actually, that's true. I don't even know if there is a good TikTok sound.",
+      "avg_logprob": -0.18238546938266395,
+      "no_speech_prob": 0.13611260056495667
+    },
+    {
+      "id": 10,
+      "start": 26.0,
+      "end": 28.0,
+      "text": "I don't know if there is a good one for climate change.",
+      "avg_logprob": -0.18238546938266395,
+      "no_speech_prob": 0.13611260056495667
+    },
+    {
+      "id": 11,
+      "start": 28.0,
+      "end": 30.0,
+      "text": "Challenge accepted.",
+      "avg_logprob": -0.2635574653744698,
+      "no_speech_prob": 0.11125756800174713
+    },
+    {
+      "id": 12,
+      "start": 30.0,
+      "end": 33.0,
+      "text": "There you go. It's going to be on the Sky Sports WSL TikTok page.",
+      "avg_logprob": -0.2635574653744698,
+      "no_speech_prob": 0.11125756800174713
+    },
+    {
+      "id": 13,
+      "start": 33.0,
+      "end": 36.0,
+      "text": "I'm sure, so I'll be waiting for it.",
+      "avg_logprob": -0.2635574653744698,
+      "no_speech_prob": 0.11125756800174713
+    }
+  ],
+  "transcript_full": "Are you going to be inspiring your teammates with any little green things this weekend? Anything you're going to try and challenge them to do? To be fair, we're actually quite good at Caitlyn Ford's thing. She picks up litter, which is pretty cool. Really? Like, where does she go and do it? I think just around St Almond's or where she lives. Oh, are you going to be doing a climate change TikTok on your next post? What should be the sound for it? Actually, that's true. I don't even know if there is a good TikTok sound. I don't know if there is a good one for climate change. Challenge accepted. There you go. It's going to be on the Sky Sports WSL TikTok page. I'm sure, so I'll be waiting for it.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

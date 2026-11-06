@@ -1,0 +1,52 @@
+{
+  "language": "en",
+  "language_probability": 0.9707794189453125,
+  "duration": 45.967,
+  "duration_after_vad": 29.08,
+  "segment_count": 5,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.05,
+      "end": 9.13,
+      "text": "Aloha! South and Tio, I'm here in the Galapagos Islands checking out the Galapagos penguins.",
+      "avg_logprob": -0.20425794623855853,
+      "no_speech_prob": 0.29356446862220764
+    },
+    {
+      "id": 2,
+      "start": 9.13,
+      "end": 14.13,
+      "text": "They are endangered and under threat by climate change right now as it's depleting their",
+      "avg_logprob": -0.20425794623855853,
+      "no_speech_prob": 0.29356446862220764
+    },
+    {
+      "id": 3,
+      "start": 14.13,
+      "end": 19.13,
+      "text": "food source as the waters warm. They're the cutest things on Earth. Second smallest penguins",
+      "avg_logprob": -0.20425794623855853,
+      "no_speech_prob": 0.29356446862220764
+    },
+    {
+      "id": 4,
+      "start": 19.13,
+      "end": 24.13,
+      "text": "in the world. Only 600 couples left in the Galapagos. Really important we protect them",
+      "avg_logprob": -0.20425794623855853,
+      "no_speech_prob": 0.29356446862220764
+    },
+    {
+      "id": 5,
+      "start": 24.13,
+      "end": 29.13,
+      "text": "so I want to show you how beautiful they are. It's like being in a real life Disney movie.",
+      "avg_logprob": -0.20425794623855853,
+      "no_speech_prob": 0.29356446862220764
+    }
+  ],
+  "transcript_full": "Aloha! South and Tio, I'm here in the Galapagos Islands checking out the Galapagos penguins. They are endangered and under threat by climate change right now as it's depleting their food source as the waters warm. They're the cutest things on Earth. Second smallest penguins in the world. Only 600 couples left in the Galapagos. Really important we protect them so I want to show you how beautiful they are. It's like being in a real life Disney movie.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

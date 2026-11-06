@@ -1,0 +1,684 @@
+{
+  "language": "en",
+  "language_probability": 0.9928135275840759,
+  "duration": 236.737,
+  "duration_after_vad": 232.52,
+  "segment_count": 84,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.14,
+      "end": 2.5,
+      "text": "in this election the most NY.",
+      "avg_logprob": -0.12669576989377246,
+      "no_speech_prob": 0.3286793529987335
+    },
+    {
+      "id": 2,
+      "start": 2.5,
+      "end": 5.14,
+      "text": "Well, I mean, I'm a public policy major.",
+      "avg_logprob": -0.12669576989377246,
+      "no_speech_prob": 0.3286793529987335
+    },
+    {
+      "id": 3,
+      "start": 5.14,
+      "end": 7.34,
+      "text": "So there are a million issues that really matter to me,",
+      "avg_logprob": -0.12669576989377246,
+      "no_speech_prob": 0.3286793529987335
+    },
+    {
+      "id": 4,
+      "start": 7.34,
+      "end": 9.54,
+      "text": "but the contrast between Donald Trump and Kamala Harris",
+      "avg_logprob": -0.12669576989377246,
+      "no_speech_prob": 0.3286793529987335
+    },
+    {
+      "id": 5,
+      "start": 9.54,
+      "end": 10.78,
+      "text": "cannot be more clear.",
+      "avg_logprob": -0.12669576989377246,
+      "no_speech_prob": 0.3286793529987335
+    },
+    {
+      "id": 6,
+      "start": 10.78,
+      "end": 13.94,
+      "text": "Honestly, I try and be frank with everybody.",
+      "avg_logprob": -0.12669576989377246,
+      "no_speech_prob": 0.3286793529987335
+    },
+    {
+      "id": 7,
+      "start": 13.94,
+      "end": 15.74,
+      "text": "It doesn't even get into the red or blue",
+      "avg_logprob": -0.12669576989377246,
+      "no_speech_prob": 0.3286793529987335
+    },
+    {
+      "id": 8,
+      "start": 15.74,
+      "end": 18.06,
+      "text": "of how you feel about a lot of issues.",
+      "avg_logprob": -0.12669576989377246,
+      "no_speech_prob": 0.3286793529987335
+    },
+    {
+      "id": 9,
+      "start": 18.06,
+      "end": 20.42,
+      "text": "This is about our Constitution and our country.",
+      "avg_logprob": -0.12669576989377246,
+      "no_speech_prob": 0.3286793529987335
+    },
+    {
+      "id": 10,
+      "start": 20.42,
+      "end": 23.46,
+      "text": "Donald Trump came to the Republican Secretary of State",
+      "avg_logprob": -0.12669576989377246,
+      "no_speech_prob": 0.3286793529987335
+    },
+    {
+      "id": 11,
+      "start": 23.46,
+      "end": 24.98,
+      "text": "and Republican Governor of Georgia",
+      "avg_logprob": -0.12669576989377246,
+      "no_speech_prob": 0.3286793529987335
+    },
+    {
+      "id": 12,
+      "start": 24.98,
+      "end": 28.38,
+      "text": "and tried to bully them into overthrowing our elections.",
+      "avg_logprob": -0.12669576989377246,
+      "no_speech_prob": 0.3286793529987335
+    },
+    {
+      "id": 13,
+      "start": 28.38,
+      "end": 31.18,
+      "text": "The cost of living issues are way up there for young people.",
+      "avg_logprob": -0.12500292567476148,
+      "no_speech_prob": 0.12397167086601257
+    },
+    {
+      "id": 14,
+      "start": 31.18,
+      "end": 33.34,
+      "text": "I mean, we're trying to look into our futures",
+      "avg_logprob": -0.12500292567476148,
+      "no_speech_prob": 0.12397167086601257
+    },
+    {
+      "id": 15,
+      "start": 33.34,
+      "end": 36.06,
+      "text": "to be like, will I ever be able to afford a house?",
+      "avg_logprob": -0.12500292567476148,
+      "no_speech_prob": 0.12397167086601257
+    },
+    {
+      "id": 16,
+      "start": 36.06,
+      "end": 39.86,
+      "text": "And that's just, I mean, you can look at the numbers",
+      "avg_logprob": -0.12500292567476148,
+      "no_speech_prob": 0.12397167086601257
+    },
+    {
+      "id": 17,
+      "start": 39.86,
+      "end": 43.46,
+      "text": "between how expensive it is with your percentage of income",
+      "avg_logprob": -0.12500292567476148,
+      "no_speech_prob": 0.12397167086601257
+    },
+    {
+      "id": 18,
+      "start": 43.46,
+      "end": 48.02,
+      "text": "now than it used to be, even with mortgage rates.",
+      "avg_logprob": -0.12500292567476148,
+      "no_speech_prob": 0.12397167086601257
+    },
+    {
+      "id": 19,
+      "start": 48.02,
+      "end": 50.22,
+      "text": "The math still is just so much harder now",
+      "avg_logprob": -0.12500292567476148,
+      "no_speech_prob": 0.12397167086601257
+    },
+    {
+      "id": 20,
+      "start": 50.22,
+      "end": 54.62,
+      "text": "to afford housing and basic necessities.",
+      "avg_logprob": -0.12500292567476148,
+      "no_speech_prob": 0.12397167086601257
+    },
+    {
+      "id": 21,
+      "start": 54.62,
+      "end": 57.78,
+      "text": "I think it's critical to cap health care costs in America.",
+      "avg_logprob": -0.12500292567476148,
+      "no_speech_prob": 0.12397167086601257
+    },
+    {
+      "id": 22,
+      "start": 57.78,
+      "end": 61.54,
+      "text": "And we've seen four years of a real fight against big pharma",
+      "avg_logprob": -0.10708943378826803,
+      "no_speech_prob": 0.004307671915739775
+    },
+    {
+      "id": 23,
+      "start": 61.54,
+      "end": 63.82,
+      "text": "and to make health care more affordable for all Americans.",
+      "avg_logprob": -0.10708943378826803,
+      "no_speech_prob": 0.004307671915739775
+    },
+    {
+      "id": 24,
+      "start": 63.82,
+      "end": 66.42,
+      "text": "We've seen what Project 2025 looks like",
+      "avg_logprob": -0.10708943378826803,
+      "no_speech_prob": 0.004307671915739775
+    },
+    {
+      "id": 25,
+      "start": 66.42,
+      "end": 69.3,
+      "text": "and what the plan to strip health care away from Americans.",
+      "avg_logprob": -0.10708943378826803,
+      "no_speech_prob": 0.004307671915739775
+    },
+    {
+      "id": 26,
+      "start": 69.3,
+      "end": 75.38,
+      "text": "For me, personally, the main one is women's reproductive freedom.",
+      "avg_logprob": -0.10708943378826803,
+      "no_speech_prob": 0.004307671915739775
+    },
+    {
+      "id": 27,
+      "start": 75.38,
+      "end": 77.66,
+      "text": "The rights of labor unions, the right to organize",
+      "avg_logprob": -0.10708943378826803,
+      "no_speech_prob": 0.004307671915739775
+    },
+    {
+      "id": 28,
+      "start": 77.66,
+      "end": 80.02,
+      "text": "and be able to strike is extremely important to me,",
+      "avg_logprob": -0.10708943378826803,
+      "no_speech_prob": 0.004307671915739775
+    },
+    {
+      "id": 29,
+      "start": 80.02,
+      "end": 82.58,
+      "text": "in addition to a woman's right to choose",
+      "avg_logprob": -0.10708943378826803,
+      "no_speech_prob": 0.004307671915739775
+    },
+    {
+      "id": 30,
+      "start": 82.58,
+      "end": 85.34,
+      "text": "and ensuring that we have an economy, a housing market,",
+      "avg_logprob": -0.10708943378826803,
+      "no_speech_prob": 0.004307671915739775
+    },
+    {
+      "id": 31,
+      "start": 85.34,
+      "end": 88.46,
+      "text": "an education system that works for everyone,",
+      "avg_logprob": -0.1354145790849413,
+      "no_speech_prob": 0.006993806455284357
+    },
+    {
+      "id": 32,
+      "start": 88.46,
+      "end": 89.9,
+      "text": "not just a small field.",
+      "avg_logprob": -0.1354145790849413,
+      "no_speech_prob": 0.006993806455284357
+    },
+    {
+      "id": 33,
+      "start": 89.9,
+      "end": 94.62,
+      "text": "The work I do and a lot of the work that UAW members care about",
+      "avg_logprob": -0.1354145790849413,
+      "no_speech_prob": 0.006993806455284357
+    },
+    {
+      "id": 34,
+      "start": 94.62,
+      "end": 98.66,
+      "text": "revolves around this transition from dirty energy,",
+      "avg_logprob": -0.1354145790849413,
+      "no_speech_prob": 0.006993806455284357
+    },
+    {
+      "id": 35,
+      "start": 98.66,
+      "end": 100.82,
+      "text": "internal combustion engine vehicles",
+      "avg_logprob": -0.1354145790849413,
+      "no_speech_prob": 0.006993806455284357
+    },
+    {
+      "id": 36,
+      "start": 100.82,
+      "end": 104.02,
+      "text": "to electric vehicles and clean energy.",
+      "avg_logprob": -0.1354145790849413,
+      "no_speech_prob": 0.006993806455284357
+    },
+    {
+      "id": 37,
+      "start": 104.02,
+      "end": 106.18,
+      "text": "And so one of my huge priorities",
+      "avg_logprob": -0.1354145790849413,
+      "no_speech_prob": 0.006993806455284357
+    },
+    {
+      "id": 38,
+      "start": 106.18,
+      "end": 109.78,
+      "text": "is making sure this transition is truly a just transition",
+      "avg_logprob": -0.1354145790849413,
+      "no_speech_prob": 0.006993806455284357
+    },
+    {
+      "id": 39,
+      "start": 109.78,
+      "end": 111.42,
+      "text": "that's worker led.",
+      "avg_logprob": -0.1354145790849413,
+      "no_speech_prob": 0.006993806455284357
+    },
+    {
+      "id": 40,
+      "start": 111.42,
+      "end": 116.14,
+      "text": "Other priorities, you know, got to stop that corporate greed.",
+      "avg_logprob": -0.1312913756911494,
+      "no_speech_prob": 0.005341566167771816
+    },
+    {
+      "id": 41,
+      "start": 116.14,
+      "end": 118.06,
+      "text": "We got to get rid of Citizens United.",
+      "avg_logprob": -0.1312913756911494,
+      "no_speech_prob": 0.005341566167771816
+    },
+    {
+      "id": 42,
+      "start": 118.06,
+      "end": 119.9,
+      "text": "We got to get rid of the money out of politics.",
+      "avg_logprob": -0.1312913756911494,
+      "no_speech_prob": 0.005341566167771816
+    },
+    {
+      "id": 43,
+      "start": 119.9,
+      "end": 123.54,
+      "text": "It should be driven by people taxing the rich",
+      "avg_logprob": -0.1312913756911494,
+      "no_speech_prob": 0.005341566167771816
+    },
+    {
+      "id": 44,
+      "start": 123.54,
+      "end": 126.66,
+      "text": "and making sure that that money goes back to the working",
+      "avg_logprob": -0.1312913756911494,
+      "no_speech_prob": 0.005341566167771816
+    },
+    {
+      "id": 45,
+      "start": 126.66,
+      "end": 129.62,
+      "text": "class, the lower middle class, poor people",
+      "avg_logprob": -0.1312913756911494,
+      "no_speech_prob": 0.005341566167771816
+    },
+    {
+      "id": 46,
+      "start": 129.62,
+      "end": 131.5,
+      "text": "who need good social services.",
+      "avg_logprob": -0.1312913756911494,
+      "no_speech_prob": 0.005341566167771816
+    },
+    {
+      "id": 47,
+      "start": 131.5,
+      "end": 135.82,
+      "text": "I was in sixth grade when Trump was elected.",
+      "avg_logprob": -0.1312913756911494,
+      "no_speech_prob": 0.005341566167771816
+    },
+    {
+      "id": 48,
+      "start": 135.82,
+      "end": 138.22,
+      "text": "And so just having such a dramatic shift",
+      "avg_logprob": -0.1312913756911494,
+      "no_speech_prob": 0.005341566167771816
+    },
+    {
+      "id": 49,
+      "start": 138.22,
+      "end": 141.02,
+      "text": "from Obama's president, I don't really",
+      "avg_logprob": -0.1312913756911494,
+      "no_speech_prob": 0.005341566167771816
+    },
+    {
+      "id": 50,
+      "start": 141.02,
+      "end": 142.94,
+      "text": "have to think about politics.",
+      "avg_logprob": -0.1459287640040483,
+      "no_speech_prob": 0.007272584363818169
+    },
+    {
+      "id": 51,
+      "start": 142.94,
+      "end": 143.54,
+      "text": "I'm a kid.",
+      "avg_logprob": -0.1459287640040483,
+      "no_speech_prob": 0.007272584363818169
+    },
+    {
+      "id": 52,
+      "start": 143.54,
+      "end": 149.94,
+      "text": "This is fine to, whoa, word saying crazy things",
+      "avg_logprob": -0.1459287640040483,
+      "no_speech_prob": 0.007272584363818169
+    },
+    {
+      "id": 53,
+      "start": 149.94,
+      "end": 151.9,
+      "text": "and doing crazy things.",
+      "avg_logprob": -0.1459287640040483,
+      "no_speech_prob": 0.007272584363818169
+    },
+    {
+      "id": 54,
+      "start": 151.9,
+      "end": 154.46,
+      "text": "And everybody kind of hates each other a little bit.",
+      "avg_logprob": -0.1459287640040483,
+      "no_speech_prob": 0.007272584363818169
+    },
+    {
+      "id": 55,
+      "start": 154.46,
+      "end": 158.1,
+      "text": "I think a lot of Americans were very frustrated by the fact",
+      "avg_logprob": -0.1459287640040483,
+      "no_speech_prob": 0.007272584363818169
+    },
+    {
+      "id": 56,
+      "start": 158.1,
+      "end": 161.38,
+      "text": "that Joe Biden was the oldest president that we've ever had.",
+      "avg_logprob": -0.1459287640040483,
+      "no_speech_prob": 0.007272584363818169
+    },
+    {
+      "id": 57,
+      "start": 161.38,
+      "end": 162.98,
+      "text": "And I think now a lot of Americans",
+      "avg_logprob": -0.1459287640040483,
+      "no_speech_prob": 0.007272584363818169
+    },
+    {
+      "id": 58,
+      "start": 162.98,
+      "end": 164.98,
+      "text": "very much appreciate and respect the fact",
+      "avg_logprob": -0.1459287640040483,
+      "no_speech_prob": 0.007272584363818169
+    },
+    {
+      "id": 59,
+      "start": 164.98,
+      "end": 167.58,
+      "text": "that he passed the torch to a younger generation.",
+      "avg_logprob": -0.1459287640040483,
+      "no_speech_prob": 0.007272584363818169
+    },
+    {
+      "id": 60,
+      "start": 167.58,
+      "end": 170.5,
+      "text": "And I think Kamala Harris and Tim Waltz really",
+      "avg_logprob": -0.1459287640040483,
+      "no_speech_prob": 0.007272584363818169
+    },
+    {
+      "id": 61,
+      "start": 170.5,
+      "end": 171.98,
+      "text": "represent what this country is about.",
+      "avg_logprob": -0.14843836483682038,
+      "no_speech_prob": 0.04592657461762428
+    },
+    {
+      "id": 62,
+      "start": 171.98,
+      "end": 173.38,
+      "text": "We need young people to get involved.",
+      "avg_logprob": -0.14843836483682038,
+      "no_speech_prob": 0.04592657461762428
+    },
+    {
+      "id": 63,
+      "start": 173.38,
+      "end": 175.7,
+      "text": "And here's the thing, young people can do it.",
+      "avg_logprob": -0.14843836483682038,
+      "no_speech_prob": 0.04592657461762428
+    },
+    {
+      "id": 64,
+      "start": 175.7,
+      "end": 177.02,
+      "text": "Young people will do it.",
+      "avg_logprob": -0.14843836483682038,
+      "no_speech_prob": 0.04592657461762428
+    },
+    {
+      "id": 65,
+      "start": 177.02,
+      "end": 179.22,
+      "text": "But they need to be properly informed to be able to do it.",
+      "avg_logprob": -0.14843836483682038,
+      "no_speech_prob": 0.04592657461762428
+    },
+    {
+      "id": 66,
+      "start": 179.22,
+      "end": 180.22,
+      "text": "And it will happen.",
+      "avg_logprob": -0.14843836483682038,
+      "no_speech_prob": 0.04592657461762428
+    },
+    {
+      "id": 67,
+      "start": 180.22,
+      "end": 183.46,
+      "text": "And it's because of folks like us that are here letting them",
+      "avg_logprob": -0.14843836483682038,
+      "no_speech_prob": 0.04592657461762428
+    },
+    {
+      "id": 68,
+      "start": 183.46,
+      "end": 186.14,
+      "text": "know that it can get done and it will get done.",
+      "avg_logprob": -0.14843836483682038,
+      "no_speech_prob": 0.04592657461762428
+    },
+    {
+      "id": 69,
+      "start": 186.14,
+      "end": 188.1,
+      "text": "That we can empower the young people",
+      "avg_logprob": -0.14843836483682038,
+      "no_speech_prob": 0.04592657461762428
+    },
+    {
+      "id": 70,
+      "start": 188.1,
+      "end": 190.74,
+      "text": "across the United States who are hungry for change",
+      "avg_logprob": -0.14843836483682038,
+      "no_speech_prob": 0.04592657461762428
+    },
+    {
+      "id": 71,
+      "start": 190.74,
+      "end": 193.58,
+      "text": "and who believe that things can be better than they are.",
+      "avg_logprob": -0.14843836483682038,
+      "no_speech_prob": 0.04592657461762428
+    },
+    {
+      "id": 72,
+      "start": 193.58,
+      "end": 197.78,
+      "text": "What really gives me hope is just the kindness of people.",
+      "avg_logprob": -0.14843836483682038,
+      "no_speech_prob": 0.04592657461762428
+    },
+    {
+      "id": 73,
+      "start": 197.78,
+      "end": 200.34,
+      "text": "I mean, there are such divisive issues right now.",
+      "avg_logprob": -0.14843836483682038,
+      "no_speech_prob": 0.04592657461762428
+    },
+    {
+      "id": 74,
+      "start": 200.34,
+      "end": 202.38,
+      "text": "I mean, there's wars going on.",
+      "avg_logprob": -0.1473750691446993,
+      "no_speech_prob": 0.0005350580904632807
+    },
+    {
+      "id": 75,
+      "start": 202.38,
+      "end": 206.3,
+      "text": "Abortion is just incredibly dividing as an issue.",
+      "avg_logprob": -0.1473750691446993,
+      "no_speech_prob": 0.0005350580904632807
+    },
+    {
+      "id": 76,
+      "start": 206.3,
+      "end": 209.86,
+      "text": "I mean, people either they think someone's life",
+      "avg_logprob": -0.1473750691446993,
+      "no_speech_prob": 0.0005350580904632807
+    },
+    {
+      "id": 77,
+      "start": 209.86,
+      "end": 212.66,
+      "text": "is being taken from their perspective.",
+      "avg_logprob": -0.1473750691446993,
+      "no_speech_prob": 0.0005350580904632807
+    },
+    {
+      "id": 78,
+      "start": 212.66,
+      "end": 218.1,
+      "text": "And so when those issues are so powerful,",
+      "avg_logprob": -0.1473750691446993,
+      "no_speech_prob": 0.0005350580904632807
+    },
+    {
+      "id": 79,
+      "start": 218.1,
+      "end": 220.5,
+      "text": "I think it's really important that empathy and kindness really",
+      "avg_logprob": -0.1473750691446993,
+      "no_speech_prob": 0.0005350580904632807
+    },
+    {
+      "id": 80,
+      "start": 220.5,
+      "end": 222.54,
+      "text": "just overruns it all.",
+      "avg_logprob": -0.1473750691446993,
+      "no_speech_prob": 0.0005350580904632807
+    },
+    {
+      "id": 81,
+      "start": 222.54,
+      "end": 224.82,
+      "text": "And we look and realize that more than one thing",
+      "avg_logprob": -0.1473750691446993,
+      "no_speech_prob": 0.0005350580904632807
+    },
+    {
+      "id": 82,
+      "start": 224.82,
+      "end": 226.74,
+      "text": "can be true at the same time.",
+      "avg_logprob": -0.1473750691446993,
+      "no_speech_prob": 0.0005350580904632807
+    },
+    {
+      "id": 83,
+      "start": 226.74,
+      "end": 228.98,
+      "text": "Our perspectives do not necessarily",
+      "avg_logprob": -0.1473750691446993,
+      "no_speech_prob": 0.0005350580904632807
+    },
+    {
+      "id": 84,
+      "start": 228.98,
+      "end": 232.66,
+      "text": "need to be the exact same for us to move forward as a country.",
+      "avg_logprob": -0.2683524373504851,
+      "no_speech_prob": 0.6478261351585388
+    }
+  ],
+  "transcript_full": "in this election the most NY. Well, I mean, I'm a public policy major. So there are a million issues that really matter to me, but the contrast between Donald Trump and Kamala Harris cannot be more clear. Honestly, I try and be frank with everybody. It doesn't even get into the red or blue of how you feel about a lot of issues. This is about our Constitution and our country. Donald Trump came to the Republican Secretary of State and Republican Governor of Georgia and tried to bully them into overthrowing our elections. The cost of living issues are way up there for young people. I mean, we're trying to look into our futures to be like, will I ever be able to afford a house? And that's just, I mean, you can look at the numbers between how expensive it is with your percentage of income now than it used to be, even with mortgage rates. The math still is just so much harder now to afford housing and basic necessities. I think it's critical to cap health care costs in America. And we've seen four years of a real fight against big pharma and to make health care more affordable for all Americans. We've seen what Project 2025 looks like and what the plan to strip health care away from Americans. For me, personally, the main one is women's reproductive freedom. The rights of labor unions, the right to organize and be able to strike is extremely important to me, in addition to a woman's right to choose and ensuring that we have an economy, a housing market, an education system that works for everyone, not just a small field. The work I do and a lot of the work that UAW members care about revolves around this transition from dirty energy, internal combustion engine vehicles to electric vehicles and clean energy. And so one of my huge priorities is making sure this transition is truly a just transition that's worker led. Other priorities, you know, got to stop that corporate greed. We got to get rid of Citizens United. We got to get rid of the money out of politics. It should be driven by people taxing the rich and making sure that that money goes back to the working class, the lower middle class, poor people who need good social services. I was in sixth grade when Trump was elected. And so just having such a dramatic shift from Obama's president, I don't really have to think about politics. I'm a kid. This is fine to, whoa, word saying crazy things and doing crazy things. And everybody kind of hates each other a little bit. I think a lot of Americans were very frustrated by the fact that Joe Biden was the oldest president that we've ever had. And I think now a lot of Americans very much appreciate and respect the fact that he passed the torch to a younger generation. And I think Kamala Harris and Tim Waltz really represent what this country is about. We need young people to get involved. And here's the thing, young people can do it. Young people will do it. But they need to be properly informed to be able to do it. And it will happen. And it's because of folks like us that are here letting them know that it can get done and it will get done. That we can empower the young people across the United States who are hungry for change and who believe that things can be better than they are. What really gives me hope is just the kindness of people. I mean, there are such divisive issues right now. I mean, there's wars going on. Abortion is just incredibly dividing as an issue. I mean, people either they think someone's life is being taken from their perspective. And so when those issues are so powerful, I think it's really important that empathy and kindness really just overruns it all. And we look and realize that more than one thing can be true at the same time. Our perspectives do not necessarily need to be the exact same for us to move forward as a country.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

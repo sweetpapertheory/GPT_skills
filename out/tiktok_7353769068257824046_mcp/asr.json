@@ -1,0 +1,212 @@
+{
+  "language": "en",
+  "language_probability": 0.9981740713119507,
+  "duration": 46.733,
+  "duration_after_vad": 45.56,
+  "segment_count": 25,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.16,
+      "text": "Standing right here in the old girl, the redwood forest,",
+      "avg_logprob": -0.1779709368251091,
+      "no_speech_prob": 0.03205607458949089
+    },
+    {
+      "id": 2,
+      "start": 2.16,
+      "end": 3.36,
+      "text": "you can tell it's not real shit",
+      "avg_logprob": -0.1779709368251091,
+      "no_speech_prob": 0.03205607458949089
+    },
+    {
+      "id": 3,
+      "start": 3.36,
+      "end": 5.2,
+      "text": "because we've got space between the trees.",
+      "avg_logprob": -0.1779709368251091,
+      "no_speech_prob": 0.03205607458949089
+    },
+    {
+      "id": 4,
+      "start": 5.2,
+      "end": 6.52,
+      "text": "You got understory.",
+      "avg_logprob": -0.1779709368251091,
+      "no_speech_prob": 0.03205607458949089
+    },
+    {
+      "id": 5,
+      "start": 6.52,
+      "end": 9.62,
+      "text": "Redwood ecosystems are based because it's not just one tree,",
+      "avg_logprob": -0.1779709368251091,
+      "no_speech_prob": 0.03205607458949089
+    },
+    {
+      "id": 6,
+      "start": 9.62,
+      "end": 11.64,
+      "text": "like a monoculture lumber plantation.",
+      "avg_logprob": -0.1779709368251091,
+      "no_speech_prob": 0.03205607458949089
+    },
+    {
+      "id": 7,
+      "start": 11.64,
+      "end": 14.4,
+      "text": "They replace this real shit with a bunch of one tree,",
+      "avg_logprob": -0.1779709368251091,
+      "no_speech_prob": 0.03205607458949089
+    },
+    {
+      "id": 8,
+      "start": 14.4,
+      "end": 16.76,
+      "text": "usually a Douglas fir or a ponderosa pine,",
+      "avg_logprob": -0.1779709368251091,
+      "no_speech_prob": 0.03205607458949089
+    },
+    {
+      "id": 9,
+      "start": 16.76,
+      "end": 18.12,
+      "text": "to secure that back.",
+      "avg_logprob": -0.1779709368251091,
+      "no_speech_prob": 0.03205607458949089
+    },
+    {
+      "id": 10,
+      "start": 18.12,
+      "end": 20.16,
+      "text": "And that's why fires are getting worse.",
+      "avg_logprob": -0.1779709368251091,
+      "no_speech_prob": 0.03205607458949089
+    },
+    {
+      "id": 11,
+      "start": 20.16,
+      "end": 21.24,
+      "text": "When you look at this ecosystem,",
+      "avg_logprob": -0.1779709368251091,
+      "no_speech_prob": 0.03205607458949089
+    },
+    {
+      "id": 12,
+      "start": 21.24,
+      "end": 22.64,
+      "text": "we got redwood sorals,",
+      "avg_logprob": -0.1779709368251091,
+      "no_speech_prob": 0.03205607458949089
+    },
+    {
+      "id": 13,
+      "start": 22.64,
+      "end": 24.2,
+      "text": "we got a California bay laurel,",
+      "avg_logprob": -0.1779709368251091,
+      "no_speech_prob": 0.03205607458949089
+    },
+    {
+      "id": 14,
+      "start": 24.2,
+      "end": 25.44,
+      "text": "we got huckleberries,",
+      "avg_logprob": -0.1779709368251091,
+      "no_speech_prob": 0.03205607458949089
+    },
+    {
+      "id": 15,
+      "start": 25.44,
+      "end": 27.44,
+      "text": "and we got shit for days.",
+      "avg_logprob": -0.1779709368251091,
+      "no_speech_prob": 0.03205607458949089
+    },
+    {
+      "id": 16,
+      "start": 27.44,
+      "end": 28.96,
+      "text": "That's what it's supposed to look like.",
+      "avg_logprob": -0.1779709368251091,
+      "no_speech_prob": 0.03205607458949089
+    },
+    {
+      "id": 17,
+      "start": 29.08,
+      "end": 31.56,
+      "text": "Forest is supposed to be a biodiverse ecosystem,",
+      "avg_logprob": -0.21481490414589643,
+      "no_speech_prob": 0.012578903697431087
+    },
+    {
+      "id": 18,
+      "start": 31.56,
+      "end": 33.96,
+      "text": "not a factory farm forestry style.",
+      "avg_logprob": -0.21481490414589643,
+      "no_speech_prob": 0.012578903697431087
+    },
+    {
+      "id": 19,
+      "start": 33.96,
+      "end": 35.32,
+      "text": "Gotta protect the real shit.",
+      "avg_logprob": -0.21481490414589643,
+      "no_speech_prob": 0.012578903697431087
+    },
+    {
+      "id": 20,
+      "start": 35.32,
+      "end": 36.76,
+      "text": "If you want climate change to end,",
+      "avg_logprob": -0.21481490414589643,
+      "no_speech_prob": 0.012578903697431087
+    },
+    {
+      "id": 21,
+      "start": 36.76,
+      "end": 38.24,
+      "text": "if you want to survive on this world,",
+      "avg_logprob": -0.21481490414589643,
+      "no_speech_prob": 0.012578903697431087
+    },
+    {
+      "id": 22,
+      "start": 38.24,
+      "end": 39.68,
+      "text": "you gotta protect the real shit.",
+      "avg_logprob": -0.21481490414589643,
+      "no_speech_prob": 0.012578903697431087
+    },
+    {
+      "id": 23,
+      "start": 39.68,
+      "end": 41.84,
+      "text": "Stop turning this into factory farms.",
+      "avg_logprob": -0.21481490414589643,
+      "no_speech_prob": 0.012578903697431087
+    },
+    {
+      "id": 24,
+      "start": 41.84,
+      "end": 43.88,
+      "text": "Fucking sucks.",
+      "avg_logprob": -0.21481490414589643,
+      "no_speech_prob": 0.012578903697431087
+    },
+    {
+      "id": 25,
+      "start": 43.88,
+      "end": 45.68,
+      "text": "Fucking sucks.",
+      "avg_logprob": -0.21481490414589643,
+      "no_speech_prob": 0.012578903697431087
+    }
+  ],
+  "transcript_full": "Standing right here in the old girl, the redwood forest, you can tell it's not real shit because we've got space between the trees. You got understory. Redwood ecosystems are based because it's not just one tree, like a monoculture lumber plantation. They replace this real shit with a bunch of one tree, usually a Douglas fir or a ponderosa pine, to secure that back. And that's why fires are getting worse. When you look at this ecosystem, we got redwood sorals, we got a California bay laurel, we got huckleberries, and we got shit for days. That's what it's supposed to look like. Forest is supposed to be a biodiverse ecosystem, not a factory farm forestry style. Gotta protect the real shit. If you want climate change to end, if you want to survive on this world, you gotta protect the real shit. Stop turning this into factory farms. Fucking sucks. Fucking sucks.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "language_probability": 0.35997676849365234,
+  "duration": 26.293,
+  "duration_after_vad": 2.0,
+  "segment_count": 1,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.34,
+      "end": 2.34,
+      "text": "Oh",
+      "avg_logprob": -0.8690261542797089,
+      "no_speech_prob": 0.8625798225402832
+    }
+  ],
+  "transcript_full": "Oh",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

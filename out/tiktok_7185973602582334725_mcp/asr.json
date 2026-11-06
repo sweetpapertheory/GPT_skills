@@ -1,0 +1,76 @@
+{
+  "language": "en",
+  "language_probability": 0.998324453830719,
+  "duration": 43.067,
+  "duration_after_vad": 42.64,
+  "segment_count": 8,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.24,
+      "end": 5.12,
+      "text": "A powerful winter storm has caused heavy flooding in California, damaging power lines,",
+      "avg_logprob": -0.0914222837149442,
+      "no_speech_prob": 0.0059225852601230145
+    },
+    {
+      "id": 2,
+      "start": 5.12,
+      "end": 10.96,
+      "text": "homes and trees and leaving major roadways blocked. Many parts of California previously hit by",
+      "avg_logprob": -0.0914222837149442,
+      "no_speech_prob": 0.0059225852601230145
+    },
+    {
+      "id": 3,
+      "start": 10.96,
+      "end": 16.4,
+      "text": "droughts and wildfires are now particularly vulnerable to landslides. As the earth gets",
+      "avg_logprob": -0.0914222837149442,
+      "no_speech_prob": 0.0059225852601230145
+    },
+    {
+      "id": 4,
+      "start": 16.4,
+      "end": 21.76,
+      "text": "hotter due to climate change driven by human activity, the warm air holds more moisture,",
+      "avg_logprob": -0.0914222837149442,
+      "no_speech_prob": 0.0059225852601230145
+    },
+    {
+      "id": 5,
+      "start": 21.76,
+      "end": 25.84,
+      "text": "leading to more frequent and intense storms known as atmospheric rivers,",
+      "avg_logprob": -0.0914222837149442,
+      "no_speech_prob": 0.0059225852601230145
+    },
+    {
+      "id": 6,
+      "start": 25.84,
+      "end": 31.28,
+      "text": "due to the large amount of water they hold, and saturated land and streams cannot recover before",
+      "avg_logprob": -0.11403171832744892,
+      "no_speech_prob": 0.04110029712319374
+    },
+    {
+      "id": 7,
+      "start": 31.28,
+      "end": 36.56,
+      "text": "the next intense storm. As the wealthy state is home to more billionaires than anywhere else in",
+      "avg_logprob": -0.11403171832744892,
+      "no_speech_prob": 0.04110029712319374
+    },
+    {
+      "id": 8,
+      "start": 36.56,
+      "end": 42.88,
+      "text": "the US, California may now be on the front lines of tackling climate change and finding ways to cope.",
+      "avg_logprob": -0.11403171832744892,
+      "no_speech_prob": 0.04110029712319374
+    }
+  ],
+  "transcript_full": "A powerful winter storm has caused heavy flooding in California, damaging power lines, homes and trees and leaving major roadways blocked. Many parts of California previously hit by droughts and wildfires are now particularly vulnerable to landslides. As the earth gets hotter due to climate change driven by human activity, the warm air holds more moisture, leading to more frequent and intense storms known as atmospheric rivers, due to the large amount of water they hold, and saturated land and streams cannot recover before the next intense storm. As the wealthy state is home to more billionaires than anywhere else in the US, California may now be on the front lines of tackling climate change and finding ways to cope.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

@@ -1,0 +1,332 @@
+{
+  "language": "en",
+  "language_probability": 0.9966829419136047,
+  "duration": 180.115,
+  "duration_after_vad": 161.86,
+  "segment_count": 40,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.14,
+      "end": 4.64,
+      "text": "So I do a lot of videos for my house in Arizona. I live in downtown Phoenix",
+      "avg_logprob": -0.18148198298045568,
+      "no_speech_prob": 0.11121571809053421
+    },
+    {
+      "id": 2,
+      "start": 4.64,
+      "end": 7.22,
+      "text": "Which is like probably one of the hottest places in Arizona",
+      "avg_logprob": -0.18148198298045568,
+      "no_speech_prob": 0.11121571809053421
+    },
+    {
+      "id": 3,
+      "start": 8.38,
+      "end": 12.46,
+      "text": "We people ask all the time like do I like living here? What's the plan?",
+      "avg_logprob": -0.18148198298045568,
+      "no_speech_prob": 0.11121571809053421
+    },
+    {
+      "id": 4,
+      "start": 12.96,
+      "end": 14.18,
+      "text": "and",
+      "avg_logprob": -0.18148198298045568,
+      "no_speech_prob": 0.11121571809053421
+    },
+    {
+      "id": 5,
+      "start": 14.18,
+      "end": 19.98,
+      "text": "I've gone through that like I went to therapy about like the environment it gets hot here. It's always gotten hot here",
+      "avg_logprob": -0.18148198298045568,
+      "no_speech_prob": 0.11121571809053421
+    },
+    {
+      "id": 6,
+      "start": 19.98,
+      "end": 21.98,
+      "text": "I've lived here 29 years",
+      "avg_logprob": -0.18148198298045568,
+      "no_speech_prob": 0.11121571809053421
+    },
+    {
+      "id": 7,
+      "start": 22.18,
+      "end": 28.02,
+      "text": "We've always had summers above 110. They're getting warmer. Sometimes they're drier. Sometimes they're really wet",
+      "avg_logprob": -0.18148198298045568,
+      "no_speech_prob": 0.11121571809053421
+    },
+    {
+      "id": 8,
+      "start": 28.02,
+      "end": 34.02,
+      "text": "This was one of the wetter summers. We've ever had and it was only like the 18th warmest which doesn't mean that much but",
+      "avg_logprob": -0.19800365556066282,
+      "no_speech_prob": 0.0058430265635252
+    },
+    {
+      "id": 9,
+      "start": 34.58,
+      "end": 36.58,
+      "text": "this city is",
+      "avg_logprob": -0.19800365556066282,
+      "no_speech_prob": 0.0058430265635252
+    },
+    {
+      "id": 10,
+      "start": 36.82,
+      "end": 38.82,
+      "text": "Centered in a place that's been inhabited",
+      "avg_logprob": -0.19800365556066282,
+      "no_speech_prob": 0.0058430265635252
+    },
+    {
+      "id": 11,
+      "start": 39.34,
+      "end": 43.82,
+      "text": "Going back thousands of years people have lived here the whole time generally without refrigeration",
+      "avg_logprob": -0.19800365556066282,
+      "no_speech_prob": 0.0058430265635252
+    },
+    {
+      "id": 12,
+      "start": 44.38,
+      "end": 50.58,
+      "text": "Where desert nights were cooler because we didn't have a heat island effect now in that I live in a house built in",
+      "avg_logprob": -0.19800365556066282,
+      "no_speech_prob": 0.0058430265635252
+    },
+    {
+      "id": 13,
+      "start": 51.74,
+      "end": 55.7,
+      "text": "1893 this house was built before like literally electricity existed",
+      "avg_logprob": -0.19800365556066282,
+      "no_speech_prob": 0.0058430265635252
+    },
+    {
+      "id": 14,
+      "start": 55.7,
+      "end": 59.38,
+      "text": "There was an outhouse like it didn't have an AC until 2015",
+      "avg_logprob": -0.19225464431863082,
+      "no_speech_prob": 0.0010158707154914737
+    },
+    {
+      "id": 15,
+      "start": 60.54,
+      "end": 66.9,
+      "text": "The thing about living here is the city is built for this like our power grid doesn't fail",
+      "avg_logprob": -0.19225464431863082,
+      "no_speech_prob": 0.0010158707154914737
+    },
+    {
+      "id": 16,
+      "start": 66.9,
+      "end": 69.9,
+      "text": "It was built to be like 130 degrees. We've never gotten above",
+      "avg_logprob": -0.19225464431863082,
+      "no_speech_prob": 0.0010158707154914737
+    },
+    {
+      "id": 17,
+      "start": 70.78,
+      "end": 73.62,
+      "text": "123 and that was in like 1992 and it was a freaky wave",
+      "avg_logprob": -0.19225464431863082,
+      "no_speech_prob": 0.0010158707154914737
+    },
+    {
+      "id": 18,
+      "start": 74.94,
+      "end": 78.42,
+      "text": "Pasadena in 2020 got 123 degrees",
+      "avg_logprob": -0.19225464431863082,
+      "no_speech_prob": 0.0010158707154914737
+    },
+    {
+      "id": 19,
+      "start": 79.3,
+      "end": 83.22,
+      "text": "You have places like London that literally had wildfires within them",
+      "avg_logprob": -0.19225464431863082,
+      "no_speech_prob": 0.0010158707154914737
+    },
+    {
+      "id": 20,
+      "start": 84.18,
+      "end": 90.9,
+      "text": "People dying in Italy rivers drying in Germany the Mississippi rivers drying right now Chicago is reaching in the hundreds of degrees",
+      "avg_logprob": -0.17908807237480961,
+      "no_speech_prob": 0.0017712940461933613
+    },
+    {
+      "id": 21,
+      "start": 92.66,
+      "end": 98.06,
+      "text": "Portland is like 110 sometimes Seattle there were days of summer where Seattle was hotter. So like",
+      "avg_logprob": -0.17908807237480961,
+      "no_speech_prob": 0.0017712940461933613
+    },
+    {
+      "id": 22,
+      "start": 98.86,
+      "end": 101.22,
+      "text": "It's the heat is an issue here",
+      "avg_logprob": -0.17908807237480961,
+      "no_speech_prob": 0.0017712940461933613
+    },
+    {
+      "id": 23,
+      "start": 101.22,
+      "end": 106.46,
+      "text": "it's we have deadly summers because we have a lot of unhoused people that die in the heat but",
+      "avg_logprob": -0.17908807237480961,
+      "no_speech_prob": 0.0017712940461933613
+    },
+    {
+      "id": 24,
+      "start": 107.42,
+      "end": 109.02,
+      "text": "The city was built",
+      "avg_logprob": -0.17908807237480961,
+      "no_speech_prob": 0.0017712940461933613
+    },
+    {
+      "id": 25,
+      "start": 109.02,
+      "end": 111.7,
+      "text": "Be knowing it was hot like the whole thing",
+      "avg_logprob": -0.14194224421250617,
+      "no_speech_prob": 0.012507002800703049
+    },
+    {
+      "id": 26,
+      "start": 111.7,
+      "end": 113.7,
+      "text": "There's not really any houses without refrigeration",
+      "avg_logprob": -0.14194224421250617,
+      "no_speech_prob": 0.012507002800703049
+    },
+    {
+      "id": 27,
+      "start": 114.06,
+      "end": 120.54,
+      "text": "Whereas you go somewhere like Portland where he is really dangerous because it wasn't built for that like it's changing so much",
+      "avg_logprob": -0.14194224421250617,
+      "no_speech_prob": 0.012507002800703049
+    },
+    {
+      "id": 28,
+      "start": 121.26,
+      "end": 124.98,
+      "text": "I'm not saying it's great to live in Phoenix. I'm not trying to say that it's like a great city",
+      "avg_logprob": -0.14194224421250617,
+      "no_speech_prob": 0.012507002800703049
+    },
+    {
+      "id": 29,
+      "start": 124.98,
+      "end": 125.94,
+      "text": "but um",
+      "avg_logprob": -0.14194224421250617,
+      "no_speech_prob": 0.012507002800703049
+    },
+    {
+      "id": 30,
+      "start": 125.94,
+      "end": 129.02,
+      "text": "It it's built for for a hot climate",
+      "avg_logprob": -0.14194224421250617,
+      "no_speech_prob": 0.012507002800703049
+    },
+    {
+      "id": 31,
+      "start": 129.02,
+      "end": 134.62,
+      "text": "So it makes us more adept to I think what's happening and better prepared for it that doesn't make it good",
+      "avg_logprob": -0.14194224421250617,
+      "no_speech_prob": 0.012507002800703049
+    },
+    {
+      "id": 32,
+      "start": 134.62,
+      "end": 139.58,
+      "text": "It doesn't make it mentally easier to live here when it's that hot and a lot of people bring up water issues",
+      "avg_logprob": -0.1757242687046528,
+      "no_speech_prob": 0.010586789809167385
+    },
+    {
+      "id": 33,
+      "start": 139.58,
+      "end": 146.14,
+      "text": "So everybody knows the Colorado River's drying Lake Powell Lake Mead. They're all they're all drying. It's like actually happening",
+      "avg_logprob": -0.1757242687046528,
+      "no_speech_prob": 0.010586789809167385
+    },
+    {
+      "id": 34,
+      "start": 146.14,
+      "end": 151.1,
+      "text": "Um, those rivers have always been over allocated. They allocated the water and really wet years",
+      "avg_logprob": -0.1757242687046528,
+      "no_speech_prob": 0.010586789809167385
+    },
+    {
+      "id": 35,
+      "start": 152.14,
+      "end": 157.26,
+      "text": "A lot of the water from that doesn't go to phoenix phoenix like 20% of its water comes from the Colorado",
+      "avg_logprob": -0.1757242687046528,
+      "no_speech_prob": 0.010586789809167385
+    },
+    {
+      "id": 36,
+      "start": 157.58,
+      "end": 160.62,
+      "text": "The rest of our water system comes from like a small river",
+      "avg_logprob": -0.1757242687046528,
+      "no_speech_prob": 0.010586789809167385
+    },
+    {
+      "id": 37,
+      "start": 161.42,
+      "end": 166.46,
+      "text": "To the east of us called the salt river and that's not drying out. It's just it's not",
+      "avg_logprob": -0.07860248837442625,
+      "no_speech_prob": 0.03883126750588417
+    },
+    {
+      "id": 38,
+      "start": 167.26,
+      "end": 172.06,
+      "text": "But I think it's important to keep in mind that a huge amount of the water that everyone talks about us not having",
+      "avg_logprob": -0.07860248837442625,
+      "no_speech_prob": 0.03883126750588417
+    },
+    {
+      "id": 39,
+      "start": 172.78,
+      "end": 178.38,
+      "text": "Gives you winter vegetables if you're in massachusetts in february the lettuce came from here the strawberries came from here",
+      "avg_logprob": -0.07860248837442625,
+      "no_speech_prob": 0.03883126750588417
+    },
+    {
+      "id": 40,
+      "start": 178.46,
+      "end": 180.46,
+      "text": "It's affecting everybody",
+      "avg_logprob": -0.07860248837442625,
+      "no_speech_prob": 0.03883126750588417
+    }
+  ],
+  "transcript_full": "So I do a lot of videos for my house in Arizona. I live in downtown Phoenix Which is like probably one of the hottest places in Arizona We people ask all the time like do I like living here? What's the plan? and I've gone through that like I went to therapy about like the environment it gets hot here. It's always gotten hot here I've lived here 29 years We've always had summers above 110. They're getting warmer. Sometimes they're drier. Sometimes they're really wet This was one of the wetter summers. We've ever had and it was only like the 18th warmest which doesn't mean that much but this city is Centered in a place that's been inhabited Going back thousands of years people have lived here the whole time generally without refrigeration Where desert nights were cooler because we didn't have a heat island effect now in that I live in a house built in 1893 this house was built before like literally electricity existed There was an outhouse like it didn't have an AC until 2015 The thing about living here is the city is built for this like our power grid doesn't fail It was built to be like 130 degrees. We've never gotten above 123 and that was in like 1992 and it was a freaky wave Pasadena in 2020 got 123 degrees You have places like London that literally had wildfires within them People dying in Italy rivers drying in Germany the Mississippi rivers drying right now Chicago is reaching in the hundreds of degrees Portland is like 110 sometimes Seattle there were days of summer where Seattle was hotter. So like It's the heat is an issue here it's we have deadly summers because we have a lot of unhoused people that die in the heat but The city was built Be knowing it was hot like the whole thing There's not really any houses without refrigeration Whereas you go somewhere like Portland where he is really dangerous because it wasn't built for that like it's changing so much I'm not saying it's great to live in Phoenix. I'm not trying to say that it's like a great city but um It it's built for for a hot climate So it makes us more adept to I think what's happening and better prepared for it that doesn't make it good It doesn't make it mentally easier to live here when it's that hot and a lot of people bring up water issues So everybody knows the Colorado River's drying Lake Powell Lake Mead. They're all they're all drying. It's like actually happening Um, those rivers have always been over allocated. They allocated the water and really wet years A lot of the water from that doesn't go to phoenix phoenix like 20% of its water comes from the Colorado The rest of our water system comes from like a small river To the east of us called the salt river and that's not drying out. It's just it's not But I think it's important to keep in mind that a huge amount of the water that everyone talks about us not having Gives you winter vegetables if you're in massachusetts in february the lettuce came from here the strawberries came from here It's affecting everybody",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

@@ -1,0 +1,148 @@
+{
+  "language": "en",
+  "language_probability": 0.9971132278442383,
+  "duration": 48.618,
+  "duration_after_vad": 38.42,
+  "segment_count": 17,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.48,
+      "text": "There's a Grey's Anatomy show to be made about the penguins in Iceland.",
+      "avg_logprob": -0.2631610880295436,
+      "no_speech_prob": 0.08560723811388016
+    },
+    {
+      "id": 2,
+      "start": 3.48,
+      "end": 3.98,
+      "text": "Yes!",
+      "avg_logprob": -0.2631610880295436,
+      "no_speech_prob": 0.08560723811388016
+    },
+    {
+      "id": 3,
+      "start": 8.95,
+      "end": 10.39,
+      "text": "They've been putting cameras on penguins.",
+      "avg_logprob": -0.2631610880295436,
+      "no_speech_prob": 0.08560723811388016
+    },
+    {
+      "id": 4,
+      "start": 10.89,
+      "end": 13.95,
+      "text": "And then you can see where the penguin goes and what he sees.",
+      "avg_logprob": -0.2631610880295436,
+      "no_speech_prob": 0.08560723811388016
+    },
+    {
+      "id": 5,
+      "start": 13.95,
+      "end": 16.87,
+      "text": "I want to know how you rehabilitate a penguin.",
+      "avg_logprob": -0.2631610880295436,
+      "no_speech_prob": 0.08560723811388016
+    },
+    {
+      "id": 6,
+      "start": 16.87,
+      "end": 20.09,
+      "text": "What injury incidents are causing them to need rehab?",
+      "avg_logprob": -0.2631610880295436,
+      "no_speech_prob": 0.08560723811388016
+    },
+    {
+      "id": 7,
+      "start": 20.09,
+      "end": 22.61,
+      "text": "Chicks that have been abandoned that the parents aren't able to feed them.",
+      "avg_logprob": -0.2631610880295436,
+      "no_speech_prob": 0.08560723811388016
+    },
+    {
+      "id": 8,
+      "start": 22.61,
+      "end": 24.33,
+      "text": "Then we get the older birds that are malnourished",
+      "avg_logprob": -0.2631610880295436,
+      "no_speech_prob": 0.08560723811388016
+    },
+    {
+      "id": 9,
+      "start": 24.33,
+      "end": 26.11,
+      "text": "because they can't find enough food in the wild.",
+      "avg_logprob": -0.2631610880295436,
+      "no_speech_prob": 0.08560723811388016
+    },
+    {
+      "id": 10,
+      "start": 26.11,
+      "end": 27.95,
+      "text": "Skinny penguins are a big problem.",
+      "avg_logprob": -0.2631610880295436,
+      "no_speech_prob": 0.08560723811388016
+    },
+    {
+      "id": 11,
+      "start": 27.95,
+      "end": 29.55,
+      "text": "They're finding it hard to find food",
+      "avg_logprob": -0.2631610880295436,
+      "no_speech_prob": 0.08560723811388016
+    },
+    {
+      "id": 12,
+      "start": 29.55,
+      "end": 31.53,
+      "text": "and there's lots of different reasons for that.",
+      "avg_logprob": -0.2631610880295436,
+      "no_speech_prob": 0.08560723811388016
+    },
+    {
+      "id": 13,
+      "start": 31.57,
+      "end": 34.49,
+      "text": "The actual beginning of climate change is actually in the ocean.",
+      "avg_logprob": -0.2570250789003988,
+      "no_speech_prob": 0.04515988752245903
+    },
+    {
+      "id": 14,
+      "start": 34.49,
+      "end": 37.17,
+      "text": "Last year we had massive floods in the Western Cape.",
+      "avg_logprob": -0.2570250789003988,
+      "no_speech_prob": 0.04515988752245903
+    },
+    {
+      "id": 15,
+      "start": 37.17,
+      "end": 39.61,
+      "text": "This year we've had an extended rainfall.",
+      "avg_logprob": -0.2570250789003988,
+      "no_speech_prob": 0.04515988752245903
+    },
+    {
+      "id": 16,
+      "start": 39.61,
+      "end": 41.77,
+      "text": "That's all impacted on by the sea.",
+      "avg_logprob": -0.2570250789003988,
+      "no_speech_prob": 0.04515988752245903
+    },
+    {
+      "id": 17,
+      "start": 41.77,
+      "end": 43.93,
+      "text": "There's no hard and forced rule in nature.",
+      "avg_logprob": -0.2570250789003988,
+      "no_speech_prob": 0.04515988752245903
+    }
+  ],
+  "transcript_full": "There's a Grey's Anatomy show to be made about the penguins in Iceland. Yes! They've been putting cameras on penguins. And then you can see where the penguin goes and what he sees. I want to know how you rehabilitate a penguin. What injury incidents are causing them to need rehab? Chicks that have been abandoned that the parents aren't able to feed them. Then we get the older birds that are malnourished because they can't find enough food in the wild. Skinny penguins are a big problem. They're finding it hard to find food and there's lots of different reasons for that. The actual beginning of climate change is actually in the ocean. Last year we had massive floods in the Western Cape. This year we've had an extended rainfall. That's all impacted on by the sea. There's no hard and forced rule in nature.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

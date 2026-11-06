@@ -1,0 +1,116 @@
+{
+  "language": "en",
+  "language_probability": 0.9973037242889404,
+  "duration": 61.4,
+  "duration_after_vad": 59.12,
+  "segment_count": 13,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.12,
+      "text": "Why is Russia looking forward to climate change? Nearly two-thirds of Russia's land is permafrost,",
+      "avg_logprob": -0.06366499073681284,
+      "no_speech_prob": 0.06947315484285355
+    },
+    {
+      "id": 2,
+      "start": 5.12,
+      "end": 9.28,
+      "text": "meaning that it's nearly impossible to effectively farm or develop on. However,",
+      "avg_logprob": -0.06366499073681284,
+      "no_speech_prob": 0.06947315484285355
+    },
+    {
+      "id": 3,
+      "start": 9.28,
+      "end": 13.44,
+      "text": "with the warming of the planet, this land could suddenly become arable and therefore much more",
+      "avg_logprob": -0.06366499073681284,
+      "no_speech_prob": 0.06947315484285355
+    },
+    {
+      "id": 4,
+      "start": 13.44,
+      "end": 18.48,
+      "text": "desirable. Even more importantly, a warmer planet would be in more ice-free ports year-round,",
+      "avg_logprob": -0.06366499073681284,
+      "no_speech_prob": 0.06947315484285355
+    },
+    {
+      "id": 5,
+      "start": 18.48,
+      "end": 23.04,
+      "text": "allowing Russia's arctic harbors on their extensive Siberian coastline to operate.",
+      "avg_logprob": -0.06366499073681284,
+      "no_speech_prob": 0.06947315484285355
+    },
+    {
+      "id": 6,
+      "start": 23.04,
+      "end": 27.04,
+      "text": "These facilities would then be ideally positioned to export the country's most",
+      "avg_logprob": -0.06366499073681284,
+      "no_speech_prob": 0.06947315484285355
+    },
+    {
+      "id": 7,
+      "start": 27.04,
+      "end": 32.8,
+      "text": "valuable commodities, natural gas and oil, which is in large part extracted relatively nearby.",
+      "avg_logprob": -0.07065623260296143,
+      "no_speech_prob": 0.03317904844880104
+    },
+    {
+      "id": 8,
+      "start": 32.8,
+      "end": 36.8,
+      "text": "In addition, these ports would be in close range to both markets in Asia and Europe,",
+      "avg_logprob": -0.07065623260296143,
+      "no_speech_prob": 0.03317904844880104
+    },
+    {
+      "id": 9,
+      "start": 36.8,
+      "end": 40.48,
+      "text": "theoretically making Russia more influential on the world stage. However,",
+      "avg_logprob": -0.07065623260296143,
+      "no_speech_prob": 0.03317904844880104
+    },
+    {
+      "id": 10,
+      "start": 40.48,
+      "end": 43.84,
+      "text": "the same would be true for Russia's geopolitical rival, the United States,",
+      "avg_logprob": -0.07065623260296143,
+      "no_speech_prob": 0.03317904844880104
+    },
+    {
+      "id": 11,
+      "start": 43.84,
+      "end": 49.28,
+      "text": "and, by extension, their ally Canada. Both Alaska and Canada's northern regions also have",
+      "avg_logprob": -0.07065623260296143,
+      "no_speech_prob": 0.03317904844880104
+    },
+    {
+      "id": 12,
+      "start": 49.28,
+      "end": 54.32,
+      "text": "significant oil and natural gas available, making them large players in this game for control",
+      "avg_logprob": -0.07065623260296143,
+      "no_speech_prob": 0.03317904844880104
+    },
+    {
+      "id": 13,
+      "start": 54.32,
+      "end": 59.12,
+      "text": "of the Arctic. It's looking like the area will soon become a very tense battleground for influence.",
+      "avg_logprob": -0.15585821184019247,
+      "no_speech_prob": 0.43761327862739563
+    }
+  ],
+  "transcript_full": "Why is Russia looking forward to climate change? Nearly two-thirds of Russia's land is permafrost, meaning that it's nearly impossible to effectively farm or develop on. However, with the warming of the planet, this land could suddenly become arable and therefore much more desirable. Even more importantly, a warmer planet would be in more ice-free ports year-round, allowing Russia's arctic harbors on their extensive Siberian coastline to operate. These facilities would then be ideally positioned to export the country's most valuable commodities, natural gas and oil, which is in large part extracted relatively nearby. In addition, these ports would be in close range to both markets in Asia and Europe, theoretically making Russia more influential on the world stage. However, the same would be true for Russia's geopolitical rival, the United States, and, by extension, their ally Canada. Both Alaska and Canada's northern regions also have significant oil and natural gas available, making them large players in this game for control of the Arctic. It's looking like the area will soon become a very tense battleground for influence.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

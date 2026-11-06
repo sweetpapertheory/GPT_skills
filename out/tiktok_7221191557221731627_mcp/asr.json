@@ -1,0 +1,84 @@
+{
+  "language": "en",
+  "language_probability": 0.9997678399085999,
+  "duration": 21.154,
+  "duration_after_vad": 20.36,
+  "segment_count": 9,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.12,
+      "text": "This is hands down the easiest way to prevent food waste.",
+      "avg_logprob": -0.1351197844459897,
+      "no_speech_prob": 0.0030838679522275925
+    },
+    {
+      "id": 2,
+      "start": 2.12,
+      "end": 5.8,
+      "text": "Steel cans help prevent 2.2 billion pounds of food waste",
+      "avg_logprob": -0.1351197844459897,
+      "no_speech_prob": 0.0030838679522275925
+    },
+    {
+      "id": 3,
+      "start": 5.8,
+      "end": 8.0,
+      "text": "each year because they keep food fresh for long.",
+      "avg_logprob": -0.1351197844459897,
+      "no_speech_prob": 0.0030838679522275925
+    },
+    {
+      "id": 4,
+      "start": 8.0,
+      "end": 10.04,
+      "text": "Not to mention they have the highest recycling rate",
+      "avg_logprob": -0.1351197844459897,
+      "no_speech_prob": 0.0030838679522275925
+    },
+    {
+      "id": 5,
+      "start": 10.04,
+      "end": 14.16,
+      "text": "of any food packaging and 75% of all steel ever produced",
+      "avg_logprob": -0.1351197844459897,
+      "no_speech_prob": 0.0030838679522275925
+    },
+    {
+      "id": 6,
+      "start": 14.16,
+      "end": 15.76,
+      "text": "is still in use today.",
+      "avg_logprob": -0.1351197844459897,
+      "no_speech_prob": 0.0030838679522275925
+    },
+    {
+      "id": 7,
+      "start": 15.76,
+      "end": 17.12,
+      "text": "They're easy to store and ready to use",
+      "avg_logprob": -0.1351197844459897,
+      "no_speech_prob": 0.0030838679522275925
+    },
+    {
+      "id": 8,
+      "start": 17.12,
+      "end": 19.0,
+      "text": "when you need them so say goodbye to food waste",
+      "avg_logprob": -0.1351197844459897,
+      "no_speech_prob": 0.0030838679522275925
+    },
+    {
+      "id": 9,
+      "start": 19.0,
+      "end": 20.36,
+      "text": "and hello to steel cans.",
+      "avg_logprob": -0.1351197844459897,
+      "no_speech_prob": 0.0030838679522275925
+    }
+  ],
+  "transcript_full": "This is hands down the easiest way to prevent food waste. Steel cans help prevent 2.2 billion pounds of food waste each year because they keep food fresh for long. Not to mention they have the highest recycling rate of any food packaging and 75% of all steel ever produced is still in use today. They're easy to store and ready to use when you need them so say goodbye to food waste and hello to steel cans.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

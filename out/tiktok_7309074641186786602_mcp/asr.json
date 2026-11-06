@@ -1,0 +1,28 @@
+{
+  "language": "en",
+  "language_probability": 0.9552964568138123,
+  "duration": 9.333,
+  "duration_after_vad": 9.28,
+  "segment_count": 2,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.28,
+      "text": "responsibility for taking away those things that are killing people on a daily basis.",
+      "avg_logprob": -0.4125555292252571,
+      "no_speech_prob": 0.26752445101737976
+    },
+    {
+      "id": 2,
+      "start": 5.28,
+      "end": 9.28,
+      "text": "And the reality is that – and it's like –",
+      "avg_logprob": -0.4125555292252571,
+      "no_speech_prob": 0.26752445101737976
+    }
+  ],
+  "transcript_full": "responsibility for taking away those things that are killing people on a daily basis. And the reality is that – and it's like –",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

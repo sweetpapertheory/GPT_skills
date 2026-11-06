@@ -1,0 +1,116 @@
+{
+  "language": "en",
+  "language_probability": 0.998799204826355,
+  "duration": 38.533,
+  "duration_after_vad": 38.36,
+  "segment_count": 13,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.88,
+      "text": "EY is considering closing one of its major headquarters.",
+      "avg_logprob": -0.13752705976366997,
+      "no_speech_prob": 0.03201362118124962
+    },
+    {
+      "id": 2,
+      "start": 2.88,
+      "end": 7.16,
+      "text": "The Big Four accounting firm could be pulling back and committing to long-term hybrid working.",
+      "avg_logprob": -0.13752705976366997,
+      "no_speech_prob": 0.03201362118124962
+    },
+    {
+      "id": 3,
+      "start": 7.16,
+      "end": 10.56,
+      "text": "The company is reportedly looking to give up its London Bridge office, which has been",
+      "avg_logprob": -0.13752705976366997,
+      "no_speech_prob": 0.03201362118124962
+    },
+    {
+      "id": 4,
+      "start": 10.56,
+      "end": 13.76,
+      "text": "its home for the last 20 years, according to Bloomberg and Telegraph.",
+      "avg_logprob": -0.13752705976366997,
+      "no_speech_prob": 0.03201362118124962
+    },
+    {
+      "id": 5,
+      "start": 13.76,
+      "end": 15.72,
+      "text": "The office houses 9,000 employees.",
+      "avg_logprob": -0.13752705976366997,
+      "no_speech_prob": 0.03201362118124962
+    },
+    {
+      "id": 6,
+      "start": 15.72,
+      "end": 19.36,
+      "text": "EY launched a property review of its UK headquarters under the belief that fewer",
+      "avg_logprob": -0.13752705976366997,
+      "no_speech_prob": 0.03201362118124962
+    },
+    {
+      "id": 7,
+      "start": 19.36,
+      "end": 22.76,
+      "text": "people are working in office since staff are allowed to work from home at least",
+      "avg_logprob": -0.13752705976366997,
+      "no_speech_prob": 0.03201362118124962
+    },
+    {
+      "id": 8,
+      "start": 22.76,
+      "end": 23.76,
+      "text": "two days a week.",
+      "avg_logprob": -0.13752705976366997,
+      "no_speech_prob": 0.03201362118124962
+    },
+    {
+      "id": 9,
+      "start": 23.76,
+      "end": 27.08,
+      "text": "The review comes ahead of the end of the group's 25-year lease at More London",
+      "avg_logprob": -0.13752705976366997,
+      "no_speech_prob": 0.03201362118124962
+    },
+    {
+      "id": 10,
+      "start": 27.08,
+      "end": 28.08,
+      "text": "in 2028.",
+      "avg_logprob": -0.13752705976366997,
+      "no_speech_prob": 0.03201362118124962
+    },
+    {
+      "id": 11,
+      "start": 28.08,
+      "end": 31.8,
+      "text": "The More London office operates at 88% occupancy two days a week.",
+      "avg_logprob": -0.20441980719566344,
+      "no_speech_prob": 0.005484303459525108
+    },
+    {
+      "id": 12,
+      "start": 31.8,
+      "end": 35.16,
+      "text": "The company is considering moving to an environmentally-friendly building to help its",
+      "avg_logprob": -0.20441980719566344,
+      "no_speech_prob": 0.005484303459525108
+    },
+    {
+      "id": 13,
+      "start": 35.16,
+      "end": 38.36,
+      "text": "goal of being carbon-neutral by 2025, according to Bloomberg.",
+      "avg_logprob": -0.20441980719566344,
+      "no_speech_prob": 0.005484303459525108
+    }
+  ],
+  "transcript_full": "EY is considering closing one of its major headquarters. The Big Four accounting firm could be pulling back and committing to long-term hybrid working. The company is reportedly looking to give up its London Bridge office, which has been its home for the last 20 years, according to Bloomberg and Telegraph. The office houses 9,000 employees. EY launched a property review of its UK headquarters under the belief that fewer people are working in office since staff are allowed to work from home at least two days a week. The review comes ahead of the end of the group's 25-year lease at More London in 2028. The More London office operates at 88% occupancy two days a week. The company is considering moving to an environmentally-friendly building to help its goal of being carbon-neutral by 2025, according to Bloomberg.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

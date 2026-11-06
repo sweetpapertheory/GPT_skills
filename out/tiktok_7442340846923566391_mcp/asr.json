@@ -1,0 +1,60 @@
+{
+  "language": "sw",
+  "language_probability": 0.31447288393974304,
+  "duration": 59.048,
+  "duration_after_vad": 56.73,
+  "segment_count": 6,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.49,
+      "end": 14.22,
+      "text": "Wow, now day one is over. We are looking forward for tomorrow and I know great things will be happening.",
+      "avg_logprob": -0.34777919232845306,
+      "no_speech_prob": 0.3531770408153534
+    },
+    {
+      "id": 2,
+      "start": 14.22,
+      "end": 25.22,
+      "text": "Today we were just looking at the topic on matters climate change and how we the media do our reporting.",
+      "avg_logprob": -0.34777919232845306,
+      "no_speech_prob": 0.3531770408153534
+    },
+    {
+      "id": 3,
+      "start": 25.22,
+      "end": 32.22,
+      "text": "It's very interesting that we faced so many challenges but we are still looking forward.",
+      "avg_logprob": -0.14430915002953515,
+      "no_speech_prob": 0.17767630517482758
+    },
+    {
+      "id": 4,
+      "start": 32.22,
+      "end": 45.22,
+      "text": "I know tomorrow we will do a better work, we will do a better job in terms of reaching out to the experts on matters climate change",
+      "avg_logprob": -0.14430915002953515,
+      "no_speech_prob": 0.17767630517482758
+    },
+    {
+      "id": 5,
+      "start": 45.22,
+      "end": 54.22,
+      "text": "and just accessing information of which most of the experts have said that they will be giving us information.",
+      "avg_logprob": -0.14430915002953515,
+      "no_speech_prob": 0.17767630517482758
+    },
+    {
+      "id": 6,
+      "start": 54.22,
+      "end": 58.22,
+      "text": "So, here on day two, waiting for you.",
+      "avg_logprob": -0.3501032846314566,
+      "no_speech_prob": 0.19469045102596283
+    }
+  ],
+  "transcript_full": "Wow, now day one is over. We are looking forward for tomorrow and I know great things will be happening. Today we were just looking at the topic on matters climate change and how we the media do our reporting. It's very interesting that we faced so many challenges but we are still looking forward. I know tomorrow we will do a better work, we will do a better job in terms of reaching out to the experts on matters climate change and just accessing information of which most of the experts have said that they will be giving us information. So, here on day two, waiting for you.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

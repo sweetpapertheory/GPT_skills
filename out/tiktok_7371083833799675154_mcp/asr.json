@@ -1,0 +1,220 @@
+{
+  "language": "en",
+  "language_probability": 0.9953072667121887,
+  "duration": 89.633,
+  "duration_after_vad": 89.24,
+  "segment_count": 26,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.84,
+      "text": "Here are three ways the climate crisis might impact your salary.",
+      "avg_logprob": -0.21372498846971072,
+      "no_speech_prob": 0.0008766427636146545
+    },
+    {
+      "id": 2,
+      "start": 3.84,
+      "end": 8.92,
+      "text": "According to the ILO, in just seven years, up to 3.8% of total working hours worldwide",
+      "avg_logprob": -0.21372498846971072,
+      "no_speech_prob": 0.0008766427636146545
+    },
+    {
+      "id": 3,
+      "start": 8.92,
+      "end": 10.76,
+      "text": "could be lost to climate-induced high temperatures.",
+      "avg_logprob": -0.21372498846971072,
+      "no_speech_prob": 0.0008766427636146545
+    },
+    {
+      "id": 4,
+      "start": 10.76,
+      "end": 15.32,
+      "text": "That's the equivalent of about 136 million full-time jobs, for what's causing them.",
+      "avg_logprob": -0.21372498846971072,
+      "no_speech_prob": 0.0008766427636146545
+    },
+    {
+      "id": 5,
+      "start": 15.32,
+      "end": 17.56,
+      "text": "Well, number one, of course, is heat stress.",
+      "avg_logprob": -0.21372498846971072,
+      "no_speech_prob": 0.0008766427636146545
+    },
+    {
+      "id": 6,
+      "start": 17.56,
+      "end": 21.56,
+      "text": "Globally, there are millions of workers occupied in jobs associated with climate-related",
+      "avg_logprob": -0.21372498846971072,
+      "no_speech_prob": 0.0008766427636146545
+    },
+    {
+      "id": 7,
+      "start": 21.56,
+      "end": 22.56,
+      "text": "risks.",
+      "avg_logprob": -0.21372498846971072,
+      "no_speech_prob": 0.0008766427636146545
+    },
+    {
+      "id": 8,
+      "start": 22.56,
+      "end": 27.0,
+      "text": "It's stroke and heat exhaustion are obvious dangers to workers exposed to extreme heat,",
+      "avg_logprob": -0.21372498846971072,
+      "no_speech_prob": 0.0008766427636146545
+    },
+    {
+      "id": 9,
+      "start": 27.0,
+      "end": 30.88,
+      "text": "but fatigue as a result of working in hot temperatures is also a risk and increases the",
+      "avg_logprob": -0.20088838329238276,
+      "no_speech_prob": 0.00015978896408341825
+    },
+    {
+      "id": 10,
+      "start": 30.88,
+      "end": 34.6,
+      "text": "enchants of error, which in some jobs can lead to injury or death.",
+      "avg_logprob": -0.20088838329238276,
+      "no_speech_prob": 0.00015978896408341825
+    },
+    {
+      "id": 11,
+      "start": 34.6,
+      "end": 39.08,
+      "text": "Respiratory illnesses, disease, and pesticide-related health risks are also more prevalent",
+      "avg_logprob": -0.20088838329238276,
+      "no_speech_prob": 0.00015978896408341825
+    },
+    {
+      "id": 12,
+      "start": 39.08,
+      "end": 40.76,
+      "text": "in people working in hot climates.",
+      "avg_logprob": -0.20088838329238276,
+      "no_speech_prob": 0.00015978896408341825
+    },
+    {
+      "id": 13,
+      "start": 40.76,
+      "end": 42.68,
+      "text": "Number two, loss of productivity.",
+      "avg_logprob": -0.20088838329238276,
+      "no_speech_prob": 0.00015978896408341825
+    },
+    {
+      "id": 14,
+      "start": 42.68,
+      "end": 47.36,
+      "text": "Studies show the productivity tends to slow down once temperatures go above 24 to 26",
+      "avg_logprob": -0.20088838329238276,
+      "no_speech_prob": 0.00015978896408341825
+    },
+    {
+      "id": 15,
+      "start": 47.36,
+      "end": 48.36,
+      "text": "degrees Celsius.",
+      "avg_logprob": -0.20088838329238276,
+      "no_speech_prob": 0.00015978896408341825
+    },
+    {
+      "id": 16,
+      "start": 48.36,
+      "end": 53.52,
+      "text": "At about 33 to 34 degrees, productivity levels can be halved in jobs that require",
+      "avg_logprob": -0.20088838329238276,
+      "no_speech_prob": 0.00015978896408341825
+    },
+    {
+      "id": 17,
+      "start": 53.52,
+      "end": 54.52,
+      "text": "manual labour.",
+      "avg_logprob": -0.20088838329238276,
+      "no_speech_prob": 0.00015978896408341825
+    },
+    {
+      "id": 18,
+      "start": 54.72,
+      "end": 58.76,
+      "text": "Many of us may not experience this because we work in very air-conditioned offices, but",
+      "avg_logprob": -0.1818935579523958,
+      "no_speech_prob": 0.00117600173689425
+    },
+    {
+      "id": 19,
+      "start": 58.76,
+      "end": 62.88,
+      "text": "we still rely on the support of so many outdoor workers to construct new buildings, clean our",
+      "avg_logprob": -0.1818935579523958,
+      "no_speech_prob": 0.00117600173689425
+    },
+    {
+      "id": 20,
+      "start": 62.88,
+      "end": 65.96,
+      "text": "windows, or pick our food for our dinners.",
+      "avg_logprob": -0.1818935579523958,
+      "no_speech_prob": 0.00117600173689425
+    },
+    {
+      "id": 21,
+      "start": 65.96,
+      "end": 69.08,
+      "text": "Number three, damage to our infrastructure.",
+      "avg_logprob": -0.1818935579523958,
+      "no_speech_prob": 0.00117600173689425
+    },
+    {
+      "id": 22,
+      "start": 69.08,
+      "end": 72.52,
+      "text": "Extreme weather events like many of us have experienced recently will cause damage to",
+      "avg_logprob": -0.1818935579523958,
+      "no_speech_prob": 0.00117600173689425
+    },
+    {
+      "id": 23,
+      "start": 72.52,
+      "end": 76.76,
+      "text": "business assets, transportation routes, and industrial and agricultural infrastructure.",
+      "avg_logprob": -0.1818935579523958,
+      "no_speech_prob": 0.00117600173689425
+    },
+    {
+      "id": 24,
+      "start": 76.76,
+      "end": 82.88,
+      "text": "In 2022, climate change-related events cost the global economy $313 billion.",
+      "avg_logprob": -0.1818935579523958,
+      "no_speech_prob": 0.00117600173689425
+    },
+    {
+      "id": 25,
+      "start": 82.88,
+      "end": 86.24,
+      "text": "This figure is just 4% above the 21st century average.",
+      "avg_logprob": -0.2504259603364127,
+      "no_speech_prob": 0.36718156933784485
+    },
+    {
+      "id": 26,
+      "start": 86.24,
+      "end": 89.44,
+      "text": "If you're interested in how climate change is impacting our world, follow for more.",
+      "avg_logprob": -0.2504259603364127,
+      "no_speech_prob": 0.36718156933784485
+    }
+  ],
+  "transcript_full": "Here are three ways the climate crisis might impact your salary. According to the ILO, in just seven years, up to 3.8% of total working hours worldwide could be lost to climate-induced high temperatures. That's the equivalent of about 136 million full-time jobs, for what's causing them. Well, number one, of course, is heat stress. Globally, there are millions of workers occupied in jobs associated with climate-related risks. It's stroke and heat exhaustion are obvious dangers to workers exposed to extreme heat, but fatigue as a result of working in hot temperatures is also a risk and increases the enchants of error, which in some jobs can lead to injury or death. Respiratory illnesses, disease, and pesticide-related health risks are also more prevalent in people working in hot climates. Number two, loss of productivity. Studies show the productivity tends to slow down once temperatures go above 24 to 26 degrees Celsius. At about 33 to 34 degrees, productivity levels can be halved in jobs that require manual labour. Many of us may not experience this because we work in very air-conditioned offices, but we still rely on the support of so many outdoor workers to construct new buildings, clean our windows, or pick our food for our dinners. Number three, damage to our infrastructure. Extreme weather events like many of us have experienced recently will cause damage to business assets, transportation routes, and industrial and agricultural infrastructure. In 2022, climate change-related events cost the global economy $313 billion. This figure is just 4% above the 21st century average. If you're interested in how climate change is impacting our world, follow for more.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

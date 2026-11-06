@@ -1,0 +1,220 @@
+{
+  "language": "en",
+  "language_probability": 0.9965692758560181,
+  "duration": 133.625,
+  "duration_after_vad": 117.36,
+  "segment_count": 26,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.56,
+      "text": "That leads me back to the independent peer review of 2011 commissioned under the former",
+      "avg_logprob": -0.14633841858696692,
+      "no_speech_prob": 0.0018312528263777494
+    },
+    {
+      "id": 2,
+      "start": 4.56,
+      "end": 10.72,
+      "text": "Gillard government. They said, as per paragraph C7, before public release of the homogenised",
+      "avg_logprob": -0.14633841858696692,
+      "no_speech_prob": 0.0018312528263777494
+    },
+    {
+      "id": 3,
+      "start": 10.72,
+      "end": 15.68,
+      "text": "dataset, the Bureau should determine and document the reasons why the new dataset shows a lower",
+      "avg_logprob": -0.14633841858696692,
+      "no_speech_prob": 0.0018312528263777494
+    },
+    {
+      "id": 4,
+      "start": 15.68,
+      "end": 21.28,
+      "text": "average temperature in the period prior to 1940 than is shown by data from whole network and",
+      "avg_logprob": -0.14633841858696692,
+      "no_speech_prob": 0.0018312528263777494
+    },
+    {
+      "id": 5,
+      "start": 21.28,
+      "end": 25.84,
+      "text": "previous international analysis. When you just said there before that was the warmest",
+      "avg_logprob": -0.14633841858696692,
+      "no_speech_prob": 0.0018312528263777494
+    },
+    {
+      "id": 6,
+      "start": 25.92,
+      "end": 31.52,
+      "text": "winter on record, was that quoting actual observations or the homogenised data from",
+      "avg_logprob": -0.1716229749007488,
+      "no_speech_prob": 0.04379013180732727
+    },
+    {
+      "id": 7,
+      "start": 31.52,
+      "end": 35.52,
+      "text": "either ACORN 1 or ACORN 2? I'd say it'd be both. I'm just going on the",
+      "avg_logprob": -0.1716229749007488,
+      "no_speech_prob": 0.04379013180732727
+    },
+    {
+      "id": 8,
+      "start": 35.52,
+      "end": 39.04,
+      "text": "observed record during this winter. It's the warmest winter on record since...",
+      "avg_logprob": -0.1716229749007488,
+      "no_speech_prob": 0.04379013180732727
+    },
+    {
+      "id": 9,
+      "start": 39.04,
+      "end": 43.68,
+      "text": "So what have you got to say about this that says, the independent peer review that says",
+      "avg_logprob": -0.1716229749007488,
+      "no_speech_prob": 0.04379013180732727
+    },
+    {
+      "id": 10,
+      "start": 43.68,
+      "end": 48.96,
+      "text": "you homogenised data records down prior to 1940? So I'm not sure what your question is,",
+      "avg_logprob": -0.1716229749007488,
+      "no_speech_prob": 0.04379013180732727
+    },
+    {
+      "id": 11,
+      "start": 48.96,
+      "end": 53.92,
+      "text": "Senator. Well my question is, have you answered the question of the independent peer review",
+      "avg_logprob": -0.1716229749007488,
+      "no_speech_prob": 0.04379013180732727
+    },
+    {
+      "id": 12,
+      "start": 53.92,
+      "end": 60.08,
+      "text": "that wanted to know why you homogenised records, i.e. you took take the original",
+      "avg_logprob": -0.13479046682094006,
+      "no_speech_prob": 0.002004563808441162
+    },
+    {
+      "id": 13,
+      "start": 60.08,
+      "end": 64.48,
+      "text": "recordings and then you've changed them and you've pushed them down to make it look like",
+      "avg_logprob": -0.13479046682094006,
+      "no_speech_prob": 0.002004563808441162
+    },
+    {
+      "id": 14,
+      "start": 64.48,
+      "end": 67.84,
+      "text": "temperature records have increased? Dr Stone will address this.",
+      "avg_logprob": -0.13479046682094006,
+      "no_speech_prob": 0.002004563808441162
+    },
+    {
+      "id": 15,
+      "start": 69.68,
+      "end": 73.44,
+      "text": "Sure, that's a correct interpretation of the review. That's exactly what the correct",
+      "avg_logprob": -0.13479046682094006,
+      "no_speech_prob": 0.002004563808441162
+    },
+    {
+      "id": 16,
+      "start": 73.44,
+      "end": 79.28,
+      "text": "interpretation is. The Bureau has completed 30 of the 31 recommendations in that review,",
+      "avg_logprob": -0.13479046682094006,
+      "no_speech_prob": 0.002004563808441162
+    },
+    {
+      "id": 17,
+      "start": 79.28,
+      "end": 84.8,
+      "text": "just directly addressing the point you've made about homogenisation.",
+      "avg_logprob": -0.2591648796102503,
+      "no_speech_prob": 0.0026136254891753197
+    },
+    {
+      "id": 18,
+      "start": 88.48,
+      "end": 93.52,
+      "text": "If the observation network never changed, it would show a warming trend",
+      "avg_logprob": -0.2591648796102503,
+      "no_speech_prob": 0.0026136254891753197
+    },
+    {
+      "id": 19,
+      "start": 94.56,
+      "end": 99.04,
+      "text": "greater than that that we currently estimate. That's not true, that actually is not...",
+      "avg_logprob": -0.2591648796102503,
+      "no_speech_prob": 0.0026136254891753197
+    },
+    {
+      "id": 20,
+      "start": 99.04,
+      "end": 101.68,
+      "text": "No, I'm sorry, that is true because of the chart.",
+      "avg_logprob": -0.2591648796102503,
+      "no_speech_prob": 0.0026136254891753197
+    },
+    {
+      "id": 21,
+      "start": 101.68,
+      "end": 107.52,
+      "text": "So why ask? Because you've got a range of documents there that the rest of us do not.",
+      "avg_logprob": -0.2591648796102503,
+      "no_speech_prob": 0.0026136254891753197
+    },
+    {
+      "id": 22,
+      "start": 108.16,
+      "end": 111.84,
+      "text": "I wonder if you would care to... Table.",
+      "avg_logprob": -0.18758269744132883,
+      "no_speech_prob": 0.0071603767573833466
+    },
+    {
+      "id": 23,
+      "start": 111.84,
+      "end": 113.36,
+      "text": "To table those. Absolutely.",
+      "avg_logprob": -0.18758269744132883,
+      "no_speech_prob": 0.0071603767573833466
+    },
+    {
+      "id": 24,
+      "start": 113.36,
+      "end": 117.04,
+      "text": "And place the questions related to the finite information that you've obviously got flagged",
+      "avg_logprob": -0.18758269744132883,
+      "no_speech_prob": 0.0071603767573833466
+    },
+    {
+      "id": 25,
+      "start": 117.04,
+      "end": 122.0,
+      "text": "and highlighted there on notice so that we can get accurate response.",
+      "avg_logprob": -0.18758269744132883,
+      "no_speech_prob": 0.0071603767573833466
+    },
+    {
+      "id": 26,
+      "start": 122.0,
+      "end": 124.64,
+      "text": "Because that was a misleading response. That's fine.",
+      "avg_logprob": -0.18758269744132883,
+      "no_speech_prob": 0.0071603767573833466
+    }
+  ],
+  "transcript_full": "That leads me back to the independent peer review of 2011 commissioned under the former Gillard government. They said, as per paragraph C7, before public release of the homogenised dataset, the Bureau should determine and document the reasons why the new dataset shows a lower average temperature in the period prior to 1940 than is shown by data from whole network and previous international analysis. When you just said there before that was the warmest winter on record, was that quoting actual observations or the homogenised data from either ACORN 1 or ACORN 2? I'd say it'd be both. I'm just going on the observed record during this winter. It's the warmest winter on record since... So what have you got to say about this that says, the independent peer review that says you homogenised data records down prior to 1940? So I'm not sure what your question is, Senator. Well my question is, have you answered the question of the independent peer review that wanted to know why you homogenised records, i.e. you took take the original recordings and then you've changed them and you've pushed them down to make it look like temperature records have increased? Dr Stone will address this. Sure, that's a correct interpretation of the review. That's exactly what the correct interpretation is. The Bureau has completed 30 of the 31 recommendations in that review, just directly addressing the point you've made about homogenisation. If the observation network never changed, it would show a warming trend greater than that that we currently estimate. That's not true, that actually is not... No, I'm sorry, that is true because of the chart. So why ask? Because you've got a range of documents there that the rest of us do not. I wonder if you would care to... Table. To table those. Absolutely. And place the questions related to the finite information that you've obviously got flagged and highlighted there on notice so that we can get accurate response. Because that was a misleading response. That's fine.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

@@ -1,0 +1,28 @@
+{
+  "language": "yi",
+  "language_probability": 0.13112543523311615,
+  "duration": 14.442,
+  "duration_after_vad": 8.5,
+  "segment_count": 2,
+  "segments": [
+    {
+      "id": 1,
+      "start": 5.07,
+      "end": 9.07,
+      "text": "וילג'ה אינג'ה מוזיקו חבודים",
+      "avg_logprob": -0.8881133014247531,
+      "no_speech_prob": 0.6219392418861389
+    },
+    {
+      "id": 2,
+      "start": 10.57,
+      "end": 15.07,
+      "text": "תילקו סינארק תאו, חוסי עושה",
+      "avg_logprob": -0.8881133014247531,
+      "no_speech_prob": 0.6219392418861389
+    }
+  ],
+  "transcript_full": "וילג'ה אינג'ה מוזיקו חבודים תילקו סינארק תאו, חוסי עושה",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

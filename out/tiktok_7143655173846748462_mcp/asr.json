@@ -1,0 +1,60 @@
+{
+  "language": "en",
+  "language_probability": 0.9991289973258972,
+  "duration": 22.733,
+  "duration_after_vad": 22.48,
+  "segment_count": 6,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.16,
+      "text": "The founder of Patagonia is giving away his company to help fight climate change.",
+      "avg_logprob": -0.08604833801973213,
+      "no_speech_prob": 0.0031755066011101007
+    },
+    {
+      "id": 2,
+      "start": 4.16,
+      "end": 8.56,
+      "text": "The outdoor apparel company will now be in the hands of a trust and non-profit organization.",
+      "avg_logprob": -0.08604833801973213,
+      "no_speech_prob": 0.0031755066011101007
+    },
+    {
+      "id": 3,
+      "start": 8.56,
+      "end": 12.08,
+      "text": "Rather than selling the three billion dollar company or taking it public,",
+      "avg_logprob": -0.08604833801973213,
+      "no_speech_prob": 0.0031755066011101007
+    },
+    {
+      "id": 4,
+      "start": 12.08,
+      "end": 16.48,
+      "text": "he wanted to ensure that all of the profits went to combating climate change",
+      "avg_logprob": -0.08604833801973213,
+      "no_speech_prob": 0.0031755066011101007
+    },
+    {
+      "id": 5,
+      "start": 16.48,
+      "end": 19.2,
+      "text": "and protecting underdeveloped land across the globe.",
+      "avg_logprob": -0.08604833801973213,
+      "no_speech_prob": 0.0031755066011101007
+    },
+    {
+      "id": 6,
+      "start": 19.2,
+      "end": 22.48,
+      "text": "Here's hoping that more people in his position will follow in his footsteps.",
+      "avg_logprob": -0.08604833801973213,
+      "no_speech_prob": 0.0031755066011101007
+    }
+  ],
+  "transcript_full": "The founder of Patagonia is giving away his company to help fight climate change. The outdoor apparel company will now be in the hands of a trust and non-profit organization. Rather than selling the three billion dollar company or taking it public, he wanted to ensure that all of the profits went to combating climate change and protecting underdeveloped land across the globe. Here's hoping that more people in his position will follow in his footsteps.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

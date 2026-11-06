@@ -1,0 +1,460 @@
+{
+  "language": "en",
+  "language_probability": 0.9899348616600037,
+  "duration": 221.133,
+  "duration_after_vad": 221.0,
+  "segment_count": 56,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Hungary announces its slogan for the EU Presidency,",
+      "avg_logprob": -0.20492439636069795,
+      "no_speech_prob": 0.22480833530426025
+    },
+    {
+      "id": 2,
+      "start": 4.0,
+      "end": 7.0,
+      "text": "Make Europe Great Again, oh boy.",
+      "avg_logprob": -0.20492439636069795,
+      "no_speech_prob": 0.22480833530426025
+    },
+    {
+      "id": 3,
+      "start": 7.0,
+      "end": 13.0,
+      "text": "It is common knowledge at this point that Viktor Orban has connections to every single conservative",
+      "avg_logprob": -0.20492439636069795,
+      "no_speech_prob": 0.22480833530426025
+    },
+    {
+      "id": 4,
+      "start": 13.0,
+      "end": 18.0,
+      "text": "and far-right figure in politics in Europe and North America.",
+      "avg_logprob": -0.20492439636069795,
+      "no_speech_prob": 0.22480833530426025
+    },
+    {
+      "id": 5,
+      "start": 18.0,
+      "end": 22.0,
+      "text": "Everyone from Vladimir Putin to the orange himself, Donald Trump.",
+      "avg_logprob": -0.20492439636069795,
+      "no_speech_prob": 0.22480833530426025
+    },
+    {
+      "id": 6,
+      "start": 22.0,
+      "end": 29.0,
+      "text": "Viktor has become not a side player in this arrangement of nationalist figures around the world,",
+      "avg_logprob": -0.20492439636069795,
+      "no_speech_prob": 0.22480833530426025
+    },
+    {
+      "id": 7,
+      "start": 29.0,
+      "end": 35.0,
+      "text": "but one of the central organizers of the entire international nationalist movement,",
+      "avg_logprob": -0.06923167034983635,
+      "no_speech_prob": 0.04293294996023178
+    },
+    {
+      "id": 8,
+      "start": 35.0,
+      "end": 41.0,
+      "text": "being one of the key funders and supporters of several different constant conferences",
+      "avg_logprob": -0.06923167034983635,
+      "no_speech_prob": 0.04293294996023178
+    },
+    {
+      "id": 9,
+      "start": 41.0,
+      "end": 47.0,
+      "text": "that are happening around the world to mix and orientate the far-right and right together",
+      "avg_logprob": -0.06923167034983635,
+      "no_speech_prob": 0.04293294996023178
+    },
+    {
+      "id": 10,
+      "start": 47.0,
+      "end": 50.0,
+      "text": "into a single political vision and will.",
+      "avg_logprob": -0.06923167034983635,
+      "no_speech_prob": 0.04293294996023178
+    },
+    {
+      "id": 11,
+      "start": 50.0,
+      "end": 56.0,
+      "text": "Conferences like Megacon in Romania, where participants in the January 6th attempted",
+      "avg_logprob": -0.06923167034983635,
+      "no_speech_prob": 0.04293294996023178
+    },
+    {
+      "id": 12,
+      "start": 56.0,
+      "end": 61.0,
+      "text": "to do against the United States government participated and were headlined as speakers.",
+      "avg_logprob": -0.12153890683520131,
+      "no_speech_prob": 0.2945716083049774
+    },
+    {
+      "id": 13,
+      "start": 61.0,
+      "end": 66.0,
+      "text": "Or the event of events for the European right and far-right, CPAC Hungary,",
+      "avg_logprob": -0.12153890683520131,
+      "no_speech_prob": 0.2945716083049774
+    },
+    {
+      "id": 14,
+      "start": 66.0,
+      "end": 72.0,
+      "text": "which brings together literally thousands of conservative nationalist politicians",
+      "avg_logprob": -0.12153890683520131,
+      "no_speech_prob": 0.2945716083049774
+    },
+    {
+      "id": 15,
+      "start": 72.0,
+      "end": 76.0,
+      "text": "from around the world to mix and organize together,",
+      "avg_logprob": -0.12153890683520131,
+      "no_speech_prob": 0.2945716083049774
+    },
+    {
+      "id": 16,
+      "start": 76.0,
+      "end": 82.0,
+      "text": "saying that they have formed a coalition of pro-peace anti-globalist forces",
+      "avg_logprob": -0.12153890683520131,
+      "no_speech_prob": 0.2945716083049774
+    },
+    {
+      "id": 17,
+      "start": 82.0,
+      "end": 85.0,
+      "text": "formed after the Third Conservative Jamboree.",
+      "avg_logprob": -0.1412607011325816,
+      "no_speech_prob": 0.8908535242080688
+    },
+    {
+      "id": 18,
+      "start": 85.0,
+      "end": 87.0,
+      "text": "A jamboree is basically a conference.",
+      "avg_logprob": -0.1412607011325816,
+      "no_speech_prob": 0.8908535242080688
+    },
+    {
+      "id": 19,
+      "start": 87.0,
+      "end": 93.0,
+      "text": "And now the international right from Europe to America is joining forces for the elections.",
+      "avg_logprob": -0.1412607011325816,
+      "no_speech_prob": 0.8908535242080688
+    },
+    {
+      "id": 20,
+      "start": 93.0,
+      "end": 99.0,
+      "text": "And even more, National Conservative Conference, NatCon, so the Nazis,",
+      "avg_logprob": -0.1412607011325816,
+      "no_speech_prob": 0.8908535242080688
+    },
+    {
+      "id": 21,
+      "start": 99.0,
+      "end": 104.0,
+      "text": "very on the nose, has been happening all over the world including in Belgium recently",
+      "avg_logprob": -0.1412607011325816,
+      "no_speech_prob": 0.8908535242080688
+    },
+    {
+      "id": 22,
+      "start": 104.0,
+      "end": 108.0,
+      "text": "and upcoming in Washington DC on July 8th through 10th.",
+      "avg_logprob": -0.1412607011325816,
+      "no_speech_prob": 0.8908535242080688
+    },
+    {
+      "id": 23,
+      "start": 108.0,
+      "end": 112.0,
+      "text": "It should be also noted that these conferences also include far-right clerics",
+      "avg_logprob": -0.0890315204131894,
+      "no_speech_prob": 0.03936297446489334
+    },
+    {
+      "id": 24,
+      "start": 112.0,
+      "end": 115.0,
+      "text": "from a number of different religious sects.",
+      "avg_logprob": -0.0890315204131894,
+      "no_speech_prob": 0.03936297446489334
+    },
+    {
+      "id": 25,
+      "start": 115.0,
+      "end": 118.0,
+      "text": "This is vital in Viktor Orban's regime and Hungary itself,",
+      "avg_logprob": -0.0890315204131894,
+      "no_speech_prob": 0.03936297446489334
+    },
+    {
+      "id": 26,
+      "start": 118.0,
+      "end": 123.0,
+      "text": "but also for the new international far-right, which seeks to merge politics and faith",
+      "avg_logprob": -0.0890315204131894,
+      "no_speech_prob": 0.03936297446489334
+    },
+    {
+      "id": 27,
+      "start": 123.0,
+      "end": 126.0,
+      "text": "into a single, fatal coalition.",
+      "avg_logprob": -0.0890315204131894,
+      "no_speech_prob": 0.03936297446489334
+    },
+    {
+      "id": 28,
+      "start": 126.0,
+      "end": 128.0,
+      "text": "And look at these headliners.",
+      "avg_logprob": -0.0890315204131894,
+      "no_speech_prob": 0.03936297446489334
+    },
+    {
+      "id": 29,
+      "start": 128.0,
+      "end": 132.0,
+      "text": "We have Steve Bannon and Soella Braverman at a Viktor Orban conference as the top speakers.",
+      "avg_logprob": -0.0890315204131894,
+      "no_speech_prob": 0.03936297446489334
+    },
+    {
+      "id": 30,
+      "start": 132.0,
+      "end": 135.0,
+      "text": "And in Belgium, it was Soella and Nigel Farage.",
+      "avg_logprob": -0.0890315204131894,
+      "no_speech_prob": 0.03936297446489334
+    },
+    {
+      "id": 31,
+      "start": 135.0,
+      "end": 139.0,
+      "text": "And right below, Viktor himself, another religious figure,",
+      "avg_logprob": -0.10180535627448041,
+      "no_speech_prob": 0.016784941777586937
+    },
+    {
+      "id": 32,
+      "start": 139.0,
+      "end": 143.0,
+      "text": "a cardinal in the Catholic Church who is a far-right figure himself,",
+      "avg_logprob": -0.10180535627448041,
+      "no_speech_prob": 0.016784941777586937
+    },
+    {
+      "id": 33,
+      "start": 143.0,
+      "end": 146.0,
+      "text": "and far-right king, Eric Zamora of France.",
+      "avg_logprob": -0.10180535627448041,
+      "no_speech_prob": 0.016784941777586937
+    },
+    {
+      "id": 34,
+      "start": 146.0,
+      "end": 148.0,
+      "text": "Hungary's EU minister stated,",
+      "avg_logprob": -0.10180535627448041,
+      "no_speech_prob": 0.016784941777586937
+    },
+    {
+      "id": 35,
+      "start": 148.0,
+      "end": 153.0,
+      "text": "It actually shows manifest the expectation that together we should be stronger than individually,",
+      "avg_logprob": -0.10180535627448041,
+      "no_speech_prob": 0.016784941777586937
+    },
+    {
+      "id": 36,
+      "start": 153.0,
+      "end": 157.0,
+      "text": "but that we should be allowed to remain who we are when we come together.",
+      "avg_logprob": -0.10180535627448041,
+      "no_speech_prob": 0.016784941777586937
+    },
+    {
+      "id": 37,
+      "start": 157.0,
+      "end": 160.0,
+      "text": "It also portrays the idea that Europe is able to become",
+      "avg_logprob": -0.10180535627448041,
+      "no_speech_prob": 0.016784941777586937
+    },
+    {
+      "id": 38,
+      "start": 160.0,
+      "end": 163.0,
+      "text": "an independent global actor in transforming our world.",
+      "avg_logprob": -0.10180535627448041,
+      "no_speech_prob": 0.016784941777586937
+    },
+    {
+      "id": 39,
+      "start": 163.0,
+      "end": 166.0,
+      "text": "When he was questioned about being obviously Trumpist, he said,",
+      "avg_logprob": -0.08620536551439673,
+      "no_speech_prob": 0.06811054795980453
+    },
+    {
+      "id": 40,
+      "start": 166.0,
+      "end": 170.0,
+      "text": "Well, I don't have the sense of deja vu because of Trump's slogan.",
+      "avg_logprob": -0.08620536551439673,
+      "no_speech_prob": 0.06811054795980453
+    },
+    {
+      "id": 41,
+      "start": 170.0,
+      "end": 173.0,
+      "text": "I don't know if Donald Trump ever wanted to make Europe great again.",
+      "avg_logprob": -0.08620536551439673,
+      "no_speech_prob": 0.06811054795980453
+    },
+    {
+      "id": 42,
+      "start": 173.0,
+      "end": 175.0,
+      "text": "He also promised that Hungary isn't going to block the accession",
+      "avg_logprob": -0.08620536551439673,
+      "no_speech_prob": 0.06811054795980453
+    },
+    {
+      "id": 43,
+      "start": 175.0,
+      "end": 178.0,
+      "text": "of Ukraine, Moldova, and Georgia to the EU,",
+      "avg_logprob": -0.08620536551439673,
+      "no_speech_prob": 0.06811054795980453
+    },
+    {
+      "id": 44,
+      "start": 178.0,
+      "end": 181.0,
+      "text": "but trusting Fidesz is basically foolish.",
+      "avg_logprob": -0.08620536551439673,
+      "no_speech_prob": 0.06811054795980453
+    },
+    {
+      "id": 45,
+      "start": 181.0,
+      "end": 184.0,
+      "text": "Boka also made it announced that the Rubik's Cube",
+      "avg_logprob": -0.08620536551439673,
+      "no_speech_prob": 0.06811054795980453
+    },
+    {
+      "id": 46,
+      "start": 184.0,
+      "end": 187.0,
+      "text": "is the logo of the Hungarian presidency of the EU.",
+      "avg_logprob": -0.08620536551439673,
+      "no_speech_prob": 0.06811054795980453
+    },
+    {
+      "id": 47,
+      "start": 187.0,
+      "end": 190.0,
+      "text": "Boka also said that Hungary would use its presidency",
+      "avg_logprob": -0.08620536551439673,
+      "no_speech_prob": 0.06811054795980453
+    },
+    {
+      "id": 48,
+      "start": 190.0,
+      "end": 194.0,
+      "text": "to introduce a new competitive, farmer-centered agricultural deal",
+      "avg_logprob": -0.08313086899844083,
+      "no_speech_prob": 0.39342522621154785
+    },
+    {
+      "id": 49,
+      "start": 194.0,
+      "end": 197.0,
+      "text": "with more efficient protection of the external borders",
+      "avg_logprob": -0.08313086899844083,
+      "no_speech_prob": 0.39342522621154785
+    },
+    {
+      "id": 50,
+      "start": 197.0,
+      "end": 200.0,
+      "text": "to manage root causes of migration",
+      "avg_logprob": -0.08313086899844083,
+      "no_speech_prob": 0.39342522621154785
+    },
+    {
+      "id": 51,
+      "start": 200.0,
+      "end": 203.0,
+      "text": "and to improve a more efficient policy of return.",
+      "avg_logprob": -0.08313086899844083,
+      "no_speech_prob": 0.39342522621154785
+    },
+    {
+      "id": 52,
+      "start": 203.0,
+      "end": 207.0,
+      "text": "So it seems like more fortress Europe and more cruelty to migrants.",
+      "avg_logprob": -0.08313086899844083,
+      "no_speech_prob": 0.39342522621154785
+    },
+    {
+      "id": 53,
+      "start": 207.0,
+      "end": 210.0,
+      "text": "So while the EU president is meant to be a neutral arbiter",
+      "avg_logprob": -0.08313086899844083,
+      "no_speech_prob": 0.39342522621154785
+    },
+    {
+      "id": 54,
+      "start": 210.0,
+      "end": 215.0,
+      "text": "to solve problems, it looks like Victor just wants to stir up even more in Brussels.",
+      "avg_logprob": -0.08313086899844083,
+      "no_speech_prob": 0.39342522621154785
+    },
+    {
+      "id": 55,
+      "start": 215.0,
+      "end": 219.0,
+      "text": "So unfortunately, make Europe great again is going to be with us",
+      "avg_logprob": -0.08313086899844083,
+      "no_speech_prob": 0.39342522621154785
+    },
+    {
+      "id": 56,
+      "start": 219.0,
+      "end": 221.0,
+      "text": "for at least six months.",
+      "avg_logprob": -0.06910313500298394,
+      "no_speech_prob": 0.5214727520942688
+    }
+  ],
+  "transcript_full": "Hungary announces its slogan for the EU Presidency, Make Europe Great Again, oh boy. It is common knowledge at this point that Viktor Orban has connections to every single conservative and far-right figure in politics in Europe and North America. Everyone from Vladimir Putin to the orange himself, Donald Trump. Viktor has become not a side player in this arrangement of nationalist figures around the world, but one of the central organizers of the entire international nationalist movement, being one of the key funders and supporters of several different constant conferences that are happening around the world to mix and orientate the far-right and right together into a single political vision and will. Conferences like Megacon in Romania, where participants in the January 6th attempted to do against the United States government participated and were headlined as speakers. Or the event of events for the European right and far-right, CPAC Hungary, which brings together literally thousands of conservative nationalist politicians from around the world to mix and organize together, saying that they have formed a coalition of pro-peace anti-globalist forces formed after the Third Conservative Jamboree. A jamboree is basically a conference. And now the international right from Europe to America is joining forces for the elections. And even more, National Conservative Conference, NatCon, so the Nazis, very on the nose, has been happening all over the world including in Belgium recently and upcoming in Washington DC on July 8th through 10th. It should be also noted that these conferences also include far-right clerics from a number of different religious sects. This is vital in Viktor Orban's regime and Hungary itself, but also for the new international far-right, which seeks to merge politics and faith into a single, fatal coalition. And look at these headliners. We have Steve Bannon and Soella Braverman at a Viktor Orban conference as the top speakers. And in Belgium, it was Soella and Nigel Farage. And right below, Viktor himself, another religious figure, a cardinal in the Catholic Church who is a far-right figure himself, and far-right king, Eric Zamora of France. Hungary's EU minister stated, It actually shows manifest the expectation that together we should be stronger than individually, but that we should be allowed to remain who we are when we come together. It also portrays the idea that Europe is able to become an independent global actor in transforming our world. When he was questioned about being obviously Trumpist, he said, Well, I don't have the sense of deja vu because of Trump's slogan. I don't know if Donald Trump ever wanted to make Europe great again. He also promised that Hungary isn't going to block the accession of Ukraine, Moldova, and Georgia to the EU, but trusting Fidesz is basically foolish. Boka also made it announced that the Rubik's Cube is the logo of the Hungarian presidency of the EU. Boka also said that Hungary would use its presidency to introduce a new competitive, farmer-centered agricultural deal with more efficient protection of the external borders to manage root causes of migration and to improve a more efficient policy of return. So it seems like more fortress Europe and more cruelty to migrants. So while the EU president is meant to be a neutral arbiter to solve problems, it looks like Victor just wants to stir up even more in Brussels. So unfortunately, make Europe great again is going to be with us for at least six months.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

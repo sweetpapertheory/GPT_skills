@@ -1,0 +1,108 @@
+{
+  "language": "en",
+  "language_probability": 0.9991994500160217,
+  "duration": 58.167,
+  "duration_after_vad": 57.28,
+  "segment_count": 12,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.88,
+      "text": "Bill Gates is the largest private owner of farmland in the U.S.",
+      "avg_logprob": -0.1400500704412875,
+      "no_speech_prob": 0.027399133890867233
+    },
+    {
+      "id": 2,
+      "start": 4.88,
+      "end": 10.4,
+      "text": "About 50% of the crop land in the United States is leased, and this gives a huge proportion of farmers",
+      "avg_logprob": -0.1400500704412875,
+      "no_speech_prob": 0.027399133890867233
+    },
+    {
+      "id": 3,
+      "start": 10.4,
+      "end": 15.6,
+      "text": "zero incentive to improve their land over time or use crops that might be best in the long term.",
+      "avg_logprob": -0.1400500704412875,
+      "no_speech_prob": 0.027399133890867233
+    },
+    {
+      "id": 4,
+      "start": 15.6,
+      "end": 19.6,
+      "text": "For example, many perennial crops can take years to establish, and by that time,",
+      "avg_logprob": -0.1400500704412875,
+      "no_speech_prob": 0.027399133890867233
+    },
+    {
+      "id": 5,
+      "start": 19.6,
+      "end": 24.0,
+      "text": "the lease might be up. This system promotes extractive annual agriculture",
+      "avg_logprob": -0.1400500704412875,
+      "no_speech_prob": 0.027399133890867233
+    },
+    {
+      "id": 6,
+      "start": 24.0,
+      "end": 26.4,
+      "text": "on top of subsidies for things like corn and soy.",
+      "avg_logprob": -0.1400500704412875,
+      "no_speech_prob": 0.027399133890867233
+    },
+    {
+      "id": 7,
+      "start": 27.04,
+      "end": 32.0,
+      "text": "80% of landowners who lease are simply landlords and have nothing to do with farming.",
+      "avg_logprob": -0.09238949990490587,
+      "no_speech_prob": 0.10921443998813629
+    },
+    {
+      "id": 8,
+      "start": 32.0,
+      "end": 36.72,
+      "text": "We might want to consider changing some tax structures or something to change the equation",
+      "avg_logprob": -0.09238949990490587,
+      "no_speech_prob": 0.10921443998813629
+    },
+    {
+      "id": 9,
+      "start": 36.72,
+      "end": 43.52,
+      "text": "of profitability for simply being a landlord. Or, you know, we could just seize the land from",
+      "avg_logprob": -0.09238949990490587,
+      "no_speech_prob": 0.10921443998813629
+    },
+    {
+      "id": 10,
+      "start": 43.52,
+      "end": 49.76,
+      "text": "people like Bill Gates and, you know, redistribute it, maybe giving priority to historically",
+      "avg_logprob": -0.09238949990490587,
+      "no_speech_prob": 0.10921443998813629
+    },
+    {
+      "id": 11,
+      "start": 49.76,
+      "end": 56.72,
+      "text": "marginalized people like Native and African Americans, for example. Just, you know, throwing",
+      "avg_logprob": -0.3192429652920476,
+      "no_speech_prob": 0.4779364764690399
+    },
+    {
+      "id": 12,
+      "start": 56.72,
+      "end": 57.92,
+      "text": "some things out there.",
+      "avg_logprob": -0.3192429652920476,
+      "no_speech_prob": 0.4779364764690399
+    }
+  ],
+  "transcript_full": "Bill Gates is the largest private owner of farmland in the U.S. About 50% of the crop land in the United States is leased, and this gives a huge proportion of farmers zero incentive to improve their land over time or use crops that might be best in the long term. For example, many perennial crops can take years to establish, and by that time, the lease might be up. This system promotes extractive annual agriculture on top of subsidies for things like corn and soy. 80% of landowners who lease are simply landlords and have nothing to do with farming. We might want to consider changing some tax structures or something to change the equation of profitability for simply being a landlord. Or, you know, we could just seize the land from people like Bill Gates and, you know, redistribute it, maybe giving priority to historically marginalized people like Native and African Americans, for example. Just, you know, throwing some things out there.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

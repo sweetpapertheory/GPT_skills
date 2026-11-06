@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "language_probability": 0.7701005339622498,
+  "duration": 31.267,
+  "duration_after_vad": 2.0,
+  "segment_count": 1,
+  "segments": [
+    {
+      "id": 1,
+      "start": 6.96,
+      "end": 8.96,
+      "text": "But you'd better not kill the b-",
+      "avg_logprob": -0.680430660645167,
+      "no_speech_prob": 0.6851806640625
+    }
+  ],
+  "transcript_full": "But you'd better not kill the b-",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

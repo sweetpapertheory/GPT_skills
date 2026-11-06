@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "language_probability": 0.7573109865188599,
+  "duration": 13.733,
+  "duration_after_vad": 0.84,
+  "segment_count": 1,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.23,
+      "end": 2.07,
+      "text": "I'm not deported by-",
+      "avg_logprob": -0.8397084474563599,
+      "no_speech_prob": 0.8827820420265198
+    }
+  ],
+  "transcript_full": "I'm not deported by-",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

@@ -1,0 +1,44 @@
+{
+  "language": "en",
+  "language_probability": 0.9453170299530029,
+  "duration": 47.828,
+  "duration_after_vad": 39.96,
+  "segment_count": 4,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.42,
+      "end": 16.02,
+      "text": "it's gonna be good news on what decent people or at least trying to be thoughtful and the",
+      "avg_logprob": -0.3470294929363511,
+      "no_speech_prob": 0.6288915276527405
+    },
+    {
+      "id": 2,
+      "start": 16.02,
+      "end": 25.78,
+      "text": "ice caps they are melting but today you bought me flowers so i'm choosing to believe the future",
+      "avg_logprob": -0.3470294929363511,
+      "no_speech_prob": 0.6288915276527405
+    },
+    {
+      "id": 3,
+      "start": 26.74,
+      "end": 30.91,
+      "text": "and well",
+      "avg_logprob": -0.7067459707076733,
+      "no_speech_prob": 0.4773719310760498
+    },
+    {
+      "id": 4,
+      "start": 30.91,
+      "end": 43.34,
+      "text": "through all lying on your chest a person that's by nature but in you baby i trust always",
+      "avg_logprob": -0.7067459707076733,
+      "no_speech_prob": 0.4773719310760498
+    }
+  ],
+  "transcript_full": "it's gonna be good news on what decent people or at least trying to be thoughtful and the ice caps they are melting but today you bought me flowers so i'm choosing to believe the future and well through all lying on your chest a person that's by nature but in you baby i trust always",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

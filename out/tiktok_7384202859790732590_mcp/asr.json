@@ -1,0 +1,132 @@
+{
+  "language": "en",
+  "language_probability": 0.9998650550842285,
+  "duration": 61.933,
+  "duration_after_vad": 61.84,
+  "segment_count": 15,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.72,
+      "text": "Let's talk about this study because I can almost guarantee you've seen a headline about it and are probably freaking out.",
+      "avg_logprob": -0.12974708491358264,
+      "no_speech_prob": 0.0009470183285884559
+    },
+    {
+      "id": 2,
+      "start": 4.72,
+      "end": 9.68,
+      "text": "So the Atlantic Meridional Overturning Circulation, or AMOC for short, is a large system of ocean currents",
+      "avg_logprob": -0.12974708491358264,
+      "no_speech_prob": 0.0009470183285884559
+    },
+    {
+      "id": 3,
+      "start": 9.68,
+      "end": 13.44,
+      "text": "that move warm water from the tropics to the North Atlantic kind of like a conveyor belt.",
+      "avg_logprob": -0.12974708491358264,
+      "no_speech_prob": 0.0009470183285884559
+    },
+    {
+      "id": 4,
+      "start": 13.44,
+      "end": 16.48,
+      "text": "The study in question, warning of a forthcoming collapse of AMOC,",
+      "avg_logprob": -0.12974708491358264,
+      "no_speech_prob": 0.0009470183285884559
+    },
+    {
+      "id": 5,
+      "start": 16.48,
+      "end": 19.44,
+      "text": "was published earlier this week in the Journal of Nature Communications,",
+      "avg_logprob": -0.12974708491358264,
+      "no_speech_prob": 0.0009470183285884559
+    },
+    {
+      "id": 6,
+      "start": 19.44,
+      "end": 24.0,
+      "text": "and it projects that AMOC could collapse anytime between 2025 and 2095.",
+      "avg_logprob": -0.12974708491358264,
+      "no_speech_prob": 0.0009470183285884559
+    },
+    {
+      "id": 7,
+      "start": 24.0,
+      "end": 26.8,
+      "text": "But things aren't as black and white as the headlines make it out to be.",
+      "avg_logprob": -0.12974708491358264,
+      "no_speech_prob": 0.0009470183285884559
+    },
+    {
+      "id": 8,
+      "start": 26.8,
+      "end": 30.88,
+      "text": "Many scientists are not taking the results of the study too seriously because it makes quite a few",
+      "avg_logprob": -0.07102340647653371,
+      "no_speech_prob": 0.0003337046946398914
+    },
+    {
+      "id": 9,
+      "start": 30.88,
+      "end": 35.44,
+      "text": "assumptions about how AMOC functions, especially considering we've only been directly monitoring",
+      "avg_logprob": -0.07102340647653371,
+      "no_speech_prob": 0.0003337046946398914
+    },
+    {
+      "id": 10,
+      "start": 35.44,
+      "end": 40.8,
+      "text": "its strength since 2004. In fact, the researchers from this study are going to update their models",
+      "avg_logprob": -0.07102340647653371,
+      "no_speech_prob": 0.0003337046946398914
+    },
+    {
+      "id": 11,
+      "start": 40.8,
+      "end": 45.12,
+      "text": "with more current information to kind of hone in on a date. Despite disagreement within the",
+      "avg_logprob": -0.07102340647653371,
+      "no_speech_prob": 0.0003337046946398914
+    },
+    {
+      "id": 12,
+      "start": 45.12,
+      "end": 49.44,
+      "text": "scientific community about this study, scientists do agree that climate change is causing AMOC to",
+      "avg_logprob": -0.07102340647653371,
+      "no_speech_prob": 0.0003337046946398914
+    },
+    {
+      "id": 13,
+      "start": 49.44,
+      "end": 54.56,
+      "text": "slow down, and we must take drastic action now to address this as well as the climate crisis",
+      "avg_logprob": -0.07102340647653371,
+      "no_speech_prob": 0.0003337046946398914
+    },
+    {
+      "id": 14,
+      "start": 54.56,
+      "end": 59.2,
+      "text": "as a whole. So once again, this does not mean things are too late, but rather that the need for",
+      "avg_logprob": -0.15266681089997292,
+      "no_speech_prob": 0.023753385990858078
+    },
+    {
+      "id": 15,
+      "start": 59.2,
+      "end": 61.84,
+      "text": "drastic action is only getting more dire.",
+      "avg_logprob": -0.15266681089997292,
+      "no_speech_prob": 0.023753385990858078
+    }
+  ],
+  "transcript_full": "Let's talk about this study because I can almost guarantee you've seen a headline about it and are probably freaking out. So the Atlantic Meridional Overturning Circulation, or AMOC for short, is a large system of ocean currents that move warm water from the tropics to the North Atlantic kind of like a conveyor belt. The study in question, warning of a forthcoming collapse of AMOC, was published earlier this week in the Journal of Nature Communications, and it projects that AMOC could collapse anytime between 2025 and 2095. But things aren't as black and white as the headlines make it out to be. Many scientists are not taking the results of the study too seriously because it makes quite a few assumptions about how AMOC functions, especially considering we've only been directly monitoring its strength since 2004. In fact, the researchers from this study are going to update their models with more current information to kind of hone in on a date. Despite disagreement within the scientific community about this study, scientists do agree that climate change is causing AMOC to slow down, and we must take drastic action now to address this as well as the climate crisis as a whole. So once again, this does not mean things are too late, but rather that the need for drastic action is only getting more dire.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

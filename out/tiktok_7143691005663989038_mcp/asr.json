@@ -1,0 +1,124 @@
+{
+  "language": "en",
+  "language_probability": 0.9980196952819824,
+  "duration": 46.972,
+  "duration_after_vad": 45.74,
+  "segment_count": 14,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.16,
+      "text": "The founder of Patagonia is thinking outside the box. He",
+      "avg_logprob": -0.20856102210070407,
+      "no_speech_prob": 0.1066545769572258
+    },
+    {
+      "id": 2,
+      "start": 3.26,
+      "end": 7.04,
+      "text": "wants to fight climate change. So get this he donated his",
+      "avg_logprob": -0.20856102210070407,
+      "no_speech_prob": 0.1066545769572258
+    },
+    {
+      "id": 3,
+      "start": 7.14,
+      "end": 11.14,
+      "text": "entire company for the cause. Yvonne sheenard posted this",
+      "avg_logprob": -0.20856102210070407,
+      "no_speech_prob": 0.1066545769572258
+    },
+    {
+      "id": 4,
+      "start": 11.24,
+      "end": 13.68,
+      "text": "clip online yesterday along with a letter explaining that he",
+      "avg_logprob": -0.20856102210070407,
+      "no_speech_prob": 0.1066545769572258
+    },
+    {
+      "id": 5,
+      "start": 13.78,
+      "end": 16.38,
+      "text": "and his family gave up ownership of the business",
+      "avg_logprob": -0.20856102210070407,
+      "no_speech_prob": 0.1066545769572258
+    },
+    {
+      "id": 6,
+      "start": 16.48,
+      "end": 18.64,
+      "text": "according to the New York Times a privately held company",
+      "avg_logprob": -0.20856102210070407,
+      "no_speech_prob": 0.1066545769572258
+    },
+    {
+      "id": 7,
+      "start": 18.74,
+      "end": 23.72,
+      "text": "is valued at 3 billion with the B dollars 2% of Patagonia",
+      "avg_logprob": -0.20856102210070407,
+      "no_speech_prob": 0.1066545769572258
+    },
+    {
+      "id": 8,
+      "start": 23.82,
+      "end": 27.22,
+      "text": "stock will now be owned by a trust dedicated to fighting",
+      "avg_logprob": -0.20856102210070407,
+      "no_speech_prob": 0.1066545769572258
+    },
+    {
+      "id": 9,
+      "start": 27.22,
+      "end": 31.56,
+      "text": "climate change. The other 98% will be no dated to a nonprofit",
+      "avg_logprob": -0.26324569460857344,
+      "no_speech_prob": 0.09430614858865738
+    },
+    {
+      "id": 10,
+      "start": 31.66,
+      "end": 35.36,
+      "text": "collective that nonprofit as a tax designation. This is important",
+      "avg_logprob": -0.26324569460857344,
+      "no_speech_prob": 0.09430614858865738
+    },
+    {
+      "id": 11,
+      "start": 35.46,
+      "end": 39.1,
+      "text": "that will not benefit sheenard so his family is going to pay",
+      "avg_logprob": -0.26324569460857344,
+      "no_speech_prob": 0.09430614858865738
+    },
+    {
+      "id": 12,
+      "start": 39.2,
+      "end": 42.74,
+      "text": "more than 17 million dollars in taxes on the gift that's",
+      "avg_logprob": -0.26324569460857344,
+      "no_speech_prob": 0.09430614858865738
+    },
+    {
+      "id": 13,
+      "start": 42.84,
+      "end": 45.14,
+      "text": "according to the New York Times and sheenard's words",
+      "avg_logprob": -0.26324569460857344,
+      "no_speech_prob": 0.09430614858865738
+    },
+    {
+      "id": 14,
+      "start": 45.24,
+      "end": 46.94,
+      "text": "earth is now our only share.",
+      "avg_logprob": -0.26324569460857344,
+      "no_speech_prob": 0.09430614858865738
+    }
+  ],
+  "transcript_full": "The founder of Patagonia is thinking outside the box. He wants to fight climate change. So get this he donated his entire company for the cause. Yvonne sheenard posted this clip online yesterday along with a letter explaining that he and his family gave up ownership of the business according to the New York Times a privately held company is valued at 3 billion with the B dollars 2% of Patagonia stock will now be owned by a trust dedicated to fighting climate change. The other 98% will be no dated to a nonprofit collective that nonprofit as a tax designation. This is important that will not benefit sheenard so his family is going to pay more than 17 million dollars in taxes on the gift that's according to the New York Times and sheenard's words earth is now our only share.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

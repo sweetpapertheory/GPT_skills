@@ -1,0 +1,204 @@
+{
+  "language": "en",
+  "language_probability": 0.9996756315231323,
+  "duration": 46.717,
+  "duration_after_vad": 47.32,
+  "segment_count": 24,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.04,
+      "text": "I don't care what some scientist tells you guys,",
+      "avg_logprob": -0.16900259695170117,
+      "no_speech_prob": 0.011486116796731949
+    },
+    {
+      "id": 2,
+      "start": 2.04,
+      "end": 3.24,
+      "text": "they do not know.",
+      "avg_logprob": -0.16900259695170117,
+      "no_speech_prob": 0.011486116796731949
+    },
+    {
+      "id": 3,
+      "start": 3.24,
+      "end": 6.04,
+      "text": "Let me be clear on this, I'll even look at the camera.",
+      "avg_logprob": -0.16900259695170117,
+      "no_speech_prob": 0.011486116796731949
+    },
+    {
+      "id": 4,
+      "start": 6.04,
+      "end": 9.44,
+      "text": "Why the Earth's ocean currents are slowing",
+      "avg_logprob": -0.16900259695170117,
+      "no_speech_prob": 0.011486116796731949
+    },
+    {
+      "id": 5,
+      "start": 9.44,
+      "end": 12.16,
+      "text": "because if I remember, if it's what I read,",
+      "avg_logprob": -0.16900259695170117,
+      "no_speech_prob": 0.011486116796731949
+    },
+    {
+      "id": 6,
+      "start": 12.16,
+      "end": 13.56,
+      "text": "they say they weren't sure.",
+      "avg_logprob": -0.16900259695170117,
+      "no_speech_prob": 0.011486116796731949
+    },
+    {
+      "id": 7,
+      "start": 13.56,
+      "end": 15.68,
+      "text": "I mean, double check on it, but I'm thinking like,",
+      "avg_logprob": -0.16900259695170117,
+      "no_speech_prob": 0.011486116796731949
+    },
+    {
+      "id": 8,
+      "start": 15.68,
+      "end": 18.4,
+      "text": "look, it's probably related to the poles shifting.",
+      "avg_logprob": -0.16900259695170117,
+      "no_speech_prob": 0.011486116796731949
+    },
+    {
+      "id": 9,
+      "start": 18.4,
+      "end": 20.24,
+      "text": "But like, even if that's not related,",
+      "avg_logprob": -0.16900259695170117,
+      "no_speech_prob": 0.011486116796731949
+    },
+    {
+      "id": 10,
+      "start": 20.24,
+      "end": 21.12,
+      "text": "they still don't know.",
+      "avg_logprob": -0.16900259695170117,
+      "no_speech_prob": 0.011486116796731949
+    },
+    {
+      "id": 11,
+      "start": 21.12,
+      "end": 22.44,
+      "text": "But the reality is that something",
+      "avg_logprob": -0.16900259695170117,
+      "no_speech_prob": 0.011486116796731949
+    },
+    {
+      "id": 12,
+      "start": 22.44,
+      "end": 24.24,
+      "text": "is happening to cause that.",
+      "avg_logprob": -0.16900259695170117,
+      "no_speech_prob": 0.011486116796731949
+    },
+    {
+      "id": 13,
+      "start": 24.24,
+      "end": 25.8,
+      "text": "We call it the Gulf Stream basically",
+      "avg_logprob": -0.16900259695170117,
+      "no_speech_prob": 0.011486116796731949
+    },
+    {
+      "id": 14,
+      "start": 25.8,
+      "end": 27.48,
+      "text": "that's like slowing that could stop",
+      "avg_logprob": -0.16900259695170117,
+      "no_speech_prob": 0.011486116796731949
+    },
+    {
+      "id": 15,
+      "start": 27.48,
+      "end": 28.44,
+      "text": "in the next couple of years",
+      "avg_logprob": -0.16900259695170117,
+      "no_speech_prob": 0.011486116796731949
+    },
+    {
+      "id": 16,
+      "start": 28.48,
+      "end": 31.0,
+      "text": "that we're projecting to potentially stop",
+      "avg_logprob": -0.13312020060721408,
+      "no_speech_prob": 0.006192198488861322
+    },
+    {
+      "id": 17,
+      "start": 31.0,
+      "end": 32.2,
+      "text": "in the next couple of decades.",
+      "avg_logprob": -0.13312020060721408,
+      "no_speech_prob": 0.006192198488861322
+    },
+    {
+      "id": 18,
+      "start": 32.2,
+      "end": 34.64,
+      "text": "I mean, that could lower the Earth's temperature",
+      "avg_logprob": -0.13312020060721408,
+      "no_speech_prob": 0.006192198488861322
+    },
+    {
+      "id": 19,
+      "start": 34.64,
+      "end": 37.0,
+      "text": "by something like 14, 15 degrees",
+      "avg_logprob": -0.13312020060721408,
+      "no_speech_prob": 0.006192198488861322
+    },
+    {
+      "id": 20,
+      "start": 37.0,
+      "end": 40.32,
+      "text": "from what I understand and be completely catastrophic",
+      "avg_logprob": -0.13312020060721408,
+      "no_speech_prob": 0.006192198488861322
+    },
+    {
+      "id": 21,
+      "start": 40.32,
+      "end": 41.96,
+      "text": "to all life on the planet",
+      "avg_logprob": -0.13312020060721408,
+      "no_speech_prob": 0.006192198488861322
+    },
+    {
+      "id": 22,
+      "start": 41.96,
+      "end": 43.96,
+      "text": "because of the global temperature changes",
+      "avg_logprob": -0.13312020060721408,
+      "no_speech_prob": 0.006192198488861322
+    },
+    {
+      "id": 23,
+      "start": 43.96,
+      "end": 44.92,
+      "text": "that we would see.",
+      "avg_logprob": -0.13312020060721408,
+      "no_speech_prob": 0.006192198488861322
+    },
+    {
+      "id": 24,
+      "start": 44.92,
+      "end": 47.36,
+      "text": "Yeah, there's a lot of crazy shit going on right now.",
+      "avg_logprob": -0.13312020060721408,
+      "no_speech_prob": 0.006192198488861322
+    }
+  ],
+  "transcript_full": "I don't care what some scientist tells you guys, they do not know. Let me be clear on this, I'll even look at the camera. Why the Earth's ocean currents are slowing because if I remember, if it's what I read, they say they weren't sure. I mean, double check on it, but I'm thinking like, look, it's probably related to the poles shifting. But like, even if that's not related, they still don't know. But the reality is that something is happening to cause that. We call it the Gulf Stream basically that's like slowing that could stop in the next couple of years that we're projecting to potentially stop in the next couple of decades. I mean, that could lower the Earth's temperature by something like 14, 15 degrees from what I understand and be completely catastrophic to all life on the planet because of the global temperature changes that we would see. Yeah, there's a lot of crazy shit going on right now.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

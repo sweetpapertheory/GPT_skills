@@ -1,0 +1,84 @@
+{
+  "language": "en",
+  "language_probability": 0.9765706658363342,
+  "duration": 33.04,
+  "duration_after_vad": 32.8,
+  "segment_count": 9,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.04,
+      "text": "Have you ever noticed like some unsustainable habits",
+      "avg_logprob": -0.248873832032961,
+      "no_speech_prob": 0.027213100343942642
+    },
+    {
+      "id": 2,
+      "start": 3.04,
+      "end": 6.48,
+      "text": "that people around you may have that they can probably improve?",
+      "avg_logprob": -0.248873832032961,
+      "no_speech_prob": 0.027213100343942642
+    },
+    {
+      "id": 3,
+      "start": 6.48,
+      "end": 11.44,
+      "text": "It drives me nuts when my boyfriend doesn't turn the light off when he leaves the room or leaves the flag.",
+      "avg_logprob": -0.248873832032961,
+      "no_speech_prob": 0.027213100343942642
+    },
+    {
+      "id": 4,
+      "start": 11.44,
+      "end": 14.8,
+      "text": "It's one thing and then they turn off the tap when unnecessary like here as well.",
+      "avg_logprob": -0.248873832032961,
+      "no_speech_prob": 0.027213100343942642
+    },
+    {
+      "id": 5,
+      "start": 14.8,
+      "end": 18.32,
+      "text": "When he washed the dishes just running for 10 minutes it's not necessary",
+      "avg_logprob": -0.248873832032961,
+      "no_speech_prob": 0.027213100343942642
+    },
+    {
+      "id": 6,
+      "start": 18.32,
+      "end": 20.48,
+      "text": "because just turn it off when you need to scrub as well.",
+      "avg_logprob": -0.248873832032961,
+      "no_speech_prob": 0.027213100343942642
+    },
+    {
+      "id": 7,
+      "start": 20.48,
+      "end": 24.08,
+      "text": "With having a dog you need to pick up their poo you're always using the plastic bags",
+      "avg_logprob": -0.248873832032961,
+      "no_speech_prob": 0.027213100343942642
+    },
+    {
+      "id": 8,
+      "start": 24.08,
+      "end": 26.56,
+      "text": "and it's a bit difficult in that respect.",
+      "avg_logprob": -0.248873832032961,
+      "no_speech_prob": 0.027213100343942642
+    },
+    {
+      "id": 9,
+      "start": 26.56,
+      "end": 32.8,
+      "text": "I have considered in the past like cooking his own food for him rather than actually buying food.",
+      "avg_logprob": -0.11904684081673622,
+      "no_speech_prob": 0.07298538833856583
+    }
+  ],
+  "transcript_full": "Have you ever noticed like some unsustainable habits that people around you may have that they can probably improve? It drives me nuts when my boyfriend doesn't turn the light off when he leaves the room or leaves the flag. It's one thing and then they turn off the tap when unnecessary like here as well. When he washed the dishes just running for 10 minutes it's not necessary because just turn it off when you need to scrub as well. With having a dog you need to pick up their poo you're always using the plastic bags and it's a bit difficult in that respect. I have considered in the past like cooking his own food for him rather than actually buying food.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

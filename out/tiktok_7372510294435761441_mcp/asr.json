@@ -1,0 +1,132 @@
+{
+  "language": "en",
+  "language_probability": 0.9915789365768433,
+  "duration": 52.0,
+  "duration_after_vad": 51.76,
+  "segment_count": 15,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.96,
+      "text": "How to grow lion's mane mushrooms, like Jeremy Clarkson.",
+      "avg_logprob": -0.07674195326399058,
+      "no_speech_prob": 0.04966161027550697
+    },
+    {
+      "id": 2,
+      "start": 2.96,
+      "end": 5.92,
+      "text": "Inspired by Clarkson's latest venture into mushroom farming,",
+      "avg_logprob": -0.07674195326399058,
+      "no_speech_prob": 0.04966161027550697
+    },
+    {
+      "id": 3,
+      "start": 5.92,
+      "end": 9.92,
+      "text": "more and more people are discovering the joys and benefits to lion's mane mushrooms.",
+      "avg_logprob": -0.07674195326399058,
+      "no_speech_prob": 0.04966161027550697
+    },
+    {
+      "id": 4,
+      "start": 9.92,
+      "end": 13.28,
+      "text": "Did you know that lion's mane mushrooms have been used in traditional Chinese medicine",
+      "avg_logprob": -0.07674195326399058,
+      "no_speech_prob": 0.04966161027550697
+    },
+    {
+      "id": 5,
+      "start": 13.28,
+      "end": 16.16,
+      "text": "for centuries to enhance cognitive function and memory?",
+      "avg_logprob": -0.07674195326399058,
+      "no_speech_prob": 0.04966161027550697
+    },
+    {
+      "id": 6,
+      "start": 16.16,
+      "end": 19.04,
+      "text": "These unique mushrooms are not only loved for their health benefits,",
+      "avg_logprob": -0.07674195326399058,
+      "no_speech_prob": 0.04966161027550697
+    },
+    {
+      "id": 7,
+      "start": 19.04,
+      "end": 22.88,
+      "text": "but also for their distinctive shaggy appearance resembling a lion's mane.",
+      "avg_logprob": -0.07674195326399058,
+      "no_speech_prob": 0.04966161027550697
+    },
+    {
+      "id": 8,
+      "start": 22.88,
+      "end": 26.64,
+      "text": "Growing your own mushrooms is an ego-friendly practice that reduces reliance on commercial",
+      "avg_logprob": -0.07674195326399058,
+      "no_speech_prob": 0.04966161027550697
+    },
+    {
+      "id": 9,
+      "start": 26.64,
+      "end": 30.32,
+      "text": "farming. It can be an exciting and rewarding learning experience.",
+      "avg_logprob": -0.10104464719604168,
+      "no_speech_prob": 0.043395623564720154
+    },
+    {
+      "id": 10,
+      "start": 30.32,
+      "end": 32.0,
+      "text": "Here's our favorite way to grow them.",
+      "avg_logprob": -0.10104464719604168,
+      "no_speech_prob": 0.043395623564720154
+    },
+    {
+      "id": 11,
+      "start": 32.0,
+      "end": 36.08,
+      "text": "For beginners, starting with a growing kit or ready-to-fruit block is recommended.",
+      "avg_logprob": -0.10104464719604168,
+      "no_speech_prob": 0.043395623564720154
+    },
+    {
+      "id": 12,
+      "start": 36.08,
+      "end": 39.6,
+      "text": "They take some of the guesswork out of the process and allow for quick fruiting.",
+      "avg_logprob": -0.10104464719604168,
+      "no_speech_prob": 0.043395623564720154
+    },
+    {
+      "id": 13,
+      "start": 39.6,
+      "end": 42.24,
+      "text": "Whether you're a seasoned farmer or a curious beginner,",
+      "avg_logprob": -0.10104464719604168,
+      "no_speech_prob": 0.043395623564720154
+    },
+    {
+      "id": 14,
+      "start": 42.24,
+      "end": 46.24,
+      "text": "growing lion's mane mushrooms is a rewarding and educational experience.",
+      "avg_logprob": -0.10104464719604168,
+      "no_speech_prob": 0.043395623564720154
+    },
+    {
+      "id": 15,
+      "start": 46.24,
+      "end": 51.76,
+      "text": "Start small, be patient and enjoy the delicious nutritious rewards of homegrown fungi.",
+      "avg_logprob": -0.10104464719604168,
+      "no_speech_prob": 0.043395623564720154
+    }
+  ],
+  "transcript_full": "How to grow lion's mane mushrooms, like Jeremy Clarkson. Inspired by Clarkson's latest venture into mushroom farming, more and more people are discovering the joys and benefits to lion's mane mushrooms. Did you know that lion's mane mushrooms have been used in traditional Chinese medicine for centuries to enhance cognitive function and memory? These unique mushrooms are not only loved for their health benefits, but also for their distinctive shaggy appearance resembling a lion's mane. Growing your own mushrooms is an ego-friendly practice that reduces reliance on commercial farming. It can be an exciting and rewarding learning experience. Here's our favorite way to grow them. For beginners, starting with a growing kit or ready-to-fruit block is recommended. They take some of the guesswork out of the process and allow for quick fruiting. Whether you're a seasoned farmer or a curious beginner, growing lion's mane mushrooms is a rewarding and educational experience. Start small, be patient and enjoy the delicious nutritious rewards of homegrown fungi.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

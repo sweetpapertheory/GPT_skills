@@ -1,0 +1,308 @@
+{
+  "language": "en",
+  "language_probability": 0.9984155893325806,
+  "duration": 94.995,
+  "duration_after_vad": 95.04,
+  "segment_count": 37,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.0,
+      "text": "You can't miss these majestic trees.",
+      "avg_logprob": -0.157799195867401,
+      "no_speech_prob": 0.022425571456551552
+    },
+    {
+      "id": 2,
+      "start": 3.0,
+      "end": 6.88,
+      "text": "Giant sequoias towering over the surrounding landscape.",
+      "avg_logprob": -0.157799195867401,
+      "no_speech_prob": 0.022425571456551552
+    },
+    {
+      "id": 3,
+      "start": 6.88,
+      "end": 10.48,
+      "text": "But this isn't California, it's the English countryside.",
+      "avg_logprob": -0.157799195867401,
+      "no_speech_prob": 0.022425571456551552
+    },
+    {
+      "id": 4,
+      "start": 10.48,
+      "end": 12.28,
+      "text": "Yeah, the trees here, they're very popular.",
+      "avg_logprob": -0.157799195867401,
+      "no_speech_prob": 0.022425571456551552
+    },
+    {
+      "id": 5,
+      "start": 12.28,
+      "end": 15.04,
+      "text": "Scientists Phil Wilkes monitors the monsters",
+      "avg_logprob": -0.157799195867401,
+      "no_speech_prob": 0.022425571456551552
+    },
+    {
+      "id": 6,
+      "start": 15.04,
+      "end": 18.48,
+      "text": "outside of London, measuring the trees with a laser.",
+      "avg_logprob": -0.157799195867401,
+      "no_speech_prob": 0.022425571456551552
+    },
+    {
+      "id": 7,
+      "start": 18.48,
+      "end": 20.84,
+      "text": "You can then estimate how much carbon stored in the tree.",
+      "avg_logprob": -0.157799195867401,
+      "no_speech_prob": 0.022425571456551552
+    },
+    {
+      "id": 8,
+      "start": 20.84,
+      "end": 22.88,
+      "text": "The average giant sequoia pulls",
+      "avg_logprob": -0.157799195867401,
+      "no_speech_prob": 0.022425571456551552
+    },
+    {
+      "id": 9,
+      "start": 22.88,
+      "end": 27.28,
+      "text": "roughly 190 pounds of carbon out of the air every year,",
+      "avg_logprob": -0.157799195867401,
+      "no_speech_prob": 0.022425571456551552
+    },
+    {
+      "id": 10,
+      "start": 27.28,
+      "end": 31.28,
+      "text": "offsetting about 800 miles in a gas-powered car.",
+      "avg_logprob": -0.11994834278638546,
+      "no_speech_prob": 0.004248351324349642
+    },
+    {
+      "id": 11,
+      "start": 31.28,
+      "end": 34.24,
+      "text": "Phil then compares the giant sequoia's growth",
+      "avg_logprob": -0.11994834278638546,
+      "no_speech_prob": 0.004248351324349642
+    },
+    {
+      "id": 12,
+      "start": 34.24,
+      "end": 35.92,
+      "text": "to their American cousins.",
+      "avg_logprob": -0.11994834278638546,
+      "no_speech_prob": 0.004248351324349642
+    },
+    {
+      "id": 13,
+      "start": 35.92,
+      "end": 39.4,
+      "text": "How do these trees stack up to their relatives in the states?",
+      "avg_logprob": -0.11994834278638546,
+      "no_speech_prob": 0.004248351324349642
+    },
+    {
+      "id": 14,
+      "start": 39.4,
+      "end": 40.96,
+      "text": "They're doing surprisingly well, actually.",
+      "avg_logprob": -0.11994834278638546,
+      "no_speech_prob": 0.004248351324349642
+    },
+    {
+      "id": 15,
+      "start": 40.96,
+      "end": 42.2,
+      "text": "These trees are relatively young,",
+      "avg_logprob": -0.11994834278638546,
+      "no_speech_prob": 0.004248351324349642
+    },
+    {
+      "id": 16,
+      "start": 42.2,
+      "end": 44.76,
+      "text": "so they're mere saplings compared to the trees in the states.",
+      "avg_logprob": -0.11994834278638546,
+      "no_speech_prob": 0.004248351324349642
+    },
+    {
+      "id": 17,
+      "start": 44.76,
+      "end": 46.84,
+      "text": "These trees are probably 110 years old.",
+      "avg_logprob": -0.11994834278638546,
+      "no_speech_prob": 0.004248351324349642
+    },
+    {
+      "id": 18,
+      "start": 46.84,
+      "end": 50.04,
+      "text": "Giant sequoias can live more than 3,000 years",
+      "avg_logprob": -0.11994834278638546,
+      "no_speech_prob": 0.004248351324349642
+    },
+    {
+      "id": 19,
+      "start": 50.04,
+      "end": 52.68,
+      "text": "and soar nearly 300 feet in the air.",
+      "avg_logprob": -0.11994834278638546,
+      "no_speech_prob": 0.004248351324349642
+    },
+    {
+      "id": 20,
+      "start": 52.68,
+      "end": 55.32,
+      "text": "But experts say wildfires and climate change",
+      "avg_logprob": -0.11994834278638546,
+      "no_speech_prob": 0.004248351324349642
+    },
+    {
+      "id": 21,
+      "start": 55.36,
+      "end": 57.44,
+      "text": "are threatening their native habitat.",
+      "avg_logprob": -0.09664155364240685,
+      "no_speech_prob": 0.0026568176690489054
+    },
+    {
+      "id": 22,
+      "start": 57.44,
+      "end": 59.68,
+      "text": "That's not a problem here in the UK.",
+      "avg_logprob": -0.09664155364240685,
+      "no_speech_prob": 0.0026568176690489054
+    },
+    {
+      "id": 23,
+      "start": 59.68,
+      "end": 63.16,
+      "text": "Most people, though, don't think of California and the UK",
+      "avg_logprob": -0.09664155364240685,
+      "no_speech_prob": 0.0026568176690489054
+    },
+    {
+      "id": 24,
+      "start": 63.16,
+      "end": 64.44,
+      "text": "having the same climate.",
+      "avg_logprob": -0.09664155364240685,
+      "no_speech_prob": 0.0026568176690489054
+    },
+    {
+      "id": 25,
+      "start": 64.44,
+      "end": 67.76,
+      "text": "Sierra Nevada mountains can be quite similar to here,",
+      "avg_logprob": -0.09664155364240685,
+      "no_speech_prob": 0.0026568176690489054
+    },
+    {
+      "id": 26,
+      "start": 67.76,
+      "end": 69.48,
+      "text": "so it's cooler and it's more damp,",
+      "avg_logprob": -0.09664155364240685,
+      "no_speech_prob": 0.0026568176690489054
+    },
+    {
+      "id": 27,
+      "start": 69.48,
+      "end": 70.96,
+      "text": "and that's very British weather.",
+      "avg_logprob": -0.09664155364240685,
+      "no_speech_prob": 0.0026568176690489054
+    },
+    {
+      "id": 28,
+      "start": 70.96,
+      "end": 73.56,
+      "text": "Today, more than half a million giant sequoias",
+      "avg_logprob": -0.09664155364240685,
+      "no_speech_prob": 0.0026568176690489054
+    },
+    {
+      "id": 29,
+      "start": 73.56,
+      "end": 75.56,
+      "text": "are thriving in the UK,",
+      "avg_logprob": -0.09664155364240685,
+      "no_speech_prob": 0.0026568176690489054
+    },
+    {
+      "id": 30,
+      "start": 75.56,
+      "end": 78.64,
+      "text": "compared to fewer than 80,000 in the US.",
+      "avg_logprob": -0.09664155364240685,
+      "no_speech_prob": 0.0026568176690489054
+    },
+    {
+      "id": 31,
+      "start": 78.64,
+      "end": 80.88,
+      "text": "We're very happy to have a tree like that here.",
+      "avg_logprob": -0.09664155364240685,
+      "no_speech_prob": 0.0026568176690489054
+    },
+    {
+      "id": 32,
+      "start": 80.88,
+      "end": 83.88,
+      "text": "We associate them with your fine country,",
+      "avg_logprob": -0.09664155364240685,
+      "no_speech_prob": 0.0026568176690489054
+    },
+    {
+      "id": 33,
+      "start": 83.88,
+      "end": 85.2,
+      "text": "and it's lovely to have them here.",
+      "avg_logprob": -0.09664155364240685,
+      "no_speech_prob": 0.0026568176690489054
+    },
+    {
+      "id": 34,
+      "start": 85.2,
+      "end": 86.52,
+      "text": "If you run out of them,",
+      "avg_logprob": -0.22777162765970035,
+      "no_speech_prob": 0.00846544187515974
+    },
+    {
+      "id": 35,
+      "start": 86.52,
+      "end": 88.68,
+      "text": "then we can always give you a few back, can't we?",
+      "avg_logprob": -0.22777162765970035,
+      "no_speech_prob": 0.00846544187515974
+    },
+    {
+      "id": 36,
+      "start": 88.68,
+      "end": 90.08,
+      "text": "Because we're cousins, after all.",
+      "avg_logprob": -0.22777162765970035,
+      "no_speech_prob": 0.00846544187515974
+    },
+    {
+      "id": 37,
+      "start": 90.08,
+      "end": 95.08,
+      "text": "Giving an American icon a safe home away from home.",
+      "avg_logprob": -0.22777162765970035,
+      "no_speech_prob": 0.00846544187515974
+    }
+  ],
+  "transcript_full": "You can't miss these majestic trees. Giant sequoias towering over the surrounding landscape. But this isn't California, it's the English countryside. Yeah, the trees here, they're very popular. Scientists Phil Wilkes monitors the monsters outside of London, measuring the trees with a laser. You can then estimate how much carbon stored in the tree. The average giant sequoia pulls roughly 190 pounds of carbon out of the air every year, offsetting about 800 miles in a gas-powered car. Phil then compares the giant sequoia's growth to their American cousins. How do these trees stack up to their relatives in the states? They're doing surprisingly well, actually. These trees are relatively young, so they're mere saplings compared to the trees in the states. These trees are probably 110 years old. Giant sequoias can live more than 3,000 years and soar nearly 300 feet in the air. But experts say wildfires and climate change are threatening their native habitat. That's not a problem here in the UK. Most people, though, don't think of California and the UK having the same climate. Sierra Nevada mountains can be quite similar to here, so it's cooler and it's more damp, and that's very British weather. Today, more than half a million giant sequoias are thriving in the UK, compared to fewer than 80,000 in the US. We're very happy to have a tree like that here. We associate them with your fine country, and it's lovely to have them here. If you run out of them, then we can always give you a few back, can't we? Because we're cousins, after all. Giving an American icon a safe home away from home.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

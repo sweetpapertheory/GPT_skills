@@ -1,0 +1,76 @@
+{
+  "language": "es",
+  "language_probability": 0.760200560092926,
+  "duration": 72.367,
+  "duration_after_vad": 11.28,
+  "segment_count": 8,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.0,
+      "text": "¡Hace grupio, Sena!",
+      "avg_logprob": -0.9665296166031448,
+      "no_speech_prob": 0.22276455163955688
+    },
+    {
+      "id": 2,
+      "start": 2.0,
+      "end": 3.0,
+      "text": "¡Narzo!",
+      "avg_logprob": -0.9665296166031448,
+      "no_speech_prob": 0.22276455163955688
+    },
+    {
+      "id": 3,
+      "start": 3.0,
+      "end": 6.28,
+      "text": "¡Valeo!",
+      "avg_logprob": -0.9665296166031448,
+      "no_speech_prob": 0.22276455163955688
+    },
+    {
+      "id": 4,
+      "start": 45.78,
+      "end": 46.78,
+      "text": "¡Valeo!",
+      "avg_logprob": -0.3783489349815581,
+      "no_speech_prob": 0.84183269739151
+    },
+    {
+      "id": 5,
+      "start": 46.78,
+      "end": 47.78,
+      "text": "¡Valeo!",
+      "avg_logprob": -0.3783489349815581,
+      "no_speech_prob": 0.84183269739151
+    },
+    {
+      "id": 6,
+      "start": 47.78,
+      "end": 48.78,
+      "text": "¡Valeo!",
+      "avg_logprob": -0.3783489349815581,
+      "no_speech_prob": 0.84183269739151
+    },
+    {
+      "id": 7,
+      "start": 48.78,
+      "end": 49.78,
+      "text": "¡Valeo!",
+      "avg_logprob": -0.3783489349815581,
+      "no_speech_prob": 0.84183269739151
+    },
+    {
+      "id": 8,
+      "start": 49.78,
+      "end": 50.78,
+      "text": "¡Valeo!",
+      "avg_logprob": -0.3783489349815581,
+      "no_speech_prob": 0.84183269739151
+    }
+  ],
+  "transcript_full": "¡Hace grupio, Sena! ¡Narzo! ¡Valeo! ¡Valeo! ¡Valeo! ¡Valeo! ¡Valeo! ¡Valeo!",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

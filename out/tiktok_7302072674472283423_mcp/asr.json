@@ -1,0 +1,140 @@
+{
+  "language": "en",
+  "language_probability": 0.9998999834060669,
+  "duration": 69.774,
+  "duration_after_vad": 70.8,
+  "segment_count": 16,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.72,
+      "text": "If you've seen a headline like this recently and are freaking out, then this video is for you.",
+      "avg_logprob": -0.08667027103629979,
+      "no_speech_prob": 0.0006818078691139817
+    },
+    {
+      "id": 2,
+      "start": 4.72,
+      "end": 8.8,
+      "text": "The Thwaites Glacier in Western Antarctica has been coined the Doomsday Glacier due to its",
+      "avg_logprob": -0.08667027103629979,
+      "no_speech_prob": 0.0006818078691139817
+    },
+    {
+      "id": 3,
+      "start": 8.8,
+      "end": 12.88,
+      "text": "potential to cause significant sea level rise if it collapses. Thwaites is around the size of",
+      "avg_logprob": -0.08667027103629979,
+      "no_speech_prob": 0.0006818078691139817
+    },
+    {
+      "id": 4,
+      "start": 12.88,
+      "end": 16.96,
+      "text": "Florida and melting quickly, although according to recent research, not as quickly as previously",
+      "avg_logprob": -0.08667027103629979,
+      "no_speech_prob": 0.0006818078691139817
+    },
+    {
+      "id": 5,
+      "start": 16.96,
+      "end": 21.52,
+      "text": "thought. If Thwaites does collapse, it could set off an irreversible feedback loop where other",
+      "avg_logprob": -0.08667027103629979,
+      "no_speech_prob": 0.0006818078691139817
+    },
+    {
+      "id": 6,
+      "start": 21.52,
+      "end": 25.68,
+      "text": "glaciers and ice sheets drastically melt as well. But it's important to remember that the",
+      "avg_logprob": -0.08667027103629979,
+      "no_speech_prob": 0.0006818078691139817
+    },
+    {
+      "id": 7,
+      "start": 25.76,
+      "end": 30.64,
+      "text": "collapse of the Doomsday Glacier is not set in stone yet, and the scientists behind the research",
+      "avg_logprob": -0.10145938873869702,
+      "no_speech_prob": 0.004468201193958521
+    },
+    {
+      "id": 8,
+      "start": 30.64,
+      "end": 35.92,
+      "text": "causing these scary headlines made sure to point that out. The best and really only way to avoid",
+      "avg_logprob": -0.10145938873869702,
+      "no_speech_prob": 0.004468201193958521
+    },
+    {
+      "id": 9,
+      "start": 35.92,
+      "end": 40.56,
+      "text": "this scenario is to quickly mitigate climate change by significantly reducing emissions on a",
+      "avg_logprob": -0.10145938873869702,
+      "no_speech_prob": 0.004468201193958521
+    },
+    {
+      "id": 10,
+      "start": 40.56,
+      "end": 45.92,
+      "text": "global scale. And our next big shot at doing that starts later this month in Dubai. The annual",
+      "avg_logprob": -0.10145938873869702,
+      "no_speech_prob": 0.004468201193958521
+    },
+    {
+      "id": 11,
+      "start": 45.92,
+      "end": 50.72,
+      "text": "UN climate conference known as COP, where world leaders meet to negotiate and adopt climate",
+      "avg_logprob": -0.10145938873869702,
+      "no_speech_prob": 0.004468201193958521
+    },
+    {
+      "id": 12,
+      "start": 50.72,
+      "end": 56.4,
+      "text": "plans starts on November 30th, and a huge part of negotiations is expected to revolve around phasing",
+      "avg_logprob": -0.08835795902543597,
+      "no_speech_prob": 0.029330750927329063
+    },
+    {
+      "id": 13,
+      "start": 56.4,
+      "end": 61.44,
+      "text": "out fossil fuels, which of course is the only way to significantly reduce emissions quickly.",
+      "avg_logprob": -0.08835795902543597,
+      "no_speech_prob": 0.029330750927329063
+    },
+    {
+      "id": 14,
+      "start": 61.44,
+      "end": 64.88,
+      "text": "So moral of the story, we can still avoid the collapse of the Doomsday Glacier, but that",
+      "avg_logprob": -0.08835795902543597,
+      "no_speech_prob": 0.029330750927329063
+    },
+    {
+      "id": 15,
+      "start": 64.88,
+      "end": 68.88,
+      "text": "won't be possible if people keep giving up on activism like I've been seeing in response to",
+      "avg_logprob": -0.08835795902543597,
+      "no_speech_prob": 0.029330750927329063
+    },
+    {
+      "id": 16,
+      "start": 68.88,
+      "end": 70.88,
+      "text": "this news.",
+      "avg_logprob": -0.6282216807206472,
+      "no_speech_prob": 0.8695418238639832
+    }
+  ],
+  "transcript_full": "If you've seen a headline like this recently and are freaking out, then this video is for you. The Thwaites Glacier in Western Antarctica has been coined the Doomsday Glacier due to its potential to cause significant sea level rise if it collapses. Thwaites is around the size of Florida and melting quickly, although according to recent research, not as quickly as previously thought. If Thwaites does collapse, it could set off an irreversible feedback loop where other glaciers and ice sheets drastically melt as well. But it's important to remember that the collapse of the Doomsday Glacier is not set in stone yet, and the scientists behind the research causing these scary headlines made sure to point that out. The best and really only way to avoid this scenario is to quickly mitigate climate change by significantly reducing emissions on a global scale. And our next big shot at doing that starts later this month in Dubai. The annual UN climate conference known as COP, where world leaders meet to negotiate and adopt climate plans starts on November 30th, and a huge part of negotiations is expected to revolve around phasing out fossil fuels, which of course is the only way to significantly reduce emissions quickly. So moral of the story, we can still avoid the collapse of the Doomsday Glacier, but that won't be possible if people keep giving up on activism like I've been seeing in response to this news.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

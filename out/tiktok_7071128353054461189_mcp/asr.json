@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "language_probability": 0.6099784970283508,
+  "duration": 5.033,
+  "duration_after_vad": 2.0,
+  "segment_count": 1,
+  "segments": [
+    {
+      "id": 1,
+      "start": 3.89,
+      "end": 5.89,
+      "text": "Don't say that",
+      "avg_logprob": -0.4403091328484671,
+      "no_speech_prob": 0.15248599648475647
+    }
+  ],
+  "transcript_full": "Don't say that",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

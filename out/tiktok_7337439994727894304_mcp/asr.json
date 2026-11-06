@@ -1,0 +1,540 @@
+{
+  "language": "en",
+  "language_probability": 0.950739860534668,
+  "duration": 176.54,
+  "duration_after_vad": 166.24,
+  "segment_count": 66,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.84,
+      "text": "We're failing. This is the biggest problem that humanity's ever faced.",
+      "avg_logprob": -0.24956710897125564,
+      "no_speech_prob": 0.12330557405948639
+    },
+    {
+      "id": 2,
+      "start": 4.12,
+      "end": 5.72,
+      "text": "But we're not even looking at it.",
+      "avg_logprob": -0.24956710897125564,
+      "no_speech_prob": 0.12330557405948639
+    },
+    {
+      "id": 3,
+      "start": 5.72,
+      "end": 8.2,
+      "text": "On that point, you're saying it's the biggest, the biggest",
+      "avg_logprob": -0.24956710897125564,
+      "no_speech_prob": 0.12330557405948639
+    },
+    {
+      "id": 4,
+      "start": 8.8,
+      "end": 10.44,
+      "text": "situation humanity's ever faced.",
+      "avg_logprob": -0.24956710897125564,
+      "no_speech_prob": 0.12330557405948639
+    },
+    {
+      "id": 5,
+      "start": 10.44,
+      "end": 12.64,
+      "text": "Let me reel you off some predictions from yesterday year.",
+      "avg_logprob": -0.24956710897125564,
+      "no_speech_prob": 0.12330557405948639
+    },
+    {
+      "id": 6,
+      "start": 12.88,
+      "end": 14.48,
+      "text": "So in the year 2000, Dr.",
+      "avg_logprob": -0.24956710897125564,
+      "no_speech_prob": 0.12330557405948639
+    },
+    {
+      "id": 7,
+      "start": 14.48,
+      "end": 17.08,
+      "text": "David Weiner of East Anglia University, assignment,",
+      "avg_logprob": -0.24956710897125564,
+      "no_speech_prob": 0.12330557405948639
+    },
+    {
+      "id": 8,
+      "start": 17.48,
+      "end": 20.36,
+      "text": "a climate scientist said that within a few years, winter snowfall",
+      "avg_logprob": -0.24956710897125564,
+      "no_speech_prob": 0.12330557405948639
+    },
+    {
+      "id": 9,
+      "start": 20.36,
+      "end": 22.52,
+      "text": "will become a very rare and exciting event.",
+      "avg_logprob": -0.24956710897125564,
+      "no_speech_prob": 0.12330557405948639
+    },
+    {
+      "id": 10,
+      "start": 22.68,
+      "end": 24.64,
+      "text": "Children just won't know what snow is.",
+      "avg_logprob": -0.24956710897125564,
+      "no_speech_prob": 0.12330557405948639
+    },
+    {
+      "id": 11,
+      "start": 24.8,
+      "end": 28.16,
+      "text": "In 2004, a report from the Pentagon said Britain would be plunged",
+      "avg_logprob": -0.24956710897125564,
+      "no_speech_prob": 0.12330557405948639
+    },
+    {
+      "id": 12,
+      "start": 28.16,
+      "end": 30.84,
+      "text": "into a Siberian climate by 2020.",
+      "avg_logprob": -0.20954252002585647,
+      "no_speech_prob": 0.01627839170396328
+    },
+    {
+      "id": 13,
+      "start": 31.0,
+      "end": 35.12,
+      "text": "And in June 2018, your friend Gretta Stenberg fired off an urgent tweet.",
+      "avg_logprob": -0.20954252002585647,
+      "no_speech_prob": 0.01627839170396328
+    },
+    {
+      "id": 14,
+      "start": 35.12,
+      "end": 38.68,
+      "text": "She said, a top climate scientist is warning that climate change",
+      "avg_logprob": -0.20954252002585647,
+      "no_speech_prob": 0.01627839170396328
+    },
+    {
+      "id": 15,
+      "start": 38.68,
+      "end": 41.72,
+      "text": "will wipe out all of humanity unless we stop using fossil fuels",
+      "avg_logprob": -0.20954252002585647,
+      "no_speech_prob": 0.01627839170396328
+    },
+    {
+      "id": 16,
+      "start": 42.04,
+      "end": 43.28,
+      "text": "over the next five years.",
+      "avg_logprob": -0.20954252002585647,
+      "no_speech_prob": 0.01627839170396328
+    },
+    {
+      "id": 17,
+      "start": 43.28,
+      "end": 45.56,
+      "text": "She deleted that tweet last year.",
+      "avg_logprob": -0.20954252002585647,
+      "no_speech_prob": 0.01627839170396328
+    },
+    {
+      "id": 18,
+      "start": 45.72,
+      "end": 47.72,
+      "text": "What do you say to that?",
+      "avg_logprob": -0.20954252002585647,
+      "no_speech_prob": 0.01627839170396328
+    },
+    {
+      "id": 19,
+      "start": 48.44,
+      "end": 53.8,
+      "text": "Ben, anybody can find any opinion that they want online.",
+      "avg_logprob": -0.20954252002585647,
+      "no_speech_prob": 0.01627839170396328
+    },
+    {
+      "id": 20,
+      "start": 53.8,
+      "end": 56.92,
+      "text": "But why should we listen to your predictions when they're always wrong?",
+      "avg_logprob": -0.20954252002585647,
+      "no_speech_prob": 0.01627839170396328
+    },
+    {
+      "id": 21,
+      "start": 56.92,
+      "end": 59.16,
+      "text": "That's the point, Dr. Bing.",
+      "avg_logprob": -0.18875677848146075,
+      "no_speech_prob": 0.005015642382204533
+    },
+    {
+      "id": 22,
+      "start": 59.72,
+      "end": 63.24,
+      "text": "Look, you don't need to be a climate scientist.",
+      "avg_logprob": -0.18875677848146075,
+      "no_speech_prob": 0.005015642382204533
+    },
+    {
+      "id": 23,
+      "start": 63.24,
+      "end": 67.16,
+      "text": "You just need to be an ordinary person sticking your head out of the window,",
+      "avg_logprob": -0.18875677848146075,
+      "no_speech_prob": 0.005015642382204533
+    },
+    {
+      "id": 24,
+      "start": 67.28,
+      "end": 72.36,
+      "text": "trying to get insurance for a business, trying to find a roofer to fix your roof.",
+      "avg_logprob": -0.18875677848146075,
+      "no_speech_prob": 0.005015642382204533
+    },
+    {
+      "id": 25,
+      "start": 72.92,
+      "end": 75.2,
+      "text": "People, ordinary people are aware.",
+      "avg_logprob": -0.18875677848146075,
+      "no_speech_prob": 0.005015642382204533
+    },
+    {
+      "id": 26,
+      "start": 75.32,
+      "end": 76.84,
+      "text": "Things are really bad.",
+      "avg_logprob": -0.18875677848146075,
+      "no_speech_prob": 0.005015642382204533
+    },
+    {
+      "id": 27,
+      "start": 76.84,
+      "end": 78.4,
+      "text": "We're not doing enough about it.",
+      "avg_logprob": -0.18875677848146075,
+      "no_speech_prob": 0.005015642382204533
+    },
+    {
+      "id": 28,
+      "start": 78.4,
+      "end": 80.6,
+      "text": "And we have got to just stop oil.",
+      "avg_logprob": -0.18875677848146075,
+      "no_speech_prob": 0.005015642382204533
+    },
+    {
+      "id": 29,
+      "start": 80.6,
+      "end": 81.44,
+      "text": "Dr. Bing, what?",
+      "avg_logprob": -0.18875677848146075,
+      "no_speech_prob": 0.005015642382204533
+    },
+    {
+      "id": 30,
+      "start": 81.44,
+      "end": 82.88,
+      "text": "I'm a doctor.",
+      "avg_logprob": -0.18875677848146075,
+      "no_speech_prob": 0.005015642382204533
+    },
+    {
+      "id": 31,
+      "start": 82.88,
+      "end": 84.0,
+      "text": "I'm a doctor.",
+      "avg_logprob": -0.18875677848146075,
+      "no_speech_prob": 0.005015642382204533
+    },
+    {
+      "id": 32,
+      "start": 84.0,
+      "end": 88.68,
+      "text": "I've been looking after people all my life with very serious diseases.",
+      "avg_logprob": -0.17796339348059934,
+      "no_speech_prob": 0.0056808083318173885
+    },
+    {
+      "id": 33,
+      "start": 88.96,
+      "end": 92.52,
+      "text": "And I can tell you, if you've got cancer, you don't want to be cold-toed.",
+      "avg_logprob": -0.17796339348059934,
+      "no_speech_prob": 0.0056808083318173885
+    },
+    {
+      "id": 34,
+      "start": 92.52,
+      "end": 93.64,
+      "text": "You've got cancer.",
+      "avg_logprob": -0.17796339348059934,
+      "no_speech_prob": 0.0056808083318173885
+    },
+    {
+      "id": 35,
+      "start": 93.64,
+      "end": 96.8,
+      "text": "If you've got to go and have a really big operation, you don't want to be told.",
+      "avg_logprob": -0.17796339348059934,
+      "no_speech_prob": 0.0056808083318173885
+    },
+    {
+      "id": 36,
+      "start": 97.12,
+      "end": 99.04,
+      "text": "Dr. Bing, do you know what the current...",
+      "avg_logprob": -0.17796339348059934,
+      "no_speech_prob": 0.0056808083318173885
+    },
+    {
+      "id": 37,
+      "start": 99.04,
+      "end": 102.48,
+      "text": "The one thing you really don't want to be or don't want to happen",
+      "avg_logprob": -0.17796339348059934,
+      "no_speech_prob": 0.0056808083318173885
+    },
+    {
+      "id": 38,
+      "start": 102.48,
+      "end": 104.68,
+      "text": "is not to be told at all.",
+      "avg_logprob": -0.17796339348059934,
+      "no_speech_prob": 0.0056808083318173885
+    },
+    {
+      "id": 39,
+      "start": 104.68,
+      "end": 107.4,
+      "text": "OK, Dr. Bing, can I ask you?",
+      "avg_logprob": -0.17796339348059934,
+      "no_speech_prob": 0.0056808083318173885
+    },
+    {
+      "id": 40,
+      "start": 108.0,
+      "end": 111.68,
+      "text": "Can I ask you, please, if you know what the current level of carbon dioxide,",
+      "avg_logprob": -0.17796339348059934,
+      "no_speech_prob": 0.0056808083318173885
+    },
+    {
+      "id": 41,
+      "start": 111.68,
+      "end": 114.12,
+      "text": "the parts per million, is for planet Earth at the moment?",
+      "avg_logprob": -0.27155826574769515,
+      "no_speech_prob": 0.011845479719340801
+    },
+    {
+      "id": 42,
+      "start": 115.48,
+      "end": 118.72,
+      "text": "Oh, gosh, it's 400 and something.",
+      "avg_logprob": -0.27155826574769515,
+      "no_speech_prob": 0.011845479719340801
+    },
+    {
+      "id": 43,
+      "start": 118.72,
+      "end": 119.96,
+      "text": "It's massively high.",
+      "avg_logprob": -0.27155826574769515,
+      "no_speech_prob": 0.011845479719340801
+    },
+    {
+      "id": 44,
+      "start": 119.96,
+      "end": 122.84,
+      "text": "It's something like 30% higher than it was.",
+      "avg_logprob": -0.27155826574769515,
+      "no_speech_prob": 0.011845479719340801
+    },
+    {
+      "id": 45,
+      "start": 124.2,
+      "end": 128.2,
+      "text": "It's nearly doubled what it was only about 30 or 40 years ago.",
+      "avg_logprob": -0.27155826574769515,
+      "no_speech_prob": 0.011845479719340801
+    },
+    {
+      "id": 46,
+      "start": 128.2,
+      "end": 129.08,
+      "text": "Really?",
+      "avg_logprob": -0.27155826574769515,
+      "no_speech_prob": 0.011845479719340801
+    },
+    {
+      "id": 47,
+      "start": 129.08,
+      "end": 133.4,
+      "text": "It's 421, which is much lower than it was thousands of years ago.",
+      "avg_logprob": -0.27155826574769515,
+      "no_speech_prob": 0.011845479719340801
+    },
+    {
+      "id": 48,
+      "start": 133.4,
+      "end": 135.68,
+      "text": "But let me ask you, what's the target, PPM?",
+      "avg_logprob": -0.27155826574769515,
+      "no_speech_prob": 0.011845479719340801
+    },
+    {
+      "id": 49,
+      "start": 137.2,
+      "end": 139.56,
+      "text": "We need to get it well below 3...",
+      "avg_logprob": -0.27155826574769515,
+      "no_speech_prob": 0.011845479719340801
+    },
+    {
+      "id": 50,
+      "start": 139.64,
+      "end": 142.6,
+      "text": "Well, 350 is the...",
+      "avg_logprob": -0.22930335656211182,
+      "no_speech_prob": 0.007153448183089495
+    },
+    {
+      "id": 51,
+      "start": 142.6,
+      "end": 144.84,
+      "text": "We need to get it well below 350.",
+      "avg_logprob": -0.22930335656211182,
+      "no_speech_prob": 0.007153448183089495
+    },
+    {
+      "id": 52,
+      "start": 144.84,
+      "end": 146.48,
+      "text": "We need to have... Plenty of studies show that",
+      "avg_logprob": -0.22930335656211182,
+      "no_speech_prob": 0.007153448183089495
+    },
+    {
+      "id": 53,
+      "start": 146.48,
+      "end": 149.2,
+      "text": "we just destroyed vegetation and plant life on Earth.",
+      "avg_logprob": -0.22930335656211182,
+      "no_speech_prob": 0.007153448183089495
+    },
+    {
+      "id": 54,
+      "start": 149.92,
+      "end": 151.84,
+      "text": "That's completely wrong, Ben.",
+      "avg_logprob": -0.22930335656211182,
+      "no_speech_prob": 0.007153448183089495
+    },
+    {
+      "id": 55,
+      "start": 151.84,
+      "end": 154.12,
+      "text": "You're just talking rubbish.",
+      "avg_logprob": -0.22930335656211182,
+      "no_speech_prob": 0.007153448183089495
+    },
+    {
+      "id": 56,
+      "start": 154.12,
+      "end": 156.28,
+      "text": "If you keep saying we're talking rubbish and nonsense,",
+      "avg_logprob": -0.22930335656211182,
+      "no_speech_prob": 0.007153448183089495
+    },
+    {
+      "id": 57,
+      "start": 156.28,
+      "end": 158.8,
+      "text": "it seems to me that you don't want to listen to any other opinion.",
+      "avg_logprob": -0.22930335656211182,
+      "no_speech_prob": 0.007153448183089495
+    },
+    {
+      "id": 58,
+      "start": 158.8,
+      "end": 160.76,
+      "text": "And actually, I've ruled off plenty of examples.",
+      "avg_logprob": -0.22930335656211182,
+      "no_speech_prob": 0.007153448183089495
+    },
+    {
+      "id": 59,
+      "start": 160.76,
+      "end": 161.92,
+      "text": "I could sit here all day.",
+      "avg_logprob": -0.22930335656211182,
+      "no_speech_prob": 0.007153448183089495
+    },
+    {
+      "id": 60,
+      "start": 161.92,
+      "end": 165.44,
+      "text": "I've ruled off plenty of examples of climate doom predictions from yesteryear",
+      "avg_logprob": -0.22930335656211182,
+      "no_speech_prob": 0.007153448183089495
+    },
+    {
+      "id": 61,
+      "start": 165.44,
+      "end": 168.24,
+      "text": "that many senior people have made, the Pentagon, the UN,",
+      "avg_logprob": -0.22930335656211182,
+      "no_speech_prob": 0.007153448183089495
+    },
+    {
+      "id": 62,
+      "start": 168.28,
+      "end": 169.72,
+      "text": "senior research scientists.",
+      "avg_logprob": -0.20594602594008812,
+      "no_speech_prob": 0.024882493540644646
+    },
+    {
+      "id": 63,
+      "start": 169.72,
+      "end": 171.8,
+      "text": "You've sat here now, ruled off more predictions",
+      "avg_logprob": -0.20594602594008812,
+      "no_speech_prob": 0.024882493540644646
+    },
+    {
+      "id": 64,
+      "start": 171.8,
+      "end": 172.84,
+      "text": "saying we're going to be wiped out.",
+      "avg_logprob": -0.20594602594008812,
+      "no_speech_prob": 0.024882493540644646
+    },
+    {
+      "id": 65,
+      "start": 172.84,
+      "end": 175.08,
+      "text": "And you can't explain why today is any different",
+      "avg_logprob": -0.20594602594008812,
+      "no_speech_prob": 0.024882493540644646
+    },
+    {
+      "id": 66,
+      "start": 175.08,
+      "end": 177.08,
+      "text": "to those predictions of yesteryear.",
+      "avg_logprob": -0.20594602594008812,
+      "no_speech_prob": 0.024882493540644646
+    }
+  ],
+  "transcript_full": "We're failing. This is the biggest problem that humanity's ever faced. But we're not even looking at it. On that point, you're saying it's the biggest, the biggest situation humanity's ever faced. Let me reel you off some predictions from yesterday year. So in the year 2000, Dr. David Weiner of East Anglia University, assignment, a climate scientist said that within a few years, winter snowfall will become a very rare and exciting event. Children just won't know what snow is. In 2004, a report from the Pentagon said Britain would be plunged into a Siberian climate by 2020. And in June 2018, your friend Gretta Stenberg fired off an urgent tweet. She said, a top climate scientist is warning that climate change will wipe out all of humanity unless we stop using fossil fuels over the next five years. She deleted that tweet last year. What do you say to that? Ben, anybody can find any opinion that they want online. But why should we listen to your predictions when they're always wrong? That's the point, Dr. Bing. Look, you don't need to be a climate scientist. You just need to be an ordinary person sticking your head out of the window, trying to get insurance for a business, trying to find a roofer to fix your roof. People, ordinary people are aware. Things are really bad. We're not doing enough about it. And we have got to just stop oil. Dr. Bing, what? I'm a doctor. I'm a doctor. I've been looking after people all my life with very serious diseases. And I can tell you, if you've got cancer, you don't want to be cold-toed. You've got cancer. If you've got to go and have a really big operation, you don't want to be told. Dr. Bing, do you know what the current... The one thing you really don't want to be or don't want to happen is not to be told at all. OK, Dr. Bing, can I ask you? Can I ask you, please, if you know what the current level of carbon dioxide, the parts per million, is for planet Earth at the moment? Oh, gosh, it's 400 and something. It's massively high. It's something like 30% higher than it was. It's nearly doubled what it was only about 30 or 40 years ago. Really? It's 421, which is much lower than it was thousands of years ago. But let me ask you, what's the target, PPM? We need to get it well below 3... Well, 350 is the... We need to get it well below 350. We need to have... Plenty of studies show that we just destroyed vegetation and plant life on Earth. That's completely wrong, Ben. You're just talking rubbish. If you keep saying we're talking rubbish and nonsense, it seems to me that you don't want to listen to any other opinion. And actually, I've ruled off plenty of examples. I could sit here all day. I've ruled off plenty of examples of climate doom predictions from yesteryear that many senior people have made, the Pentagon, the UN, senior research scientists. You've sat here now, ruled off more predictions saying we're going to be wiped out. And you can't explain why today is any different to those predictions of yesteryear.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

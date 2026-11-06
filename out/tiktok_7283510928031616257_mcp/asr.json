@@ -1,0 +1,100 @@
+{
+  "language": "en",
+  "language_probability": 0.9962714910507202,
+  "duration": 53.731,
+  "duration_after_vad": 47.12,
+  "segment_count": 11,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.32,
+      "text": "I'm at the Climate Future Week in the Museum of the Future in Dubai.",
+      "avg_logprob": -0.16795635480305243,
+      "no_speech_prob": 0.007171271834522486
+    },
+    {
+      "id": 2,
+      "start": 4.32,
+      "end": 9.12,
+      "text": "If you care about our home that we call Earth, then come have a walk with me.",
+      "avg_logprob": -0.16795635480305243,
+      "no_speech_prob": 0.007171271834522486
+    },
+    {
+      "id": 3,
+      "start": 10.56,
+      "end": 13.6,
+      "text": "Are you still wondering why Climate Future Week? Here is why.",
+      "avg_logprob": -0.16795635480305243,
+      "no_speech_prob": 0.007171271834522486
+    },
+    {
+      "id": 4,
+      "start": 13.6,
+      "end": 20.08,
+      "text": "According to the IPCC, we have seven years left to prevent irreversible climate change, 2030.",
+      "avg_logprob": -0.16795635480305243,
+      "no_speech_prob": 0.007171271834522486
+    },
+    {
+      "id": 5,
+      "start": 20.08,
+      "end": 22.56,
+      "text": "How can we contribute to the environment?",
+      "avg_logprob": -0.16795635480305243,
+      "no_speech_prob": 0.007171271834522486
+    },
+    {
+      "id": 6,
+      "start": 22.56,
+      "end": 26.64,
+      "text": "The purpose of the program is we wanted to create an opportunity for the wider public",
+      "avg_logprob": -0.16795635480305243,
+      "no_speech_prob": 0.007171271834522486
+    },
+    {
+      "id": 7,
+      "start": 26.64,
+      "end": 29.68,
+      "text": "to be involved in environmental solutions.",
+      "avg_logprob": -0.16795635480305243,
+      "no_speech_prob": 0.007171271834522486
+    },
+    {
+      "id": 8,
+      "start": 29.68,
+      "end": 34.24,
+      "text": "Here is what the CEO of the Bifuture Foundation has to say about their vision.",
+      "avg_logprob": -0.11116297795222356,
+      "no_speech_prob": 0.0052241431549191475
+    },
+    {
+      "id": 9,
+      "start": 34.24,
+      "end": 42.48,
+      "text": "This museum should and will be the HQ of the most important dialogues in the future.",
+      "avg_logprob": -0.11116297795222356,
+      "no_speech_prob": 0.0052241431549191475
+    },
+    {
+      "id": 10,
+      "start": 42.48,
+      "end": 44.72,
+      "text": "The future is in our hands.",
+      "avg_logprob": -0.11116297795222356,
+      "no_speech_prob": 0.0052241431549191475
+    },
+    {
+      "id": 11,
+      "start": 44.72,
+      "end": 48.56,
+      "text": "Share this video and be a part of the climate change movement.",
+      "avg_logprob": -0.11116297795222356,
+      "no_speech_prob": 0.0052241431549191475
+    }
+  ],
+  "transcript_full": "I'm at the Climate Future Week in the Museum of the Future in Dubai. If you care about our home that we call Earth, then come have a walk with me. Are you still wondering why Climate Future Week? Here is why. According to the IPCC, we have seven years left to prevent irreversible climate change, 2030. How can we contribute to the environment? The purpose of the program is we wanted to create an opportunity for the wider public to be involved in environmental solutions. Here is what the CEO of the Bifuture Foundation has to say about their vision. This museum should and will be the HQ of the most important dialogues in the future. The future is in our hands. Share this video and be a part of the climate change movement.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

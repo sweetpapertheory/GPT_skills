@@ -1,0 +1,116 @@
+{
+  "language": "en",
+  "language_probability": 0.9995532631874084,
+  "duration": 28.7,
+  "duration_after_vad": 28.24,
+  "segment_count": 13,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 2.26,
+      "text": "Okay, guys, if you're anything like me,",
+      "avg_logprob": -0.18126684030542126,
+      "no_speech_prob": 0.009762939065694809
+    },
+    {
+      "id": 2,
+      "start": 2.26,
+      "end": 3.98,
+      "text": "you've literally seen this hair tie",
+      "avg_logprob": -0.18126684030542126,
+      "no_speech_prob": 0.009762939065694809
+    },
+    {
+      "id": 3,
+      "start": 3.98,
+      "end": 5.34,
+      "text": "all over your For You page.",
+      "avg_logprob": -0.18126684030542126,
+      "no_speech_prob": 0.009762939065694809
+    },
+    {
+      "id": 4,
+      "start": 5.34,
+      "end": 7.14,
+      "text": "So I had to try it for myself,",
+      "avg_logprob": -0.18126684030542126,
+      "no_speech_prob": 0.009762939065694809
+    },
+    {
+      "id": 5,
+      "start": 7.14,
+      "end": 9.46,
+      "text": "and y'all, it does not disappoint.",
+      "avg_logprob": -0.18126684030542126,
+      "no_speech_prob": 0.009762939065694809
+    },
+    {
+      "id": 6,
+      "start": 9.46,
+      "end": 11.66,
+      "text": "For anyone curious, this is how it works.",
+      "avg_logprob": -0.18126684030542126,
+      "no_speech_prob": 0.009762939065694809
+    },
+    {
+      "id": 7,
+      "start": 11.66,
+      "end": 13.6,
+      "text": "You take it like this,",
+      "avg_logprob": -0.18126684030542126,
+      "no_speech_prob": 0.009762939065694809
+    },
+    {
+      "id": 8,
+      "start": 13.6,
+      "end": 17.5,
+      "text": "and then you take your hair, wrap it around.",
+      "avg_logprob": -0.18126684030542126,
+      "no_speech_prob": 0.009762939065694809
+    },
+    {
+      "id": 9,
+      "start": 18.38,
+      "end": 20.82,
+      "text": "It looks so, it has me in a chokehold.",
+      "avg_logprob": -0.18126684030542126,
+      "no_speech_prob": 0.009762939065694809
+    },
+    {
+      "id": 10,
+      "start": 20.82,
+      "end": 23.1,
+      "text": "I literally use it every day.",
+      "avg_logprob": -0.18126684030542126,
+      "no_speech_prob": 0.009762939065694809
+    },
+    {
+      "id": 11,
+      "start": 23.1,
+      "end": 25.3,
+      "text": "Listen, I'm a girl's girl, so I'm gonna let you know",
+      "avg_logprob": -0.18126684030542126,
+      "no_speech_prob": 0.009762939065694809
+    },
+    {
+      "id": 12,
+      "start": 25.3,
+      "end": 26.5,
+      "text": "now is the time to get it",
+      "avg_logprob": -0.18126684030542126,
+      "no_speech_prob": 0.009762939065694809
+    },
+    {
+      "id": 13,
+      "start": 26.5,
+      "end": 29.14,
+      "text": "because they're back in stock, but they will sell out.",
+      "avg_logprob": -0.18126684030542126,
+      "no_speech_prob": 0.009762939065694809
+    }
+  ],
+  "transcript_full": "Okay, guys, if you're anything like me, you've literally seen this hair tie all over your For You page. So I had to try it for myself, and y'all, it does not disappoint. For anyone curious, this is how it works. You take it like this, and then you take your hair, wrap it around. It looks so, it has me in a chokehold. I literally use it every day. Listen, I'm a girl's girl, so I'm gonna let you know now is the time to get it because they're back in stock, but they will sell out.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

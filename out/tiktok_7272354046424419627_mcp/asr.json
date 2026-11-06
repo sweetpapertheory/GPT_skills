@@ -1,0 +1,220 @@
+{
+  "language": "en",
+  "language_probability": 0.9973201155662537,
+  "duration": 141.849,
+  "duration_after_vad": 128.64,
+  "segment_count": 26,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.34,
+      "end": 7.38,
+      "text": "Public service announcement. Do not put your mouth on wild animals. So I came across this tweet and it says",
+      "avg_logprob": -0.30677936054193056,
+      "no_speech_prob": 0.12452317029237747
+    },
+    {
+      "id": 2,
+      "start": 7.62,
+      "end": 9.62,
+      "text": "Two nights ago. I gave a wild",
+      "avg_logprob": -0.30677936054193056,
+      "no_speech_prob": 0.12452317029237747
+    },
+    {
+      "id": 3,
+      "start": 10.62,
+      "end": 12.62,
+      "text": "baby rabbit CPR",
+      "avg_logprob": -0.30677936054193056,
+      "no_speech_prob": 0.12452317029237747
+    },
+    {
+      "id": 4,
+      "start": 13.06,
+      "end": 17.86,
+      "text": "With breasts after I took it from my pete. Who is a cat?",
+      "avg_logprob": -0.30677936054193056,
+      "no_speech_prob": 0.12452317029237747
+    },
+    {
+      "id": 5,
+      "start": 19.3,
+      "end": 25.02,
+      "text": "Today I'm being admitted to the hospital with signs of bunny fever aka tularemia",
+      "avg_logprob": -0.30677936054193056,
+      "no_speech_prob": 0.12452317029237747
+    },
+    {
+      "id": 6,
+      "start": 25.14,
+      "end": 29.78,
+      "text": "I'm on eight liters of oxygen a cocktail of very in very expensive antibiotics",
+      "avg_logprob": -0.20915401158946575,
+      "no_speech_prob": 0.15690413117408752
+    },
+    {
+      "id": 7,
+      "start": 30.58,
+      "end": 36.18,
+      "text": "Antidiuretics need light and love please what you need is somebody to smack you in the head people",
+      "avg_logprob": -0.20915401158946575,
+      "no_speech_prob": 0.15690413117408752
+    },
+    {
+      "id": 8,
+      "start": 36.18,
+      "end": 39.98,
+      "text": "I can't believe we have to say this. Why are you putting your mouth on wild animals?",
+      "avg_logprob": -0.20915401158946575,
+      "no_speech_prob": 0.15690413117408752
+    },
+    {
+      "id": 9,
+      "start": 40.62,
+      "end": 46.54,
+      "text": "Now if you don't know what tularemia is it's basically a bacteria that lives in",
+      "avg_logprob": -0.20915401158946575,
+      "no_speech_prob": 0.15690413117408752
+    },
+    {
+      "id": 10,
+      "start": 47.62,
+      "end": 52.54,
+      "text": "things like ticks and then it gets transferred on to animals such as",
+      "avg_logprob": -0.20915401158946575,
+      "no_speech_prob": 0.15690413117408752
+    },
+    {
+      "id": 11,
+      "start": 53.3,
+      "end": 59.98,
+      "text": "Rabbits which is one of the more popular ones are popular ways that people get tularemia also hairs",
+      "avg_logprob": -0.21940578505396843,
+      "no_speech_prob": 0.005503038410097361
+    },
+    {
+      "id": 12,
+      "start": 59.98,
+      "end": 66.26,
+      "text": "Which is in the same family and deers and stuff like that. The signs and symptoms will include flu like symptoms",
+      "avg_logprob": -0.21940578505396843,
+      "no_speech_prob": 0.005503038410097361
+    },
+    {
+      "id": 13,
+      "start": 67.1,
+      "end": 68.7,
+      "text": "chills fever",
+      "avg_logprob": -0.21940578505396843,
+      "no_speech_prob": 0.005503038410097361
+    },
+    {
+      "id": 14,
+      "start": 68.7,
+      "end": 71.94,
+      "text": "Lymphedema and then it also comes with a very noticeable rash",
+      "avg_logprob": -0.21940578505396843,
+      "no_speech_prob": 0.005503038410097361
+    },
+    {
+      "id": 15,
+      "start": 72.3,
+      "end": 77.26,
+      "text": "But yeah, I think it should go without saying but since it doesn't let us reiterate",
+      "avg_logprob": -0.21940578505396843,
+      "no_speech_prob": 0.005503038410097361
+    },
+    {
+      "id": 16,
+      "start": 77.5,
+      "end": 80.22,
+      "text": "Do not put your mouth on wild animals",
+      "avg_logprob": -0.21940578505396843,
+      "no_speech_prob": 0.005503038410097361
+    },
+    {
+      "id": 17,
+      "start": 80.74,
+      "end": 85.1,
+      "text": "Once again, stop putting your mouth on wild animals",
+      "avg_logprob": -0.20296660473658926,
+      "no_speech_prob": 0.0021459117997437716
+    },
+    {
+      "id": 18,
+      "start": 85.38,
+      "end": 92.3,
+      "text": "Okay, the CDC here puts out another warning telling people not to kiss and cuddle on their turtles after there was a",
+      "avg_logprob": -0.20296660473658926,
+      "no_speech_prob": 0.0021459117997437716
+    },
+    {
+      "id": 19,
+      "start": 92.54,
+      "end": 98.3,
+      "text": "Salmonella outbreak linked to small turtles. It has sickened 26 people in across 11",
+      "avg_logprob": -0.20296660473658926,
+      "no_speech_prob": 0.0021459117997437716
+    },
+    {
+      "id": 20,
+      "start": 98.46,
+      "end": 105.26,
+      "text": "Florida the Florida Department of Health has released a warning for about a leprosy outbreak in Florida",
+      "avg_logprob": -0.20296660473658926,
+      "no_speech_prob": 0.0021459117997437716
+    },
+    {
+      "id": 21,
+      "start": 106.14,
+      "end": 111.5,
+      "text": "Leprosy should be eradicated from the this side of the hemisphere. However, they are",
+      "avg_logprob": -0.14441404615839323,
+      "no_speech_prob": 0.00538030918687582
+    },
+    {
+      "id": 22,
+      "start": 112.14,
+      "end": 116.46,
+      "text": "Supposing that people are interacting with armadillos. I don't know if they are kissing them selling them",
+      "avg_logprob": -0.14441404615839323,
+      "no_speech_prob": 0.00538030918687582
+    },
+    {
+      "id": 23,
+      "start": 116.46,
+      "end": 122.22,
+      "text": "I don't know what they're doing, but now people in Florida. Um, there are several cases of leprosy in Florida",
+      "avg_logprob": -0.14441404615839323,
+      "no_speech_prob": 0.00538030918687582
+    },
+    {
+      "id": 24,
+      "start": 123.82,
+      "end": 130.14,
+      "text": "Once again stop kissing on these wild animals stop kissing on some of these pets that you guys have",
+      "avg_logprob": -0.14441404615839323,
+      "no_speech_prob": 0.00538030918687582
+    },
+    {
+      "id": 25,
+      "start": 130.54,
+      "end": 133.1,
+      "text": "we have enough problems going on with",
+      "avg_logprob": -0.14441404615839323,
+      "no_speech_prob": 0.00538030918687582
+    },
+    {
+      "id": 26,
+      "start": 133.1,
+      "end": 141.66,
+      "text": "Bacteria viruses all these other things jumping across from animals to humans. We don't need no more of it",
+      "avg_logprob": -0.1197533610348518,
+      "no_speech_prob": 0.029310105368494987
+    }
+  ],
+  "transcript_full": "Public service announcement. Do not put your mouth on wild animals. So I came across this tweet and it says Two nights ago. I gave a wild baby rabbit CPR With breasts after I took it from my pete. Who is a cat? Today I'm being admitted to the hospital with signs of bunny fever aka tularemia I'm on eight liters of oxygen a cocktail of very in very expensive antibiotics Antidiuretics need light and love please what you need is somebody to smack you in the head people I can't believe we have to say this. Why are you putting your mouth on wild animals? Now if you don't know what tularemia is it's basically a bacteria that lives in things like ticks and then it gets transferred on to animals such as Rabbits which is one of the more popular ones are popular ways that people get tularemia also hairs Which is in the same family and deers and stuff like that. The signs and symptoms will include flu like symptoms chills fever Lymphedema and then it also comes with a very noticeable rash But yeah, I think it should go without saying but since it doesn't let us reiterate Do not put your mouth on wild animals Once again, stop putting your mouth on wild animals Okay, the CDC here puts out another warning telling people not to kiss and cuddle on their turtles after there was a Salmonella outbreak linked to small turtles. It has sickened 26 people in across 11 Florida the Florida Department of Health has released a warning for about a leprosy outbreak in Florida Leprosy should be eradicated from the this side of the hemisphere. However, they are Supposing that people are interacting with armadillos. I don't know if they are kissing them selling them I don't know what they're doing, but now people in Florida. Um, there are several cases of leprosy in Florida Once again stop kissing on these wild animals stop kissing on some of these pets that you guys have we have enough problems going on with Bacteria viruses all these other things jumping across from animals to humans. We don't need no more of it",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
