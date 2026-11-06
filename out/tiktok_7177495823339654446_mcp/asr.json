@@ -1,0 +1,148 @@
+{
+  "language": "en",
+  "language_probability": 0.9992983341217041,
+  "duration": 78.453,
+  "duration_after_vad": 70.0,
+  "segment_count": 17,
+  "segments": [
+    {
+      "id": 1,
+      "start": 3.41,
+      "end": 7.41,
+      "text": "Great news, Michiganders! Our state is a climate haven.",
+      "avg_logprob": -0.1085607516816107,
+      "no_speech_prob": 0.003976426552981138
+    },
+    {
+      "id": 2,
+      "start": 7.41,
+      "end": 11.41,
+      "text": "While the rest of the country is dealing with wildfires, drought, heat and hurricanes,",
+      "avg_logprob": -0.1085607516816107,
+      "no_speech_prob": 0.003976426552981138
+    },
+    {
+      "id": 3,
+      "start": 11.41,
+      "end": 14.41,
+      "text": "our Great Lakes will moderate the harsh effects of climate change.",
+      "avg_logprob": -0.1085607516816107,
+      "no_speech_prob": 0.003976426552981138
+    },
+    {
+      "id": 4,
+      "start": 14.41,
+      "end": 20.41,
+      "text": "In fact, scientists have named Michigan the best place on the planet to live by 2100.",
+      "avg_logprob": -0.1085607516816107,
+      "no_speech_prob": 0.003976426552981138
+    },
+    {
+      "id": 5,
+      "start": 20.41,
+      "end": 22.41,
+      "text": "So what does that mean for us folks that are already here?",
+      "avg_logprob": -0.1085607516816107,
+      "no_speech_prob": 0.003976426552981138
+    },
+    {
+      "id": 6,
+      "start": 22.41,
+      "end": 25.41,
+      "text": "Well, we won't be completely immune from climate change.",
+      "avg_logprob": -0.1085607516816107,
+      "no_speech_prob": 0.003976426552981138
+    },
+    {
+      "id": 7,
+      "start": 25.41,
+      "end": 29.41,
+      "text": "Rainfalls could get heavier and winters may get harsher.",
+      "avg_logprob": -0.1085607516816107,
+      "no_speech_prob": 0.003976426552981138
+    },
+    {
+      "id": 8,
+      "start": 29.41,
+      "end": 34.41,
+      "text": "Local governments are already working on updating roads and flood mitigation.",
+      "avg_logprob": -0.08303582514433758,
+      "no_speech_prob": 0.0004956027260050178
+    },
+    {
+      "id": 9,
+      "start": 34.41,
+      "end": 38.41,
+      "text": "Michigan's climate haven will become even more attractive as climate change worsens",
+      "avg_logprob": -0.08303582514433758,
+      "no_speech_prob": 0.0004956027260050178
+    },
+    {
+      "id": 10,
+      "start": 38.41,
+      "end": 40.41,
+      "text": "and people have already started moving here.",
+      "avg_logprob": -0.08303582514433758,
+      "no_speech_prob": 0.0004956027260050178
+    },
+    {
+      "id": 11,
+      "start": 40.41,
+      "end": 43.41,
+      "text": "Can you make a prediction about the year 2100?",
+      "avg_logprob": -0.08303582514433758,
+      "no_speech_prob": 0.0004956027260050178
+    },
+    {
+      "id": 12,
+      "start": 43.41,
+      "end": 48.41,
+      "text": "Michigan is a powerhouse and the whole world is relying on our Great Lakes",
+      "avg_logprob": -0.08303582514433758,
+      "no_speech_prob": 0.0004956027260050178
+    },
+    {
+      "id": 13,
+      "start": 48.41,
+      "end": 53.41,
+      "text": "and fresh water, our populations growing. This is going to be the place to be.",
+      "avg_logprob": -0.08303582514433758,
+      "no_speech_prob": 0.0004956027260050178
+    },
+    {
+      "id": 14,
+      "start": 53.41,
+      "end": 59.41,
+      "text": "Scientists expect a population increase from tens of thousands to millions of new people in the next hundred years.",
+      "avg_logprob": -0.07195709286684013,
+      "no_speech_prob": 0.0168486125767231
+    },
+    {
+      "id": 15,
+      "start": 59.41,
+      "end": 65.41,
+      "text": "Our housing market is already under serious strain with demand outstripping supply and prices skyrocketing.",
+      "avg_logprob": -0.07195709286684013,
+      "no_speech_prob": 0.0168486125767231
+    },
+    {
+      "id": 16,
+      "start": 65.41,
+      "end": 69.41,
+      "text": "To avoid real estate bidding wars, urban sprawl and taxing our resources,",
+      "avg_logprob": -0.07195709286684013,
+      "no_speech_prob": 0.0168486125767231
+    },
+    {
+      "id": 17,
+      "start": 69.41,
+      "end": 73.41,
+      "text": "state and local governments will need to plan for the new neighbors coming to our haven.",
+      "avg_logprob": -0.07195709286684013,
+      "no_speech_prob": 0.0168486125767231
+    }
+  ],
+  "transcript_full": "Great news, Michiganders! Our state is a climate haven. While the rest of the country is dealing with wildfires, drought, heat and hurricanes, our Great Lakes will moderate the harsh effects of climate change. In fact, scientists have named Michigan the best place on the planet to live by 2100. So what does that mean for us folks that are already here? Well, we won't be completely immune from climate change. Rainfalls could get heavier and winters may get harsher. Local governments are already working on updating roads and flood mitigation. Michigan's climate haven will become even more attractive as climate change worsens and people have already started moving here. Can you make a prediction about the year 2100? Michigan is a powerhouse and the whole world is relying on our Great Lakes and fresh water, our populations growing. This is going to be the place to be. Scientists expect a population increase from tens of thousands to millions of new people in the next hundred years. Our housing market is already under serious strain with demand outstripping supply and prices skyrocketing. To avoid real estate bidding wars, urban sprawl and taxing our resources, state and local governments will need to plan for the new neighbors coming to our haven.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
