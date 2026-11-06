@@ -1,0 +1,52 @@
+{
+  "language": "en",
+  "language_probability": 0.9887527227401733,
+  "duration": 25.967,
+  "duration_after_vad": 25.92,
+  "segment_count": 5,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.28,
+      "text": "color is really personal because there are colors that one person loves and another person can't",
+      "avg_logprob": -0.09300460004917929,
+      "no_speech_prob": 0.01912716031074524
+    },
+    {
+      "id": 2,
+      "start": 5.28,
+      "end": 10.64,
+      "text": "even imagine using. There's a sort of myth about having a small dark room you should paint it a",
+      "avg_logprob": -0.09300460004917929,
+      "no_speech_prob": 0.01912716031074524
+    },
+    {
+      "id": 3,
+      "start": 10.64,
+      "end": 16.4,
+      "text": "light color in order to bring light in. I believe that's a total myth. I believe in embracing that",
+      "avg_logprob": -0.09300460004917929,
+      "no_speech_prob": 0.01912716031074524
+    },
+    {
+      "id": 4,
+      "start": 16.4,
+      "end": 21.92,
+      "text": "dark little room and making it richer in color and then you have to think about what you're",
+      "avg_logprob": -0.09300460004917929,
+      "no_speech_prob": 0.01912716031074524
+    },
+    {
+      "id": 5,
+      "start": 21.92,
+      "end": 25.92,
+      "text": "going to use in the room where you want to take your color inspiration from. I",
+      "avg_logprob": -0.09300460004917929,
+      "no_speech_prob": 0.01912716031074524
+    }
+  ],
+  "transcript_full": "color is really personal because there are colors that one person loves and another person can't even imagine using. There's a sort of myth about having a small dark room you should paint it a light color in order to bring light in. I believe that's a total myth. I believe in embracing that dark little room and making it richer in color and then you have to think about what you're going to use in the room where you want to take your color inspiration from. I",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
