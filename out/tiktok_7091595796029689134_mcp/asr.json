@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "language_probability": 0.5957264304161072,
+  "duration": 10.267,
+  "duration_after_vad": 10.19,
+  "segment_count": 1,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 10.21,
+      "text": "Let's stand secure on the floor",
+      "avg_logprob": -0.7661679089069366,
+      "no_speech_prob": 0.37869763374328613
+    }
+  ],
+  "transcript_full": "Let's stand secure on the floor",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
