@@ -1,0 +1,148 @@
+{
+  "language": "en",
+  "language_probability": 0.9708534479141235,
+  "duration": 45.433,
+  "duration_after_vad": 44.96,
+  "segment_count": 17,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.44,
+      "text": "Is anyone else getting a bit freaked out by the weather lately?",
+      "avg_logprob": -0.13049121235692224,
+      "no_speech_prob": 0.040215183049440384
+    },
+    {
+      "id": 2,
+      "start": 3.44,
+      "end": 4.8,
+      "text": "Let's talk about what's been going on.",
+      "avg_logprob": -0.13049121235692224,
+      "no_speech_prob": 0.040215183049440384
+    },
+    {
+      "id": 3,
+      "start": 4.8,
+      "end": 7.52,
+      "text": "Heatwaves in India, flooding in Brazil,",
+      "avg_logprob": -0.13049121235692224,
+      "no_speech_prob": 0.040215183049440384
+    },
+    {
+      "id": 4,
+      "start": 7.52,
+      "end": 11.6,
+      "text": "erratic monsoons in Pakistan and tornadoes in KSA.",
+      "avg_logprob": -0.13049121235692224,
+      "no_speech_prob": 0.040215183049440384
+    },
+    {
+      "id": 5,
+      "start": 11.6,
+      "end": 12.8,
+      "text": "What is going on?",
+      "avg_logprob": -0.13049121235692224,
+      "no_speech_prob": 0.040215183049440384
+    },
+    {
+      "id": 6,
+      "start": 12.8,
+      "end": 15.2,
+      "text": "These events are not isolated to currencies",
+      "avg_logprob": -0.13049121235692224,
+      "no_speech_prob": 0.040215183049440384
+    },
+    {
+      "id": 7,
+      "start": 15.2,
+      "end": 17.84,
+      "text": "but interconnected consequences of climate change.",
+      "avg_logprob": -0.13049121235692224,
+      "no_speech_prob": 0.040215183049440384
+    },
+    {
+      "id": 8,
+      "start": 17.84,
+      "end": 21.2,
+      "text": "Human activities such as burning fossil fuels and deforestation",
+      "avg_logprob": -0.13049121235692224,
+      "no_speech_prob": 0.040215183049440384
+    },
+    {
+      "id": 9,
+      "start": 21.2,
+      "end": 23.68,
+      "text": "have significantly affected Earth's climate system",
+      "avg_logprob": -0.13049121235692224,
+      "no_speech_prob": 0.040215183049440384
+    },
+    {
+      "id": 10,
+      "start": 23.68,
+      "end": 26.64,
+      "text": "leading to disruptions in weather patterns and extreme events.",
+      "avg_logprob": -0.13049121235692224,
+      "no_speech_prob": 0.040215183049440384
+    },
+    {
+      "id": 11,
+      "start": 26.64,
+      "end": 29.84,
+      "text": "These activities are major contributors to greenhouse gas emissions.",
+      "avg_logprob": -0.13049121235692224,
+      "no_speech_prob": 0.040215183049440384
+    },
+    {
+      "id": 12,
+      "start": 30.16,
+      "end": 33.44,
+      "text": "To address climate change we must reduce greenhouse gas emissions,",
+      "avg_logprob": -0.08700238741361178,
+      "no_speech_prob": 0.0020196600817143917
+    },
+    {
+      "id": 13,
+      "start": 33.44,
+      "end": 35.36,
+      "text": "transition to renewable energy,",
+      "avg_logprob": -0.08700238741361178,
+      "no_speech_prob": 0.0020196600817143917
+    },
+    {
+      "id": 14,
+      "start": 35.36,
+      "end": 38.56,
+      "text": "conserve natural habitats and adapt to the changing climate.",
+      "avg_logprob": -0.08700238741361178,
+      "no_speech_prob": 0.0020196600817143917
+    },
+    {
+      "id": 15,
+      "start": 38.56,
+      "end": 41.12,
+      "text": "Taking action now is crucial to mitigate the impacts",
+      "avg_logprob": -0.08700238741361178,
+      "no_speech_prob": 0.0020196600817143917
+    },
+    {
+      "id": 16,
+      "start": 41.12,
+      "end": 43.36,
+      "text": "and ensure a sustainable future for our planet.",
+      "avg_logprob": -0.08700238741361178,
+      "no_speech_prob": 0.0020196600817143917
+    },
+    {
+      "id": 17,
+      "start": 43.36,
+      "end": 45.28,
+      "text": "Follow for more climate news and education.",
+      "avg_logprob": -0.08700238741361178,
+      "no_speech_prob": 0.0020196600817143917
+    }
+  ],
+  "transcript_full": "Is anyone else getting a bit freaked out by the weather lately? Let's talk about what's been going on. Heatwaves in India, flooding in Brazil, erratic monsoons in Pakistan and tornadoes in KSA. What is going on? These events are not isolated to currencies but interconnected consequences of climate change. Human activities such as burning fossil fuels and deforestation have significantly affected Earth's climate system leading to disruptions in weather patterns and extreme events. These activities are major contributors to greenhouse gas emissions. To address climate change we must reduce greenhouse gas emissions, transition to renewable energy, conserve natural habitats and adapt to the changing climate. Taking action now is crucial to mitigate the impacts and ensure a sustainable future for our planet. Follow for more climate news and education.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
