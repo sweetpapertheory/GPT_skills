@@ -1,0 +1,124 @@
+{
+  "language": "en",
+  "language_probability": 0.9999123811721802,
+  "duration": 36.737,
+  "duration_after_vad": 36.72,
+  "segment_count": 14,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.28,
+      "text": "more whale poop, more phytoplankton, more CO2 being absorbed,",
+      "avg_logprob": -0.1222354948419977,
+      "no_speech_prob": 0.002824859693646431
+    },
+    {
+      "id": 2,
+      "start": 3.28,
+      "end": 5.28,
+      "text": "and a better chance at fighting climate change.",
+      "avg_logprob": -0.1222354948419977,
+      "no_speech_prob": 0.002824859693646431
+    },
+    {
+      "id": 3,
+      "start": 5.28,
+      "end": 8.6,
+      "text": "Whale poop is helping in the fight against climate change.",
+      "avg_logprob": -0.1222354948419977,
+      "no_speech_prob": 0.002824859693646431
+    },
+    {
+      "id": 4,
+      "start": 8.6,
+      "end": 10.76,
+      "text": "Hi, I'm Mackenzie Bargerith, a marine scientist,",
+      "avg_logprob": -0.1222354948419977,
+      "no_speech_prob": 0.002824859693646431
+    },
+    {
+      "id": 5,
+      "start": 10.76,
+      "end": 12.12,
+      "text": "and I'm gonna break this down for you.",
+      "avg_logprob": -0.1222354948419977,
+      "no_speech_prob": 0.002824859693646431
+    },
+    {
+      "id": 6,
+      "start": 12.12,
+      "end": 14.28,
+      "text": "Whale poop tends to be iron-rich,",
+      "avg_logprob": -0.1222354948419977,
+      "no_speech_prob": 0.002824859693646431
+    },
+    {
+      "id": 7,
+      "start": 14.28,
+      "end": 17.48,
+      "text": "and iron is a nutrient that phytoplankton love",
+      "avg_logprob": -0.1222354948419977,
+      "no_speech_prob": 0.002824859693646431
+    },
+    {
+      "id": 8,
+      "start": 17.48,
+      "end": 18.96,
+      "text": "because it helps them grow.",
+      "avg_logprob": -0.1222354948419977,
+      "no_speech_prob": 0.002824859693646431
+    },
+    {
+      "id": 9,
+      "start": 18.96,
+      "end": 21.48,
+      "text": "Phytoplankton are microscopic plant life",
+      "avg_logprob": -0.1222354948419977,
+      "no_speech_prob": 0.002824859693646431
+    },
+    {
+      "id": 10,
+      "start": 21.48,
+      "end": 23.84,
+      "text": "that live at the surface level of our oceans.",
+      "avg_logprob": -0.1222354948419977,
+      "no_speech_prob": 0.002824859693646431
+    },
+    {
+      "id": 11,
+      "start": 23.84,
+      "end": 27.56,
+      "text": "And like all plant life, phytoplankton absorb CO2.",
+      "avg_logprob": -0.1222354948419977,
+      "no_speech_prob": 0.002824859693646431
+    },
+    {
+      "id": 12,
+      "start": 27.56,
+      "end": 32.2,
+      "text": "In fact, currently it's estimated that 40% of the CO2 we produce",
+      "avg_logprob": -0.19243500468342803,
+      "no_speech_prob": 0.003476726822555065
+    },
+    {
+      "id": 13,
+      "start": 32.2,
+      "end": 34.16,
+      "text": "is absorbed by phytoplankton.",
+      "avg_logprob": -0.19243500468342803,
+      "no_speech_prob": 0.003476726822555065
+    },
+    {
+      "id": 14,
+      "start": 34.16,
+      "end": 36.72,
+      "text": "And with whale populations on the rise, that means...",
+      "avg_logprob": -0.19243500468342803,
+      "no_speech_prob": 0.003476726822555065
+    }
+  ],
+  "transcript_full": "more whale poop, more phytoplankton, more CO2 being absorbed, and a better chance at fighting climate change. Whale poop is helping in the fight against climate change. Hi, I'm Mackenzie Bargerith, a marine scientist, and I'm gonna break this down for you. Whale poop tends to be iron-rich, and iron is a nutrient that phytoplankton love because it helps them grow. Phytoplankton are microscopic plant life that live at the surface level of our oceans. And like all plant life, phytoplankton absorb CO2. In fact, currently it's estimated that 40% of the CO2 we produce is absorbed by phytoplankton. And with whale populations on the rise, that means...",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
