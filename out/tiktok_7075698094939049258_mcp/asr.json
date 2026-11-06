@@ -1,0 +1,36 @@
+{
+  "language": "en",
+  "language_probability": 0.9984840750694275,
+  "duration": 13.1,
+  "duration_after_vad": 12.88,
+  "segment_count": 3,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.14,
+      "end": 5.26,
+      "text": "Holy cow folks, a study looking at climate change published recently is predicting that",
+      "avg_logprob": -0.20247351471334696,
+      "no_speech_prob": 0.005094408523291349
+    },
+    {
+      "id": 2,
+      "start": 5.26,
+      "end": 11.1,
+      "text": "by the year 2100 in the United States, the pollen season will start about 40 days earlier",
+      "avg_logprob": -0.20247351471334696,
+      "no_speech_prob": 0.005094408523291349
+    },
+    {
+      "id": 3,
+      "start": 11.1,
+      "end": 13.02,
+      "text": "and end about 20 days later.",
+      "avg_logprob": -0.20247351471334696,
+      "no_speech_prob": 0.005094408523291349
+    }
+  ],
+  "transcript_full": "Holy cow folks, a study looking at climate change published recently is predicting that by the year 2100 in the United States, the pollen season will start about 40 days earlier and end about 20 days later.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
