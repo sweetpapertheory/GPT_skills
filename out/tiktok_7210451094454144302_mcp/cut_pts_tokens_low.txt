@@ -1,0 +1,8 @@
+pts_time=3.833330
+pts_time=6.466670
+pts_time=9.600000
+pts_time=12.500000
+pts_time=17.566700
+pts_time=19.933300
+pts_time=24.033300
+pts_time=28.233300
