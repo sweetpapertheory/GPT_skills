@@ -1,0 +1,132 @@
+{
+  "language": "en",
+  "language_probability": 0.9973320960998535,
+  "duration": 73.792,
+  "duration_after_vad": 73.64,
+  "segment_count": 15,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.5,
+      "text": "Now, the Prime Minister and his Energy Minister are going to be facing some questions and those",
+      "avg_logprob": -0.13395409629895136,
+      "no_speech_prob": 0.04686879366636276
+    },
+    {
+      "id": 2,
+      "start": 5.5,
+      "end": 12.04,
+      "text": "questions relate to the use of two private jets to fly to the Hunter last week.",
+      "avg_logprob": -0.13395409629895136,
+      "no_speech_prob": 0.04686879366636276
+    },
+    {
+      "id": 3,
+      "start": 12.04,
+      "end": 18.32,
+      "text": "It's understood they arrived on the same day at around the same time at the same airport.",
+      "avg_logprob": -0.13395409629895136,
+      "no_speech_prob": 0.04686879366636276
+    },
+    {
+      "id": 4,
+      "start": 18.32,
+      "end": 23.88,
+      "text": "It's believed Anthony Albanese was on one plane and Chris Bowen was on the other.",
+      "avg_logprob": -0.13395409629895136,
+      "no_speech_prob": 0.04686879366636276
+    },
+    {
+      "id": 5,
+      "start": 23.88,
+      "end": 29.68,
+      "text": "It's not a great look having two private jets sitting on the tarmac at a regional airport",
+      "avg_logprob": -0.13395409629895136,
+      "no_speech_prob": 0.04686879366636276
+    },
+    {
+      "id": 6,
+      "start": 29.68,
+      "end": 35.6,
+      "text": "especially when you're flying in to talk about making environmentally friendly choices.",
+      "avg_logprob": -0.18376950627749727,
+      "no_speech_prob": 0.0031096460297703743
+    },
+    {
+      "id": 7,
+      "start": 35.6,
+      "end": 39.54,
+      "text": "They were flying into the Hunter to make an announcement about boosting the production",
+      "avg_logprob": -0.18376950627749727,
+      "no_speech_prob": 0.0031096460297703743
+    },
+    {
+      "id": 8,
+      "start": 39.54,
+      "end": 41.92,
+      "text": "of solar panels in Australia.",
+      "avg_logprob": -0.18376950627749727,
+      "no_speech_prob": 0.0031096460297703743
+    },
+    {
+      "id": 9,
+      "start": 41.92,
+      "end": 46.8,
+      "text": "A post has popped up on the Muscle Brook Community page on Facebook.",
+      "avg_logprob": -0.18376950627749727,
+      "no_speech_prob": 0.0031096460297703743
+    },
+    {
+      "id": 10,
+      "start": 46.8,
+      "end": 53.52,
+      "text": "It shows a photo of two VIP Falcon jets at Schone Airport.",
+      "avg_logprob": -0.18376950627749727,
+      "no_speech_prob": 0.0031096460297703743
+    },
+    {
+      "id": 11,
+      "start": 53.52,
+      "end": 58.44,
+      "text": "It says, so these two arrived at Schone this morning with Albowen Bowen and their",
+      "avg_logprob": -0.18376950627749727,
+      "no_speech_prob": 0.0031096460297703743
+    },
+    {
+      "id": 12,
+      "start": 58.44,
+      "end": 63.92,
+      "text": "minders while Albowen was giving a speech about innovation and net zero.",
+      "avg_logprob": -0.25674003835708376,
+      "no_speech_prob": 0.18002831935882568
+    },
+    {
+      "id": 13,
+      "start": 63.92,
+      "end": 70.32,
+      "text": "These two planes sat on the tarmac, one for roughly three hours, the other for an hour",
+      "avg_logprob": -0.25674003835708376,
+      "no_speech_prob": 0.18002831935882568
+    },
+    {
+      "id": 14,
+      "start": 70.32,
+      "end": 71.32,
+      "text": "and a half.",
+      "avg_logprob": -0.25674003835708376,
+      "no_speech_prob": 0.18002831935882568
+    },
+    {
+      "id": 15,
+      "start": 71.32,
+      "end": 73.64,
+      "text": "Authorised by Matthew Sheehan, Advanced Australia Canberra.",
+      "avg_logprob": -0.25674003835708376,
+      "no_speech_prob": 0.18002831935882568
+    }
+  ],
+  "transcript_full": "Now, the Prime Minister and his Energy Minister are going to be facing some questions and those questions relate to the use of two private jets to fly to the Hunter last week. It's understood they arrived on the same day at around the same time at the same airport. It's believed Anthony Albanese was on one plane and Chris Bowen was on the other. It's not a great look having two private jets sitting on the tarmac at a regional airport especially when you're flying in to talk about making environmentally friendly choices. They were flying into the Hunter to make an announcement about boosting the production of solar panels in Australia. A post has popped up on the Muscle Brook Community page on Facebook. It shows a photo of two VIP Falcon jets at Schone Airport. It says, so these two arrived at Schone this morning with Albowen Bowen and their minders while Albowen was giving a speech about innovation and net zero. These two planes sat on the tarmac, one for roughly three hours, the other for an hour and a half. Authorised by Matthew Sheehan, Advanced Australia Canberra.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
