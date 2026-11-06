@@ -1,0 +1,60 @@
+{
+  "language": "en",
+  "language_probability": 0.46045050024986267,
+  "duration": 14.448,
+  "duration_after_vad": 15.0,
+  "segment_count": 6,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.0,
+      "text": "And I would be delighted to be in touch with you before we leave from here.",
+      "avg_logprob": -0.6959250085055828,
+      "no_speech_prob": 0.3929895758628845
+    },
+    {
+      "id": 2,
+      "start": 6.0,
+      "end": 7.0,
+      "text": "Yes.",
+      "avg_logprob": -0.6959250085055828,
+      "no_speech_prob": 0.3929895758628845
+    },
+    {
+      "id": 3,
+      "start": 7.0,
+      "end": 12.0,
+      "text": "Can we have a look here?",
+      "avg_logprob": -0.6959250085055828,
+      "no_speech_prob": 0.3929895758628845
+    },
+    {
+      "id": 4,
+      "start": 12.0,
+      "end": 13.0,
+      "text": "Yes, of course.",
+      "avg_logprob": -0.6959250085055828,
+      "no_speech_prob": 0.3929895758628845
+    },
+    {
+      "id": 5,
+      "start": 13.0,
+      "end": 14.0,
+      "text": "Absolutely.",
+      "avg_logprob": -0.6959250085055828,
+      "no_speech_prob": 0.3929895758628845
+    },
+    {
+      "id": 6,
+      "start": 14.0,
+      "end": 15.0,
+      "text": "Ah.",
+      "avg_logprob": -0.6959250085055828,
+      "no_speech_prob": 0.3929895758628845
+    }
+  ],
+  "transcript_full": "And I would be delighted to be in touch with you before we leave from here. Yes. Can we have a look here? Yes, of course. Absolutely. Ah.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
