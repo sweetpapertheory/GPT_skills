@@ -1,0 +1,20 @@
+{
+  "language": "en",
+  "language_probability": 0.9627527594566345,
+  "duration": 20.44,
+  "duration_after_vad": 2.0,
+  "segment_count": 1,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.0,
+      "text": "I'm doing this for my son!",
+      "avg_logprob": -0.33143731680783356,
+      "no_speech_prob": 0.018339378759264946
+    }
+  ],
+  "transcript_full": "I'm doing this for my son!",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}

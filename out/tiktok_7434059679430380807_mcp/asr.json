@@ -1,6 +1,6 @@
 {
-  "language": "ms",
-  "language_probability": 0.7770587801933289,
+  "language": "en",
+  "language_probability": 1,
   "duration": 23.0,
   "duration_after_vad": 18.2,
   "segment_count": 7,
@@ -9,60 +9,60 @@
       "id": 1,
       "start": 2.42,
       "end": 5.82,
-      "text": "Adakah anda telah menjelaskan air dan air yang panjang pada masa yang sama?",
-      "avg_logprob": -0.7211522973500766,
+      "text": "Have you been experiencing hot and rainy weather at the same time?",
+      "avg_logprob": -0.23039676935264938,
       "no_speech_prob": 0.03127225488424301
     },
     {
       "id": 2,
       "start": 5.82,
-      "end": 8.7,
-      "text": "Adakah anda tahu mengapa kita menjelaskan air yang panjang?",
-      "avg_logprob": -0.7211522973500766,
+      "end": 8.62,
+      "text": "Do you know why we're facing such erratic weather?",
+      "avg_logprob": -0.23039676935264938,
       "no_speech_prob": 0.03127225488424301
     },
     {
       "id": 3,
-      "start": 8.7,
-      "end": 10.9,
-      "text": "Ia adalah disebabkan perubahan klinik.",
-      "avg_logprob": -0.7211522973500766,
+      "start": 8.62,
+      "end": 10.82,
+      "text": "It is due to climate change.",
+      "avg_logprob": -0.23039676935264938,
       "no_speech_prob": 0.03127225488424301
     },
     {
       "id": 4,
-      "start": 10.9,
-      "end": 13.06,
-      "text": "Jadi bagaimana kita menghubungi ini?",
-      "avg_logprob": -0.7211522973500766,
+      "start": 10.82,
+      "end": 13.02,
+      "text": "So how do we overcome this?",
+      "avg_logprob": -0.23039676935264938,
       "no_speech_prob": 0.03127225488424301
     },
     {
       "id": 5,
-      "start": 13.06,
-      "end": 16.54,
-      "text": "Dengan menghubungi perubahan klinik dan menghubungi perubahan klinik?",
-      "avg_logprob": -0.7211522973500766,
+      "start": 13.02,
+      "end": 16.42,
+      "text": "By restoring nature and practicing sustainable habits.",
+      "avg_logprob": -0.23039676935264938,
       "no_speech_prob": 0.03127225488424301
     },
     {
       "id": 6,
-      "start": 16.54,
+      "start": 16.42,
       "end": 18.82,
-      "text": "Mari kita menghubungi perubahan klinik bersama.",
-      "avg_logprob": -0.7211522973500766,
+      "text": "Let's overcome climate change together.",
+      "avg_logprob": -0.23039676935264938,
       "no_speech_prob": 0.03127225488424301
     },
     {
       "id": 7,
       "start": 18.82,
       "end": 20.62,
-      "text": "Berlain lebih banyak dalam bio link kita.",
-      "avg_logprob": -0.7211522973500766,
+      "text": "Learn more in our LinkedIn bio.",
+      "avg_logprob": -0.23039676935264938,
       "no_speech_prob": 0.03127225488424301
     }
   ],
-  "transcript_full": "Adakah anda telah menjelaskan air dan air yang panjang pada masa yang sama? Adakah anda tahu mengapa kita menjelaskan air yang panjang? Ia adalah disebabkan perubahan klinik. Jadi bagaimana kita menghubungi ini? Dengan menghubungi perubahan klinik dan menghubungi perubahan klinik? Mari kita menghubungi perubahan klinik bersama. Berlain lebih banyak dalam bio link kita.",
+  "transcript_full": "Have you been experiencing hot and rainy weather at the same time? Do you know why we're facing such erratic weather? It is due to climate change. So how do we overcome this? By restoring nature and practicing sustainable habits. Let's overcome climate change together. Learn more in our LinkedIn bio.",
   "model": "faster-whisper-small-int8",
   "asr_backend": "faster-whisper"
 }
