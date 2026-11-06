@@ -1,0 +1,108 @@
+{
+  "language": "en",
+  "language_probability": 0.9994632601737976,
+  "duration": 50.05,
+  "duration_after_vad": 49.92,
+  "segment_count": 12,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.32,
+      "text": "Here's this week's good climate news. Scientists in Taiwan have discovered a way to",
+      "avg_logprob": -0.08049399339086641,
+      "no_speech_prob": 0.004863910377025604
+    },
+    {
+      "id": 2,
+      "start": 4.32,
+      "end": 8.16,
+      "text": "thaw out and then reproduce coral specimens that have been frozen for years, and the goal",
+      "avg_logprob": -0.08049399339086641,
+      "no_speech_prob": 0.004863910377025604
+    },
+    {
+      "id": 3,
+      "start": 8.16,
+      "end": 13.12,
+      "text": "is to use them to help repopulate coral reefs. The United States first-ever electric battery-powered",
+      "avg_logprob": -0.08049399339086641,
+      "no_speech_prob": 0.004863910377025604
+    },
+    {
+      "id": 4,
+      "start": 13.12,
+      "end": 17.84,
+      "text": "locomotives were debuted in Pittsburgh and will be used at a steel manufacturing plant. A group",
+      "avg_logprob": -0.08049399339086641,
+      "no_speech_prob": 0.004863910377025604
+    },
+    {
+      "id": 5,
+      "start": 17.84,
+      "end": 22.0,
+      "text": "of scientists looking for fossil fuel deposits under France instead found one of the world's",
+      "avg_logprob": -0.08049399339086641,
+      "no_speech_prob": 0.004863910377025604
+    },
+    {
+      "id": 6,
+      "start": 22.0,
+      "end": 26.08,
+      "text": "largest deposits of hydrogen, which will hopefully be extracted and used for green fuel in the",
+      "avg_logprob": -0.08049399339086641,
+      "no_speech_prob": 0.004863910377025604
+    },
+    {
+      "id": 7,
+      "start": 26.08,
+      "end": 30.56,
+      "text": "future. A laundry list of single-use plastics are now banned in Wales, but don't worry,",
+      "avg_logprob": -0.10106260871887207,
+      "no_speech_prob": 0.027840042486786842
+    },
+    {
+      "id": 8,
+      "start": 30.56,
+      "end": 34.96,
+      "text": "there are exemptions for those who need them for accessibility purposes. And private vehicles will",
+      "avg_logprob": -0.10106260871887207,
+      "no_speech_prob": 0.027840042486786842
+    },
+    {
+      "id": 9,
+      "start": 34.96,
+      "end": 39.76,
+      "text": "be banned from Milan's city center starting in 2024 in order to reduce air pollution.",
+      "avg_logprob": -0.10106260871887207,
+      "no_speech_prob": 0.027840042486786842
+    },
+    {
+      "id": 10,
+      "start": 39.76,
+      "end": 42.96,
+      "text": "As always, I understand none of this will be enough to fully address the climate crisis,",
+      "avg_logprob": -0.10106260871887207,
+      "no_speech_prob": 0.027840042486786842
+    },
+    {
+      "id": 11,
+      "start": 42.96,
+      "end": 46.32,
+      "text": "but it's important people understand progress is being made or else they think it's too late",
+      "avg_logprob": -0.10106260871887207,
+      "no_speech_prob": 0.027840042486786842
+    },
+    {
+      "id": 12,
+      "start": 46.32,
+      "end": 49.92,
+      "text": "and then they give up on fighting for change, and that's the last thing we need right now.",
+      "avg_logprob": -0.10106260871887207,
+      "no_speech_prob": 0.027840042486786842
+    }
+  ],
+  "transcript_full": "Here's this week's good climate news. Scientists in Taiwan have discovered a way to thaw out and then reproduce coral specimens that have been frozen for years, and the goal is to use them to help repopulate coral reefs. The United States first-ever electric battery-powered locomotives were debuted in Pittsburgh and will be used at a steel manufacturing plant. A group of scientists looking for fossil fuel deposits under France instead found one of the world's largest deposits of hydrogen, which will hopefully be extracted and used for green fuel in the future. A laundry list of single-use plastics are now banned in Wales, but don't worry, there are exemptions for those who need them for accessibility purposes. And private vehicles will be banned from Milan's city center starting in 2024 in order to reduce air pollution. As always, I understand none of this will be enough to fully address the climate crisis, but it's important people understand progress is being made or else they think it's too late and then they give up on fighting for change, and that's the last thing we need right now.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
