@@ -1,0 +1,196 @@
+{
+  "language": "en",
+  "language_probability": 0.9989288449287415,
+  "duration": 98.567,
+  "duration_after_vad": 98.2,
+  "segment_count": 23,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.12,
+      "text": "I was born in 1982. I've been alive for the clear majority of all of the carbon emissions",
+      "avg_logprob": -0.12750694372000232,
+      "no_speech_prob": 0.0027134220581501722
+    },
+    {
+      "id": 2,
+      "start": 5.12,
+      "end": 8.88,
+      "text": "that have ever been produced in the entire history of humanity. Taylor Swift, who was",
+      "avg_logprob": -0.12750694372000232,
+      "no_speech_prob": 0.0027134220581501722
+    },
+    {
+      "id": 3,
+      "start": 8.88,
+      "end": 13.28,
+      "text": "born in 1989, has been alive for almost 40% of all the carbon emissions that have ever",
+      "avg_logprob": -0.12750694372000232,
+      "no_speech_prob": 0.0027134220581501722
+    },
+    {
+      "id": 4,
+      "start": 13.28,
+      "end": 16.72,
+      "text": "been produced in the entire history of humanity. This morning, I was speaking with James",
+      "avg_logprob": -0.12750694372000232,
+      "no_speech_prob": 0.0027134220581501722
+    },
+    {
+      "id": 5,
+      "start": 16.72,
+      "end": 20.88,
+      "text": "Lovelock, the environmentalist. He's 100 years old. He's been alive for about",
+      "avg_logprob": -0.12750694372000232,
+      "no_speech_prob": 0.0027134220581501722
+    },
+    {
+      "id": 6,
+      "start": 20.88,
+      "end": 26.84,
+      "text": "90 or 95% of all of the carbon emissions that have ever been produced in the history",
+      "avg_logprob": -0.12750694372000232,
+      "no_speech_prob": 0.0027134220581501722
+    },
+    {
+      "id": 7,
+      "start": 26.84,
+      "end": 32.56,
+      "text": "of humanity. This one man's lifetime. His story includes the, you know, he arrives on",
+      "avg_logprob": -0.13899912946579748,
+      "no_speech_prob": 0.008149342611432076
+    },
+    {
+      "id": 8,
+      "start": 32.56,
+      "end": 36.8,
+      "text": "a planet that is completely stable, where only in a few pockets of the world are",
+      "avg_logprob": -0.13899912946579748,
+      "no_speech_prob": 0.008149342611432076
+    },
+    {
+      "id": 9,
+      "start": 36.8,
+      "end": 41.36,
+      "text": "we even burning fossil fuels. And he will die in a world that is literally on",
+      "avg_logprob": -0.13899912946579748,
+      "no_speech_prob": 0.008149342611432076
+    },
+    {
+      "id": 10,
+      "start": 41.36,
+      "end": 46.84,
+      "text": "the brink of catastrophe, choking on carbon and unable to get off its",
+      "avg_logprob": -0.13899912946579748,
+      "no_speech_prob": 0.008149342611432076
+    },
+    {
+      "id": 11,
+      "start": 46.84,
+      "end": 50.92,
+      "text": "addiction to carbon. That is just an astonishing amount of change in one",
+      "avg_logprob": -0.13899912946579748,
+      "no_speech_prob": 0.008149342611432076
+    },
+    {
+      "id": 12,
+      "start": 50.92,
+      "end": 55.96,
+      "text": "person's lifetime. But as you say, the gradations of change are extreme and",
+      "avg_logprob": -0.13899912946579748,
+      "no_speech_prob": 0.008149342611432076
+    },
+    {
+      "id": 13,
+      "start": 56.12,
+      "end": 59.8,
+      "text": "horrifying even when you cut them smaller. You know, a quarter of all carbon",
+      "avg_logprob": -0.14093850372779754,
+      "no_speech_prob": 0.0016871527768671513
+    },
+    {
+      "id": 14,
+      "start": 59.8,
+      "end": 64.76,
+      "text": "emissions have happened since the iPhone was released. I mean, since an",
+      "avg_logprob": -0.14093850372779754,
+      "no_speech_prob": 0.0016871527768671513
+    },
+    {
+      "id": 15,
+      "start": 64.76,
+      "end": 68.52,
+      "text": "inconvenient truth and since Hurricane Katrina. More than a quarter. These",
+      "avg_logprob": -0.14093850372779754,
+      "no_speech_prob": 0.0016871527768671513
+    },
+    {
+      "id": 16,
+      "start": 68.52,
+      "end": 73.96,
+      "text": "are, you know, we're doing so much damage every year that the climate is",
+      "avg_logprob": -0.14093850372779754,
+      "no_speech_prob": 0.0016871527768671513
+    },
+    {
+      "id": 17,
+      "start": 73.96,
+      "end": 77.88,
+      "text": "changing now practically in real time. We're seeing that with the extreme",
+      "avg_logprob": -0.14093850372779754,
+      "no_speech_prob": 0.0016871527768671513
+    },
+    {
+      "id": 18,
+      "start": 77.88,
+      "end": 82.16,
+      "text": "weather and the hurricanes. You know, as recently as a few years ago, you",
+      "avg_logprob": -0.14093850372779754,
+      "no_speech_prob": 0.0016871527768671513
+    },
+    {
+      "id": 19,
+      "start": 82.16,
+      "end": 85.64,
+      "text": "still had to talk about climate change in the future tense. The subtitle of my",
+      "avg_logprob": -0.14093850372779754,
+      "no_speech_prob": 0.0016871527768671513
+    },
+    {
+      "id": 20,
+      "start": 85.64,
+      "end": 89.0,
+      "text": "book here in England is a story of the future. It's no longer a story of the",
+      "avg_logprob": -0.12991231377236545,
+      "no_speech_prob": 0.0009402521536685526
+    },
+    {
+      "id": 21,
+      "start": 89.0,
+      "end": 92.08,
+      "text": "future. It's very much a story of the present because of how much damage",
+      "avg_logprob": -0.12991231377236545,
+      "no_speech_prob": 0.0009402521536685526
+    },
+    {
+      "id": 22,
+      "start": 92.08,
+      "end": 95.84,
+      "text": "we've done just over the last generation as people who are still",
+      "avg_logprob": -0.12991231377236545,
+      "no_speech_prob": 0.0009402521536685526
+    },
+    {
+      "id": 23,
+      "start": 95.84,
+      "end": 98.36,
+      "text": "currently in power were in power.",
+      "avg_logprob": -0.12991231377236545,
+      "no_speech_prob": 0.0009402521536685526
+    }
+  ],
+  "transcript_full": "I was born in 1982. I've been alive for the clear majority of all of the carbon emissions that have ever been produced in the entire history of humanity. Taylor Swift, who was born in 1989, has been alive for almost 40% of all the carbon emissions that have ever been produced in the entire history of humanity. This morning, I was speaking with James Lovelock, the environmentalist. He's 100 years old. He's been alive for about 90 or 95% of all of the carbon emissions that have ever been produced in the history of humanity. This one man's lifetime. His story includes the, you know, he arrives on a planet that is completely stable, where only in a few pockets of the world are we even burning fossil fuels. And he will die in a world that is literally on the brink of catastrophe, choking on carbon and unable to get off its addiction to carbon. That is just an astonishing amount of change in one person's lifetime. But as you say, the gradations of change are extreme and horrifying even when you cut them smaller. You know, a quarter of all carbon emissions have happened since the iPhone was released. I mean, since an inconvenient truth and since Hurricane Katrina. More than a quarter. These are, you know, we're doing so much damage every year that the climate is changing now practically in real time. We're seeing that with the extreme weather and the hurricanes. You know, as recently as a few years ago, you still had to talk about climate change in the future tense. The subtitle of my book here in England is a story of the future. It's no longer a story of the future. It's very much a story of the present because of how much damage we've done just over the last generation as people who are still currently in power were in power.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
