@@ -1,0 +1,260 @@
+{
+  "language": "en",
+  "language_probability": 0.4459109604358673,
+  "duration": 147.8,
+  "duration_after_vad": 145.48,
+  "segment_count": 31,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.3,
+      "end": 7.62,
+      "text": "This is the current state of the Victoria Falls as of September 6, 2024.",
+      "avg_logprob": -0.19488174908540465,
+      "no_speech_prob": 0.23236529529094696
+    },
+    {
+      "id": 2,
+      "start": 7.62,
+      "end": 12.86,
+      "text": "The Victoria Falls seats on the Zambez River the main source of water for power generation",
+      "avg_logprob": -0.19488174908540465,
+      "no_speech_prob": 0.23236529529094696
+    },
+    {
+      "id": 3,
+      "start": 12.86,
+      "end": 19.02,
+      "text": "downstream at Kariba Dam, which according to an update report by the Zambez River Authority",
+      "avg_logprob": -0.19488174908540465,
+      "no_speech_prob": 0.23236529529094696
+    },
+    {
+      "id": 4,
+      "start": 19.02,
+      "end": 25.66,
+      "text": "only had 8.09 percent of usable live storage water for power generation as of Thursday,",
+      "avg_logprob": -0.19488174908540465,
+      "no_speech_prob": 0.23236529529094696
+    },
+    {
+      "id": 5,
+      "start": 25.66,
+      "end": 28.74,
+      "text": "September 5, 2024.",
+      "avg_logprob": -0.19488174908540465,
+      "no_speech_prob": 0.23236529529094696
+    },
+    {
+      "id": 6,
+      "start": 28.74,
+      "end": 34.58,
+      "text": "With this image, Information and Media Permanent Secretary Thabo Kawana says it is unfair for",
+      "avg_logprob": -0.15217097827366421,
+      "no_speech_prob": 0.0724162608385086
+    },
+    {
+      "id": 7,
+      "start": 34.58,
+      "end": 39.86,
+      "text": "anyone to attribute the current power deficit to a lack of leadership.",
+      "avg_logprob": -0.15217097827366421,
+      "no_speech_prob": 0.0724162608385086
+    },
+    {
+      "id": 8,
+      "start": 39.86,
+      "end": 45.42,
+      "text": "It is preposterous at the stage where we are for anybody to try and suggest that the",
+      "avg_logprob": -0.15217097827366421,
+      "no_speech_prob": 0.0724162608385086
+    },
+    {
+      "id": 9,
+      "start": 45.42,
+      "end": 51.98,
+      "text": "issue of the power deficit we are facing is one that is as a result of lack of leadership.",
+      "avg_logprob": -0.15217097827366421,
+      "no_speech_prob": 0.0724162608385086
+    },
+    {
+      "id": 10,
+      "start": 51.98,
+      "end": 56.42,
+      "text": "I think we all know and have seen the effects of climate change and how serious",
+      "avg_logprob": -0.15217097827366421,
+      "no_speech_prob": 0.0724162608385086
+    },
+    {
+      "id": 11,
+      "start": 56.42,
+      "end": 57.42,
+      "text": "they are.",
+      "avg_logprob": -0.15217097827366421,
+      "no_speech_prob": 0.0724162608385086
+    },
+    {
+      "id": 12,
+      "start": 57.42,
+      "end": 61.42,
+      "text": "Yes, I visited the Victoria Falls two days ago.",
+      "avg_logprob": -0.18328780806466435,
+      "no_speech_prob": 0.1327076107263565
+    },
+    {
+      "id": 13,
+      "start": 61.42,
+      "end": 66.34,
+      "text": "So I've seen these falls over the years when it is at its low and when it is at its peak.",
+      "avg_logprob": -0.18328780806466435,
+      "no_speech_prob": 0.1327076107263565
+    },
+    {
+      "id": 14,
+      "start": 66.34,
+      "end": 71.5,
+      "text": "But what I saw the day before yesterday is actually the worst I have ever seen the",
+      "avg_logprob": -0.18328780806466435,
+      "no_speech_prob": 0.1327076107263565
+    },
+    {
+      "id": 15,
+      "start": 71.5,
+      "end": 73.22,
+      "text": "Victoria Falls all my life.",
+      "avg_logprob": -0.18328780806466435,
+      "no_speech_prob": 0.1327076107263565
+    },
+    {
+      "id": 16,
+      "start": 73.22,
+      "end": 76.7,
+      "text": "In fact, I did not find the Victoria Falls.",
+      "avg_logprob": -0.18328780806466435,
+      "no_speech_prob": 0.1327076107263565
+    },
+    {
+      "id": 17,
+      "start": 76.7,
+      "end": 81.74,
+      "text": "I found the Victoria Pompey.",
+      "avg_logprob": -0.18328780806466435,
+      "no_speech_prob": 0.1327076107263565
+    },
+    {
+      "id": 18,
+      "start": 81.74,
+      "end": 89.18,
+      "text": "It tells you that the climate change scenario that we found ourselves in is extremely real.",
+      "avg_logprob": -0.16155258951515988,
+      "no_speech_prob": 0.3705308437347412
+    },
+    {
+      "id": 19,
+      "start": 89.18,
+      "end": 95.22,
+      "text": "In unrelated development, Mr. Kawana has reassured consumers that all millimew on the",
+      "avg_logprob": -0.16155258951515988,
+      "no_speech_prob": 0.3705308437347412
+    },
+    {
+      "id": 20,
+      "start": 95.22,
+      "end": 100.22,
+      "text": "market is safe for consumption and that there is no shortage of millimew in any",
+      "avg_logprob": -0.16155258951515988,
+      "no_speech_prob": 0.3705308437347412
+    },
+    {
+      "id": 21,
+      "start": 100.22,
+      "end": 102.22,
+      "text": "part of the country.",
+      "avg_logprob": -0.16155258951515988,
+      "no_speech_prob": 0.3705308437347412
+    },
+    {
+      "id": 22,
+      "start": 102.22,
+      "end": 108.94,
+      "text": "Every bag of millimew we are seeing currently on the market has been thoroughly tested",
+      "avg_logprob": -0.16155258951515988,
+      "no_speech_prob": 0.3705308437347412
+    },
+    {
+      "id": 23,
+      "start": 108.94,
+      "end": 116.62,
+      "text": "and there are no high levels of aflatoxins therefore it is safe for human consumption.",
+      "avg_logprob": -0.1991259702528366,
+      "no_speech_prob": 0.10538848489522934
+    },
+    {
+      "id": 24,
+      "start": 116.62,
+      "end": 121.98,
+      "text": "Some traders in Livingston have told ZNBC News that the supply of millimew is stable",
+      "avg_logprob": -0.1991259702528366,
+      "no_speech_prob": 0.10538848489522934
+    },
+    {
+      "id": 25,
+      "start": 121.98,
+      "end": 125.82,
+      "text": "though other traders are experiencing low sales.",
+      "avg_logprob": -0.1991259702528366,
+      "no_speech_prob": 0.10538848489522934
+    },
+    {
+      "id": 26,
+      "start": 125.82,
+      "end": 129.26,
+      "text": "People are not buying millimew like the way they used to buy.",
+      "avg_logprob": -0.1991259702528366,
+      "no_speech_prob": 0.10538848489522934
+    },
+    {
+      "id": 27,
+      "start": 129.26,
+      "end": 131.98,
+      "text": "They are scared that it has a chemical.",
+      "avg_logprob": -0.1991259702528366,
+      "no_speech_prob": 0.10538848489522934
+    },
+    {
+      "id": 28,
+      "start": 131.98,
+      "end": 135.74,
+      "text": "Business has improved compared last time when they announced it on the contaminated",
+      "avg_logprob": -0.1991259702528366,
+      "no_speech_prob": 0.10538848489522934
+    },
+    {
+      "id": 29,
+      "start": 136.54,
+      "end": 139.02,
+      "text": "and the prices of millimew are quite stable.",
+      "avg_logprob": -0.402012903381277,
+      "no_speech_prob": 0.10537995398044586
+    },
+    {
+      "id": 30,
+      "start": 139.02,
+      "end": 143.34,
+      "text": "There is no shortage of millimew and we are quite doing fine as businessmen.",
+      "avg_logprob": -0.402012903381277,
+      "no_speech_prob": 0.10537995398044586
+    },
+    {
+      "id": 31,
+      "start": 143.34,
+      "end": 147.58,
+      "text": "Justin, Aka Kulubelua, ZNBC News, Livingston.",
+      "avg_logprob": -0.402012903381277,
+      "no_speech_prob": 0.10537995398044586
+    }
+  ],
+  "transcript_full": "This is the current state of the Victoria Falls as of September 6, 2024. The Victoria Falls seats on the Zambez River the main source of water for power generation downstream at Kariba Dam, which according to an update report by the Zambez River Authority only had 8.09 percent of usable live storage water for power generation as of Thursday, September 5, 2024. With this image, Information and Media Permanent Secretary Thabo Kawana says it is unfair for anyone to attribute the current power deficit to a lack of leadership. It is preposterous at the stage where we are for anybody to try and suggest that the issue of the power deficit we are facing is one that is as a result of lack of leadership. I think we all know and have seen the effects of climate change and how serious they are. Yes, I visited the Victoria Falls two days ago. So I've seen these falls over the years when it is at its low and when it is at its peak. But what I saw the day before yesterday is actually the worst I have ever seen the Victoria Falls all my life. In fact, I did not find the Victoria Falls. I found the Victoria Pompey. It tells you that the climate change scenario that we found ourselves in is extremely real. In unrelated development, Mr. Kawana has reassured consumers that all millimew on the market is safe for consumption and that there is no shortage of millimew in any part of the country. Every bag of millimew we are seeing currently on the market has been thoroughly tested and there are no high levels of aflatoxins therefore it is safe for human consumption. Some traders in Livingston have told ZNBC News that the supply of millimew is stable though other traders are experiencing low sales. People are not buying millimew like the way they used to buy. They are scared that it has a chemical. Business has improved compared last time when they announced it on the contaminated and the prices of millimew are quite stable. There is no shortage of millimew and we are quite doing fine as businessmen. Justin, Aka Kulubelua, ZNBC News, Livingston.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
