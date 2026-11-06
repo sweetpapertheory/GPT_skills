@@ -1,0 +1,292 @@
+{
+  "language": "en",
+  "language_probability": 0.9984766840934753,
+  "duration": 98.498,
+  "duration_after_vad": 98.44,
+  "segment_count": 35,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.36,
+      "text": "We're in a country that has a lot bigger problems than drag.",
+      "avg_logprob": -0.1286709962183969,
+      "no_speech_prob": 0.02574385330080986
+    },
+    {
+      "id": 2,
+      "start": 5.36,
+      "end": 7.8,
+      "text": "And if you ask the average American what they're",
+      "avg_logprob": -0.1286709962183969,
+      "no_speech_prob": 0.02574385330080986
+    },
+    {
+      "id": 3,
+      "start": 7.8,
+      "end": 12.08,
+      "text": "concerned about with the road this country is going down,",
+      "avg_logprob": -0.1286709962183969,
+      "no_speech_prob": 0.02574385330080986
+    },
+    {
+      "id": 4,
+      "start": 12.08,
+      "end": 15.12,
+      "text": "I don't even think drag makes the top 10, honey.",
+      "avg_logprob": -0.1286709962183969,
+      "no_speech_prob": 0.02574385330080986
+    },
+    {
+      "id": 5,
+      "start": 15.12,
+      "end": 16.52,
+      "text": "I mean, just does that.",
+      "avg_logprob": -0.1286709962183969,
+      "no_speech_prob": 0.02574385330080986
+    },
+    {
+      "id": 6,
+      "start": 16.52,
+      "end": 18.64,
+      "text": "Health care is a disaster.",
+      "avg_logprob": -0.1286709962183969,
+      "no_speech_prob": 0.02574385330080986
+    },
+    {
+      "id": 7,
+      "start": 18.64,
+      "end": 23.16,
+      "text": "People don't make enough money to have basic necessities.",
+      "avg_logprob": -0.1286709962183969,
+      "no_speech_prob": 0.02574385330080986
+    },
+    {
+      "id": 8,
+      "start": 23.16,
+      "end": 26.0,
+      "text": "Climate change is really bad, like pollution.",
+      "avg_logprob": -0.1286709962183969,
+      "no_speech_prob": 0.02574385330080986
+    },
+    {
+      "id": 9,
+      "start": 26.0,
+      "end": 28.36,
+      "text": "All of these things, there's a litany of issues",
+      "avg_logprob": -0.1286709962183969,
+      "no_speech_prob": 0.02574385330080986
+    },
+    {
+      "id": 10,
+      "start": 28.36,
+      "end": 33.48,
+      "text": "that are really actually concerns for this country.",
+      "avg_logprob": -0.1358941753844281,
+      "no_speech_prob": 0.0009124812204390764
+    },
+    {
+      "id": 11,
+      "start": 33.48,
+      "end": 38.52,
+      "text": "And it's frustrating, it's offensive, and it's dumb.",
+      "avg_logprob": -0.1358941753844281,
+      "no_speech_prob": 0.0009124812204390764
+    },
+    {
+      "id": 12,
+      "start": 38.52,
+      "end": 39.84,
+      "text": "I live in a purple state.",
+      "avg_logprob": -0.1358941753844281,
+      "no_speech_prob": 0.0009124812204390764
+    },
+    {
+      "id": 13,
+      "start": 39.84,
+      "end": 41.4,
+      "text": "I live on the east coast of the US.",
+      "avg_logprob": -0.1358941753844281,
+      "no_speech_prob": 0.0009124812204390764
+    },
+    {
+      "id": 14,
+      "start": 41.4,
+      "end": 42.28,
+      "text": "I'm in Pennsylvania.",
+      "avg_logprob": -0.1358941753844281,
+      "no_speech_prob": 0.0009124812204390764
+    },
+    {
+      "id": 15,
+      "start": 42.28,
+      "end": 44.72,
+      "text": "Sometimes it's blue, sometimes it's red.",
+      "avg_logprob": -0.1358941753844281,
+      "no_speech_prob": 0.0009124812204390764
+    },
+    {
+      "id": 16,
+      "start": 44.72,
+      "end": 46.72,
+      "text": "It's frustrating, but it's also scary",
+      "avg_logprob": -0.1358941753844281,
+      "no_speech_prob": 0.0009124812204390764
+    },
+    {
+      "id": 17,
+      "start": 46.72,
+      "end": 49.36,
+      "text": "because in this part of the country specifically,",
+      "avg_logprob": -0.1358941753844281,
+      "no_speech_prob": 0.0009124812204390764
+    },
+    {
+      "id": 18,
+      "start": 49.36,
+      "end": 51.12,
+      "text": "you can just be going to your job",
+      "avg_logprob": -0.1358941753844281,
+      "no_speech_prob": 0.0009124812204390764
+    },
+    {
+      "id": 19,
+      "start": 51.12,
+      "end": 52.64,
+      "text": "and you don't know if you're going to have",
+      "avg_logprob": -0.1358941753844281,
+      "no_speech_prob": 0.0009124812204390764
+    },
+    {
+      "id": 20,
+      "start": 52.64,
+      "end": 54.44,
+      "text": "proud boys outside of your event.",
+      "avg_logprob": -0.1358941753844281,
+      "no_speech_prob": 0.0009124812204390764
+    },
+    {
+      "id": 21,
+      "start": 54.44,
+      "end": 55.44,
+      "text": "You don't know if you're going to have",
+      "avg_logprob": -0.1358941753844281,
+      "no_speech_prob": 0.0009124812204390764
+    },
+    {
+      "id": 22,
+      "start": 55.44,
+      "end": 57.28,
+      "text": "Nazis outside of your event.",
+      "avg_logprob": -0.1358941753844281,
+      "no_speech_prob": 0.0009124812204390764
+    },
+    {
+      "id": 23,
+      "start": 57.28,
+      "end": 59.72,
+      "text": "I never thought that I would be going to work",
+      "avg_logprob": -0.1146712356652969,
+      "no_speech_prob": 0.0002854303165804595
+    },
+    {
+      "id": 24,
+      "start": 59.72,
+      "end": 63.64,
+      "text": "afraid of going to work being drag queen.",
+      "avg_logprob": -0.1146712356652969,
+      "no_speech_prob": 0.0002854303165804595
+    },
+    {
+      "id": 25,
+      "start": 63.64,
+      "end": 66.0,
+      "text": "It just doesn't, it doesn't make sense.",
+      "avg_logprob": -0.1146712356652969,
+      "no_speech_prob": 0.0002854303165804595
+    },
+    {
+      "id": 26,
+      "start": 66.0,
+      "end": 68.88,
+      "text": "And I never thought that I would experience that",
+      "avg_logprob": -0.1146712356652969,
+      "no_speech_prob": 0.0002854303165804595
+    },
+    {
+      "id": 27,
+      "start": 68.88,
+      "end": 73.0,
+      "text": "in my lifetime, let alone in my 30s, but it's terrifying.",
+      "avg_logprob": -0.1146712356652969,
+      "no_speech_prob": 0.0002854303165804595
+    },
+    {
+      "id": 28,
+      "start": 73.0,
+      "end": 77.08,
+      "text": "And I think a lot of it is just a look over here",
+      "avg_logprob": -0.1146712356652969,
+      "no_speech_prob": 0.0002854303165804595
+    },
+    {
+      "id": 29,
+      "start": 77.08,
+      "end": 80.64,
+      "text": "because we want changes like gun reform.",
+      "avg_logprob": -0.1146712356652969,
+      "no_speech_prob": 0.0002854303165804595
+    },
+    {
+      "id": 30,
+      "start": 80.64,
+      "end": 83.8,
+      "text": "We want children to go to school and live.",
+      "avg_logprob": -0.1146712356652969,
+      "no_speech_prob": 0.0002854303165804595
+    },
+    {
+      "id": 31,
+      "start": 83.8,
+      "end": 86.76,
+      "text": "And it's more so like an attack on us,",
+      "avg_logprob": -0.1146712356652969,
+      "no_speech_prob": 0.0002854303165804595
+    },
+    {
+      "id": 32,
+      "start": 86.76,
+      "end": 89.76,
+      "text": "like, well, you want our children to go to school and live.",
+      "avg_logprob": -0.13013850847880046,
+      "no_speech_prob": 0.0019668699242174625
+    },
+    {
+      "id": 33,
+      "start": 89.76,
+      "end": 92.68,
+      "text": "Well, we don't want you reading books to our kids.",
+      "avg_logprob": -0.13013850847880046,
+      "no_speech_prob": 0.0019668699242174625
+    },
+    {
+      "id": 34,
+      "start": 92.68,
+      "end": 95.24,
+      "text": "It's just a pushback and a slap in the face",
+      "avg_logprob": -0.13013850847880046,
+      "no_speech_prob": 0.0019668699242174625
+    },
+    {
+      "id": 35,
+      "start": 95.24,
+      "end": 98.44,
+      "text": "to bigger issues that they really need to worry about.",
+      "avg_logprob": -0.13013850847880046,
+      "no_speech_prob": 0.0019668699242174625
+    }
+  ],
+  "transcript_full": "We're in a country that has a lot bigger problems than drag. And if you ask the average American what they're concerned about with the road this country is going down, I don't even think drag makes the top 10, honey. I mean, just does that. Health care is a disaster. People don't make enough money to have basic necessities. Climate change is really bad, like pollution. All of these things, there's a litany of issues that are really actually concerns for this country. And it's frustrating, it's offensive, and it's dumb. I live in a purple state. I live on the east coast of the US. I'm in Pennsylvania. Sometimes it's blue, sometimes it's red. It's frustrating, but it's also scary because in this part of the country specifically, you can just be going to your job and you don't know if you're going to have proud boys outside of your event. You don't know if you're going to have Nazis outside of your event. I never thought that I would be going to work afraid of going to work being drag queen. It just doesn't, it doesn't make sense. And I never thought that I would experience that in my lifetime, let alone in my 30s, but it's terrifying. And I think a lot of it is just a look over here because we want changes like gun reform. We want children to go to school and live. And it's more so like an attack on us, like, well, you want our children to go to school and live. Well, we don't want you reading books to our kids. It's just a pushback and a slap in the face to bigger issues that they really need to worry about.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
