@@ -1,0 +1,420 @@
+{
+  "language": "en",
+  "language_probability": 0.9995424747467041,
+  "duration": 294.88,
+  "duration_after_vad": 256.08,
+  "segment_count": 51,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.49,
+      "end": 3.89,
+      "text": "Hi, you're watching this video in the year",
+      "avg_logprob": -0.3027647576834026,
+      "no_speech_prob": 0.008673922158777714
+    },
+    {
+      "id": 2,
+      "start": 4.97,
+      "end": 12.43,
+      "text": "Which means someone in Australian Parliament has just suggested that nuclear power is the answer to our country's energy problems",
+      "avg_logprob": -0.3027647576834026,
+      "no_speech_prob": 0.008673922158777714
+    },
+    {
+      "id": 3,
+      "start": 12.43,
+      "end": 18.21,
+      "text": "Any sensible government must at least consider small modular nuclear as part of the energy news",
+      "avg_logprob": -0.3027647576834026,
+      "no_speech_prob": 0.008673922158777714
+    },
+    {
+      "id": 4,
+      "start": 18.21,
+      "end": 23.05,
+      "text": "The only things that will ever replace the current dirty power stations are",
+      "avg_logprob": -0.3027647576834026,
+      "no_speech_prob": 0.008673922158777714
+    },
+    {
+      "id": 5,
+      "start": 23.69,
+      "end": 31.47,
+      "text": "Cleaner uses of fossil fuel or nuclear power. We believe that Australia will make increasing use of atomic power in the years",
+      "avg_logprob": -0.3027647576834026,
+      "no_speech_prob": 0.008673922158777714
+    },
+    {
+      "id": 6,
+      "start": 31.49,
+      "end": 37.49,
+      "text": "ahead and at the time for this nation to enter the atomic age has now arrived and",
+      "avg_logprob": -0.249070781400834,
+      "no_speech_prob": 0.0007923711091279984
+    },
+    {
+      "id": 7,
+      "start": 38.65,
+      "end": 45.93,
+      "text": "Look, it's true that compared to coal or gas modern-day nuclear is a climate-friendly energy source, but",
+      "avg_logprob": -0.249070781400834,
+      "no_speech_prob": 0.0007923711091279984
+    },
+    {
+      "id": 8,
+      "start": 46.61,
+      "end": 49.11,
+      "text": "Here's why in the year of our lord",
+      "avg_logprob": -0.249070781400834,
+      "no_speech_prob": 0.0007923711091279984
+    },
+    {
+      "id": 9,
+      "start": 50.17,
+      "end": 52.17,
+      "text": "it is still an",
+      "avg_logprob": -0.249070781400834,
+      "no_speech_prob": 0.0007923711091279984
+    },
+    {
+      "id": 10,
+      "start": 52.41,
+      "end": 60.01,
+      "text": "Incredibly impractical plan for Australia and one that more likely than not is coming directly from the conservative",
+      "avg_logprob": -0.249070781400834,
+      "no_speech_prob": 0.0007923711091279984
+    },
+    {
+      "id": 11,
+      "start": 60.41,
+      "end": 63.19,
+      "text": "delaying action on climate change handbook",
+      "avg_logprob": -0.27282640483321213,
+      "no_speech_prob": 0.0006244752439670265
+    },
+    {
+      "id": 12,
+      "start": 68.33,
+      "end": 74.41,
+      "text": "Global heating is an imminent threat to the survival of humanity and whenever Australian politicians",
+      "avg_logprob": -0.27282640483321213,
+      "no_speech_prob": 0.0006244752439670265
+    },
+    {
+      "id": 13,
+      "start": 74.89,
+      "end": 79.81,
+      "text": "Suggest nuclear power as the solution it seems to be pitched as an achievable",
+      "avg_logprob": -0.27282640483321213,
+      "no_speech_prob": 0.0006244752439670265
+    },
+    {
+      "id": 14,
+      "start": 80.49,
+      "end": 83.85,
+      "text": "Affordable project that we could get up and running in about 10 years",
+      "avg_logprob": -0.27282640483321213,
+      "no_speech_prob": 0.0006244752439670265
+    },
+    {
+      "id": 15,
+      "start": 84.25,
+      "end": 89.97,
+      "text": "Plus as those politicians will often point out it works for plenty of other countries around the world",
+      "avg_logprob": -0.27282640483321213,
+      "no_speech_prob": 0.0006244752439670265
+    },
+    {
+      "id": 16,
+      "start": 90.37,
+      "end": 92.37,
+      "text": "However, it has its downsides",
+      "avg_logprob": -0.21798314003462202,
+      "no_speech_prob": 0.004558344837278128
+    },
+    {
+      "id": 17,
+      "start": 92.37,
+      "end": 96.61,
+      "text": "I mean the fuel it uses usually uranium isn't renewable",
+      "avg_logprob": -0.21798314003462202,
+      "no_speech_prob": 0.004558344837278128
+    },
+    {
+      "id": 18,
+      "start": 96.77,
+      "end": 97.97,
+      "text": "Once you're done with it",
+      "avg_logprob": -0.21798314003462202,
+      "no_speech_prob": 0.004558344837278128
+    },
+    {
+      "id": 19,
+      "start": 97.97,
+      "end": 104.49,
+      "text": "You need to store toxic sludge that will remain radioactive for thousands if not millions of years and",
+      "avg_logprob": -0.21798314003462202,
+      "no_speech_prob": 0.004558344837278128
+    },
+    {
+      "id": 20,
+      "start": 104.85,
+      "end": 110.97,
+      "text": "Although things rarely go wrong when they do go wrong. They go really really wrong",
+      "avg_logprob": -0.21798314003462202,
+      "no_speech_prob": 0.004558344837278128
+    },
+    {
+      "id": 21,
+      "start": 112.05,
+      "end": 119.21,
+      "text": "Interestingly enough none of those are even the reason that nuclear power in Australia specifically is a",
+      "avg_logprob": -0.21798314003462202,
+      "no_speech_prob": 0.004558344837278128
+    },
+    {
+      "id": 22,
+      "start": 119.97,
+      "end": 124.61,
+      "text": "Terrible idea. It's a terrible idea because we are already",
+      "avg_logprob": -0.2484847795824672,
+      "no_speech_prob": 0.001836973475292325
+    },
+    {
+      "id": 23,
+      "start": 125.01,
+      "end": 131.21,
+      "text": "So far behind the nuclear eight ball the country is where nuclear is a viable option",
+      "avg_logprob": -0.2484847795824672,
+      "no_speech_prob": 0.001836973475292325
+    },
+    {
+      "id": 24,
+      "start": 131.21,
+      "end": 135.49,
+      "text": "Are the countries that have already been doing nuclear for decades?",
+      "avg_logprob": -0.2484847795824672,
+      "no_speech_prob": 0.001836973475292325
+    },
+    {
+      "id": 25,
+      "start": 136.13,
+      "end": 145.13,
+      "text": "Australia has outlawed nuclear for decades including various state level bans on both building reactors and mining uranium",
+      "avg_logprob": -0.2484847795824672,
+      "no_speech_prob": 0.001836973475292325
+    },
+    {
+      "id": 26,
+      "start": 145.13,
+      "end": 149.29,
+      "text": "Not only would starting now mean changing a whole bunch of laws",
+      "avg_logprob": -0.2484847795824672,
+      "no_speech_prob": 0.001836973475292325
+    },
+    {
+      "id": 27,
+      "start": 149.53,
+      "end": 154.29,
+      "text": "But actually building a nuclear infrastructure and power plants from scratch is",
+      "avg_logprob": -0.25813127756118776,
+      "no_speech_prob": 0.0005607289494946599
+    },
+    {
+      "id": 28,
+      "start": 155.05,
+      "end": 160.61,
+      "text": "Estimated to cost hundreds of billions of dollars and take two decades",
+      "avg_logprob": -0.25813127756118776,
+      "no_speech_prob": 0.0005607289494946599
+    },
+    {
+      "id": 29,
+      "start": 161.13,
+      "end": 167.97,
+      "text": "If we're lucky and that's not even accounting for the delays and blowouts that have commonly plagued",
+      "avg_logprob": -0.25813127756118776,
+      "no_speech_prob": 0.0005607289494946599
+    },
+    {
+      "id": 30,
+      "start": 168.25,
+      "end": 170.25,
+      "text": "Nuclear projects around the world",
+      "avg_logprob": -0.25813127756118776,
+      "no_speech_prob": 0.0005607289494946599
+    },
+    {
+      "id": 31,
+      "start": 170.53,
+      "end": 175.17,
+      "text": "But wait politicians say we aren't talking about these nuclear plants",
+      "avg_logprob": -0.25813127756118776,
+      "no_speech_prob": 0.0005607289494946599
+    },
+    {
+      "id": 32,
+      "start": 175.17,
+      "end": 180.19,
+      "text": "We're talking about these new more affordable small modular reactors",
+      "avg_logprob": -0.1863674360305764,
+      "no_speech_prob": 0.003535049967467785
+    },
+    {
+      "id": 33,
+      "start": 181.05,
+      "end": 187.09,
+      "text": "Which is weird that they say that because those modular reactors aren't commercially available yet",
+      "avg_logprob": -0.1863674360305764,
+      "no_speech_prob": 0.003535049967467785
+    },
+    {
+      "id": 34,
+      "start": 187.09,
+      "end": 191.57,
+      "text": "So that would also mean huge delays while we wait for them to you know",
+      "avg_logprob": -0.1863674360305764,
+      "no_speech_prob": 0.003535049967467785
+    },
+    {
+      "id": 35,
+      "start": 192.37,
+      "end": 196.93,
+      "text": "Finish being a real thing that we could actually have if that ever happens",
+      "avg_logprob": -0.1863674360305764,
+      "no_speech_prob": 0.003535049967467785
+    },
+    {
+      "id": 36,
+      "start": 196.93,
+      "end": 202.89,
+      "text": "But no matter the size of reactor. We're talking about maybe possibly building in the future",
+      "avg_logprob": -0.1863674360305764,
+      "no_speech_prob": 0.003535049967467785
+    },
+    {
+      "id": 37,
+      "start": 203.25,
+      "end": 209.93,
+      "text": "The truth is there are already way better options on the market right now",
+      "avg_logprob": -0.2316062386546816,
+      "no_speech_prob": 0.0018679635832086205
+    },
+    {
+      "id": 38,
+      "start": 210.77,
+      "end": 214.25,
+      "text": "Wind and solar are cheaper and even more",
+      "avg_logprob": -0.2316062386546816,
+      "no_speech_prob": 0.0018679635832086205
+    },
+    {
+      "id": 39,
+      "start": 215.09,
+      "end": 218.01,
+      "text": "environmentally friendly chuck on some battery storage and bam",
+      "avg_logprob": -0.2316062386546816,
+      "no_speech_prob": 0.0018679635832086205
+    },
+    {
+      "id": 40,
+      "start": 218.01,
+      "end": 223.89,
+      "text": "They're super reliable too and best of all Australia's already built a bunch of them",
+      "avg_logprob": -0.2316062386546816,
+      "no_speech_prob": 0.0018679635832086205
+    },
+    {
+      "id": 41,
+      "start": 224.61,
+      "end": 228.09,
+      "text": "most of our highly polluting coal power plants are",
+      "avg_logprob": -0.2316062386546816,
+      "no_speech_prob": 0.0018679635832086205
+    },
+    {
+      "id": 42,
+      "start": 228.33,
+      "end": 232.77,
+      "text": "Expected to reach the end of their lives within the next decade and with a bit of investment",
+      "avg_logprob": -0.1850083726708607,
+      "no_speech_prob": 0.007805254776030779
+    },
+    {
+      "id": 43,
+      "start": 233.65,
+      "end": 236.33,
+      "text": "Renewables will be able to replace them",
+      "avg_logprob": -0.1850083726708607,
+      "no_speech_prob": 0.007805254776030779
+    },
+    {
+      "id": 44,
+      "start": 236.33,
+      "end": 244.09,
+      "text": "But I guess if instead we turned our attention to nuclear stopped worrying about wind and solar then like we probably would need",
+      "avg_logprob": -0.1850083726708607,
+      "no_speech_prob": 0.007805254776030779
+    },
+    {
+      "id": 45,
+      "start": 244.09,
+      "end": 250.09,
+      "text": "To invest in coal just for a bit longer to tide us over I mean in fact if one were",
+      "avg_logprob": -0.1850083726708607,
+      "no_speech_prob": 0.007805254776030779
+    },
+    {
+      "id": 46,
+      "start": 250.89,
+      "end": 253.73,
+      "text": "Super cynical they might almost suggest that actually the main",
+      "avg_logprob": -0.1850083726708607,
+      "no_speech_prob": 0.007805254776030779
+    },
+    {
+      "id": 47,
+      "start": 254.25,
+      "end": 259.17,
+      "text": "Benefactor from that pivot to nuclear would be well the the fossil fuel industry",
+      "avg_logprob": -0.2064003145625425,
+      "no_speech_prob": 0.002558146370574832
+    },
+    {
+      "id": 48,
+      "start": 259.53,
+      "end": 267.77,
+      "text": "Which the super cynic might even go on to suggest is why the political parties that are advocating for nuclear nowadays tend to",
+      "avg_logprob": -0.2064003145625425,
+      "no_speech_prob": 0.002558146370574832
+    },
+    {
+      "id": 49,
+      "start": 268.09,
+      "end": 271.93,
+      "text": "Also be the ones with a history of delaying action on climate change",
+      "avg_logprob": -0.2064003145625425,
+      "no_speech_prob": 0.002558146370574832
+    },
+    {
+      "id": 50,
+      "start": 272.93,
+      "end": 280.93,
+      "text": "So yes, there are places in the world when nuclear power is a sensible option for a carbon-free future",
+      "avg_logprob": -0.2064003145625425,
+      "no_speech_prob": 0.002558146370574832
+    },
+    {
+      "id": 51,
+      "start": 280.93,
+      "end": 283.97,
+      "text": "But Australia just isn't one of them",
+      "avg_logprob": -0.194406428120353,
+      "no_speech_prob": 0.01700550876557827
+    }
+  ],
+  "transcript_full": "Hi, you're watching this video in the year Which means someone in Australian Parliament has just suggested that nuclear power is the answer to our country's energy problems Any sensible government must at least consider small modular nuclear as part of the energy news The only things that will ever replace the current dirty power stations are Cleaner uses of fossil fuel or nuclear power. We believe that Australia will make increasing use of atomic power in the years ahead and at the time for this nation to enter the atomic age has now arrived and Look, it's true that compared to coal or gas modern-day nuclear is a climate-friendly energy source, but Here's why in the year of our lord it is still an Incredibly impractical plan for Australia and one that more likely than not is coming directly from the conservative delaying action on climate change handbook Global heating is an imminent threat to the survival of humanity and whenever Australian politicians Suggest nuclear power as the solution it seems to be pitched as an achievable Affordable project that we could get up and running in about 10 years Plus as those politicians will often point out it works for plenty of other countries around the world However, it has its downsides I mean the fuel it uses usually uranium isn't renewable Once you're done with it You need to store toxic sludge that will remain radioactive for thousands if not millions of years and Although things rarely go wrong when they do go wrong. They go really really wrong Interestingly enough none of those are even the reason that nuclear power in Australia specifically is a Terrible idea. It's a terrible idea because we are already So far behind the nuclear eight ball the country is where nuclear is a viable option Are the countries that have already been doing nuclear for decades? Australia has outlawed nuclear for decades including various state level bans on both building reactors and mining uranium Not only would starting now mean changing a whole bunch of laws But actually building a nuclear infrastructure and power plants from scratch is Estimated to cost hundreds of billions of dollars and take two decades If we're lucky and that's not even accounting for the delays and blowouts that have commonly plagued Nuclear projects around the world But wait politicians say we aren't talking about these nuclear plants We're talking about these new more affordable small modular reactors Which is weird that they say that because those modular reactors aren't commercially available yet So that would also mean huge delays while we wait for them to you know Finish being a real thing that we could actually have if that ever happens But no matter the size of reactor. We're talking about maybe possibly building in the future The truth is there are already way better options on the market right now Wind and solar are cheaper and even more environmentally friendly chuck on some battery storage and bam They're super reliable too and best of all Australia's already built a bunch of them most of our highly polluting coal power plants are Expected to reach the end of their lives within the next decade and with a bit of investment Renewables will be able to replace them But I guess if instead we turned our attention to nuclear stopped worrying about wind and solar then like we probably would need To invest in coal just for a bit longer to tide us over I mean in fact if one were Super cynical they might almost suggest that actually the main Benefactor from that pivot to nuclear would be well the the fossil fuel industry Which the super cynic might even go on to suggest is why the political parties that are advocating for nuclear nowadays tend to Also be the ones with a history of delaying action on climate change So yes, there are places in the world when nuclear power is a sensible option for a carbon-free future But Australia just isn't one of them",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
