@@ -1,0 +1,156 @@
+{
+  "language": "en",
+  "language_probability": 0.9996339082717896,
+  "duration": 70.583,
+  "duration_after_vad": 70.6,
+  "segment_count": 18,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.78,
+      "text": "Corporations developed propaganda, convincing you to absolve yourself of individual sin for",
+      "avg_logprob": -0.12468802560236036,
+      "no_speech_prob": 0.006986379623413086
+    },
+    {
+      "id": 2,
+      "start": 5.78,
+      "end": 12.12,
+      "text": "contributions to climate change, whilst also propagandizing you into constant, mindless",
+      "avg_logprob": -0.12468802560236036,
+      "no_speech_prob": 0.006986379623413086
+    },
+    {
+      "id": 3,
+      "start": 12.12,
+      "end": 18.0,
+      "text": "consumerism via retail therapy and halls, so that ultimately you'd do nothing about",
+      "avg_logprob": -0.12468802560236036,
+      "no_speech_prob": 0.006986379623413086
+    },
+    {
+      "id": 4,
+      "start": 18.0,
+      "end": 19.0,
+      "text": "any of it.",
+      "avg_logprob": -0.12468802560236036,
+      "no_speech_prob": 0.006986379623413086
+    },
+    {
+      "id": 5,
+      "start": 19.0,
+      "end": 23.36,
+      "text": "They trained you into apathy by convincing you that there was nothing you could possibly",
+      "avg_logprob": -0.12468802560236036,
+      "no_speech_prob": 0.006986379623413086
+    },
+    {
+      "id": 6,
+      "start": 23.36,
+      "end": 26.52,
+      "text": "do about any of it, so you might as well do whatever you want.",
+      "avg_logprob": -0.12468802560236036,
+      "no_speech_prob": 0.006986379623413086
+    },
+    {
+      "id": 7,
+      "start": 26.52,
+      "end": 31.04,
+      "text": "And thus, consumers continued to buy these companies products while shouting, you can't",
+      "avg_logprob": -0.1468888103452503,
+      "no_speech_prob": 0.015568899922072887
+    },
+    {
+      "id": 8,
+      "start": 31.04,
+      "end": 35.88,
+      "text": "blame the individuals, blame corporations, and predictably, nothing happened to these",
+      "avg_logprob": -0.1468888103452503,
+      "no_speech_prob": 0.015568899922072887
+    },
+    {
+      "id": 9,
+      "start": 35.88,
+      "end": 39.84,
+      "text": "corporations because their bottom line wasn't affected.",
+      "avg_logprob": -0.1468888103452503,
+      "no_speech_prob": 0.015568899922072887
+    },
+    {
+      "id": 10,
+      "start": 39.84,
+      "end": 42.84,
+      "text": "Corporations don't do anything that doesn't make them money.",
+      "avg_logprob": -0.1468888103452503,
+      "no_speech_prob": 0.015568899922072887
+    },
+    {
+      "id": 11,
+      "start": 42.84,
+      "end": 46.12,
+      "text": "Our money is the most powerful tool that we have.",
+      "avg_logprob": -0.1468888103452503,
+      "no_speech_prob": 0.015568899922072887
+    },
+    {
+      "id": 12,
+      "start": 46.12,
+      "end": 50.36,
+      "text": "And as a collective, we can exert serious power over corporations by withholding",
+      "avg_logprob": -0.1468888103452503,
+      "no_speech_prob": 0.015568899922072887
+    },
+    {
+      "id": 13,
+      "start": 50.36,
+      "end": 52.52,
+      "text": "our hard-earned income.",
+      "avg_logprob": -0.1468888103452503,
+      "no_speech_prob": 0.015568899922072887
+    },
+    {
+      "id": 14,
+      "start": 52.52,
+      "end": 55.64,
+      "text": "Corporations do not want us to realize our collective power.",
+      "avg_logprob": -0.1468888103452503,
+      "no_speech_prob": 0.015568899922072887
+    },
+    {
+      "id": 15,
+      "start": 55.64,
+      "end": 59.52,
+      "text": "And I for one am absolutely sick of billionaires trying to convince me that I have problems",
+      "avg_logprob": -0.1228966587740514,
+      "no_speech_prob": 0.05502985045313835
+    },
+    {
+      "id": 16,
+      "start": 59.52,
+      "end": 62.24,
+      "text": "that can only be solved by their shitty products.",
+      "avg_logprob": -0.1228966587740514,
+      "no_speech_prob": 0.05502985045313835
+    },
+    {
+      "id": 17,
+      "start": 62.24,
+      "end": 67.6,
+      "text": "And you too should be sick and tired of watching your hard-earned money, leave your community,",
+      "avg_logprob": -0.1228966587740514,
+      "no_speech_prob": 0.05502985045313835
+    },
+    {
+      "id": 18,
+      "start": 67.6,
+      "end": 70.6,
+      "text": "leave the working class, and further line a billionaire's pockets.",
+      "avg_logprob": -0.1228966587740514,
+      "no_speech_prob": 0.05502985045313835
+    }
+  ],
+  "transcript_full": "Corporations developed propaganda, convincing you to absolve yourself of individual sin for contributions to climate change, whilst also propagandizing you into constant, mindless consumerism via retail therapy and halls, so that ultimately you'd do nothing about any of it. They trained you into apathy by convincing you that there was nothing you could possibly do about any of it, so you might as well do whatever you want. And thus, consumers continued to buy these companies products while shouting, you can't blame the individuals, blame corporations, and predictably, nothing happened to these corporations because their bottom line wasn't affected. Corporations don't do anything that doesn't make them money. Our money is the most powerful tool that we have. And as a collective, we can exert serious power over corporations by withholding our hard-earned income. Corporations do not want us to realize our collective power. And I for one am absolutely sick of billionaires trying to convince me that I have problems that can only be solved by their shitty products. And you too should be sick and tired of watching your hard-earned money, leave your community, leave the working class, and further line a billionaire's pockets.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
