@@ -1,0 +1,68 @@
+{
+  "language": "en",
+  "language_probability": 0.9888840913772583,
+  "duration": 42.5,
+  "duration_after_vad": 37.55,
+  "segment_count": 7,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.6,
+      "text": "So I got some honey on me and so what are they doing here?",
+      "avg_logprob": -0.1944468298343697,
+      "no_speech_prob": 0.13743624091148376
+    },
+    {
+      "id": 2,
+      "start": 3.6,
+      "end": 7.68,
+      "text": "They're just slurping it off. They're putting it actually in their temporary honey stomach",
+      "avg_logprob": -0.1944468298343697,
+      "no_speech_prob": 0.13743624091148376
+    },
+    {
+      "id": 3,
+      "start": 8.4,
+      "end": 12.16,
+      "text": "and then once it's full they'll come back down here and put it in a cell. Wow.",
+      "avg_logprob": -0.1944468298343697,
+      "no_speech_prob": 0.13743624091148376
+    },
+    {
+      "id": 4,
+      "start": 13.68,
+      "end": 24.11,
+      "text": "Yeah, yeah. Dig in anywhere you want. Don't get it in your mouth.",
+      "avg_logprob": -0.1944468298343697,
+      "no_speech_prob": 0.13743624091148376
+    },
+    {
+      "id": 5,
+      "start": 26.11,
+      "end": 30.19,
+      "text": "We're after the same thing here. Yes. How is it?",
+      "avg_logprob": -0.1944468298343697,
+      "no_speech_prob": 0.13743624091148376
+    },
+    {
+      "id": 6,
+      "start": 30.19,
+      "end": 36.19,
+      "text": "It's the best I've ever had. Sorry guys to undo your hard work.",
+      "avg_logprob": -0.2821028844730274,
+      "no_speech_prob": 0.07092373818159103
+    },
+    {
+      "id": 7,
+      "start": 36.19,
+      "end": 41.79,
+      "text": "Oh they're going to fix it by this evening and it's warm.",
+      "avg_logprob": -0.2821028844730274,
+      "no_speech_prob": 0.07092373818159103
+    }
+  ],
+  "transcript_full": "So I got some honey on me and so what are they doing here? They're just slurping it off. They're putting it actually in their temporary honey stomach and then once it's full they'll come back down here and put it in a cell. Wow. Yeah, yeah. Dig in anywhere you want. Don't get it in your mouth. We're after the same thing here. Yes. How is it? It's the best I've ever had. Sorry guys to undo your hard work. Oh they're going to fix it by this evening and it's warm.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
