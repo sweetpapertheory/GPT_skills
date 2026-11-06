@@ -1,0 +1,60 @@
+{
+  "language": "en",
+  "language_probability": 0.9990782737731934,
+  "duration": 32.332,
+  "duration_after_vad": 30.52,
+  "segment_count": 6,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.02,
+      "end": 6.22,
+      "text": "This is a piece of juniper wood and juniper doesn't grow in the Los Angeles basin anymore",
+      "avg_logprob": -0.17110508649933096,
+      "no_speech_prob": 0.01333556417375803
+    },
+    {
+      "id": 2,
+      "start": 6.22,
+      "end": 11.18,
+      "text": "It's it's too hot and there's too many fires in the area and juniper can't withstand",
+      "avg_logprob": -0.17110508649933096,
+      "no_speech_prob": 0.01333556417375803
+    },
+    {
+      "id": 3,
+      "start": 11.38,
+      "end": 16.7,
+      "text": "Fires at all it means that during the Ice Age say 40,000 years ago",
+      "avg_logprob": -0.17110508649933096,
+      "no_speech_prob": 0.01333556417375803
+    },
+    {
+      "id": 4,
+      "start": 16.7,
+      "end": 24.22,
+      "text": "The climate was was much cooler today. Yeah, so this this is a pine species that only grows up in the mountains",
+      "avg_logprob": -0.17110508649933096,
+      "no_speech_prob": 0.01333556417375803
+    },
+    {
+      "id": 5,
+      "start": 24.22,
+      "end": 25.7,
+      "text": "That's Bishop pine",
+      "avg_logprob": -0.17110508649933096,
+      "no_speech_prob": 0.01333556417375803
+    },
+    {
+      "id": 6,
+      "start": 25.7,
+      "end": 30.74,
+      "text": "So this grows in much cooler areas foggier areas than Los Angeles today",
+      "avg_logprob": -0.13933272494210136,
+      "no_speech_prob": 0.00345234596170485
+    }
+  ],
+  "transcript_full": "This is a piece of juniper wood and juniper doesn't grow in the Los Angeles basin anymore It's it's too hot and there's too many fires in the area and juniper can't withstand Fires at all it means that during the Ice Age say 40,000 years ago The climate was was much cooler today. Yeah, so this this is a pine species that only grows up in the mountains That's Bishop pine So this grows in much cooler areas foggier areas than Los Angeles today",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
