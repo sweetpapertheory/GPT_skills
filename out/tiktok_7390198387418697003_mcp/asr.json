@@ -1,0 +1,324 @@
+{
+  "language": "cy",
+  "language_probability": 0.5775462985038757,
+  "duration": 217.433,
+  "duration_after_vad": 211.18,
+  "segment_count": 39,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.4,
+      "text": "Fydden nhw'n ddweud hynny sy'n hynny, rydw i'n sut i yw siwf ac o'r hyfforddiaint tleiddiad ddweud Hi",
+      "avg_logprob": -2.101273905436198,
+      "no_speech_prob": 0.013153809122741222
+    },
+    {
+      "id": 2,
+      "start": 1.4,
+      "end": 4.72,
+      "text": "hwnnw, rydw i'n ddweud hynny?",
+      "avg_logprob": -2.101273905436198,
+      "no_speech_prob": 0.013153809122741222
+    },
+    {
+      "id": 3,
+      "start": 4.72,
+      "end": 8.4,
+      "text": "Yma, yn yn gystHEoddiad, a ydych chi ddweud hynny, felly rydw i dylau yma yn gallu'r chiaddiad",
+      "avg_logprob": -2.101273905436198,
+      "no_speech_prob": 0.013153809122741222
+    },
+    {
+      "id": 4,
+      "start": 8.4,
+      "end": 11.52,
+      "text": "clwythiaeth rwy'n ddweud hynny yw ddweud hwnnw o'n trio yn y ffordd y taer.",
+      "avg_logprob": -2.101273905436198,
+      "no_speech_prob": 0.013153809122741222
+    },
+    {
+      "id": 5,
+      "start": 11.52,
+      "end": 13.12,
+      "text": "A dweud hynny, mae'r hyfforddiad hwnnw i ddweud hynny.",
+      "avg_logprob": -2.101273905436198,
+      "no_speech_prob": 0.013153809122741222
+    },
+    {
+      "id": 6,
+      "start": 13.12,
+      "end": 18.74,
+      "text": "ond byw'r cyflwyno, ond wedi bod yn gweithio ac mae'r cyflwno ddwylaid yn ôl er fydd o gyflwyno'i",
+      "avg_logprob": -2.133423057822294,
+      "no_speech_prob": 0.05710912495851517
+    },
+    {
+      "id": 7,
+      "start": 18.74,
+      "end": 22.96,
+      "text": "salado gallu a'r cyflwyno yn ôl. Fyd yn ydy, mae'r cyflwyno'n gyddoch gyda'n eisiau",
+      "avg_logprob": -2.133423057822294,
+      "no_speech_prob": 0.05710912495851517
+    },
+    {
+      "id": 8,
+      "start": 22.96,
+      "end": 27.44,
+      "text": "i bach, fel y byddai cael ei ddefnyddio, fel y byddai gallu comod ar y Morning On, ydyneth",
+      "avg_logprob": -2.133423057822294,
+      "no_speech_prob": 0.05710912495851517
+    },
+    {
+      "id": 9,
+      "start": 27.44,
+      "end": 36.24,
+      "text": "y pryd yn oedd yn oed. Mae'n gallu... mae'n gallu beth dweud ar ffordd hynny yn ymgyrch",
+      "avg_logprob": -2.133423057822294,
+      "no_speech_prob": 0.05710912495851517
+    },
+    {
+      "id": 10,
+      "start": 36.24,
+      "end": 41.18,
+      "text": "a'n amgylchedd ar y Covid ymgyrchio ar y Covid yw yw ymgyrchio. Dyna hynny'n cael",
+      "avg_logprob": -2.133423057822294,
+      "no_speech_prob": 0.05710912495851517
+    },
+    {
+      "id": 11,
+      "start": 41.18,
+      "end": 51.18,
+      "text": "As the world gets warmer, there's a kind of a several hundred year lag and then there's more carbon dioxide in the atmosphere as a consequence of that warming.",
+      "avg_logprob": -0.1769617318135241,
+      "no_speech_prob": 0.14097805321216583
+    },
+    {
+      "id": 12,
+      "start": 52.18,
+      "end": 66.18,
+      "text": "And so to tell people that carbon dioxide is causing the increase in temperature would be like seeing a horse and cart on a road from space and imagining that the cart was pushing the horse because you could see it moving.",
+      "avg_logprob": -0.1769617318135241,
+      "no_speech_prob": 0.14097805321216583
+    },
+    {
+      "id": 13,
+      "start": 67.18,
+      "end": 69.18,
+      "text": "That would be how wrong you are.",
+      "avg_logprob": -0.1769617318135241,
+      "no_speech_prob": 0.14097805321216583
+    },
+    {
+      "id": 14,
+      "start": 69.18,
+      "end": 71.18,
+      "text": "It's the horse pulling the car.",
+      "avg_logprob": -0.1316523240817772,
+      "no_speech_prob": 0.01847667060792446
+    },
+    {
+      "id": 15,
+      "start": 71.18,
+      "end": 78.18,
+      "text": "And likewise, CO2, there's more of it once the planet's warmer, but I think it's 800 years is the lag.",
+      "avg_logprob": -0.1316523240817772,
+      "no_speech_prob": 0.01847667060792446
+    },
+    {
+      "id": 16,
+      "start": 79.18,
+      "end": 93.18,
+      "text": "So that there are all sorts of reasons for being aware that this way in which people are being frightened into thinking that there's a catastrophic apocalypse coming because they've got gas central heating and they drive fossil fuel cars is a hoax.",
+      "avg_logprob": -0.1316523240817772,
+      "no_speech_prob": 0.01847667060792446
+    },
+    {
+      "id": 17,
+      "start": 93.18,
+      "end": 101.18,
+      "text": "There's a big complicated picture to do with the climate changing used to be called in the 70s.",
+      "avg_logprob": -0.1665339468324438,
+      "no_speech_prob": 0.2999926507472992
+    },
+    {
+      "id": 18,
+      "start": 101.18,
+      "end": 105.18,
+      "text": "I remember the documentary with Leonard Nimoy very well talking about, you know, we were getting into an ice age.",
+      "avg_logprob": -0.1665339468324438,
+      "no_speech_prob": 0.2999926507472992
+    },
+    {
+      "id": 19,
+      "start": 105.18,
+      "end": 109.18,
+      "text": "That was just the 70s and then it became global warming.",
+      "avg_logprob": -0.1665339468324438,
+      "no_speech_prob": 0.2999926507472992
+    },
+    {
+      "id": 20,
+      "start": 109.18,
+      "end": 112.18,
+      "text": "But then because that isn't holding up, it's become climate change.",
+      "avg_logprob": -0.1665339468324438,
+      "no_speech_prob": 0.2999926507472992
+    },
+    {
+      "id": 21,
+      "start": 112.18,
+      "end": 115.18,
+      "text": "Well, yeah, of course climate changes.",
+      "avg_logprob": -0.1665339468324438,
+      "no_speech_prob": 0.2999926507472992
+    },
+    {
+      "id": 22,
+      "start": 116.18,
+      "end": 123.18,
+      "text": "And then in any event, what's being done in response to it is not green and it's anti-human.",
+      "avg_logprob": -0.14153737461928165,
+      "no_speech_prob": 0.3180011510848999
+    },
+    {
+      "id": 23,
+      "start": 124.18,
+      "end": 132.18,
+      "text": "You know, as advocates of fossil fuels say, if we are, if we are, let's say we are going into a time of climate uncertainty and instability.",
+      "avg_logprob": -0.14153737461928165,
+      "no_speech_prob": 0.3180011510848999
+    },
+    {
+      "id": 24,
+      "start": 132.18,
+      "end": 138.18,
+      "text": "That would be the very time you wouldn't want to deal with the ability to cheaply and readily heat homes or air condition them.",
+      "avg_logprob": -0.14153737461928165,
+      "no_speech_prob": 0.3180011510848999
+    },
+    {
+      "id": 25,
+      "start": 138.18,
+      "end": 140.18,
+      "text": "That would be true.",
+      "avg_logprob": -0.14153737461928165,
+      "no_speech_prob": 0.3180011510848999
+    },
+    {
+      "id": 26,
+      "start": 140.18,
+      "end": 150.18,
+      "text": "As appropriate. I mean, if something's going to happen, this would be the, you know, you do not throw away your matches, you know, at the time when you might need to light a fire.",
+      "avg_logprob": -0.15175995727380118,
+      "no_speech_prob": 0.034820303320884705
+    },
+    {
+      "id": 27,
+      "start": 150.18,
+      "end": 157.18,
+      "text": "And also the, you know, the wind turbines that now are at the end of their life cycle and they're just being landfilled.",
+      "avg_logprob": -0.15175995727380118,
+      "no_speech_prob": 0.034820303320884705
+    },
+    {
+      "id": 28,
+      "start": 157.18,
+      "end": 163.18,
+      "text": "These vast unrecyclable plastic things are just being buried in the ground.",
+      "avg_logprob": -0.15175995727380118,
+      "no_speech_prob": 0.034820303320884705
+    },
+    {
+      "id": 29,
+      "start": 163.18,
+      "end": 167.18,
+      "text": "They are being made in any event using fossil fuels.",
+      "avg_logprob": -0.15175995727380118,
+      "no_speech_prob": 0.034820303320884705
+    },
+    {
+      "id": 30,
+      "start": 168.18,
+      "end": 170.18,
+      "text": "They can't be recycled. Electric cars.",
+      "avg_logprob": -0.17510462414871142,
+      "no_speech_prob": 0.008341499604284763
+    },
+    {
+      "id": 31,
+      "start": 170.18,
+      "end": 178.18,
+      "text": "That's just a means to get people out of their cars and back on to, I don't know, horses or, or, or Shanks's pony or whatever.",
+      "avg_logprob": -0.17510462414871142,
+      "no_speech_prob": 0.008341499604284763
+    },
+    {
+      "id": 32,
+      "start": 178.18,
+      "end": 182.18,
+      "text": "So it's not, it's not green what is being done.",
+      "avg_logprob": -0.17510462414871142,
+      "no_speech_prob": 0.008341499604284763
+    },
+    {
+      "id": 33,
+      "start": 182.18,
+      "end": 185.18,
+      "text": "The planet, we're making a mess.",
+      "avg_logprob": -0.17510462414871142,
+      "no_speech_prob": 0.008341499604284763
+    },
+    {
+      "id": 34,
+      "start": 185.18,
+      "end": 193.18,
+      "text": "You know, look what happens in the extraction of the lithiums and other rare earth metals are required for electric batteries.",
+      "avg_logprob": -0.17510462414871142,
+      "no_speech_prob": 0.008341499604284763
+    },
+    {
+      "id": 35,
+      "start": 193.18,
+      "end": 196.18,
+      "text": "Look at the child slavery that that entails.",
+      "avg_logprob": -0.11963445810895217,
+      "no_speech_prob": 0.007478753104805946
+    },
+    {
+      "id": 36,
+      "start": 196.18,
+      "end": 201.18,
+      "text": "Look at the scarification of the planet that's involved in the extraction of those things.",
+      "avg_logprob": -0.11963445810895217,
+      "no_speech_prob": 0.007478753104805946
+    },
+    {
+      "id": 37,
+      "start": 201.18,
+      "end": 206.18,
+      "text": "The destruction of ecosystems and habitats in pursuit of green energy.",
+      "avg_logprob": -0.11963445810895217,
+      "no_speech_prob": 0.007478753104805946
+    },
+    {
+      "id": 38,
+      "start": 206.18,
+      "end": 208.18,
+      "text": "Really? Seriously?",
+      "avg_logprob": -0.11963445810895217,
+      "no_speech_prob": 0.007478753104805946
+    },
+    {
+      "id": 39,
+      "start": 208.18,
+      "end": 217.18,
+      "text": "And the one, you know, the one clean green energy that is available, which is nuclear, is strictly verboten because, well, because we've been told that you can't have nuclear energy.",
+      "avg_logprob": -0.11963445810895217,
+      "no_speech_prob": 0.007478753104805946
+    }
+  ],
+  "transcript_full": "Fydden nhw'n ddweud hynny sy'n hynny, rydw i'n sut i yw siwf ac o'r hyfforddiaint tleiddiad ddweud Hi hwnnw, rydw i'n ddweud hynny? Yma, yn yn gystHEoddiad, a ydych chi ddweud hynny, felly rydw i dylau yma yn gallu'r chiaddiad clwythiaeth rwy'n ddweud hynny yw ddweud hwnnw o'n trio yn y ffordd y taer. A dweud hynny, mae'r hyfforddiad hwnnw i ddweud hynny. ond byw'r cyflwyno, ond wedi bod yn gweithio ac mae'r cyflwno ddwylaid yn ôl er fydd o gyflwyno'i salado gallu a'r cyflwyno yn ôl. Fyd yn ydy, mae'r cyflwyno'n gyddoch gyda'n eisiau i bach, fel y byddai cael ei ddefnyddio, fel y byddai gallu comod ar y Morning On, ydyneth y pryd yn oedd yn oed. Mae'n gallu... mae'n gallu beth dweud ar ffordd hynny yn ymgyrch a'n amgylchedd ar y Covid ymgyrchio ar y Covid yw yw ymgyrchio. Dyna hynny'n cael As the world gets warmer, there's a kind of a several hundred year lag and then there's more carbon dioxide in the atmosphere as a consequence of that warming. And so to tell people that carbon dioxide is causing the increase in temperature would be like seeing a horse and cart on a road from space and imagining that the cart was pushing the horse because you could see it moving. That would be how wrong you are. It's the horse pulling the car. And likewise, CO2, there's more of it once the planet's warmer, but I think it's 800 years is the lag. So that there are all sorts of reasons for being aware that this way in which people are being frightened into thinking that there's a catastrophic apocalypse coming because they've got gas central heating and they drive fossil fuel cars is a hoax. There's a big complicated picture to do with the climate changing used to be called in the 70s. I remember the documentary with Leonard Nimoy very well talking about, you know, we were getting into an ice age. That was just the 70s and then it became global warming. But then because that isn't holding up, it's become climate change. Well, yeah, of course climate changes. And then in any event, what's being done in response to it is not green and it's anti-human. You know, as advocates of fossil fuels say, if we are, if we are, let's say we are going into a time of climate uncertainty and instability. That would be the very time you wouldn't want to deal with the ability to cheaply and readily heat homes or air condition them. That would be true. As appropriate. I mean, if something's going to happen, this would be the, you know, you do not throw away your matches, you know, at the time when you might need to light a fire. And also the, you know, the wind turbines that now are at the end of their life cycle and they're just being landfilled. These vast unrecyclable plastic things are just being buried in the ground. They are being made in any event using fossil fuels. They can't be recycled. Electric cars. That's just a means to get people out of their cars and back on to, I don't know, horses or, or, or Shanks's pony or whatever. So it's not, it's not green what is being done. The planet, we're making a mess. You know, look what happens in the extraction of the lithiums and other rare earth metals are required for electric batteries. Look at the child slavery that that entails. Look at the scarification of the planet that's involved in the extraction of those things. The destruction of ecosystems and habitats in pursuit of green energy. Really? Seriously? And the one, you know, the one clean green energy that is available, which is nuclear, is strictly verboten because, well, because we've been told that you can't have nuclear energy.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
