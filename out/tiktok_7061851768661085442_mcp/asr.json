@@ -1,0 +1,44 @@
+{
+  "language": "en",
+  "language_probability": 0.9799458384513855,
+  "duration": 43.133,
+  "duration_after_vad": 42.0,
+  "segment_count": 4,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.43,
+      "end": 9.43,
+      "text": "Ah, would removing all of the water from the swimming pools in Australia, all of them, would that be a significant way to reduce the effects of the drought?",
+      "avg_logprob": -0.19939888708562736,
+      "no_speech_prob": 0.04813987389206886
+    },
+    {
+      "id": 2,
+      "start": 9.43,
+      "end": 22.43,
+      "text": "No. Roughly 25 million people in Australia, one in three has a house, so that's eight million houses. Roughly one in every ten has a swimming pool, so that's 800,000 swimming pools.",
+      "avg_logprob": -0.19939888708562736,
+      "no_speech_prob": 0.04813987389206886
+    },
+    {
+      "id": 3,
+      "start": 22.43,
+      "end": 34.43,
+      "text": "Each swimming pool is about 40 tonnes of water, so that would mean roughly a box, maybe 300 or so metres on a side of water, less than a cubic kilometre.",
+      "avg_logprob": -0.14766950966560677,
+      "no_speech_prob": 0.28993749618530273
+    },
+    {
+      "id": 4,
+      "start": 34.43,
+      "end": 42.43,
+      "text": "It is not enough that one third of a cubic kilometre is not enough to significantly affect the droughts that come on here to see us here in Australia.",
+      "avg_logprob": -0.14766950966560677,
+      "no_speech_prob": 0.28993749618530273
+    }
+  ],
+  "transcript_full": "Ah, would removing all of the water from the swimming pools in Australia, all of them, would that be a significant way to reduce the effects of the drought? No. Roughly 25 million people in Australia, one in three has a house, so that's eight million houses. Roughly one in every ten has a swimming pool, so that's 800,000 swimming pools. Each swimming pool is about 40 tonnes of water, so that would mean roughly a box, maybe 300 or so metres on a side of water, less than a cubic kilometre. It is not enough that one third of a cubic kilometre is not enough to significantly affect the droughts that come on here to see us here in Australia.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
