@@ -1,0 +1,180 @@
+{
+  "language": "en",
+  "language_probability": 0.9989816546440125,
+  "duration": 58.7,
+  "duration_after_vad": 58.48,
+  "segment_count": 21,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.11,
+      "end": 3.47,
+      "text": "Although still denying climate change is real,",
+      "avg_logprob": -0.1591383216196093,
+      "no_speech_prob": 0.03077847696840763
+    },
+    {
+      "id": 2,
+      "start": 3.47,
+      "end": 7.95,
+      "text": "Republicans, what about this looks like a hoax to you?",
+      "avg_logprob": -0.1591383216196093,
+      "no_speech_prob": 0.03077847696840763
+    },
+    {
+      "id": 3,
+      "start": 7.95,
+      "end": 11.63,
+      "text": "Water levels are dangerously low in the western part of the U.S.",
+      "avg_logprob": -0.1591383216196093,
+      "no_speech_prob": 0.03077847696840763
+    },
+    {
+      "id": 4,
+      "start": 11.63,
+      "end": 14.67,
+      "text": "Officials said one third of Pakistan is underwater.",
+      "avg_logprob": -0.1591383216196093,
+      "no_speech_prob": 0.03077847696840763
+    },
+    {
+      "id": 5,
+      "start": 14.67,
+      "end": 17.55,
+      "text": "China is experiencing the hottest summer on record.",
+      "avg_logprob": -0.1591383216196093,
+      "no_speech_prob": 0.03077847696840763
+    },
+    {
+      "id": 6,
+      "start": 17.55,
+      "end": 21.47,
+      "text": "Listen, hot world summer sucked and shit isn't getting any better.",
+      "avg_logprob": -0.1591383216196093,
+      "no_speech_prob": 0.03077847696840763
+    },
+    {
+      "id": 7,
+      "start": 21.47,
+      "end": 23.39,
+      "text": "Just ask Florida and Puerto Rico.",
+      "avg_logprob": -0.1591383216196093,
+      "no_speech_prob": 0.03077847696840763
+    },
+    {
+      "id": 8,
+      "start": 23.39,
+      "end": 26.43,
+      "text": "Now the good news is we just made a record climate investment",
+      "avg_logprob": -0.1591383216196093,
+      "no_speech_prob": 0.03077847696840763
+    },
+    {
+      "id": 9,
+      "start": 26.43,
+      "end": 27.95,
+      "text": "thanks to Biden and the Democrats.",
+      "avg_logprob": -0.1591383216196093,
+      "no_speech_prob": 0.03077847696840763
+    },
+    {
+      "id": 10,
+      "start": 27.95,
+      "end": 30.27,
+      "text": "The more immediate problem is that we're fucked.",
+      "avg_logprob": -0.08704754914946229,
+      "no_speech_prob": 0.0014065186260268092
+    },
+    {
+      "id": 11,
+      "start": 30.27,
+      "end": 31.31,
+      "text": "But that's the thing.",
+      "avg_logprob": -0.08704754914946229,
+      "no_speech_prob": 0.0014065186260268092
+    },
+    {
+      "id": 12,
+      "start": 31.31,
+      "end": 33.87,
+      "text": "It's been nonstop disaster after disaster",
+      "avg_logprob": -0.08704754914946229,
+      "no_speech_prob": 0.0014065186260268092
+    },
+    {
+      "id": 13,
+      "start": 33.87,
+      "end": 36.83,
+      "text": "at a current 1.2 degrees Celsius of warming.",
+      "avg_logprob": -0.08704754914946229,
+      "no_speech_prob": 0.0014065186260268092
+    },
+    {
+      "id": 14,
+      "start": 36.83,
+      "end": 40.27,
+      "text": "And our goal here is to keep everything under 1.5.",
+      "avg_logprob": -0.08704754914946229,
+      "no_speech_prob": 0.0014065186260268092
+    },
+    {
+      "id": 15,
+      "start": 40.27,
+      "end": 42.11,
+      "text": "But we're on pace to double that.",
+      "avg_logprob": -0.08704754914946229,
+      "no_speech_prob": 0.0014065186260268092
+    },
+    {
+      "id": 16,
+      "start": 42.11,
+      "end": 44.43,
+      "text": "And somehow in the face of all of this calamity,",
+      "avg_logprob": -0.08704754914946229,
+      "no_speech_prob": 0.0014065186260268092
+    },
+    {
+      "id": 17,
+      "start": 44.43,
+      "end": 48.19,
+      "text": "Republicans still think climate change is a hoax",
+      "avg_logprob": -0.08704754914946229,
+      "no_speech_prob": 0.0014065186260268092
+    },
+    {
+      "id": 18,
+      "start": 48.19,
+      "end": 51.31,
+      "text": "or just flat out refuse to do anything about it.",
+      "avg_logprob": -0.08704754914946229,
+      "no_speech_prob": 0.0014065186260268092
+    },
+    {
+      "id": 19,
+      "start": 51.31,
+      "end": 53.55,
+      "text": "They're saying drill, baby drill.",
+      "avg_logprob": -0.08704754914946229,
+      "no_speech_prob": 0.0014065186260268092
+    },
+    {
+      "id": 20,
+      "start": 53.55,
+      "end": 56.35,
+      "text": "Maybe so they have a hole in which to continue",
+      "avg_logprob": -0.08704754914946229,
+      "no_speech_prob": 0.0014065186260268092
+    },
+    {
+      "id": 21,
+      "start": 56.35,
+      "end": 58.59,
+      "text": "burying their heads in the sand.",
+      "avg_logprob": -0.2763019095767628,
+      "no_speech_prob": 0.740153968334198
+    }
+  ],
+  "transcript_full": "Although still denying climate change is real, Republicans, what about this looks like a hoax to you? Water levels are dangerously low in the western part of the U.S. Officials said one third of Pakistan is underwater. China is experiencing the hottest summer on record. Listen, hot world summer sucked and shit isn't getting any better. Just ask Florida and Puerto Rico. Now the good news is we just made a record climate investment thanks to Biden and the Democrats. The more immediate problem is that we're fucked. But that's the thing. It's been nonstop disaster after disaster at a current 1.2 degrees Celsius of warming. And our goal here is to keep everything under 1.5. But we're on pace to double that. And somehow in the face of all of this calamity, Republicans still think climate change is a hoax or just flat out refuse to do anything about it. They're saying drill, baby drill. Maybe so they have a hole in which to continue burying their heads in the sand.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
