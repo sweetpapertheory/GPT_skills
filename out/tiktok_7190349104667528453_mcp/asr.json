@@ -1,0 +1,196 @@
+{
+  "language": "en",
+  "language_probability": 0.980243444442749,
+  "duration": 55.467,
+  "duration_after_vad": 48.6,
+  "segment_count": 23,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.4,
+      "text": "As a child growing up in Barbados,",
+      "avg_logprob": -0.196116987124894,
+      "no_speech_prob": 0.08001382648944855
+    },
+    {
+      "id": 2,
+      "start": 2.4,
+      "end": 5.32,
+      "text": "there were two things I can count on every summer,",
+      "avg_logprob": -0.196116987124894,
+      "no_speech_prob": 0.08001382648944855
+    },
+    {
+      "id": 3,
+      "start": 5.32,
+      "end": 7.6,
+      "text": "school break and the hurricane season,",
+      "avg_logprob": -0.196116987124894,
+      "no_speech_prob": 0.08001382648944855
+    },
+    {
+      "id": 4,
+      "start": 7.6,
+      "end": 9.16,
+      "text": "called Jealousy Windows.",
+      "avg_logprob": -0.196116987124894,
+      "no_speech_prob": 0.08001382648944855
+    },
+    {
+      "id": 5,
+      "start": 9.16,
+      "end": 10.24,
+      "text": "And a quick side note,",
+      "avg_logprob": -0.196116987124894,
+      "no_speech_prob": 0.08001382648944855
+    },
+    {
+      "id": 6,
+      "start": 10.24,
+      "end": 12.26,
+      "text": "Jealousy actually comes from the French word,",
+      "avg_logprob": -0.196116987124894,
+      "no_speech_prob": 0.08001382648944855
+    },
+    {
+      "id": 7,
+      "start": 12.26,
+      "end": 13.88,
+      "text": "Jealousy, mean and jealousy.",
+      "avg_logprob": -0.196116987124894,
+      "no_speech_prob": 0.08001382648944855
+    },
+    {
+      "id": 8,
+      "start": 13.88,
+      "end": 17.56,
+      "text": "So originally, these angled horizontal stats call-overs",
+      "avg_logprob": -0.196116987124894,
+      "no_speech_prob": 0.08001382648944855
+    },
+    {
+      "id": 9,
+      "start": 17.56,
+      "end": 18.72,
+      "text": "were meant to keep jealous,",
+      "avg_logprob": -0.196116987124894,
+      "no_speech_prob": 0.08001382648944855
+    },
+    {
+      "id": 10,
+      "start": 18.72,
+      "end": 21.48,
+      "text": "peering eyes from seeing into your home.",
+      "avg_logprob": -0.196116987124894,
+      "no_speech_prob": 0.08001382648944855
+    },
+    {
+      "id": 11,
+      "start": 21.48,
+      "end": 24.48,
+      "text": "But architecturally, what they did",
+      "avg_logprob": -0.196116987124894,
+      "no_speech_prob": 0.08001382648944855
+    },
+    {
+      "id": 12,
+      "start": 24.48,
+      "end": 26.32,
+      "text": "was allow wind to filter through",
+      "avg_logprob": -0.196116987124894,
+      "no_speech_prob": 0.08001382648944855
+    },
+    {
+      "id": 13,
+      "start": 26.32,
+      "end": 28.56,
+      "text": "while still keeping rain out.",
+      "avg_logprob": -0.196116987124894,
+      "no_speech_prob": 0.08001382648944855
+    },
+    {
+      "id": 14,
+      "start": 28.56,
+      "end": 30.16,
+      "text": "The result was that the weather,",
+      "avg_logprob": -0.21921640547733862,
+      "no_speech_prob": 0.010186032392084599
+    },
+    {
+      "id": 15,
+      "start": 30.16,
+      "end": 31.92,
+      "text": "as I might say, if I was at home,",
+      "avg_logprob": -0.21921640547733862,
+      "no_speech_prob": 0.010186032392084599
+    },
+    {
+      "id": 16,
+      "start": 31.92,
+      "end": 33.2,
+      "text": "I might like know a host,",
+      "avg_logprob": -0.21921640547733862,
+      "no_speech_prob": 0.010186032392084599
+    },
+    {
+      "id": 17,
+      "start": 33.2,
+      "end": 35.12,
+      "text": "but yeah, I mash it up.",
+      "avg_logprob": -0.21921640547733862,
+      "no_speech_prob": 0.010186032392084599
+    },
+    {
+      "id": 18,
+      "start": 35.12,
+      "end": 37.16,
+      "text": "We're at a point now where we model",
+      "avg_logprob": -0.21921640547733862,
+      "no_speech_prob": 0.010186032392084599
+    },
+    {
+      "id": 19,
+      "start": 37.16,
+      "end": 40.2,
+      "text": "an intelligent digital twin of each design.",
+      "avg_logprob": -0.21921640547733862,
+      "no_speech_prob": 0.010186032392084599
+    },
+    {
+      "id": 20,
+      "start": 40.2,
+      "end": 42.48,
+      "text": "We can tweak it, we can improve it,",
+      "avg_logprob": -0.21921640547733862,
+      "no_speech_prob": 0.010186032392084599
+    },
+    {
+      "id": 21,
+      "start": 42.48,
+      "end": 44.08,
+      "text": "we can optimize the design,",
+      "avg_logprob": -0.21921640547733862,
+      "no_speech_prob": 0.010186032392084599
+    },
+    {
+      "id": 22,
+      "start": 44.08,
+      "end": 47.76,
+      "text": "and we can do that iteratively until we get it right.",
+      "avg_logprob": -0.21921640547733862,
+      "no_speech_prob": 0.010186032392084599
+    },
+    {
+      "id": 23,
+      "start": 47.76,
+      "end": 48.6,
+      "text": "Thank you.",
+      "avg_logprob": -0.21921640547733862,
+      "no_speech_prob": 0.010186032392084599
+    }
+  ],
+  "transcript_full": "As a child growing up in Barbados, there were two things I can count on every summer, school break and the hurricane season, called Jealousy Windows. And a quick side note, Jealousy actually comes from the French word, Jealousy, mean and jealousy. So originally, these angled horizontal stats call-overs were meant to keep jealous, peering eyes from seeing into your home. But architecturally, what they did was allow wind to filter through while still keeping rain out. The result was that the weather, as I might say, if I was at home, I might like know a host, but yeah, I mash it up. We're at a point now where we model an intelligent digital twin of each design. We can tweak it, we can improve it, we can optimize the design, and we can do that iteratively until we get it right. Thank you.",
+  "model": "faster-whisper-small-int8",
+  "asr_backend": "faster-whisper"
+}
